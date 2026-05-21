@@ -1,5 +1,5 @@
 import { z } from "zod";
-import type { Person, Relationship, LeadershipPosition } from "./types";
+import type { Person, Relationship, LeadershipPosition } from "./types.ts";
 
 const SourceSchema = z.object({
   url: z.string(),

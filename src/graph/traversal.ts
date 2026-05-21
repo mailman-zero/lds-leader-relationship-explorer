@@ -1,7 +1,7 @@
-import type { Graph, Hop, PathResult } from "./types";
-import { deriveLabel } from "./labeler";
+import type { Graph, Hop, PathResult } from "./types.ts";
+import { deriveLabel } from "./labeler.ts";
 
-const DEFAULT_MAX_DEPTH = 12;
+const DEFAULT_MAX_DEPTH = 30;
 
 export function findPath(
   graph: Graph,

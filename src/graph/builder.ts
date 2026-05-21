@@ -4,7 +4,7 @@ import type {
   Person,
   Relationship,
   LeadershipPosition,
-} from "./types";
+} from "./types.ts";
 
 export function buildGraph(
   people: Person[],

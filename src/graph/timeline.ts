@@ -1,4 +1,4 @@
-import type { Graph, LeadershipPosition, Snapshot, TimelineEvent } from "./types";
+import type { Graph, LeadershipPosition, Snapshot, TimelineEvent } from "./types.ts";
 
 export function getTimelineEvents(graph: Graph): TimelineEvent[] {
   const events: TimelineEvent[] = [];

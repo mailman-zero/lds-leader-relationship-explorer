@@ -2119,5 +2119,494 @@
         "notes": "Church News obituary identifies Ruth Lybbert Renlund among children of Merlin and Nola Lybbert."
       }
     ]
+  },
+  {
+    "id": "rel-john-young-1763--caroline-young-1816--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-young-1763",
+    "child_id": "caroline-young-1816",
+    "subtype": "biological",
+    "notes": "John Young (1763) fathered Caroline by his second wife Theodocia Kimball Young after the death of Nabby Howe (1815); same father as Brigham Young, different mothers.",
+    "sources": [
+      {
+        "url": "https://rsc.byu.edu/regional-studies-latter-day-saint-church-history-ohio-upper-canada/caroline-young-harris-kirtland-wife-martin-harris",
+        "accessed": "2026-05-21",
+        "notes": "BYU RSC article identifies John Young as Caroline Young Harris's father."
+      }
+    ]
+  },
+  {
+    "id": "rel-martin-harris-1783--caroline-young-1816--spouse",
+    "type": "spouse",
+    "person_a_id": "martin-harris-1783",
+    "person_b_id": "caroline-young-1816",
+    "marriage_date": "1836-11-01",
+    "sealed": false,
+    "sources": [
+      {
+        "url": "https://rsc.byu.edu/regional-studies-latter-day-saint-church-history-ohio-upper-canada/caroline-young-harris-kirtland-wife-martin-harris",
+        "accessed": "2026-05-21",
+        "notes": "BYU RSC article confirms Martin Harris married Caroline Young in Kirtland, Ohio on November 1, 1836."
+      }
+    ]
+  },
+  {
+    "id": "rel-john-taylor-1808--leonora-cannon-1796--spouse",
+    "type": "spouse",
+    "person_a_id": "john-taylor-1808",
+    "person_b_id": "leonora-cannon-1796",
+    "marriage_date": "1833-01-28",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Taylor_(Latter-day_Saints)",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms John Taylor's first wife was Leonora Cannon, married January 28, 1833."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Leonora_Cannon_Taylor",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-leonora-cannon-1796--george-cannon-1803--sibling",
+    "type": "sibling",
+    "person_a_id": "leonora-cannon-1796",
+    "person_b_id": "george-cannon-1803",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/George_Q._Cannon",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms George Q. Cannon's father was George Cannon; Leonora Cannon Taylor was George Q.'s paternal aunt (his father's sister)."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Leonora_Cannon_Taylor",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-george-cannon-1803--george-q-cannon-1827--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-cannon-1803",
+    "child_id": "george-q-cannon-1827",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/George_Q._Cannon",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms George Q. Cannon's father was George Cannon; Leonora Cannon Taylor was George Q.'s paternal aunt (his father's sister)."
+      }
+    ]
+  },
+  {
+    "id": "rel-john-johnson-sr-1779--luke-johnson-1807--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-johnson-sr-1779",
+    "child_id": "luke-johnson-1807",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Johnson_(Latter_Day_Saints)",
+        "accessed": "2026-05-21",
+        "notes": "John Johnson Sr. was father of Luke S. Johnson, Lyman E. Johnson, and Marinda Nancy Johnson."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Luke_S._Johnson",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-john-johnson-sr-1779--lyman-e-johnson-1811--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-johnson-sr-1779",
+    "child_id": "lyman-e-johnson-1811",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Johnson_(Latter_Day_Saints)",
+        "accessed": "2026-05-21",
+        "notes": "John Johnson Sr. was father of Luke S. Johnson, Lyman E. Johnson, and Marinda Nancy Johnson."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lyman_E._Johnson",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-john-johnson-sr-1779--marinda-nancy-johnson-1815--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-johnson-sr-1779",
+    "child_id": "marinda-nancy-johnson-1815",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Johnson_(Latter_Day_Saints)",
+        "accessed": "2026-05-21",
+        "notes": "John Johnson Sr. was father of Luke S. Johnson, Lyman E. Johnson, and Marinda Nancy Johnson."
+      }
+    ]
+  },
+  {
+    "id": "rel-luke-johnson-1807--lyman-e-johnson-1811--sibling",
+    "type": "sibling",
+    "person_a_id": "luke-johnson-1807",
+    "person_b_id": "lyman-e-johnson-1811",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Johnson_(Latter_Day_Saints)",
+        "accessed": "2026-05-21",
+        "notes": "John Johnson Sr. was father of Luke S. Johnson, Lyman E. Johnson, and Marinda Nancy Johnson."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Luke_S._Johnson",
+        "accessed": "2026-05-21"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lyman_E._Johnson",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-orson-hyde-1805--marinda-nancy-johnson-1815--spouse",
+    "type": "spouse",
+    "person_a_id": "orson-hyde-1805",
+    "person_b_id": "marinda-nancy-johnson-1815",
+    "marriage_date": "1834-09-04",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Orson_Hyde",
+        "accessed": "2026-05-21",
+        "notes": "Orson Hyde married Marinda Nancy Johnson, daughter of John Johnson Sr."
+      }
+    ]
+  },
+  {
+    "id": "rel-daniel-h-wells-1814--lucy-emily-wells-grant-1854--parent-child",
+    "type": "parent-child",
+    "parent_id": "daniel-h-wells-1814",
+    "child_id": "lucy-emily-wells-grant-1854",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Heber_J._Grant",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Lucy Emily Wells Grant was daughter of Daniel H. Wells."
+      }
+    ]
+  },
+  {
+    "id": "rel-heber-j-grant-1856--lucy-emily-wells-grant-1854--spouse",
+    "type": "spouse",
+    "person_a_id": "heber-j-grant-1856",
+    "person_b_id": "lucy-emily-wells-grant-1854",
+    "marriage_date": "1877-11-01",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Heber_J._Grant",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Heber J. Grant married Lucy Emily Wells on November 1, 1877."
+      }
+    ]
+  },
+  {
+    "id": "rel-george-cannon-1803--leonora-cannon-gardner-1840--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-cannon-1803",
+    "child_id": "leonora-cannon-gardner-1840",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Cannon-165",
+        "accessed": "2026-05-21",
+        "notes": "WikiTree: Leonora Cannon Gardner's parents were George Cannon and Ann Quayle, same as George Q. Cannon — confirming siblings."
+      }
+    ]
+  },
+  {
+    "id": "rel-leonora-cannon-gardner-1840--robert-gardner-1819--spouse",
+    "type": "spouse",
+    "person_a_id": "leonora-cannon-gardner-1840",
+    "person_b_id": "robert-gardner-1819",
+    "marriage_date": "1863-06-24",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Cannon-165",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-robert-gardner-1819--mary-alice-gardner-1865--parent-child",
+    "type": "parent-child",
+    "parent_id": "robert-gardner-1819",
+    "child_id": "mary-alice-gardner-1865",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.findagrave.com/memorial/41118/mary_alice-snow",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-mary-alice-gardner-1865--jeter-snow-1855--spouse",
+    "type": "spouse",
+    "person_a_id": "mary-alice-gardner-1865",
+    "person_b_id": "jeter-snow-1855",
+    "marriage_date": "1884-12-17",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://www.geni.com/people/Mary-Snow/6000000000424982395",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-jeter-snow-1855--leonora-snow-bentley-1887--parent-child",
+    "type": "parent-child",
+    "parent_id": "jeter-snow-1855",
+    "child_id": "leonora-snow-bentley-1887",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.geni.com/people/Lenora-Holland/6000000000424982442",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-leonora-snow-bentley-1887--herbert-roy-bentley-1888--spouse",
+    "type": "spouse",
+    "person_a_id": "leonora-snow-bentley-1887",
+    "person_b_id": "herbert-roy-bentley-1888",
+    "marriage_date": "1914-09-15",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://www.geni.com/people/Herbert-Bentley/6000000015488752708",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-herbert-roy-bentley-1888--alice-bentley-holland-1915--parent-child",
+    "type": "parent-child",
+    "parent_id": "herbert-roy-bentley-1888",
+    "child_id": "alice-bentley-holland-1915",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://familypedia.fandom.com/wiki/Alice_Bentley_(1915-2011)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-alice-bentley-holland-1915--jeffrey-r-holland-1940--parent-child",
+    "type": "parent-child",
+    "parent_id": "alice-bentley-holland-1915",
+    "child_id": "jeffrey-r-holland-1940",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jeffrey_R._Holland",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia identifies Jeffrey Holland's mother as Alice Masters Holland (née Bentley)."
+      }
+    ]
+  },
+  {
+    "id": "rel-ira-hinckley-1828--lucian-noble-hinckley-1862--parent-child",
+    "type": "parent-child",
+    "parent_id": "ira-hinckley-1828",
+    "child_id": "lucian-noble-hinckley-1862",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.geni.com/people/George-Edwin-Hinckley/6000000035948110485",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-lucian-noble-hinckley-1862--george-edwin-hinckley-1901--parent-child",
+    "type": "parent-child",
+    "parent_id": "lucian-noble-hinckley-1862",
+    "child_id": "george-edwin-hinckley-1901",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.geni.com/people/George-Edwin-Hinckley/6000000035948110485",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-george-edwin-hinckley-1901--colleen-hinckley-maxwell-1928--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-edwin-hinckley-1901",
+    "child_id": "colleen-hinckley-maxwell-1928",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.thechurchnews.com/2016/1/21/23213779/sister-colleen-hinckley-maxwell-dies-at-age-87",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-neal-a-maxwell-1926--colleen-hinckley-maxwell-1928--spouse",
+    "type": "spouse",
+    "person_a_id": "neal-a-maxwell-1926",
+    "person_b_id": "colleen-hinckley-maxwell-1928",
+    "marriage_date": "1950-11-22",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://www.thechurchnews.com/2016/1/21/23213779/sister-colleen-hinckley-maxwell-dies-at-age-87",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-brigham-young-1801--susa-young-gates-1856--parent-child",
+    "type": "parent-child",
+    "parent_id": "brigham-young-1801",
+    "child_id": "susa-young-gates-1856",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Susa_Young_Gates",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-susa-young-gates-1856--leah-dunford-widtsoe-1874--parent-child",
+    "type": "parent-child",
+    "parent_id": "susa-young-gates-1856",
+    "child_id": "leah-dunford-widtsoe-1874",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Leah_Widtsoe",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-john-a-widtsoe-1872--leah-dunford-widtsoe-1874--spouse",
+    "type": "spouse",
+    "person_a_id": "john-a-widtsoe-1872",
+    "person_b_id": "leah-dunford-widtsoe-1874",
+    "marriage_date": "1898-06-01",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_A._Widtsoe",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-brigham-young-1801--zina-young-1850--parent-child",
+    "type": "parent-child",
+    "parent_id": "brigham-young-1801",
+    "child_id": "zina-young-1850",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Zina_Presendia_Young_Williams_Card",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-zina-young-1850--zina-young-card-brown-1885--parent-child",
+    "type": "parent-child",
+    "parent_id": "zina-young-1850",
+    "child_id": "zina-young-card-brown-1885",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.familysearch.org/en/memorial/91459540/zina-young-card",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-hugh-b-brown-1883--zina-young-card-brown-1885--spouse",
+    "type": "spouse",
+    "person_a_id": "hugh-b-brown-1883",
+    "person_b_id": "zina-young-card-brown-1885",
+    "marriage_date": "1908-06-17",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hugh_B._Brown",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-john-taylor-1808--rhoda-ann-taylor-lyman-1852--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-taylor-1808",
+    "child_id": "rhoda-ann-taylor-lyman-1852",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Francis_M._Lyman",
+        "accessed": "2026-05-21"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Taylor_(religious_leader)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-francis-m-lyman-1840--rhoda-ann-taylor-lyman-1852--spouse",
+    "type": "spouse",
+    "person_a_id": "francis-m-lyman-1840",
+    "person_b_id": "rhoda-ann-taylor-lyman-1852",
+    "marriage_date": "1869-01-01",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Francis_M._Lyman",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-smith-jr-1805--sarah-ann-whitney-1825--spouse",
+    "type": "spouse",
+    "person_a_id": "joseph-smith-jr-1805",
+    "person_b_id": "sarah-ann-whitney-1825",
+    "marriage_date": "1842-07-27",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sarah_Ann_Whitney",
+        "accessed": "2026-05-21"
+      },
+      {
+        "url": "https://www.churchofjesuschrist.org/study/history/topics/nauvoo-polygamy",
+        "accessed": "2026-05-21",
+        "notes": "Sarah Ann Whitney married Joseph Smith Jr. as a plural wife on July 27, 1842; later married Heber C. Kimball in 1843."
+      }
+    ]
   }
 ]

@@ -1,4 +1,4 @@
-import type { Hop, Graph } from "./types";
+import type { Hop, Graph } from "./types.ts";
 
 function gender(graph: Graph, id: string): "M" | "F" | "X" {
   return graph.people.get(id)?.gender ?? "X";
