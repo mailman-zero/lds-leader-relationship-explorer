@@ -561,7 +561,7 @@
     "gender": "M",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "Son of David Patten Kimball; grandfather of Bernice Kimball Cook — exact identity needs research verification Superseded by researched Crozier Kimball connector.",
+    "notes": "Son of David Patten Kimball; grandfather of Bernice Kimball Cook \u2014 exact identity needs research verification Superseded by researched Crozier Kimball connector.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Quentin_L._Cook",
@@ -574,7 +574,7 @@
     "display_name": "Henry Eyring",
     "full_name": "Henry Eyring",
     "birth_date": "1901-02-20",
-    "birth_place": "Colonia Juárez, Chihuahua, Mexico",
+    "birth_place": "Colonia Ju\u00e1rez, Chihuahua, Mexico",
     "death_date": "1981-12-26",
     "death_place": "Salt Lake City, Utah, USA",
     "gender": "M",
@@ -1072,7 +1072,7 @@
     "display_name": "Ulisses Soares",
     "full_name": "Ulisses Soares",
     "birth_date": "1958-10-02",
-    "birth_place": "São Paulo, Brazil",
+    "birth_place": "S\u00e3o Paulo, Brazil",
     "death_date": null,
     "death_place": null,
     "gender": "M",
@@ -1109,8 +1109,8 @@
   },
   {
     "id": "gerald-causse-1963",
-    "display_name": "Gérald Caussé",
-    "full_name": "Gérald Jean Caussé",
+    "display_name": "G\u00e9rald Causs\u00e9",
+    "full_name": "G\u00e9rald Jean Causs\u00e9",
     "birth_date": "1963-05-20",
     "birth_place": "Bordeaux, France",
     "death_date": null,
@@ -1118,10 +1118,10 @@
     "gender": "M",
     "is_leader": true,
     "familysearch_id": null,
-    "notes": "Q12; called 2026 — verify call date",
+    "notes": "Q12; called 2026 \u2014 verify call date",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/G%C3%A9rald_Caussé",
+        "url": "https://en.wikipedia.org/wiki/G%C3%A9rald_Causs\u00e9",
         "accessed": "2026-05-20"
       }
     ],
@@ -1138,7 +1138,7 @@
     "gender": "M",
     "is_leader": true,
     "familysearch_id": null,
-    "notes": "Q12; called February 2026 — verify exact birth date and call date",
+    "notes": "Q12; called February 2026 \u2014 verify exact birth date and call date",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Clark_G._Gilbert",
@@ -1589,7 +1589,7 @@
     "display_name": "Marion G. Romney",
     "full_name": "Marion George Romney",
     "birth_date": "1897-09-19",
-    "birth_place": "Colonia Juárez, Chihuahua, Mexico",
+    "birth_place": "Colonia Ju\u00e1rez, Chihuahua, Mexico",
     "death_date": "1988-05-20",
     "death_place": "Salt Lake City, Utah, USA",
     "gender": "M",
@@ -2793,26 +2793,6 @@
     ]
   },
   {
-    "id": "sarah-ann-whitney-1825",
-    "display_name": "Sarah Ann Whitney",
-    "full_name": "Sarah Ann Whitney",
-    "birth_date": "1825-03-22",
-    "birth_place": "Unknown",
-    "death_date": "1873-09-04",
-    "death_place": null,
-    "gender": "X",
-    "is_leader": false,
-    "familysearch_id": null,
-    "notes": "Genealogy connector imported from Wikidata (Q7422060).",
-    "sources": [
-      {
-        "url": "https://www.wikidata.org/wiki/Q7422060",
-        "accessed": "2026-05-21",
-        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
-      }
-    ]
-  },
-  {
     "id": "almera-woodward-johnson-1808",
     "display_name": "Almera Woodward Johnson",
     "full_name": "Almera Woodward Johnson",
@@ -3593,7 +3573,7 @@
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -3623,7 +3603,7 @@
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -3653,12 +3633,12 @@
       {
         "url": "https://www.stellahoaks.org/about-stella",
         "accessed": "2026-05-21",
-        "notes": "Foundation biography gives Stella Harris Oaks’s birth date and identifies Silas Albert Harris as her father."
+        "notes": "Foundation biography gives Stella Harris Oaks\u2019s birth date and identifies Silas Albert Harris as her father."
       },
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -3688,12 +3668,12 @@
       {
         "url": "https://www.stellahoaks.org/about-stella",
         "accessed": "2026-05-21",
-        "notes": "Foundation biography gives Stella Harris Oaks’s birth date and identifies Silas Albert Harris as her father."
+        "notes": "Foundation biography gives Stella Harris Oaks\u2019s birth date and identifies Silas Albert Harris as her father."
       },
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -3798,7 +3778,7 @@
       {
         "url": "https://en.wikipedia.org/wiki/Merlin_R._Lybbert",
         "accessed": "2026-05-21",
-        "notes": "Biographical source for Merlin R. Lybbert’s General Authority service dates and vital dates."
+        "notes": "Biographical source for Merlin R. Lybbert\u2019s General Authority service dates and vital dates."
       },
       {
         "url": "https://www.thechurchnews.com/2009/5/9/23230230/healing-hands-consecrated-to-the-lords-work/",
@@ -3828,7 +3808,7 @@
       {
         "url": "https://www.churchofjesuschrist.org/learn/dale-g-renlund?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Church biography identifies Dale G. Renlund’s marriage to Ruth Lybbert."
+        "notes": "Church biography identifies Dale G. Renlund\u2019s marriage to Ruth Lybbert."
       },
       {
         "url": "https://www.thechurchnews.com/2009/5/9/23230230/healing-hands-consecrated-to-the-lords-work/",
@@ -3853,7 +3833,7 @@
     "gender": "F",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "Daughter of John Young (1763) and Theodocia Kimball Young; half-sister of Brigham Young (both children of John Young, different mothers — Brigham's mother Nabby Howe died in 1815); married Martin Harris in Kirtland, Ohio, November 1, 1836.",
+    "notes": "Daughter of John Young (1763) and Theodocia Kimball Young; half-sister of Brigham Young (both children of John Young, different mothers \u2014 Brigham's mother Nabby Howe died in 1815); married Martin Harris in Kirtland, Ohio, November 1, 1836.",
     "sources": [
       {
         "url": "https://rsc.byu.edu/regional-studies-latter-day-saint-church-history-ohio-upper-canada/caroline-young-harris-kirtland-wife-martin-harris",
@@ -3911,7 +3891,7 @@
     "gender": "F",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "First wife of John Taylor (third LDS Church President); paternal aunt of George Q. Cannon — her brother (George Cannon) was George Q.'s father. Both Leonora and George Cannon were children of John Cannon of the Isle of Man.",
+    "notes": "First wife of John Taylor (third LDS Church President); paternal aunt of George Q. Cannon \u2014 her brother (George Cannon) was George Q.'s father. Both Leonora and George Cannon were children of John Cannon of the Isle of Man.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Leonora_Cannon_Taylor",
@@ -4316,29 +4296,6 @@
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Erastus_Snow",
-        "accessed": "2026-05-21"
-      }
-    ]
-  },
-  {
-    "id": "mary-ann-frost-pratt-1819",
-    "display_name": "Mary Ann Frost Pratt",
-    "full_name": "Mary Ann Frost Stearns Pratt",
-    "birth_date": "1819-01-01",
-    "birth_place": "New Hampshire, USA",
-    "death_date": "1891-01-01",
-    "death_place": null,
-    "gender": "F",
-    "is_leader": false,
-    "familysearch_id": null,
-    "notes": "Sealed to Joseph Smith Jr. (Aug 26, 1843); earthly wife of Parley P. Pratt. Bridges the Pratt apostolic cluster to the main Smith family cluster.",
-    "sources": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Mary_Ann_Frost_Stearns_Pratt",
-        "accessed": "2026-05-21"
-      },
-      {
-        "url": "https://josephsmithspolygamy.org/plural-wives-overview/mary-ann-frost-stearns/",
         "accessed": "2026-05-21"
       }
     ]

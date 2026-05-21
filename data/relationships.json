@@ -600,25 +600,6 @@
     ]
   },
   {
-    "id": "rel-heber-c-kimball-1801--sarah-ann-whitney-1825--spouse",
-    "type": "spouse",
-    "person_a_id": "heber-c-kimball-1801",
-    "person_b_id": "sarah-ann-whitney-1825",
-    "sealed": false,
-    "sources": [
-      {
-        "url": "https://www.wikidata.org/wiki/Q9002343",
-        "accessed": "2026-05-21",
-        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
-      },
-      {
-        "url": "https://www.wikidata.org/wiki/Q7422060",
-        "accessed": "2026-05-21",
-        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
-      }
-    ]
-  },
-  {
     "id": "rel-rhoda-howe-richards-1762--willard-richards-1804--parent-child",
     "type": "parent-child",
     "parent_id": "rhoda-howe-richards-1762",
@@ -1866,7 +1847,7 @@
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -1890,7 +1871,7 @@
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -1914,7 +1895,7 @@
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -1938,12 +1919,12 @@
       {
         "url": "https://www.stellahoaks.org/about-stella",
         "accessed": "2026-05-21",
-        "notes": "Foundation biography gives Stella Harris Oaks’s birth date and identifies Silas Albert Harris as her father."
+        "notes": "Foundation biography gives Stella Harris Oaks\u2019s birth date and identifies Silas Albert Harris as her father."
       },
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -1967,12 +1948,12 @@
       {
         "url": "https://www.stellahoaks.org/about-stella",
         "accessed": "2026-05-21",
-        "notes": "Foundation biography gives Stella Harris Oaks’s birth date and identifies Silas Albert Harris as her father."
+        "notes": "Foundation biography gives Stella Harris Oaks\u2019s birth date and identifies Silas Albert Harris as her father."
       },
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -2059,7 +2040,7 @@
       {
         "url": "https://www.churchofjesuschrist.org/learn/dale-g-renlund?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Church biography identifies Dale G. Renlund’s marriage to Ruth Lybbert."
+        "notes": "Church biography identifies Dale G. Renlund\u2019s marriage to Ruth Lybbert."
       }
     ]
   },
@@ -2289,7 +2270,7 @@
       {
         "url": "https://www.wikitree.com/wiki/Cannon-165",
         "accessed": "2026-05-21",
-        "notes": "WikiTree: Leonora Cannon Gardner's parents were George Cannon and Ann Quayle, same as George Q. Cannon — confirming siblings."
+        "notes": "WikiTree: Leonora Cannon Gardner's parents were George Cannon and Ann Quayle, same as George Q. Cannon \u2014 confirming siblings."
       }
     ]
   },
@@ -2384,7 +2365,7 @@
       {
         "url": "https://en.wikipedia.org/wiki/Jeffrey_R._Holland",
         "accessed": "2026-05-21",
-        "notes": "Wikipedia identifies Jeffrey Holland's mother as Alice Masters Holland (née Bentley)."
+        "notes": "Wikipedia identifies Jeffrey Holland's mother as Alice Masters Holland (n\u00e9e Bentley)."
       }
     ]
   },
@@ -2553,44 +2534,6 @@
     ]
   },
   {
-    "id": "rel-joseph-smith-jr-1805--sarah-ann-whitney-1825--spouse",
-    "type": "spouse",
-    "person_a_id": "joseph-smith-jr-1805",
-    "person_b_id": "sarah-ann-whitney-1825",
-    "marriage_date": "1842-07-27",
-    "sealed": true,
-    "sources": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Sarah_Ann_Whitney",
-        "accessed": "2026-05-21"
-      },
-      {
-        "url": "https://www.churchofjesuschrist.org/study/history/topics/nauvoo-polygamy",
-        "accessed": "2026-05-21",
-        "notes": "Sarah Ann Whitney married Joseph Smith Jr. as a plural wife on July 27, 1842; later married Heber C. Kimball in 1843."
-      }
-    ]
-  },
-  {
-    "id": "rel-joseph-smith-jr-1805--marinda-nancy-johnson-1815--spouse",
-    "type": "spouse",
-    "person_a_id": "joseph-smith-jr-1805",
-    "person_b_id": "marinda-nancy-johnson-1815",
-    "marriage_date": "1842-04-05",
-    "sealed": true,
-    "sources": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Marinda_Nancy_Johnson_Hyde",
-        "accessed": "2026-05-21"
-      },
-      {
-        "url": "https://www.churchofjesuschrist.org/study/history/topics/nauvoo-polygamy",
-        "accessed": "2026-05-21",
-        "notes": "Marinda Nancy Johnson married Joseph Smith Jr. as a plural wife on April 5, 1842; she was also the wife of Orson Hyde (1836). Daughter of John Johnson Sr. and sister of apostles Luke S. Johnson and Lyman E. Johnson."
-      }
-    ]
-  },
-  {
     "id": "rel-orson-hyde-1805--mary-ann-hyde-cowley-1857--parent-child",
     "type": "parent-child",
     "parent_id": "orson-hyde-1805",
@@ -2651,38 +2594,6 @@
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Erastus_Snow",
-        "accessed": "2026-05-21"
-      }
-    ]
-  },
-  {
-    "id": "rel-joseph-smith-jr-1805--mary-ann-frost-pratt-1819--spouse",
-    "type": "spouse",
-    "person_a_id": "joseph-smith-jr-1805",
-    "person_b_id": "mary-ann-frost-pratt-1819",
-    "marriage_date": "1843-08-26",
-    "sealed": true,
-    "sources": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Mary_Ann_Frost_Stearns_Pratt",
-        "accessed": "2026-05-21"
-      },
-      {
-        "url": "https://josephsmithspolygamy.org/plural-wives-overview/mary-ann-frost-stearns/",
-        "accessed": "2026-05-21",
-        "notes": "Sealed to Joseph Smith Jr. Aug 26, 1843; continued as earthly wife of Parley P. Pratt."
-      }
-    ]
-  },
-  {
-    "id": "rel-parley-p-pratt-1807--mary-ann-frost-pratt-1819--spouse",
-    "type": "spouse",
-    "person_a_id": "parley-p-pratt-1807",
-    "person_b_id": "mary-ann-frost-pratt-1819",
-    "sealed": true,
-    "sources": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Parley_P._Pratt",
         "accessed": "2026-05-21"
       }
     ]
