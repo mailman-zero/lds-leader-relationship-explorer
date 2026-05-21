@@ -12,7 +12,7 @@ const PersonSchema = z.object({
   display_name: z.string(),
   full_name: z.string(),
   birth_date: z.string(),
-  birth_place: z.string().optional(),
+  birth_place: z.string().nullable().optional(),
   death_date: z.string().nullable(),
   death_place: z.string().nullable().optional(),
   gender: z.enum(["M", "F", "X"]),
@@ -28,7 +28,7 @@ const ParentChildSchema = z.object({
   type: z.literal("parent-child"),
   parent_id: z.string(),
   child_id: z.string(),
-  subtype: z.enum(["biological", "adoptive", "step"]),
+  subtype: z.enum(["biological", "adoptive", "step"]).optional(),
   notes: z.string().optional(),
   sources: z.array(SourceSchema),
 });

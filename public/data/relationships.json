@@ -2979,5 +2979,217 @@
         "notes": "Wikipedia confirms second wife was 'Emma Lucy Gates (1916-51)' indicating married 1916, died 1951"
       }
     ]
+  },
+  {
+    "id": "rel-breneman-barr-bitner-1837--ada-bitner-hinckley-1880--parent-child",
+    "type": "parent-child",
+    "parent_id": "breneman-barr-bitner-1837",
+    "child_id": "ada-bitner-hinckley-1880",
+    "notes": "Ada Bitner was Breneman Barr Bitner's daughter by his third wife Sarah Ann Osguthorpe. She became Gordon B. Hinckley's mother.",
+    "sources": [
+      {
+        "url": "https://familypedia.fandom.com/wiki/Ada_Bitner_(1880-1930)",
+        "accessed": "2026-05-21",
+        "notes": "Familypedia confirms Ada Bitner as daughter of Breneman Barr Bitner"
+      }
+    ]
+  },
+  {
+    "id": "rel-breneman-barr-bitner-1837--madeline-bitner-wirthlin-1893--parent-child",
+    "type": "parent-child",
+    "parent_id": "breneman-barr-bitner-1837",
+    "child_id": "madeline-bitner-wirthlin-1893",
+    "notes": "Madeline Bitner was Breneman Barr Bitner's daughter by his second wife Martina M. Halseth (Maren Martine). She became Joseph B. Wirthlin's mother. Half-sister of Ada Bitner (GBH's mother).",
+    "sources": [
+      {
+        "url": "https://www.geni.com/people/Madeline-Wirthlin/6000000001310211625",
+        "accessed": "2026-05-21",
+        "notes": "Geni confirms Madeline Bitner Wirthlin as daughter of Breneman Barr Bitner"
+      }
+    ]
+  },
+  {
+    "id": "rel-ada-bitner-hinckley-1880--gordon-b-hinckley-1910--parent-child",
+    "type": "parent-child",
+    "parent_id": "ada-bitner-hinckley-1880",
+    "child_id": "gordon-b-hinckley-1910",
+    "notes": "Ada Bitner married Bryant S. Hinckley in 1909 and was the mother of Gordon B. Hinckley (15th President of the Church).",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gordon_B._Hinckley",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Ada Bitner Hinckley as Gordon B. Hinckley's mother"
+      }
+    ]
+  },
+  {
+    "id": "rel-madeline-bitner-wirthlin-1893--joseph-b-wirthlin-1917--parent-child",
+    "type": "parent-child",
+    "parent_id": "madeline-bitner-wirthlin-1893",
+    "child_id": "joseph-b-wirthlin-1917",
+    "notes": "Madeline Bitner was Joseph B. Wirthlin's mother. His middle name 'Bitner' honored her family.",
+    "sources": [
+      {
+        "url": "https://rsc.byu.edu/prophets-apostles-last-dispensation/joseph-bitner-wirthlin",
+        "accessed": "2026-05-21",
+        "notes": "BYU RSC: Joseph Bitner Wirthlin — middle name Bitner honors mother's family"
+      }
+    ]
+  },
+  {
+    "id": "rel-john-young-1763--joseph-young-1797--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-young-1763",
+    "child_id": "joseph-young-1797",
+    "notes": "Joseph Young is a son of John Young (1763) and Abigail Nabby Howe — same parents as Brigham Young, making Joseph and Brigham brothers.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_Young",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Joseph Young (1797-1881) born to John Hayden Young and Abigail Nabby Howe, brother of Brigham Young"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-young-1797--seymour-bicknell-young-sr-1837--parent-child",
+    "type": "parent-child",
+    "parent_id": "joseph-young-1797",
+    "child_id": "seymour-bicknell-young-sr-1837",
+    "notes": "Seymour Bicknell Young Sr. was a son of Joseph Young. Both were general authorities of the Church.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Seymour_B._Young",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Seymour B. Young was born to Joseph Young"
+      }
+    ]
+  },
+  {
+    "id": "rel-seymour-bicknell-young-sr-1837--ora-bernice-young-rogers-1889--parent-child",
+    "type": "parent-child",
+    "parent_id": "seymour-bicknell-young-sr-1837",
+    "child_id": "ora-bernice-young-rogers-1889",
+    "notes": "Ora Bernice Young was Seymour Bicknell Young Sr.'s daughter. She married Orson Madsen Rogers and became the mother of Elisa Young Rogers Wirthlin.",
+    "sources": [
+      {
+        "url": "https://newsroom.churchofjesuschrist.org/article/elisa-young-rogers-wirthlin-passes-away",
+        "accessed": "2026-05-21",
+        "notes": "Elisa's obituary identifies Bernice Young as her mother and granddaughter of Joseph Young — placing Bernice as Seymour Sr.'s daughter"
+      }
+    ]
+  },
+  {
+    "id": "rel-ora-bernice-young-rogers-1889--elisa-young-rogers-wirthlin-1919--parent-child",
+    "type": "parent-child",
+    "parent_id": "ora-bernice-young-rogers-1889",
+    "child_id": "elisa-young-rogers-wirthlin-1919",
+    "notes": "Elisa Young Rogers was the daughter of Orson Madsen Rogers and Ora Bernice Young Rogers.",
+    "sources": [
+      {
+        "url": "https://newsroom.churchofjesuschrist.org/article/elisa-young-rogers-wirthlin-passes-away",
+        "accessed": "2026-05-21",
+        "notes": "Church Newsroom obituary confirms Elisa Young Rogers born to Orson Madsen Rogers and Bernice Young Rogers"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-b-wirthlin-1917--elisa-young-rogers-wirthlin-1919--spouse",
+    "type": "spouse",
+    "person_a_id": "joseph-b-wirthlin-1917",
+    "person_b_id": "elisa-young-rogers-wirthlin-1919",
+    "marriage_date": "1941-05-26",
+    "marriage_place": "Salt Lake Temple, Salt Lake City, Utah",
+    "notes": "Joseph B. Wirthlin married Elisa Young Rogers on May 26, 1941 in the Salt Lake Temple. They had eight children.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_B._Wirthlin",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia: married Elisa Young Rogers on May 26, 1941 in the Salt Lake Temple"
+      }
+    ]
+  },
+  {
+    "id": "rel-lemuel-hardison-redd-sr-1836--lemuel-hardison-redd-jr-1856--parent-child",
+    "type": "parent-child",
+    "parent_id": "lemuel-hardison-redd-sr-1836",
+    "child_id": "lemuel-hardison-redd-jr-1856",
+    "notes": "Lemuel Sr. and Keziah Jane Butler's son.",
+    "sources": [
+      {
+        "url": "https://wchsutah.org/people/lemuel-redd.php",
+        "accessed": "2026-05-21",
+        "notes": "WCHS biography lists Lemuel Jr. as son of Lemuel Sr. and Keziah Butler"
+      }
+    ]
+  },
+  {
+    "id": "rel-lemuel-hardison-redd-sr-1836--james-monroe-redd-1863--parent-child",
+    "type": "parent-child",
+    "parent_id": "lemuel-hardison-redd-sr-1836",
+    "child_id": "james-monroe-redd-1863",
+    "notes": "Lemuel Sr. and Keziah Jane Butler's son. Brother of Lemuel Jr., making his daughter Margaret Vivian a first cousin of Terressa Artemesia.",
+    "sources": [
+      {
+        "url": "http://www.hirf.org/p-r/Redd,_James_Monroe.html",
+        "accessed": "2026-05-21",
+        "notes": "HIRF biography confirms James Monroe Redd as son of Lemuel Sr. and Keziah Butler"
+      }
+    ]
+  },
+  {
+    "id": "rel-lemuel-hardison-redd-jr-1856--terressa-artemesia-redd-romney-1874--parent-child",
+    "type": "parent-child",
+    "parent_id": "lemuel-hardison-redd-jr-1856",
+    "child_id": "terressa-artemesia-redd-romney-1874",
+    "notes": "Terressa Artemesia Redd was daughter of Lemuel Jr. and Sariah Louisa Chamberlain. She became the mother of Marion G. Romney.",
+    "sources": [
+      {
+        "url": "https://www.geni.com/people/Lemuel-Lem-Redd-Jr/6000000002049751732",
+        "accessed": "2026-05-21",
+        "notes": "Geni confirms Terressa Artemesia as daughter of Lemuel Jr."
+      }
+    ]
+  },
+  {
+    "id": "rel-terressa-artemesia-redd-romney-1874--marion-g-romney-1897--parent-child",
+    "type": "parent-child",
+    "parent_id": "terressa-artemesia-redd-romney-1874",
+    "child_id": "marion-g-romney-1897",
+    "notes": "Marion G. Romney's mother was Terressa Artemesia Redd. She married George S. Romney in 1894 in Colonia Juárez.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Marion_G._Romney",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia: Marion G. Romney born to George S. Romney and Terressa Artemesia Redd"
+      }
+    ]
+  },
+  {
+    "id": "rel-james-monroe-redd-1863--margaret-vivian-redd-mcconkie-1889--parent-child",
+    "type": "parent-child",
+    "parent_id": "james-monroe-redd-1863",
+    "child_id": "margaret-vivian-redd-mcconkie-1889",
+    "notes": "Margaret Vivian Redd was daughter of James Monroe Redd and Lucinda Alvira Pace. She became the mother of Apostle Bruce R. McConkie.",
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Redd-386",
+        "accessed": "2026-05-21",
+        "notes": "WikiTree Redd-386: Margaret Vivian Redd daughter of James Monroe Redd and Lucinda Alvira Pace"
+      }
+    ]
+  },
+  {
+    "id": "rel-margaret-vivian-redd-mcconkie-1889--bruce-r-mcconkie-1915--parent-child",
+    "type": "parent-child",
+    "parent_id": "margaret-vivian-redd-mcconkie-1889",
+    "child_id": "bruce-r-mcconkie-1915",
+    "notes": "Bruce R. McConkie's mother was Margaret Vivian Redd. His middle name 'Redd' honored her family.",
+    "sources": [
+      {
+        "url": "https://rsc.byu.edu/prophets-apostles-last-dispensation/bruce-redd-mcconkie",
+        "accessed": "2026-05-21",
+        "notes": "BYU RSC: Bruce Redd McConkie born to Oscar Walter McConkie and Margaret Vivian Redd"
+      }
+    ]
   }
 ]

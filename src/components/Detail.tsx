@@ -57,7 +57,7 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailP
 
   // Find all family paths from this person to every leader
   const familyPaths = useMemo(() => {
-    const allPaths = getAllPaths(graph, personId, { maxDepth: 12, leadersOnly: true });
+    const allPaths = getAllPaths(graph, personId, { maxDepth: 20, leadersOnly: true });
     const result: { personId: string; label: string; pathText: string }[] = [];
     for (const [targetId, pathResult] of allPaths) {
       if (targetId === personId) continue;
