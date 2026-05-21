@@ -2878,10 +2878,10 @@
     ]
   },
   {
-    "id": "rel-brigham-young-1801--joseph-a-young-1834--parent-child",
+    "id": "rel-brigham-young-1801--joseph-angell-young-1834--parent-child",
     "type": "parent-child",
     "parent_id": "brigham-young-1801",
-    "child_id": "joseph-a-young-1834",
+    "child_id": "joseph-angell-young-1834",
     "subtype": "biological",
     "notes": "Joseph Angell Young was Brigham Young's son by his first/legal wife Mary Ann Angell.",
     "sources": [
@@ -2893,9 +2893,9 @@
     ]
   },
   {
-    "id": "rel-joseph-a-young-1834--richard-w-young-1858--parent-child",
+    "id": "rel-joseph-angell-young-1834--richard-w-young-1858--parent-child",
     "type": "parent-child",
-    "parent_id": "joseph-a-young-1834",
+    "parent_id": "joseph-angell-young-1834",
     "child_id": "richard-w-young-1858",
     "subtype": "biological",
     "notes": "Richard W. Young was son of Joseph A. Young by his plural wife Margaret Whitehead.",

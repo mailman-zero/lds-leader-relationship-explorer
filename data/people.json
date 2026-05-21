@@ -2572,18 +2572,18 @@
     "display_name": "Joseph Angell Young",
     "full_name": "Joseph Angell Young",
     "birth_date": "1834-10-14",
-    "birth_place": "Unknown",
+    "birth_place": "Kirtland, Ohio, USA",
     "death_date": "1875-08-05",
-    "death_place": null,
+    "death_place": "Salt Lake City, Utah, USA",
     "gender": "M",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "notes": "Son of Brigham Young and Mary Ann Angell (BY's first legal wife). Father of Richard W. Young (by plural wife Margaret Whitehead). Grandfather of Minerva Richards Young (wife of Apostle Adam S. Bennion). Bridges Brigham Young to the Bennion apostolic family.",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "url": "https://en.wikipedia.org/wiki/Richard_W._Young",
         "accessed": "2026-05-21",
-        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+        "notes": "Wikipedia confirms Joseph A. Young was son of Brigham Young and Mary Ann Angell, and father of Richard W. Young."
       }
     ]
   },
@@ -4437,7 +4437,7 @@
     "death_place": null,
     "gender": "F",
     "is_leader": false,
-    "notes": "Daughter of Abraham O. Smoot; wife of Apostle Orson F. Whitney. Bridge between Smoot and Whitney apostolic families. [END OF ORIGINAL NODES — Merrill/Hyde/Taylor/Smoot/Wirthlin connector nodes follow]",
+    "notes": "Daughter of Abraham O. Smoot; wife of Apostle Orson F. Whitney. Bridge between Smoot and Whitney apostolic families.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Abraham_O._Smoot",
@@ -4513,26 +4513,6 @@
         "url": "https://en.wikipedia.org/wiki/Annie_Taylor_Hyde",
         "accessed": "2026-05-21",
         "notes": "Wikipedia confirms Annie Laura Hyde married Joseph F. Merrill."
-      }
-    ]
-  },
-  {
-    "id": "joseph-a-young-1834",
-    "display_name": "Joseph Angell Young",
-    "full_name": "Joseph Angell Young",
-    "birth_date": "1834-02-28",
-    "birth_place": "Kirtland, Ohio, USA",
-    "death_date": "1875-12-16",
-    "death_place": "Salt Lake City, Utah, USA",
-    "gender": "M",
-    "is_leader": false,
-    "familysearch_id": null,
-    "notes": "Son of Brigham Young and Mary Ann Angell (BY's first legal wife). Father of Richard W. Young (by plural wife Margaret Whitehead). Grandfather of Minerva Richards Young (wife of Apostle Adam S. Bennion).",
-    "sources": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Richard_W._Young",
-        "accessed": "2026-05-21",
-        "notes": "Wikipedia confirms Joseph A. Young was 'the son of Brigham Young and his wife, Mary Ann Angell' and father of Richard W. Young."
       }
     ]
   },
