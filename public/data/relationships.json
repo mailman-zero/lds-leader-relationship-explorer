@@ -657,44 +657,6 @@
     ]
   },
   {
-    "id": "rel-jared-pratt-1769--parley-p-pratt-1807--parent-child",
-    "type": "parent-child",
-    "parent_id": "jared-pratt-1769",
-    "child_id": "parley-p-pratt-1807",
-    "subtype": "biological",
-    "sources": [
-      {
-        "url": "https://www.wikidata.org/wiki/Q96201929",
-        "accessed": "2026-05-21",
-        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
-      },
-      {
-        "url": "https://www.wikidata.org/wiki/Q2465604",
-        "accessed": "2026-05-21",
-        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
-      }
-    ]
-  },
-  {
-    "id": "rel-jared-pratt-1769--orson-pratt-1811--parent-child",
-    "type": "parent-child",
-    "parent_id": "jared-pratt-1769",
-    "child_id": "orson-pratt-1811",
-    "subtype": "biological",
-    "sources": [
-      {
-        "url": "https://www.wikidata.org/wiki/Q96201929",
-        "accessed": "2026-05-21",
-        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
-      },
-      {
-        "url": "https://www.wikidata.org/wiki/Q2482954",
-        "accessed": "2026-05-21",
-        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
-      }
-    ]
-  },
-  {
     "id": "rel-clara-caroline-lyman-q103837175--richard-r-lyman-1870--parent-child",
     "type": "parent-child",
     "parent_id": "clara-caroline-lyman-q103837175",
@@ -2606,6 +2568,90 @@
         "url": "https://www.churchofjesuschrist.org/study/history/topics/nauvoo-polygamy",
         "accessed": "2026-05-21",
         "notes": "Sarah Ann Whitney married Joseph Smith Jr. as a plural wife on July 27, 1842; later married Heber C. Kimball in 1843."
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-smith-jr-1805--marinda-nancy-johnson-1815--spouse",
+    "type": "spouse",
+    "person_a_id": "joseph-smith-jr-1805",
+    "person_b_id": "marinda-nancy-johnson-1815",
+    "marriage_date": "1842-04-05",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Marinda_Nancy_Johnson_Hyde",
+        "accessed": "2026-05-21"
+      },
+      {
+        "url": "https://www.churchofjesuschrist.org/study/history/topics/nauvoo-polygamy",
+        "accessed": "2026-05-21",
+        "notes": "Marinda Nancy Johnson married Joseph Smith Jr. as a plural wife on April 5, 1842; she was also the wife of Orson Hyde (1836). Daughter of John Johnson Sr. and sister of apostles Luke S. Johnson and Lyman E. Johnson."
+      }
+    ]
+  },
+  {
+    "id": "rel-orson-hyde-1805--mary-ann-hyde-cowley-1857--parent-child",
+    "type": "parent-child",
+    "parent_id": "orson-hyde-1805",
+    "child_id": "mary-ann-hyde-cowley-1857",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Matthias_F._Cowley",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-matthias-f-cowley-1858--mary-ann-hyde-cowley-1857--spouse",
+    "type": "spouse",
+    "person_a_id": "matthias-f-cowley-1858",
+    "person_b_id": "mary-ann-hyde-cowley-1857",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Matthias_F._Cowley",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-ezekiel-snow-1747--oliver-snow-iii-q124156647--parent-child",
+    "type": "parent-child",
+    "parent_id": "ezekiel-snow-1747",
+    "child_id": "oliver-snow-iii-q124156647",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lorenzo_Snow",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-ezekiel-snow-1747--levi-snow-1790--parent-child",
+    "type": "parent-child",
+    "parent_id": "ezekiel-snow-1747",
+    "child_id": "levi-snow-1790",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Erastus_Snow",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-levi-snow-1790--erastus-snow-1818--parent-child",
+    "type": "parent-child",
+    "parent_id": "levi-snow-1790",
+    "child_id": "erastus-snow-1818",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Erastus_Snow",
+        "accessed": "2026-05-21"
       }
     ]
   }

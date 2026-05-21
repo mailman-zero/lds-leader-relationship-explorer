@@ -2933,26 +2933,6 @@
     ]
   },
   {
-    "id": "jared-pratt-1769",
-    "display_name": "Jared Pratt",
-    "full_name": "Jared Pratt",
-    "birth_date": "1769-01-01",
-    "birth_place": "Unknown",
-    "death_date": "1839-01-01",
-    "death_place": null,
-    "gender": "X",
-    "is_leader": false,
-    "familysearch_id": null,
-    "notes": "Genealogy connector imported from Wikidata (Q96201929).",
-    "sources": [
-      {
-        "url": "https://www.wikidata.org/wiki/Q96201929",
-        "accessed": "2026-05-21",
-        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
-      }
-    ]
-  },
-  {
     "id": "clara-caroline-lyman-q103837175",
     "display_name": "Clara Caroline Lyman",
     "full_name": "Clara Caroline Lyman",
@@ -4275,6 +4255,67 @@
       },
       {
         "url": "https://en.wikipedia.org/wiki/John_Taylor_(religious_leader)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "mary-ann-hyde-cowley-1857",
+    "display_name": "Mary Ann Hyde Cowley",
+    "full_name": "Mary Ann Hyde Cowley",
+    "birth_date": "1857-01-01",
+    "birth_place": "Utah, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Orson Hyde (original Q12); wife of Matthias F. Cowley (Q12). Bridges the Hyde and Cowley apostolic family clusters.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Matthias_F._Cowley",
+        "accessed": "2026-05-21"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Orson_Hyde",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "ezekiel-snow-1747",
+    "display_name": "Ezekiel Snow",
+    "full_name": "Ezekiel Snow",
+    "birth_date": "1747-01-01",
+    "birth_place": "Chesterfield, New Hampshire, USA",
+    "death_date": "1832-01-01",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Grandfather of Lorenzo Snow (5th President), Eliza Roxcy Snow, and Erastus Snow (Q12). Father of Oliver Snow III and Levi Snow.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lorenzo_Snow",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "levi-snow-1790",
+    "display_name": "Levi Snow",
+    "full_name": "Levi Snow",
+    "birth_date": "1790-01-01",
+    "birth_place": "Chesterfield, New Hampshire, USA",
+    "death_date": "1846-01-01",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Father of apostle Erastus Snow; son of Ezekiel Snow; brother of Oliver Snow III (father of Lorenzo Snow and Eliza Roxcy Snow).",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Erastus_Snow",
         "accessed": "2026-05-21"
       }
     ]
