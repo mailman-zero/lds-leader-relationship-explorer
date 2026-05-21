@@ -551,25 +551,6 @@
     ]
   },
   {
-    "id": "kimball-ancestor-1870",
-    "display_name": "Kimball (Quentin's great-grandfather)",
-    "full_name": "Unknown Kimball",
-    "birth_date": "1870-01-01",
-    "birth_place": "Utah, USA",
-    "death_date": null,
-    "death_place": null,
-    "gender": "M",
-    "is_leader": false,
-    "familysearch_id": null,
-    "notes": "Son of David Patten Kimball; grandfather of Bernice Kimball Cook \u2014 exact identity needs research verification Superseded by researched Crozier Kimball connector.",
-    "sources": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Quentin_L._Cook",
-        "accessed": "2026-05-20"
-      }
-    ]
-  },
-  {
     "id": "henry-eyring-chemist-1901",
     "display_name": "Henry Eyring",
     "full_name": "Henry Eyring",

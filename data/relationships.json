@@ -318,6 +318,20 @@
     ]
   },
   {
+    "id": "rel-john-young-1739--john-young-1763--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-young-1739",
+    "child_id": "john-young-1763",
+    "subtype": "biological",
+    "notes": "John Young (1739) was the father of John Young (1763) who was Brigham Young's father.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brigham_Young",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
     "id": "rel-john-young-1763--brigham-young-1801--parent-child",
     "type": "parent-child",
     "parent_id": "john-young-1763",
