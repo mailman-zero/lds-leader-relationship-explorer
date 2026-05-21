@@ -34,6 +34,8 @@ const tests: [string, string, string | null][] = [
   ["heber-j-grant-1856", "george-q-cannon-1827", null],
   // M. Russell Ballard → Joseph Smith Jr. (via Smith/Ballard family)
   ["m-russell-ballard-1928", "joseph-smith-jr-1805", null],
+  // Parley P. Pratt → George Q. Cannon (via Amanda Pratt → Angus M. Cannon sibling bridge)
+  ["parley-p-pratt-1807", "george-q-cannon-1827", null],
 ];
 
 let passed = 0, failed = 0;

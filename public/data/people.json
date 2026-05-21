@@ -4318,5 +4318,44 @@
         "accessed": "2026-05-21"
       }
     ]
+  },
+  {
+    "id": "angus-m-cannon-1835",
+    "display_name": "Angus M. Cannon",
+    "full_name": "Angus Munn Cannon",
+    "birth_date": "1835-03-19",
+    "birth_place": "Liverpool, Lancashire, England",
+    "death_date": "1915-06-07",
+    "death_place": "Salt Lake City, Utah",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": "KWCH-9PG",
+    "notes": "George Q. Cannon's brother; married Amanda Pratt (Parley P. Pratt's daughter) in 1858. President of Salt Lake Stake.",
+    "sources": [
+      {
+        "url": "https://www.familysearch.org/tree/person/details/KWCH-9PG",
+        "accessed": "2026-05-21",
+        "notes": "Birth, death, family info"
+      }
+    ]
+  },
+  {
+    "id": "amanda-pratt-cannon-1840",
+    "display_name": "Amanda Pratt Cannon",
+    "full_name": "Amanda Pratt Cannon",
+    "birth_date": "1840-11-22",
+    "birth_place": "New York, USA",
+    "death_date": "1911-06-30",
+    "death_place": "Salt Lake City, Utah",
+    "gender": "F",
+    "is_leader": false,
+    "notes": "Daughter of Parley P. Pratt; wife of Angus M. Cannon. Bridge between Pratt and Cannon families.",
+    "sources": [
+      {
+        "url": "https://www.familysearch.org/tree/person/details/KWCX-BTM",
+        "accessed": "2026-05-21",
+        "notes": "Amanda Pratt, daughter of Parley P. Pratt, wife of Angus M. Cannon"
+      }
+    ]
   }
 ]

@@ -2624,5 +2624,47 @@
         "accessed": "2026-05-21"
       }
     ]
+  },
+  {
+    "id": "rel-angus-m-cannon-1835--george-q-cannon-1827--sibling",
+    "type": "sibling",
+    "person_a_id": "angus-m-cannon-1835",
+    "person_b_id": "george-q-cannon-1827",
+    "subtype": "full",
+    "notes": "Both sons of George Cannon and Ann Quayle, born Liverpool, England",
+    "sources": [
+      {
+        "url": "https://www.familysearch.org/tree/person/details/KWCH-9PG",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-parley-p-pratt-1807--amanda-pratt-cannon-1840--parent-child",
+    "type": "parent-child",
+    "parent_id": "parley-p-pratt-1807",
+    "child_id": "amanda-pratt-cannon-1840",
+    "subtype": "biological",
+    "notes": "Amanda Pratt was born 1840 to Parley P. Pratt and Mary Wood",
+    "sources": [
+      {
+        "url": "https://www.familysearch.org/tree/person/details/KWCX-BTM",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-angus-m-cannon-1835--amanda-pratt-cannon-1840--spouse",
+    "type": "spouse",
+    "person_a_id": "angus-m-cannon-1835",
+    "person_b_id": "amanda-pratt-cannon-1840",
+    "marriage_date": "1858-01-01",
+    "notes": "Plural wife. Married 1858.",
+    "sources": [
+      {
+        "url": "https://www.familysearch.org/tree/person/details/KWCX-BTM",
+        "accessed": "2026-05-21"
+      }
+    ]
   }
 ]
