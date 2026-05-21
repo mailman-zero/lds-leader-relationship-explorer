@@ -4357,5 +4357,29 @@
         "notes": "Amanda Pratt, daughter of Parley P. Pratt, wife of Angus M. Cannon"
       }
     ]
+  },
+  {
+    "id": "alice-ann-kimball-1858",
+    "display_name": "Alice Ann Kimball Smith",
+    "full_name": "Alice Ann Kimball Smith",
+    "birth_date": "1858-11-17",
+    "birth_place": "Salt Lake City, Utah",
+    "death_date": "1946-02-19",
+    "death_place": "Salt Lake City, Utah",
+    "gender": "F",
+    "is_leader": false,
+    "notes": "Daughter of Heber C. Kimball; plural wife of Joseph F. Smith (married 1883). Bridge between Kimball and Smith apostolic families.",
+    "sources": [
+      {
+        "url": "https://www.familysearch.org/tree/person/details/KWJD-Q6V",
+        "accessed": "2026-05-21",
+        "notes": "Alice Ann Kimball, daughter of Heber C. Kimball, wife of Joseph F. Smith"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_F._Smith",
+        "accessed": "2026-05-21",
+        "notes": "Lists Alice Ann Kimball as one of Joseph F. Smith's plural wives"
+      }
+    ]
   }
 ]

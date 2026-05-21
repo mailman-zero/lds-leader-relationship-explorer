@@ -36,6 +36,8 @@ const tests: [string, string, string | null][] = [
   ["m-russell-ballard-1928", "joseph-smith-jr-1805", null],
   // Parley P. Pratt → George Q. Cannon (via Amanda Pratt → Angus M. Cannon sibling bridge)
   ["parley-p-pratt-1807", "george-q-cannon-1827", null],
+  // Henry B. Eyring → M. Russell Ballard (Kimball cluster now joined to main via Alice Ann Kimball/JFS)
+  ["hb-eyring-1933", "m-russell-ballard-1928", null],
 ];
 
 let passed = 0, failed = 0;

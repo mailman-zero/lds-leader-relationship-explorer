@@ -2666,5 +2666,33 @@
         "accessed": "2026-05-21"
       }
     ]
+  },
+  {
+    "id": "rel-heber-c-kimball-1801--alice-ann-kimball-1858--parent-child",
+    "type": "parent-child",
+    "parent_id": "heber-c-kimball-1801",
+    "child_id": "alice-ann-kimball-1858",
+    "subtype": "biological",
+    "notes": "Alice Ann Kimball was Heber C. Kimball's daughter",
+    "sources": [
+      {
+        "url": "https://www.familysearch.org/tree/person/details/KWJD-Q6V",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-f-smith-1838--alice-ann-kimball-1858--spouse",
+    "type": "spouse",
+    "person_a_id": "joseph-f-smith-1838",
+    "person_b_id": "alice-ann-kimball-1858",
+    "marriage_date": "1883-01-01",
+    "notes": "Plural wife. Alice Ann Kimball married Joseph F. Smith in 1883.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_F._Smith",
+        "accessed": "2026-05-21"
+      }
+    ]
   }
 ]
