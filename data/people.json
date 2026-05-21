@@ -4132,7 +4132,7 @@
     "gender": "F",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "Daughter of Brigham Young; mother of Leah Dunford Widtsoe (wife of apostle John A. Widtsoe); prominent LDS author and editor.",
+    "notes": "Daughter of Brigham Young; mother of Leah Dunford Widtsoe (wife of apostle John A. Widtsoe) and Emma Lucy Gates (wife of apostle Albert E. Bowen); prominent LDS author and editor.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Susa_Young_Gates",
@@ -4534,6 +4534,31 @@
         "url": "https://en.wikipedia.org/wiki/Adam_S._Bennion",
         "accessed": "2026-05-21",
         "notes": "Wikipedia confirms Adam S. Bennion married Minerva Richards Young in 1911, that she was daughter of Richard W. Young, and that Bennion belonged to the 'Richards-Young family.'"
+      }
+    ]
+  },
+  {
+    "id": "emma-lucy-gates-bowen-1880",
+    "display_name": "Emma Lucy Gates Bowen",
+    "full_name": "Emma Lucy Gates Bowen",
+    "birth_date": "1880-01-01",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1951-01-01",
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Susa Young Gates (BY's daughter) and Jacob F. Gates (her second husband). Half-sister of Leah Dunford Widtsoe (wife of apostle John A. Widtsoe). Wife of Apostle Albert E. Bowen (married 1916). Famous LDS soprano singer who performed internationally. Bridges Brigham Young via Susa Young Gates to Albert E. Bowen.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Albert_E._Bowen",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Albert E. Bowen's second wife was Emma Lucy Gates (married 1916, died 1951)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Susa_Young_Gates",
+        "accessed": "2026-05-21",
+        "notes": "Emma Lucy Gates was daughter of Susa Young Gates by her second husband Jacob F. Gates"
       }
     ]
   }

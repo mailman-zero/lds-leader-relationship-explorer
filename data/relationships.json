@@ -2949,5 +2949,35 @@
         "notes": "Wikipedia confirms marriage to Minerva Richards Young in 1911"
       }
     ]
+  },
+  {
+    "id": "rel-susa-young-gates-1856--emma-lucy-gates-bowen-1880--parent-child",
+    "type": "parent-child",
+    "parent_id": "susa-young-gates-1856",
+    "child_id": "emma-lucy-gates-bowen-1880",
+    "subtype": "biological",
+    "notes": "Emma Lucy Gates was the daughter of Susa Young Gates by her second husband Jacob F. Gates.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Susa_Young_Gates",
+        "accessed": "2026-05-21",
+        "notes": "Emma Lucy Gates was Susa Young Gates's daughter by Jacob F. Gates"
+      }
+    ]
+  },
+  {
+    "id": "rel-albert-e-bowen-1875--emma-lucy-gates-bowen-1880--spouse",
+    "type": "spouse",
+    "person_a_id": "albert-e-bowen-1875",
+    "person_b_id": "emma-lucy-gates-bowen-1880",
+    "marriage_date": "1916-01-01",
+    "notes": "Albert E. Bowen married Emma Lucy Gates in 1916. She died in 1951.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Albert_E._Bowen",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms second wife was 'Emma Lucy Gates (1916-51)' indicating married 1916, died 1951"
+      }
+    ]
   }
 ]
