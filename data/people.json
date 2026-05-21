@@ -4437,7 +4437,7 @@
     "death_place": null,
     "gender": "F",
     "is_leader": false,
-    "notes": "Daughter of Abraham O. Smoot; wife of Apostle Orson F. Whitney. Bridge between Smoot and Whitney apostolic families.",
+    "notes": "Daughter of Abraham O. Smoot; wife of Apostle Orson F. Whitney. Bridge between Smoot and Whitney apostolic families. [END OF ORIGINAL NODES — Merrill/Hyde/Taylor/Smoot/Wirthlin connector nodes follow]",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Abraham_O._Smoot",
@@ -4513,6 +4513,66 @@
         "url": "https://en.wikipedia.org/wiki/Annie_Taylor_Hyde",
         "accessed": "2026-05-21",
         "notes": "Wikipedia confirms Annie Laura Hyde married Joseph F. Merrill."
+      }
+    ]
+  },
+  {
+    "id": "joseph-a-young-1834",
+    "display_name": "Joseph Angell Young",
+    "full_name": "Joseph Angell Young",
+    "birth_date": "1834-02-28",
+    "birth_place": "Kirtland, Ohio, USA",
+    "death_date": "1875-12-16",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Son of Brigham Young and Mary Ann Angell (BY's first legal wife). Father of Richard W. Young (by plural wife Margaret Whitehead). Grandfather of Minerva Richards Young (wife of Apostle Adam S. Bennion).",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_W._Young",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Joseph A. Young was 'the son of Brigham Young and his wife, Mary Ann Angell' and father of Richard W. Young."
+      }
+    ]
+  },
+  {
+    "id": "richard-w-young-1858",
+    "display_name": "Richard W. Young",
+    "full_name": "Richard Whitehead Young",
+    "birth_date": "1858-01-01",
+    "birth_place": "Utah Territory",
+    "death_date": "1919-01-01",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Son of Joseph A. Young (BY's son) and Margaret Whitehead. Married Minerva Richards (niece of Apostle Franklin D. Richards). Father of Minerva Richards Young (wife of Apostle Adam S. Bennion). A grandson of Brigham Young.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_W._Young",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms parentage, wife Minerva Richards (daughter of Henry Phinehas Richards, brother of Franklin D. Richards), and family connections."
+      }
+    ]
+  },
+  {
+    "id": "minerva-richards-young-bennion-1882",
+    "display_name": "Minerva Richards Young Bennion",
+    "full_name": "Minerva Richards Young Bennion",
+    "birth_date": "1882-01-01",
+    "birth_place": "Utah, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Richard W. Young (grandson of Brigham Young) and Minerva Richards (niece of Apostle Franklin D. Richards). Married Apostle Adam S. Bennion in 1911. Approximate birth year.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Adam_S._Bennion",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Adam S. Bennion married Minerva Richards Young in 1911, that she was daughter of Richard W. Young, and that Bennion belonged to the 'Richards-Young family.'"
       }
     ]
   }

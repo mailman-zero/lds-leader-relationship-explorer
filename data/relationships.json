@@ -2876,5 +2876,64 @@
         "notes": "Wikipedia confirms Maria Loenza Kingsbury was mother of future Apostle Joseph F. Merrill"
       }
     ]
+  },
+  {
+    "id": "rel-brigham-young-1801--joseph-a-young-1834--parent-child",
+    "type": "parent-child",
+    "parent_id": "brigham-young-1801",
+    "child_id": "joseph-a-young-1834",
+    "subtype": "biological",
+    "notes": "Joseph Angell Young was Brigham Young's son by his first/legal wife Mary Ann Angell.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_W._Young",
+        "accessed": "2026-05-21",
+        "notes": "Confirms Joseph A. Young was son of Brigham Young and Mary Ann Angell"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-a-young-1834--richard-w-young-1858--parent-child",
+    "type": "parent-child",
+    "parent_id": "joseph-a-young-1834",
+    "child_id": "richard-w-young-1858",
+    "subtype": "biological",
+    "notes": "Richard W. Young was son of Joseph A. Young by his plural wife Margaret Whitehead.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_W._Young",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Richard W. Young was 'the son of Joseph A. Young and his second (plural) wife, Margaret Whitehead'"
+      }
+    ]
+  },
+  {
+    "id": "rel-richard-w-young-1858--minerva-richards-young-bennion-1882--parent-child",
+    "type": "parent-child",
+    "parent_id": "richard-w-young-1858",
+    "child_id": "minerva-richards-young-bennion-1882",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Adam_S._Bennion",
+        "accessed": "2026-05-21",
+        "notes": "Adam S. Bennion's wife Minerva Richards Young was daughter of Richard W. Young"
+      }
+    ]
+  },
+  {
+    "id": "rel-adam-s-bennion-1886--minerva-richards-young-bennion-1882--spouse",
+    "type": "spouse",
+    "person_a_id": "adam-s-bennion-1886",
+    "person_b_id": "minerva-richards-young-bennion-1882",
+    "marriage_date": "1911-01-01",
+    "notes": "Adam S. Bennion married Minerva Richards Young in 1911.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Adam_S._Bennion",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms marriage to Minerva Richards Young in 1911"
+      }
+    ]
   }
 ]
