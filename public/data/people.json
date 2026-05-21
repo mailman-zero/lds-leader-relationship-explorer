@@ -1,0 +1,3865 @@
+[
+  {
+    "id": "joseph-smith-jr-1805",
+    "display_name": "Joseph Smith Jr.",
+    "full_name": "Joseph Smith Jr.",
+    "birth_date": "1805-12-23",
+    "birth_place": "Sharon, Vermont, USA",
+    "death_date": "1844-06-27",
+    "death_place": "Carthage, Illinois, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Founder and 1st President of the Church",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_Smith",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/joseph-smith-jr-1805.jpg"
+  },
+  {
+    "id": "joseph-smith-sr-1771",
+    "display_name": "Joseph Smith Sr.",
+    "full_name": "Joseph Smith Sr.",
+    "birth_date": "1771-07-12",
+    "birth_place": "Topsfield, Massachusetts, USA",
+    "death_date": "1840-09-14",
+    "death_place": "Nauvoo, Illinois, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Patriarch to the Church, father of Joseph Smith Jr. and Hyrum Smith",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_Smith_Sr.",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/joseph-smith-sr-1771.jpg"
+  },
+  {
+    "id": "hyrum-smith-1800",
+    "display_name": "Hyrum Smith",
+    "full_name": "Hyrum Smith",
+    "birth_date": "1800-02-09",
+    "birth_place": "Tunbridge, Vermont, USA",
+    "death_date": "1844-06-27",
+    "death_place": "Carthage, Illinois, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Assistant President/Patriarch; brother of Joseph Smith Jr.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hyrum_Smith",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/hyrum-smith-1800.png"
+  },
+  {
+    "id": "william-smith-1811",
+    "display_name": "William Smith",
+    "full_name": "William Smith",
+    "birth_date": "1811-03-13",
+    "birth_place": "Royalton, Vermont, USA",
+    "death_date": "1893-11-13",
+    "death_place": "Osterdock, Iowa, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Brother of Joseph Smith Jr.; original member of Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Smith_(Latter_Day_Saints)",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/william-smith-1811.gif"
+  },
+  {
+    "id": "george-a-smith-1817",
+    "display_name": "George A. Smith",
+    "full_name": "George Albert Smith",
+    "birth_date": "1817-06-26",
+    "birth_place": "Potsdam, New York, USA",
+    "death_date": "1875-09-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "First Counselor to Brigham Young; cousin of Joseph Smith Jr.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/George_A._Smith",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/george-a-smith-1817.jpg"
+  },
+  {
+    "id": "asael-smith-1744",
+    "display_name": "Asael Smith",
+    "full_name": "Asael Smith",
+    "birth_date": "1744-03-07",
+    "birth_place": "Topsfield, Massachusetts, USA",
+    "death_date": "1830-10-31",
+    "death_place": "Stockholm, New York, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Grandfather of Joseph Smith Jr. and Hyrum Smith; grandfather of George A. Smith",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Asael_Smith",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "john-smith-1781",
+    "display_name": "John Smith (uncle)",
+    "full_name": "John Smith",
+    "birth_date": "1781-07-16",
+    "birth_place": "Derryfield, New Hampshire, USA",
+    "death_date": "1854-05-23",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Patriarch to the Church; uncle of Joseph Smith Jr.; father of George A. Smith",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Smith_(Latter_Day_Saints)",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/john-smith-1781.jpg"
+  },
+  {
+    "id": "joseph-f-smith-1838",
+    "display_name": "Joseph F. Smith",
+    "full_name": "Joseph Fielding Smith",
+    "birth_date": "1838-11-13",
+    "birth_place": "Far West, Missouri, USA",
+    "death_date": "1918-11-19",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "6th President of the Church; son of Hyrum Smith",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_F._Smith",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/joseph-f-smith-1838.jpg"
+  },
+  {
+    "id": "joseph-fielding-smith-1876",
+    "display_name": "Joseph Fielding Smith",
+    "full_name": "Joseph Fielding Smith",
+    "birth_date": "1876-07-19",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1972-07-02",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "10th President of the Church; son of Joseph F. Smith",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_Fielding_Smith",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/joseph-fielding-smith-1876.jpg"
+  },
+  {
+    "id": "hyrum-mack-smith-1872",
+    "display_name": "Hyrum Mack Smith",
+    "full_name": "Hyrum Mack Smith",
+    "birth_date": "1872-03-21",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1918-01-23",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle; son of Joseph F. Smith; brother of Joseph Fielding Smith",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hyrum_Mack_Smith",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/hyrum-mack-smith-1872.jpg"
+  },
+  {
+    "id": "john-henry-smith-1848",
+    "display_name": "John Henry Smith",
+    "full_name": "John Henry Smith",
+    "birth_date": "1848-09-18",
+    "birth_place": "Carbunca, Iowa, USA",
+    "death_date": "1911-10-13",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle; son of George A. Smith",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Henry_Smith",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/john-henry-smith-1848.jpg"
+  },
+  {
+    "id": "george-albert-smith-1870",
+    "display_name": "George Albert Smith",
+    "full_name": "George Albert Smith",
+    "birth_date": "1870-04-04",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1951-04-04",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "8th President of the Church; son of John Henry Smith",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/George_Albert_Smith",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/george-albert-smith-1870.jpg"
+  },
+  {
+    "id": "m-russell-ballard-1928",
+    "display_name": "M. Russell Ballard",
+    "full_name": "Melvin Russell Ballard Jr.",
+    "birth_date": "1928-10-08",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "2023-11-12",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "President of Q12; great-great-grandson of Hyrum Smith through Melvin J. Ballard",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/M._Russell_Ballard",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/m-russell-ballard-1928.jpg"
+  },
+  {
+    "id": "melvin-j-ballard-1873",
+    "display_name": "Melvin J. Ballard",
+    "full_name": "Melvin Joseph Ballard",
+    "birth_date": "1873-02-09",
+    "birth_place": "Logan, Utah, USA",
+    "death_date": "1939-07-30",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle; grandfather of M. Russell Ballard",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Melvin_J._Ballard",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/melvin-j-ballard-1873.jpg"
+  },
+  {
+    "id": "henry-ballard-1832",
+    "display_name": "Henry Ballard",
+    "full_name": "Henry Ballard",
+    "birth_date": "1832-01-01",
+    "birth_place": "Thatcham, Berkshire, England",
+    "death_date": "1908-01-07",
+    "death_place": "Logan, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Father of Melvin J. Ballard; mother was a daughter of Hyrum Smith",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_Ballard",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "lovina-smith-1827",
+    "display_name": "Lovina Smith",
+    "full_name": "Lovina Smith",
+    "birth_date": "1827-09-16",
+    "birth_place": "Kirtland, Ohio, USA",
+    "death_date": "1876-12-12",
+    "death_place": "Logan, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Hyrum Smith; married Henry Ballard; grandmother of Melvin J. Ballard",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_Ballard",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "brigham-young-1801",
+    "display_name": "Brigham Young",
+    "full_name": "Brigham Young",
+    "birth_date": "1801-06-01",
+    "birth_place": "Whitingham, Vermont, USA",
+    "death_date": "1877-08-29",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "2nd President of the Church; original Q12 member; 5th cousin of Joseph Smith Jr.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brigham_Young",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/brigham-young-1801.jpg"
+  },
+  {
+    "id": "brigham-young-jr-1836",
+    "display_name": "Brigham Young Jr.",
+    "full_name": "Brigham Young Jr.",
+    "birth_date": "1836-12-18",
+    "birth_place": "Nauvoo, Illinois, USA",
+    "death_date": "1903-04-11",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle and Q12 President; son of Brigham Young",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brigham_Young_Jr.",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/brigham-young-jr-1836.jpg"
+  },
+  {
+    "id": "john-young-1763",
+    "display_name": "John Young",
+    "full_name": "John Young",
+    "birth_date": "1763-05-10",
+    "birth_place": "Hopkinton, Massachusetts, USA",
+    "death_date": "1839-06-12",
+    "death_place": "Quincy, Illinois, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Father of Brigham Young",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brigham_Young",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "john-young-1739",
+    "display_name": "John Young (grandfather of Brigham)",
+    "full_name": "John Young",
+    "birth_date": "1739-01-01",
+    "birth_place": "Massachusetts, USA",
+    "death_date": "1790-01-01",
+    "death_place": "USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Grandfather of Brigham Young; needed for Smith-Young cousin chain",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brigham_Young",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "heber-c-kimball-1801",
+    "display_name": "Heber C. Kimball",
+    "full_name": "Heber Chase Kimball",
+    "birth_date": "1801-06-14",
+    "birth_place": "Sheldon, Vermont, USA",
+    "death_date": "1868-06-22",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Original Q12 member; First Counselor to Brigham Young",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Heber_C._Kimball",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/heber-c-kimball-1801.png"
+  },
+  {
+    "id": "willard-richards-1804",
+    "display_name": "Willard Richards",
+    "full_name": "Willard Richards",
+    "birth_date": "1804-06-24",
+    "birth_place": "Hopkinton, Massachusetts, USA",
+    "death_date": "1854-03-11",
+    "death_place": "Salt Lake City, Utah Territory, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle; Second Counselor to Brigham Young",
+    "sources": [
+      {
+        "url": "https://www.churchofjesuschrist.org/study/history/doctrine-and-covenants-historical-resources-2025/people/bio-willard-richards?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ],
+    "photo": "/photos/willard-richards-1804.jpg"
+  },
+  {
+    "id": "david-patten-kimball-1839",
+    "display_name": "David Patten Kimball",
+    "full_name": "David Patten Kimball",
+    "birth_date": "1839-01-01",
+    "birth_place": "Nauvoo, Illinois, USA",
+    "death_date": "1883-01-01",
+    "death_place": "Mesa, Arizona, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Son of Heber C. Kimball; connector to Spencer W. Kimball lineage",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Spencer_W._Kimball",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "andrew-kimball-1858",
+    "display_name": "Andrew Kimball",
+    "full_name": "Andrew Kimball",
+    "birth_date": "1858-09-07",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1924-08-31",
+    "death_place": "Thatcher, Arizona, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Son of David Patten Kimball; father of Spencer W. Kimball",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Spencer_W._Kimball",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "spencerw-kimball-1895",
+    "display_name": "Spencer W. Kimball",
+    "full_name": "Spencer Woolley Kimball",
+    "birth_date": "1895-03-28",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1985-11-05",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "12th President of the Church",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Spencer_W._Kimball",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/spencerw-kimball-1895.jpg"
+  },
+  {
+    "id": "camilla-eyring-kimball-1894",
+    "display_name": "Camilla Eyring Kimball",
+    "full_name": "Camilla Eyring Kimball",
+    "birth_date": "1894-01-04",
+    "birth_place": "Pima, Arizona, USA",
+    "death_date": "1987-08-20",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Wife of Spencer W. Kimball; sister of Henry Eyring (chemist); aunt of Henry B. Eyring",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Camilla_Eyring_Kimball",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "quentinl-cook-1940",
+    "display_name": "Quentin L. Cook",
+    "full_name": "Quentin Lamoni Cook",
+    "birth_date": "1940-09-08",
+    "birth_place": "Logan, Utah, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12; great-great-grandson of Heber C. Kimball through his mother",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Quentin_L._Cook",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/quentinl-cook-1940.png"
+  },
+  {
+    "id": "bernice-kimball-1907",
+    "display_name": "Bernice Kimball Cook",
+    "full_name": "Bernice Kimball Cook",
+    "birth_date": "1907-01-01",
+    "birth_place": "Utah, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Mother of Quentin L. Cook; great-granddaughter of Heber C. Kimball",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Quentin_L._Cook",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "kimball-ancestor-1870",
+    "display_name": "Kimball (Quentin's great-grandfather)",
+    "full_name": "Unknown Kimball",
+    "birth_date": "1870-01-01",
+    "birth_place": "Utah, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Son of David Patten Kimball; grandfather of Bernice Kimball Cook — exact identity needs research verification Superseded by researched Crozier Kimball connector.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Quentin_L._Cook",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "henry-eyring-chemist-1901",
+    "display_name": "Henry Eyring",
+    "full_name": "Henry Eyring",
+    "birth_date": "1901-02-20",
+    "birth_place": "Colonia Juárez, Chihuahua, Mexico",
+    "death_date": "1981-12-26",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Renowned theoretical chemist; father of Henry B. Eyring; brother of Camilla Eyring Kimball",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_Eyring_(chemist)",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "hb-eyring-1933",
+    "display_name": "Henry B. Eyring",
+    "full_name": "Henry Bennion Eyring",
+    "birth_date": "1933-05-31",
+    "birth_place": "Princeton, New Jersey, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Second Counselor in First Presidency; son of Henry Eyring (chemist)",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_B._Eyring",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/hb-eyring-1933.jpg"
+  },
+  {
+    "id": "parley-p-pratt-1807",
+    "display_name": "Parley P. Pratt",
+    "full_name": "Parley Parker Pratt",
+    "birth_date": "1807-04-12",
+    "birth_place": "Burlington, New York, USA",
+    "death_date": "1857-05-13",
+    "death_place": "Van Buren, Arkansas, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Original Q12 member; brother of Orson Pratt",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Parley_P._Pratt",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/parley-p-pratt-1807.gif"
+  },
+  {
+    "id": "orson-pratt-1811",
+    "display_name": "Orson Pratt",
+    "full_name": "Orson Pratt",
+    "birth_date": "1811-09-19",
+    "birth_place": "Hartford, Washington County, New York, USA",
+    "death_date": "1881-10-03",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Original Q12 member; brother of Parley P. Pratt",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Orson_Pratt",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/orson-pratt-1811.jpg"
+  },
+  {
+    "id": "jared-pratt-1784",
+    "display_name": "Jared Pratt",
+    "full_name": "Jared Pratt",
+    "birth_date": "1784-11-29",
+    "birth_place": "Canaan, New York, USA",
+    "death_date": "1839-09-10",
+    "death_place": "Quincy, Illinois, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Father of Parley P. Pratt and Orson Pratt",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Parley_P._Pratt",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "amasa-m-lyman-1813",
+    "display_name": "Amasa M. Lyman",
+    "full_name": "Amasa Mason Lyman",
+    "birth_date": "1813-03-30",
+    "birth_place": "Lyman, New Hampshire, USA",
+    "death_date": "1877-02-04",
+    "death_place": "Fillmore, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Amasa_M._Lyman",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/amasa-m-lyman-1813.png"
+  },
+  {
+    "id": "ezra-t-benson-1811",
+    "display_name": "Ezra T. Benson",
+    "full_name": "Ezra Taft Benson",
+    "birth_date": "1811-02-22",
+    "birth_place": "Mendon, Massachusetts, USA",
+    "death_date": "1869-09-03",
+    "death_place": "Ogden, Utah Territory, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle; great-grandfather of President Ezra Taft Benson",
+    "sources": [
+      {
+        "url": "https://www.churchofjesuschrist.org/study/manual/presidents-of-the-church-student-manual/chapter-13?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ],
+    "photo": "/photos/ezra-t-benson-1811.jpg"
+  },
+  {
+    "id": "charles-c-rich-1809",
+    "display_name": "Charles C. Rich",
+    "full_name": "Charles Coulson Rich",
+    "birth_date": "1809-08-21",
+    "birth_place": "Campbell County, Kentucky, USA",
+    "death_date": "1883-11-17",
+    "death_place": "Paris, Idaho Territory, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle; helped settle Bear Lake Valley",
+    "sources": [
+      {
+        "url": "https://www.churchofjesuschrist.org/study/history/doctrine-and-covenants-historical-resources-2025/people/bio-charles-c-rich?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ],
+    "photo": "/photos/charles-c-rich-1809.jpg"
+  },
+  {
+    "id": "erastus-snow-1818",
+    "display_name": "Erastus Snow",
+    "full_name": "Erastus Snow",
+    "birth_date": "1818-11-09",
+    "birth_place": "St. Johnsbury, Vermont, USA",
+    "death_date": "1888-05-27",
+    "death_place": "Salt Lake City, Utah Territory, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle; one of the first missionaries to Scandinavia",
+    "sources": [
+      {
+        "url": "https://www.churchhistorianspress.org/george-q-cannon/people/erastus-snow",
+        "accessed": "2026-05-21"
+      }
+    ],
+    "photo": "/photos/erastus-snow-1818.jpg"
+  },
+  {
+    "id": "francis-m-lyman-1840",
+    "display_name": "Francis M. Lyman",
+    "full_name": "Francis Marion Lyman",
+    "birth_date": "1840-01-12",
+    "birth_place": "Good Hope, Illinois, USA",
+    "death_date": "1916-11-18",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle and Q12 President; son of Amasa M. Lyman",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Francis_M._Lyman",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/francis-m-lyman-1840.jpg"
+  },
+  {
+    "id": "richard-r-lyman-1870",
+    "display_name": "Richard R. Lyman",
+    "full_name": "Richard Roswell Lyman",
+    "birth_date": "1870-11-23",
+    "birth_place": "Fillmore, Utah, USA",
+    "death_date": "1963-12-31",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle; son of Francis M. Lyman",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_R._Lyman",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/richard-r-lyman-1870.jpg"
+  },
+  {
+    "id": "franklin-d-richards-1821",
+    "display_name": "Franklin D. Richards",
+    "full_name": "Franklin Dewey Richards",
+    "birth_date": "1821-04-02",
+    "birth_place": "Richmond, Massachusetts, USA",
+    "death_date": "1899-12-09",
+    "death_place": "Ogden, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle and Q12 President",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Franklin_D._Richards",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/franklin-d-richards-1821.jpg"
+  },
+  {
+    "id": "george-f-richards-1861",
+    "display_name": "George F. Richards",
+    "full_name": "George Franklin Richards",
+    "birth_date": "1861-02-23",
+    "birth_place": "Farmington, Utah, USA",
+    "death_date": "1950-08-08",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle and Q12 President; son of Franklin D. Richards",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/George_F._Richards",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/george-f-richards-1861.jpg"
+  },
+  {
+    "id": "legrand-richards-1886",
+    "display_name": "LeGrand Richards",
+    "full_name": "LeGrand Richards",
+    "birth_date": "1886-02-06",
+    "birth_place": "Farmington, Utah, USA",
+    "death_date": "1983-01-11",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Apostle; son of George F. Richards",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/LeGrand_Richards",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/legrand-richards-1886.jpg"
+  },
+  {
+    "id": "rm-nelson-1924",
+    "display_name": "Russell M. Nelson",
+    "full_name": "Russell Marion Nelson",
+    "birth_date": "1924-09-09",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "2025-09-27",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "17th President of the Church; died September 27, 2025 at age 101",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Russell_M._Nelson",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/rm-nelson-1924.jpg"
+  },
+  {
+    "id": "dallin-h-oaks-1932",
+    "display_name": "Dallin H. Oaks",
+    "full_name": "Dallin Harris Oaks",
+    "birth_date": "1932-08-12",
+    "birth_place": "Provo, Utah, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "18th President of the Church; ordained October 14, 2025",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dallin_H._Oaks",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/dallin-h-oaks-1932.jpg"
+  },
+  {
+    "id": "jeffrey-r-holland-1940",
+    "display_name": "Jeffrey R. Holland",
+    "full_name": "Jeffrey Richard Holland",
+    "birth_date": "1940-12-03",
+    "birth_place": "St. George, Utah, USA",
+    "death_date": "2025-12-27",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12; Acting President of Q12 from November 15, 2023; died December 27, 2025 at age 85",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jeffrey_R._Holland",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/jeffrey-r-holland-1940.jpg"
+  },
+  {
+    "id": "dieter-f-uchtdorf-1940",
+    "display_name": "Dieter F. Uchtdorf",
+    "full_name": "Dieter Friedrich Uchtdorf",
+    "birth_date": "1940-11-06",
+    "birth_place": "Ostrava, Czechoslovakia",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dieter_F._Uchtdorf",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/dieter-f-uchtdorf-1940.jpg"
+  },
+  {
+    "id": "david-a-bednar-1952",
+    "display_name": "David A. Bednar",
+    "full_name": "David Allan Bednar",
+    "birth_date": "1952-06-15",
+    "birth_place": "Oakland, California, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/David_A._Bednar",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/david-a-bednar-1952.png"
+  },
+  {
+    "id": "d-todd-christofferson-1945",
+    "display_name": "D. Todd Christofferson",
+    "full_name": "David Todd Christofferson",
+    "birth_date": "1945-01-24",
+    "birth_place": "American Fork, Utah, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/D._Todd_Christofferson",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/d-todd-christofferson-1945.jpg"
+  },
+  {
+    "id": "neil-l-andersen-1951",
+    "display_name": "Neil L. Andersen",
+    "full_name": "Neil Linden Andersen",
+    "birth_date": "1951-08-09",
+    "birth_place": "Pocatello, Idaho, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Neil_L._Andersen",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/neil-l-andersen-1951.jpg"
+  },
+  {
+    "id": "ronald-a-rasband-1951",
+    "display_name": "Ronald A. Rasband",
+    "full_name": "Ronald Alan Rasband",
+    "birth_date": "1951-02-06",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ronald_A._Rasband",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/ronald-a-rasband-1951.jpg"
+  },
+  {
+    "id": "gary-e-stevenson-1955",
+    "display_name": "Gary E. Stevenson",
+    "full_name": "Gary Eugene Stevenson",
+    "birth_date": "1955-08-06",
+    "birth_place": "Tremonton, Utah, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gary_E._Stevenson",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/gary-e-stevenson-1955.jpg"
+  },
+  {
+    "id": "dale-g-renlund-1952",
+    "display_name": "Dale G. Renlund",
+    "full_name": "Dale Gunnar Renlund",
+    "birth_date": "1952-11-13",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dale_G._Renlund",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/dale-g-renlund-1952.jpg"
+  },
+  {
+    "id": "gerrit-w-gong-1953",
+    "display_name": "Gerrit W. Gong",
+    "full_name": "Gerrit Walter Gong",
+    "birth_date": "1953-12-23",
+    "birth_place": "Redlands, California, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gerrit_W._Gong",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/gerrit-w-gong-1953.jpg"
+  },
+  {
+    "id": "ulisses-soares-1958",
+    "display_name": "Ulisses Soares",
+    "full_name": "Ulisses Soares",
+    "birth_date": "1958-10-02",
+    "birth_place": "São Paulo, Brazil",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ulisses_Soares",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/ulisses-soares-1958.jpg"
+  },
+  {
+    "id": "patrick-kearon-1961",
+    "display_name": "Patrick Kearon",
+    "full_name": "Patrick Kearon",
+    "birth_date": "1961-10-01",
+    "birth_place": "England",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Patrick_Kearon",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/patrick-kearon-1961.jpg"
+  },
+  {
+    "id": "gerald-causse-1963",
+    "display_name": "Gérald Caussé",
+    "full_name": "Gérald Jean Caussé",
+    "birth_date": "1963-05-20",
+    "birth_place": "Bordeaux, France",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12; called 2026 — verify call date",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/G%C3%A9rald_Caussé",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/gerald-causse-1963.jpg"
+  },
+  {
+    "id": "clark-g-gilbert-1970",
+    "display_name": "Clark G. Gilbert",
+    "full_name": "Clark Gilbert",
+    "birth_date": "1970-01-01",
+    "birth_place": "USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12; called February 2026 — verify exact birth date and call date",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Clark_G._Gilbert",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/clark-g-gilbert-1970.jpg"
+  },
+  {
+    "id": "thomas-b-marsh-1800",
+    "display_name": "Thomas B. Marsh",
+    "full_name": "Thomas Baldwin Marsh",
+    "birth_date": "1800-11-01",
+    "birth_place": "Acton, Massachusetts, USA",
+    "death_date": "1866-01-01",
+    "death_place": "Ogden, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "First President of the Q12; excommunicated 1838, rebaptized 1857",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_B._Marsh",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/thomas-b-marsh-1800.png"
+  },
+  {
+    "id": "david-w-patten-1799",
+    "display_name": "David W. Patten",
+    "full_name": "David Wyman Patten",
+    "birth_date": "1799-11-14",
+    "birth_place": "Theresa, New York, USA",
+    "death_date": "1838-10-25",
+    "death_place": "Ray County, Missouri, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Original Q12; first apostolic martyr",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/David_W._Patten",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "orson-hyde-1805",
+    "display_name": "Orson Hyde",
+    "full_name": "Orson Hyde",
+    "birth_date": "1805-01-08",
+    "birth_place": "Oxford, Connecticut, USA",
+    "death_date": "1878-11-28",
+    "death_place": "Spring City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Original Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Orson_Hyde",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/orson-hyde-1805.jpg"
+  },
+  {
+    "id": "william-e-mclellin-1806",
+    "display_name": "William E. McLellin",
+    "full_name": "William Earl McLellin",
+    "birth_date": "1806-01-18",
+    "birth_place": "Smith County, Tennessee, USA",
+    "death_date": "1883-04-14",
+    "death_place": "Independence, Missouri, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Original Q12; excommunicated 1838",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_E._McLellin",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/william-e-mclellin-1806.gif"
+  },
+  {
+    "id": "luke-johnson-1807",
+    "display_name": "Luke S. Johnson",
+    "full_name": "Luke Samuel Johnson",
+    "birth_date": "1807-11-03",
+    "birth_place": "Pomfret, Vermont, USA",
+    "death_date": "1861-12-09",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Original Q12; excommunicated 1838, rebaptized 1846",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Luke_S._Johnson",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "john-f-boynton-1811",
+    "display_name": "John F. Boynton",
+    "full_name": "John Farnham Boynton",
+    "birth_date": "1811-09-20",
+    "birth_place": "Bradford, Massachusetts, USA",
+    "death_date": "1890-10-20",
+    "death_place": "Syracuse, New York, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Original Q12; excommunicated 1837",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_F._Boynton",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/john-f-boynton-1811.jpg"
+  },
+  {
+    "id": "lyman-e-johnson-1811",
+    "display_name": "Lyman E. Johnson",
+    "full_name": "Lyman Eugene Johnson",
+    "birth_date": "1811-10-24",
+    "birth_place": "Pomfret, Vermont, USA",
+    "death_date": "1859-12-20",
+    "death_place": "Prairie du Chien, Wisconsin, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Original Q12; excommunicated 1838",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lyman_E._Johnson",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/lyman-e-johnson-1811.jpg"
+  },
+  {
+    "id": "john-taylor-1808",
+    "display_name": "John Taylor",
+    "full_name": "John Taylor",
+    "birth_date": "1808-11-01",
+    "birth_place": "Milnthorpe, Westmorland, England",
+    "death_date": "1887-07-25",
+    "death_place": "Kaysville, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "3rd President of the Church",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Taylor_(Latter-day_Saints)",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/john-taylor-1808.jpg"
+  },
+  {
+    "id": "wilford-woodruff-1807",
+    "display_name": "Wilford Woodruff",
+    "full_name": "Wilford Woodruff",
+    "birth_date": "1807-03-01",
+    "birth_place": "Farmington, Connecticut, USA",
+    "death_date": "1898-09-02",
+    "death_place": "San Francisco, California, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "4th President of the Church",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wilford_Woodruff",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/wilford-woodruff-1807.jpg"
+  },
+  {
+    "id": "lorenzo-snow-1814",
+    "display_name": "Lorenzo Snow",
+    "full_name": "Lorenzo Snow",
+    "birth_date": "1814-04-03",
+    "birth_place": "Mantua, Ohio, USA",
+    "death_date": "1901-10-10",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "5th President of the Church",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lorenzo_Snow",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/lorenzo-snow-1814.jpg"
+  },
+  {
+    "id": "heber-j-grant-1856",
+    "display_name": "Heber J. Grant",
+    "full_name": "Heber Jeddy Grant",
+    "birth_date": "1856-11-22",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1945-05-14",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "7th President of the Church; son of Jedediah M. Grant",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Heber_J._Grant",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/heber-j-grant-1856.jpg"
+  },
+  {
+    "id": "jedediah-m-grant-1816",
+    "display_name": "Jedediah M. Grant",
+    "full_name": "Jedediah Morgan Grant",
+    "birth_date": "1816-02-21",
+    "birth_place": "Windsor, Broome County, New York, USA",
+    "death_date": "1856-12-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Second Counselor to Brigham Young; father of Heber J. Grant",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jedediah_M._Grant",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/jedediah-m-grant-1816.gif"
+  },
+  {
+    "id": "david-o-mckay-1873",
+    "display_name": "David O. McKay",
+    "full_name": "David Oman McKay",
+    "birth_date": "1873-09-08",
+    "birth_place": "Huntsville, Utah, USA",
+    "death_date": "1970-01-18",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "9th President of the Church",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/David_O._McKay",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/david-o-mckay-1873.jpg"
+  },
+  {
+    "id": "harold-b-lee-1899",
+    "display_name": "Harold B. Lee",
+    "full_name": "Harold Bingham Lee",
+    "birth_date": "1899-03-28",
+    "birth_place": "Clifton, Idaho, USA",
+    "death_date": "1973-12-26",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "11th President of the Church",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Harold_B._Lee",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/harold-b-lee-1899.jpg"
+  },
+  {
+    "id": "ezra-taft-benson-1899",
+    "display_name": "Ezra Taft Benson",
+    "full_name": "Ezra Taft Benson",
+    "birth_date": "1899-08-04",
+    "birth_place": "Whitney, Idaho, USA",
+    "death_date": "1994-05-30",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "13th President of the Church",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ezra_Taft_Benson",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/ezra-taft-benson-1899.jpg"
+  },
+  {
+    "id": "howard-w-hunter-1907",
+    "display_name": "Howard W. Hunter",
+    "full_name": "Howard William Hunter",
+    "birth_date": "1907-11-14",
+    "birth_place": "Boise, Idaho, USA",
+    "death_date": "1995-03-03",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "14th President of the Church",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Howard_W._Hunter",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/howard-w-hunter-1907.jpg"
+  },
+  {
+    "id": "gordon-b-hinckley-1910",
+    "display_name": "Gordon B. Hinckley",
+    "full_name": "Gordon Bitner Hinckley",
+    "birth_date": "1910-06-23",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "2008-01-27",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "15th President of the Church",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gordon_B._Hinckley",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/gordon-b-hinckley-1910.jpg"
+  },
+  {
+    "id": "thomas-s-monson-1927",
+    "display_name": "Thomas S. Monson",
+    "full_name": "Thomas Spencer Monson",
+    "birth_date": "1927-08-21",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "2018-01-02",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "16th President of the Church",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_S._Monson",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/thomas-s-monson-1927.jpg"
+  },
+  {
+    "id": "boyd-k-packer-1924",
+    "display_name": "Boyd K. Packer",
+    "full_name": "Boyd Kenneth Packer",
+    "birth_date": "1924-09-10",
+    "birth_place": "Brigham City, Utah, USA",
+    "death_date": "2015-07-03",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12 President",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Boyd_K._Packer",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/boyd-k-packer-1924.jpg"
+  },
+  {
+    "id": "l-tom-perry-1922",
+    "display_name": "L. Tom Perry",
+    "full_name": "Lowell Tom Perry",
+    "birth_date": "1922-08-05",
+    "birth_place": "Logan, Utah, USA",
+    "death_date": "2015-05-30",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/L._Tom_Perry",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/l-tom-perry-1922.jpg"
+  },
+  {
+    "id": "richard-g-scott-1928",
+    "display_name": "Richard G. Scott",
+    "full_name": "Richard Gordon Scott",
+    "birth_date": "1928-11-07",
+    "birth_place": "Pocatello, Idaho, USA",
+    "death_date": "2015-09-22",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_G._Scott",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/richard-g-scott-1928.jpg"
+  },
+  {
+    "id": "robert-d-hales-1932",
+    "display_name": "Robert D. Hales",
+    "full_name": "Robert Dean Hales",
+    "birth_date": "1932-08-24",
+    "birth_place": "New York City, New York, USA",
+    "death_date": "2017-10-03",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Q12",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_D._Hales",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "marion-g-romney-1897",
+    "display_name": "Marion G. Romney",
+    "full_name": "Marion George Romney",
+    "birth_date": "1897-09-19",
+    "birth_place": "Colonia Juárez, Chihuahua, Mexico",
+    "death_date": "1988-05-20",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "First Counselor in First Presidency (under Kimball)",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Marion_G._Romney",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/marion-g-romney-1897.jpg"
+  },
+  {
+    "id": "nathan-eldon-tanner-1898",
+    "display_name": "N. Eldon Tanner",
+    "full_name": "Nathan Eldon Tanner",
+    "birth_date": "1898-05-09",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1982-11-27",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "First Counselor in First Presidency (under Lee and Kimball)",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/N._Eldon_Tanner",
+        "accessed": "2026-05-20"
+      }
+    ],
+    "photo": "/photos/nathan-eldon-tanner-1898.jpg"
+  },
+  {
+    "id": "john-e-page-1799",
+    "display_name": "John E. Page",
+    "full_name": "John E. Page",
+    "birth_date": "1799-02-25",
+    "birth_place": "Unknown",
+    "death_date": "1867-10-14",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/john-e-page-1799.jpg"
+  },
+  {
+    "id": "lyman-wight-1796",
+    "display_name": "Lyman Wight",
+    "full_name": "Lyman Wight",
+    "birth_date": "1796-05-09",
+    "birth_place": "Unknown",
+    "death_date": "1858-03-31",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/lyman-wight-1796.gif"
+  },
+  {
+    "id": "george-q-cannon-1827",
+    "display_name": "George Q. Cannon",
+    "full_name": "George Q. Cannon",
+    "birth_date": "1827-01-11",
+    "birth_place": "Unknown",
+    "death_date": "1901-04-12",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/george-q-cannon-1827.jpg"
+  },
+  {
+    "id": "albert-carrington-1813",
+    "display_name": "Albert Carrington",
+    "full_name": "Albert Carrington",
+    "birth_date": "1813-01-08",
+    "birth_place": "Unknown",
+    "death_date": "1889-09-19",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/albert-carrington-1813.jpg"
+  },
+  {
+    "id": "moses-thatcher-1842",
+    "display_name": "Moses Thatcher",
+    "full_name": "Moses Thatcher",
+    "birth_date": "1842-02-02",
+    "birth_place": "Unknown",
+    "death_date": "1909-08-21",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/moses-thatcher-1842.jpg"
+  },
+  {
+    "id": "george-teasdale-1831",
+    "display_name": "George Teasdale",
+    "full_name": "George Teasdale",
+    "birth_date": "1831-12-08",
+    "birth_place": "Unknown",
+    "death_date": "1907-06-09",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/george-teasdale-1831.jpg"
+  },
+  {
+    "id": "john-w-taylor-1858",
+    "display_name": "John W. Taylor",
+    "full_name": "John W. Taylor",
+    "birth_date": "1858-05-15",
+    "birth_place": "Unknown",
+    "death_date": "1916-10-10",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/john-w-taylor-1858.gif"
+  },
+  {
+    "id": "marriner-w-merrill-1832",
+    "display_name": "Marriner W. Merrill",
+    "full_name": "Marriner W. Merrill",
+    "birth_date": "1832-09-25",
+    "birth_place": "Unknown",
+    "death_date": "1906-02-06",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/marriner-w-merrill-1832.jpg"
+  },
+  {
+    "id": "anthon-h-lund-1844",
+    "display_name": "Anthon H. Lund",
+    "full_name": "Anthon H. Lund",
+    "birth_date": "1844-05-15",
+    "birth_place": "Unknown",
+    "death_date": "1921-03-02",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/anthon-h-lund-1844.jpg"
+  },
+  {
+    "id": "abraham-h-cannon-1859",
+    "display_name": "Abraham H. Cannon",
+    "full_name": "Abraham H. Cannon",
+    "birth_date": "1859-03-12",
+    "birth_place": "Unknown",
+    "death_date": "1896-07-19",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/abraham-h-cannon-1859.jpg"
+  },
+  {
+    "id": "matthias-f-cowley-1858",
+    "display_name": "Matthias F. Cowley",
+    "full_name": "Matthias F. Cowley",
+    "birth_date": "1858-08-25",
+    "birth_place": "Unknown",
+    "death_date": "1940-06-16",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/matthias-f-cowley-1858.jpg"
+  },
+  {
+    "id": "abraham-o-woodruff-1872",
+    "display_name": "Abraham O. Woodruff",
+    "full_name": "Abraham O. Woodruff",
+    "birth_date": "1872-11-23",
+    "birth_place": "Unknown",
+    "death_date": "1904-06-20",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/abraham-o-woodruff-1872.jpg"
+  },
+  {
+    "id": "rudger-clawson-1857",
+    "display_name": "Rudger Clawson",
+    "full_name": "Rudger Clawson",
+    "birth_date": "1857-03-12",
+    "birth_place": "Unknown",
+    "death_date": "1943-06-21",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/rudger-clawson-1857.gif"
+  },
+  {
+    "id": "reed-smoot-1862",
+    "display_name": "Reed Smoot",
+    "full_name": "Reed Smoot",
+    "birth_date": "1862-01-10",
+    "birth_place": "Unknown",
+    "death_date": "1941-02-09",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/reed-smoot-1862.jpg"
+  },
+  {
+    "id": "charles-w-penrose-1832",
+    "display_name": "Charles W. Penrose",
+    "full_name": "Charles W. Penrose",
+    "birth_date": "1832-02-04",
+    "birth_place": "Unknown",
+    "death_date": "1925-05-16",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/charles-w-penrose-1832.gif"
+  },
+  {
+    "id": "orson-f-whitney-1855",
+    "display_name": "Orson F. Whitney",
+    "full_name": "Orson F. Whitney",
+    "birth_date": "1855-07-01",
+    "birth_place": "Unknown",
+    "death_date": "1931-05-16",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/orson-f-whitney-1855.jpg"
+  },
+  {
+    "id": "anthony-w-ivins-1852",
+    "display_name": "Anthony W. Ivins",
+    "full_name": "Anthony W. Ivins",
+    "birth_date": "1852-09-16",
+    "birth_place": "Unknown",
+    "death_date": "1934-09-23",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/anthony-w-ivins-1852.jpg"
+  },
+  {
+    "id": "james-e-talmage-1862",
+    "display_name": "James E. Talmage",
+    "full_name": "James E. Talmage",
+    "birth_date": "1862-09-21",
+    "birth_place": "Unknown",
+    "death_date": "1933-07-27",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/james-e-talmage-1862.jpg"
+  },
+  {
+    "id": "stephen-l-richards-1879",
+    "display_name": "Stephen L Richards",
+    "full_name": "Stephen L Richards",
+    "birth_date": "1879-06-18",
+    "birth_place": "Unknown",
+    "death_date": "1959-05-19",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/stephen-l-richards-1879.jpg"
+  },
+  {
+    "id": "john-a-widtsoe-1872",
+    "display_name": "John A. Widtsoe",
+    "full_name": "John A. Widtsoe",
+    "birth_date": "1872-01-31",
+    "birth_place": "Unknown",
+    "death_date": "1952-11-29",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/john-a-widtsoe-1872.jpg"
+  },
+  {
+    "id": "joseph-f-merrill-1868",
+    "display_name": "Joseph F. Merrill",
+    "full_name": "Joseph F. Merrill",
+    "birth_date": "1868-08-24",
+    "birth_place": "Unknown",
+    "death_date": "1952-02-03",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/joseph-f-merrill-1868.jpg"
+  },
+  {
+    "id": "charles-a-callis-1865",
+    "display_name": "Charles A. Callis",
+    "full_name": "Charles A. Callis",
+    "birth_date": "1865-05-04",
+    "birth_place": "Unknown",
+    "death_date": "1947-01-21",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/charles-a-callis-1865.jpg"
+  },
+  {
+    "id": "j-reuben-clark-1871",
+    "display_name": "J. Reuben Clark",
+    "full_name": "J. Reuben Clark",
+    "birth_date": "1871-09-01",
+    "birth_place": "Unknown",
+    "death_date": "1961-10-06",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/j-reuben-clark-1871.jpg"
+  },
+  {
+    "id": "alonzo-a-hinckley-1870",
+    "display_name": "Alonzo A. Hinckley",
+    "full_name": "Alonzo A. Hinckley",
+    "birth_date": "1870-04-23",
+    "birth_place": "Unknown",
+    "death_date": "1936-12-22",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/alonzo-a-hinckley-1870.jpg"
+  },
+  {
+    "id": "albert-e-bowen-1875",
+    "display_name": "Albert E. Bowen",
+    "full_name": "Albert E. Bowen",
+    "birth_date": "1875-10-31",
+    "birth_place": "Unknown",
+    "death_date": "1953-07-15",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/albert-e-bowen-1875.jpg"
+  },
+  {
+    "id": "sylvester-q-cannon-1877",
+    "display_name": "Sylvester Q. Cannon",
+    "full_name": "Sylvester Q. Cannon",
+    "birth_date": "1877-06-10",
+    "birth_place": "Unknown",
+    "death_date": "1943-05-29",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/sylvester-q-cannon-1877.jpg"
+  },
+  {
+    "id": "mark-e-petersen-1900",
+    "display_name": "Mark E. Petersen",
+    "full_name": "Mark E. Petersen",
+    "birth_date": "1900-11-07",
+    "birth_place": "Unknown",
+    "death_date": "1984-01-11",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/mark-e-petersen-1900.jpg"
+  },
+  {
+    "id": "matthew-cowley-1897",
+    "display_name": "Matthew Cowley",
+    "full_name": "Matthew Cowley",
+    "birth_date": "1897-08-02",
+    "birth_place": "Unknown",
+    "death_date": "1953-12-13",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/matthew-cowley-1897.jpg"
+  },
+  {
+    "id": "henry-d-moyle-1889",
+    "display_name": "Henry D. Moyle",
+    "full_name": "Henry D. Moyle",
+    "birth_date": "1889-04-22",
+    "birth_place": "Unknown",
+    "death_date": "1963-09-18",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/henry-d-moyle-1889.jpg"
+  },
+  {
+    "id": "delbert-l-stapley-1896",
+    "display_name": "Delbert L. Stapley",
+    "full_name": "Delbert L. Stapley",
+    "birth_date": "1896-12-11",
+    "birth_place": "Unknown",
+    "death_date": "1978-08-19",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/delbert-l-stapley-1896.jpg"
+  },
+  {
+    "id": "adam-s-bennion-1886",
+    "display_name": "Adam S. Bennion",
+    "full_name": "Adam S. Bennion",
+    "birth_date": "1886-12-02",
+    "birth_place": "Unknown",
+    "death_date": "1958-02-11",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/adam-s-bennion-1886.jpg"
+  },
+  {
+    "id": "richard-l-evans-1906",
+    "display_name": "Richard L. Evans",
+    "full_name": "Richard L. Evans",
+    "birth_date": "1906-03-23",
+    "birth_place": "Unknown",
+    "death_date": "1971-11-01",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/richard-l-evans-1906.jpg"
+  },
+  {
+    "id": "george-q-morris-1874",
+    "display_name": "George Q. Morris",
+    "full_name": "George Q. Morris",
+    "birth_date": "1874-02-20",
+    "birth_place": "Unknown",
+    "death_date": "1962-04-23",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/george-q-morris-1874.jpg"
+  },
+  {
+    "id": "hugh-b-brown-1883",
+    "display_name": "Hugh B. Brown",
+    "full_name": "Hugh B. Brown",
+    "birth_date": "1883-10-24",
+    "birth_place": "Unknown",
+    "death_date": "1975-12-02",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/hugh-b-brown-1883.jpg"
+  },
+  {
+    "id": "marvin-j-ashton-1915",
+    "display_name": "Marvin J. Ashton",
+    "full_name": "Marvin J. Ashton",
+    "birth_date": "1915-05-06",
+    "birth_place": "Unknown",
+    "death_date": "1994-02-25",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/marvin-j-ashton-1915.jpg"
+  },
+  {
+    "id": "bruce-r-mcconkie-1915",
+    "display_name": "Bruce R. McConkie",
+    "full_name": "Bruce R. McConkie",
+    "birth_date": "1915-07-29",
+    "birth_place": "Unknown",
+    "death_date": "1985-04-19",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/bruce-r-mcconkie-1915.jpg"
+  },
+  {
+    "id": "david-b-haight-1906",
+    "display_name": "David B. Haight",
+    "full_name": "David B. Haight",
+    "birth_date": "1906-09-02",
+    "birth_place": "Unknown",
+    "death_date": "2004-07-31",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/david-b-haight-1906.jpg"
+  },
+  {
+    "id": "james-e-faust-1920",
+    "display_name": "James E. Faust",
+    "full_name": "James E. Faust",
+    "birth_date": "1920-07-31",
+    "birth_place": "Unknown",
+    "death_date": "2007-08-10",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/james-e-faust-1920.jpg"
+  },
+  {
+    "id": "neal-a-maxwell-1926",
+    "display_name": "Neal A. Maxwell",
+    "full_name": "Neal A. Maxwell",
+    "birth_date": "1926-07-06",
+    "birth_place": "Unknown",
+    "death_date": "2004-07-21",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/neal-a-maxwell-1926.jpg"
+  },
+  {
+    "id": "joseph-b-wirthlin-1917",
+    "display_name": "Joseph B. Wirthlin",
+    "full_name": "Joseph B. Wirthlin",
+    "birth_date": "1917-06-11",
+    "birth_place": "Unknown",
+    "death_date": "2008-12-01",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/joseph-b-wirthlin-1917.jpg"
+  },
+  {
+    "id": "oliver-cowdery-1806",
+    "display_name": "Oliver Cowdery",
+    "full_name": "Oliver Cowdery",
+    "birth_date": "1806-10-03",
+    "birth_place": "Unknown",
+    "death_date": "1850-03-03",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/oliver-cowdery-1806.jpg"
+  },
+  {
+    "id": "david-whitmer-1805",
+    "display_name": "David Whitmer",
+    "full_name": "David Whitmer",
+    "birth_date": "1805-01-07",
+    "birth_place": "Unknown",
+    "death_date": "1888-01-25",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ]
+  },
+  {
+    "id": "martin-harris-1783",
+    "display_name": "Martin Harris",
+    "full_name": "Martin Harris",
+    "birth_date": "1783-05-18",
+    "birth_place": "Unknown",
+    "death_date": "1875-07-10",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ]
+  },
+  {
+    "id": "daniel-h-wells-1814",
+    "display_name": "Daniel H. Wells",
+    "full_name": "Daniel H. Wells",
+    "birth_date": "1814-10-27",
+    "birth_place": "Unknown",
+    "death_date": "1891-03-24",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/daniel-h-wells-1814.jpg"
+  },
+  {
+    "id": "john-willard-young-1844",
+    "display_name": "John Willard Young",
+    "full_name": "John Willard Young",
+    "birth_date": "1844-10-01",
+    "birth_place": "Unknown",
+    "death_date": "1924-02-12",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/john-willard-young-1844.gif"
+  },
+  {
+    "id": "joseph-angell-young-1834",
+    "display_name": "Joseph Angell Young",
+    "full_name": "Joseph Angell Young",
+    "birth_date": "1834-10-14",
+    "birth_place": "Unknown",
+    "death_date": "1875-08-05",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ]
+  },
+  {
+    "id": "alvin-r-dyer-1903",
+    "display_name": "Alvin R. Dyer",
+    "full_name": "Alvin R. Dyer",
+    "birth_date": "1903-01-01",
+    "birth_place": "Unknown",
+    "death_date": "1977-03-06",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Church leader added from FP/Q12 historical completion pass.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/alvin-r-dyer-1903.jpg"
+  },
+  {
+    "id": "jesse-gause-1785",
+    "display_name": "Jesse Gause",
+    "full_name": "Jesse Gause",
+    "birth_date": "1785",
+    "birth_place": "Unknown",
+    "death_date": "1836",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Counselor in the first First Presidency; excommunicated in 1832.",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ]
+  },
+  {
+    "id": "sidney-rigdon-1793",
+    "display_name": "Sidney Rigdon",
+    "full_name": "Sidney Rigdon",
+    "birth_date": "1793-02-19",
+    "birth_place": "Unknown",
+    "death_date": "1876-07-14",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Counselor to Joseph Smith in the First Presidency.",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/sidney-rigdon-1793.png"
+  },
+  {
+    "id": "frederick-g-williams-1787",
+    "display_name": "Frederick G. Williams",
+    "full_name": "Frederick Granger Williams",
+    "birth_date": "1787-10-28",
+    "birth_place": "Unknown",
+    "death_date": "1842-10-25",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Second Counselor to Joseph Smith in the First Presidency.",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/frederick-g-williams-1787.jpg"
+  },
+  {
+    "id": "john-c-bennett-1804",
+    "display_name": "John C. Bennett",
+    "full_name": "John Cook Bennett",
+    "birth_date": "1804-08-03",
+    "birth_place": "Unknown",
+    "death_date": "1867-08-05",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Assistant President/counselor in the First Presidency under Joseph Smith.",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/john-c-bennett-1804.jpg"
+  },
+  {
+    "id": "william-law-1809",
+    "display_name": "William Law",
+    "full_name": "William Law",
+    "birth_date": "1809-09-08",
+    "birth_place": "Unknown",
+    "death_date": "1892-01-19",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": true,
+    "familysearch_id": null,
+    "notes": "Second Counselor to Joseph Smith in the First Presidency.",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Birth/death dates and leadership position context from the historical leaders table."
+      }
+    ],
+    "photo": "/photos/william-law-1809.jpg"
+  },
+  {
+    "id": "eliza-maria-partridge-lyman-1820",
+    "display_name": "Eliza Maria Partridge Lyman",
+    "full_name": "Eliza Maria Partridge Lyman",
+    "birth_date": "1820-04-20",
+    "birth_place": "Unknown",
+    "death_date": "1886-03-02",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q43374468).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q43374468",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "eliza-roxcy-snow-1804",
+    "display_name": "Eliza Roxcy Snow",
+    "full_name": "Eliza Roxcy Snow",
+    "birth_date": "1804-01-21",
+    "birth_place": "Unknown",
+    "death_date": "1887-12-05",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q3051180).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q3051180",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "emily-dow-partridge-1824",
+    "display_name": "Emily Dow Partridge",
+    "full_name": "Emily Dow Partridge",
+    "birth_date": "1824-02-28",
+    "birth_place": "Unknown",
+    "death_date": "1899-12-09",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q91157930).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q91157930",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "helen-mar-kimball-1828",
+    "display_name": "Helen Mar Kimball",
+    "full_name": "Helen Mar Kimball",
+    "birth_date": "1828-08-22",
+    "birth_place": "Unknown",
+    "death_date": "1896-11-13",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q5702756).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5702756",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "sarah-ann-whitney-1825",
+    "display_name": "Sarah Ann Whitney",
+    "full_name": "Sarah Ann Whitney",
+    "birth_date": "1825-03-22",
+    "birth_place": "Unknown",
+    "death_date": "1873-09-04",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q7422060).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7422060",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "almera-woodward-johnson-1808",
+    "display_name": "Almera Woodward Johnson",
+    "full_name": "Almera Woodward Johnson",
+    "birth_date": "1808-07-09",
+    "birth_place": "Unknown",
+    "death_date": "1876-12-26",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q109904495).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q109904495",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "clarissa-loomis-smith-1790",
+    "display_name": "Clarissa Loomis Smith",
+    "full_name": "Clarissa Loomis Smith",
+    "birth_date": "1790-06-27",
+    "birth_place": "Unknown",
+    "death_date": "1854-02-14",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q103837183).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837183",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "abigail-nabby-howe-1766",
+    "display_name": "Abigail Nabby Howe",
+    "full_name": "Abigail Nabby Howe",
+    "birth_date": "1766-01-01",
+    "birth_place": "Unknown",
+    "death_date": "1815-06-11",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q89890742).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q89890742",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "b-morris-young-1854",
+    "display_name": "B. Morris Young",
+    "full_name": "B. Morris Young",
+    "birth_date": "1854-01-18",
+    "birth_place": "Unknown",
+    "death_date": "1931-02-20",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q4834119).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4834119",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rhoda-howe-richards-1762",
+    "display_name": "Rhoda Howe Richards",
+    "full_name": "Rhoda Howe Richards",
+    "birth_date": "1762-07-08",
+    "birth_place": "Unknown",
+    "death_date": "1838-02-14",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q107311353).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q107311353",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "olive-woolley-1859",
+    "display_name": "Olive Woolley",
+    "full_name": "Olive Woolley",
+    "birth_date": "1859-08-31",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q84452576).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q84452576",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "jared-pratt-1769",
+    "display_name": "Jared Pratt",
+    "full_name": "Jared Pratt",
+    "birth_date": "1769-01-01",
+    "birth_place": "Unknown",
+    "death_date": "1839-01-01",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q96201929).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96201929",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "clara-caroline-lyman-q103837175",
+    "display_name": "Clara Caroline Lyman",
+    "full_name": "Clara Caroline Lyman",
+    "birth_date": "0001",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q103837175).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837175",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "oliver-snow-iii-q124156647",
+    "display_name": "Oliver Snow III",
+    "full_name": "Oliver Snow III",
+    "birth_date": "0001",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q124156647).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q124156647",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "george-taft-benson-jr-q84550201",
+    "display_name": "George Taft Benson Jr.",
+    "full_name": "George Taft Benson Jr.",
+    "birth_date": "0001",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q84550201).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q84550201",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "bryant-s-hinckley-1867",
+    "display_name": "Bryant S. Hinckley",
+    "full_name": "Bryant S. Hinckley",
+    "birth_date": "1867-07-09",
+    "birth_place": "Unknown",
+    "death_date": "1961-06-05",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q4980614).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4980614",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "hiram-b-clawson-1826",
+    "display_name": "Hiram B. Clawson",
+    "full_name": "Hiram B. Clawson",
+    "birth_date": "1826-11-07",
+    "birth_place": "Unknown",
+    "death_date": "1912-03-29",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q5769020).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5769020",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "mary-louisa-woolley-1848",
+    "display_name": "Mary Louisa Woolley",
+    "full_name": "Mary Louisa Woolley",
+    "birth_date": "1848-07-05",
+    "birth_place": "Unknown",
+    "death_date": "1938-02-10",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q108155601).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q108155601",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "ira-hinckley-1828",
+    "display_name": "Ira Hinckley",
+    "full_name": "Ira Hinckley",
+    "birth_date": "1828-10-30",
+    "birth_place": "Unknown",
+    "death_date": "1904-04-10",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q2890381).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q2890381",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "john-q-cannon-1857",
+    "display_name": "John Q. Cannon",
+    "full_name": "John Q. Cannon",
+    "birth_date": "1857-04-19",
+    "birth_place": "Unknown",
+    "death_date": "1931-01-14",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q6253623).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q6253623",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "lydia-jane-brown-1856",
+    "display_name": "Lydia Jane Brown",
+    "full_name": "Lydia Jane Brown",
+    "birth_date": "1856-01-01",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q103837518).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837518",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "amy-faust-1897",
+    "display_name": "Amy Faust",
+    "full_name": "Amy Faust",
+    "birth_date": "1897-01-06",
+    "birth_place": "Unknown",
+    "death_date": "1974-03-17",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q96739209).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96739209",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "sarah-edna-tanner-1878",
+    "display_name": "Sarah Edna Tanner",
+    "full_name": "Sarah Edna Tanner",
+    "birth_date": "1878-09-20",
+    "birth_place": "Unknown",
+    "death_date": "1959-11-24",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q103837606).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837606",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "dr-stephen-longstroth-richards-q132744678",
+    "display_name": "Dr Stephen Longstroth Richards",
+    "full_name": "Dr Stephen Longstroth Richards",
+    "birth_date": "0001",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q132744678).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q132744678",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "bathsheba-kate-smith-merrill-1844",
+    "display_name": "Bathsheba Kate Smith Merrill",
+    "full_name": "Bathsheba Kate Smith Merrill",
+    "birth_date": "1844-08-14",
+    "birth_place": "Unknown",
+    "death_date": "1920-12-22",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q124303095).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q124303095",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "george-albert-smith-jr-1905",
+    "display_name": "George Albert Smith, Jr.",
+    "full_name": "George Albert Smith, Jr.",
+    "birth_date": "1905-01-01",
+    "birth_place": "Unknown",
+    "death_date": "1969-10-12",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q5536131).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5536131",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "lucy-emily-woodruff-1870",
+    "display_name": "Lucy Emily Woodruff",
+    "full_name": "Lucy Emily Woodruff",
+    "birth_date": "1870-01-01",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q107148945).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q107148945",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "phineas-howe-1735",
+    "display_name": "Phineas Howe",
+    "full_name": "Phineas Howe",
+    "birth_date": "1735-10-22",
+    "birth_place": "Unknown",
+    "death_date": "1807-09-19",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q96215967).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96215967",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "celestia-armada-snow-q86018373",
+    "display_name": "Celestia Armada Snow",
+    "full_name": "Celestia Armada Snow",
+    "birth_date": "0001",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q86018373).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q86018373",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "alice-young-clawson-1839",
+    "display_name": "Alice Young Clawson",
+    "full_name": "Alice Young Clawson",
+    "birth_date": "1839-09-04",
+    "birth_place": "Unknown",
+    "death_date": "1874-11-02",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q106513169).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q106513169",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "edwin-d-woolley-1807",
+    "display_name": "Edwin D. Woolley",
+    "full_name": "Edwin D. Woolley",
+    "birth_date": "1807-06-28",
+    "birth_place": "Unknown",
+    "death_date": "1881-10-12",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q5346340).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5346340",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "crozier-kimball-q107183270",
+    "display_name": "Crozier Kimball",
+    "full_name": "Crozier Kimball",
+    "birth_date": "0001",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q107183270).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q107183270",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "george-taft-benson-sr-1846",
+    "display_name": "George Taft Benson Sr.",
+    "full_name": "George Taft Benson Sr.",
+    "birth_date": "1846-05-01",
+    "birth_place": "Unknown",
+    "death_date": "1919-05-16",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q84550189).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q84550189",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "elizabeth-ashby-ivins-q125604231",
+    "display_name": "Elizabeth Ashby Ivins",
+    "full_name": "Elizabeth Ashby Ivins",
+    "birth_date": "0001",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q125604231).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q125604231",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "caroline-clara-callister-1820",
+    "display_name": "Caroline Clara Callister",
+    "full_name": "Caroline Clara Callister",
+    "birth_date": "1820-06-06",
+    "birth_place": "Unknown",
+    "death_date": "1895-01-08",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q103837180).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837180",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "phinehas-richards-1788",
+    "display_name": "Phinehas Richards",
+    "full_name": "Phinehas Richards",
+    "birth_date": "1788-11-15",
+    "birth_place": "Unknown",
+    "death_date": "1874-11-25",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q7186384).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7186384",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "wilford-woodruff-jr-1840",
+    "display_name": "Wilford Woodruff, Jr",
+    "full_name": "Wilford Woodruff, Jr",
+    "birth_date": "1840-03-22",
+    "birth_place": "Unknown",
+    "death_date": "1921-05-06",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q107148953).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q107148953",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "elizabeth-ann-wells-cannon-1859",
+    "display_name": "Elizabeth Ann Wells Cannon",
+    "full_name": "Elizabeth Ann Wells Cannon",
+    "birth_date": "1859-09-07",
+    "birth_place": "Unknown",
+    "death_date": "1942-09-02",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q5362325).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5362325",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "antoine-r-ivins-1881",
+    "display_name": "Antoine R. Ivins",
+    "full_name": "Antoine R. Ivins",
+    "birth_date": "1881-05-11",
+    "birth_place": "Unknown",
+    "death_date": "1967-10-18",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q4775529).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4775529",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "mary-caroline-finlinson-1875",
+    "display_name": "Mary Caroline Finlinson",
+    "full_name": "Mary Caroline Finlinson",
+    "birth_date": "1875-07-28",
+    "birth_place": "Unknown",
+    "death_date": "1963-07-20",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q96739210).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96739210",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "martha-lydia-roper-lyman-1853",
+    "display_name": "Martha Lydia Roper (Lyman)",
+    "full_name": "Martha Lydia Roper (Lyman)",
+    "birth_date": "1853-04-01",
+    "birth_place": "Unknown",
+    "death_date": "1922-04-29",
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q96739211).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96739211",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "irene-louise-covey-q132744640",
+    "display_name": "Irene Louise Covey",
+    "full_name": "Irene Louise Covey",
+    "birth_date": "0001",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q132744640).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q132744640",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "irene-smith-richards-q132744641",
+    "display_name": "Irene Smith Richards",
+    "full_name": "Irene Smith Richards",
+    "birth_date": "0001",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "X",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Genealogy connector imported from Wikidata (Q132744641).",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q132744641",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "amelia-smith-mcconkie-1916",
+    "display_name": "Amelia Smith McConkie",
+    "full_name": "Amelia Smith McConkie",
+    "birth_date": "1916",
+    "birth_place": "Unknown",
+    "death_date": "2005-09-22",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Joseph Fielding Smith; wife of Bruce R. McConkie.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bruce_R._McConkie",
+        "accessed": "2026-05-21",
+        "notes": "Biography states Bruce R. McConkie married Amelia Smith, daughter of Joseph Fielding Smith."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_Fielding_Smith",
+        "accessed": "2026-05-21",
+        "notes": "Biography lists Amelia as a daughter of Joseph Fielding Smith and spouse of Bruce R. McConkie."
+      }
+    ]
+  },
+  {
+    "id": "emer-harris-1781",
+    "display_name": "Emer Harris",
+    "full_name": "Emer Harris",
+    "birth_date": "1781-05-29",
+    "birth_place": "Cambridge, New York, USA",
+    "death_date": "1869-11-28",
+    "death_place": "Logan, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": "KWJB-J7Q",
+    "notes": "Brother of Martin Harris; great-great-grandfather of Dallin H. Oaks.",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+      },
+      {
+        "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Biographical article states Dallin H. Oaks was born to Stella Harris Oaks and that his Harris lineage went back to Emer Harris, brother of Martin Harris."
+      },
+      {
+        "url": "https://studylib.net/doc/8912457/by-dallin-h.-oaks---%25maw",
+        "accessed": "2026-05-21",
+        "notes": "Pioneer Ancestors of Dallin and June Oaks gives the Emer Harris > Charles Harris > Silas Albert Harris > Stella Harris Oaks line."
+      }
+    ]
+  },
+  {
+    "id": "charles-harris-1834",
+    "display_name": "Charles Harris",
+    "full_name": "Charles Harris",
+    "birth_date": "1834-07-02",
+    "birth_place": "Unknown",
+    "death_date": "1916-01-01",
+    "death_place": null,
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Son of Emer Harris and Parna Chapell Harris; ancestor of Dallin H. Oaks.",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+      },
+      {
+        "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Biographical article states Dallin H. Oaks was born to Stella Harris Oaks and that his Harris lineage went back to Emer Harris, brother of Martin Harris."
+      },
+      {
+        "url": "https://studylib.net/doc/8912457/by-dallin-h.-oaks---%25maw",
+        "accessed": "2026-05-21",
+        "notes": "Pioneer Ancestors of Dallin and June Oaks gives the Emer Harris > Charles Harris > Silas Albert Harris > Stella Harris Oaks line."
+      }
+    ]
+  },
+  {
+    "id": "silas-albert-harris-1871",
+    "display_name": "Silas Albert Harris",
+    "full_name": "Silas Albert Harris",
+    "birth_date": "1871-06-14",
+    "birth_place": "Parowan, Utah, USA",
+    "death_date": "1964-10-05",
+    "death_place": "American Fork, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Father of Stella Harris Oaks.",
+    "sources": [
+      {
+        "url": "https://www.stellahoaks.org/about-stella",
+        "accessed": "2026-05-21",
+        "notes": "Foundation biography gives Stella Harris Oaks’s birth date and identifies Silas Albert Harris as her father."
+      },
+      {
+        "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+      },
+      {
+        "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Biographical article states Dallin H. Oaks was born to Stella Harris Oaks and that his Harris lineage went back to Emer Harris, brother of Martin Harris."
+      },
+      {
+        "url": "https://studylib.net/doc/8912457/by-dallin-h.-oaks---%25maw",
+        "accessed": "2026-05-21",
+        "notes": "Pioneer Ancestors of Dallin and June Oaks gives the Emer Harris > Charles Harris > Silas Albert Harris > Stella Harris Oaks line."
+      }
+    ]
+  },
+  {
+    "id": "stella-harris-oaks-1906",
+    "display_name": "Stella Harris Oaks",
+    "full_name": "Stella Harris Oaks",
+    "birth_date": "1906-07-27",
+    "birth_place": "Provo, Utah, USA",
+    "death_date": "1980-01-08",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Mother of Dallin H. Oaks.",
+    "sources": [
+      {
+        "url": "https://www.stellahoaks.org/about-stella",
+        "accessed": "2026-05-21",
+        "notes": "Foundation biography gives Stella Harris Oaks’s birth date and identifies Silas Albert Harris as her father."
+      },
+      {
+        "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+      },
+      {
+        "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Biographical article states Dallin H. Oaks was born to Stella Harris Oaks and that his Harris lineage went back to Emer Harris, brother of Martin Harris."
+      },
+      {
+        "url": "https://studylib.net/doc/8912457/by-dallin-h.-oaks---%25maw",
+        "accessed": "2026-05-21",
+        "notes": "Pioneer Ancestors of Dallin and June Oaks gives the Emer Harris > Charles Harris > Silas Albert Harris > Stella Harris Oaks line."
+      }
+    ]
+  },
+  {
+    "id": "melanie-twitchell-rasband-1951",
+    "display_name": "Melanie Twitchell Rasband",
+    "full_name": "Melanie Twitchell Rasband",
+    "birth_date": "1951-01-01",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Wife of Ronald A. Rasband; approximate birth year placeholder pending a better public source.",
+    "sources": [
+      {
+        "url": "https://www.thechurchnews.com/2000/4/29/23246610/elder-ronald-a-rasband-biography/",
+        "accessed": "2026-05-21",
+        "notes": "Church News biography identifies Melanie Twitchell Rasband as daughter of Blaine Exeter and Marilyn Woodbury Twitchell."
+      }
+    ]
+  },
+  {
+    "id": "marilyn-woodbury-twitchell-1928",
+    "display_name": "Marilyn Woodbury Twitchell",
+    "full_name": "Marilyn Woodbury Twitchell",
+    "birth_date": "1928-01-01",
+    "birth_place": "Unknown",
+    "death_date": "1987-01-01",
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Mother of Melanie Twitchell Rasband; daughter of Nina Richards Woodbury.",
+    "sources": [
+      {
+        "url": "https://www.thechurchnews.com/2000/4/29/23246610/elder-ronald-a-rasband-biography/",
+        "accessed": "2026-05-21",
+        "notes": "Church News biography identifies Melanie Twitchell Rasband as daughter of Blaine Exeter and Marilyn Woodbury Twitchell."
+      },
+      {
+        "url": "https://ancestors.familysearch.org/en/KWCV-5FJ/frank-orin-woodbury-1898-1987",
+        "accessed": "2026-05-21",
+        "notes": "FamilySearch family timeline lists Marilyn Woodbury as a child of Frank Orin Woodbury and Nina Richards."
+      }
+    ]
+  },
+  {
+    "id": "nina-richards-woodbury-1899",
+    "display_name": "Nina Richards Woodbury",
+    "full_name": "Nina Richards Woodbury",
+    "birth_date": "1899-08-12",
+    "birth_place": "Utah, USA",
+    "death_date": "1999-06-28",
+    "death_place": "Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": "KWCV-5FV",
+    "notes": "Daughter of George F. Richards; grandmother of Melanie Twitchell Rasband.",
+    "sources": [
+      {
+        "url": "https://ancestors.familysearch.org/en/KWCV-5FJ/frank-orin-woodbury-1898-1987",
+        "accessed": "2026-05-21",
+        "notes": "FamilySearch family timeline lists Marilyn Woodbury as a child of Frank Orin Woodbury and Nina Richards."
+      },
+      {
+        "url": "https://www.churchhistorianspress.org/george-f-richards/photos?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Church Historians Press identifies Nina Richards in George F. and Alice A. Robinson Richards family photographs."
+      },
+      {
+        "url": "https://www.deseret.com/1992/11/7/19014710/death-mamie-richards-silver/",
+        "accessed": "2026-05-21",
+        "notes": "Sibling obituary identifies Mamie as daughter of George Franklin and Alice Almira Robinson Richards and names sister Nina Richards Woodbury."
+      }
+    ]
+  },
+  {
+    "id": "merlin-r-lybbert-1926",
+    "display_name": "Merlin R. Lybbert",
+    "full_name": "Merlin Rex Lybbert",
+    "birth_date": "1926-01-31",
+    "birth_place": "Cardston, Alberta, Canada",
+    "death_date": "2001-07-06",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "General Authority Seventy, 1989-1994; father of Ruth Lybbert Renlund.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Merlin_R._Lybbert",
+        "accessed": "2026-05-21",
+        "notes": "Biographical source for Merlin R. Lybbert’s General Authority service dates and vital dates."
+      },
+      {
+        "url": "https://www.thechurchnews.com/2009/5/9/23230230/healing-hands-consecrated-to-the-lords-work/",
+        "accessed": "2026-05-21",
+        "notes": "Church News profile identifies Ruth Lybbert Renlund as daughter of Elder Merlin R. Lybbert."
+      },
+      {
+        "url": "https://www.thechurchnews.com/2021/11/19/23265633/nola-lybbert-merlin-obituary-canada-temple-cardston/",
+        "accessed": "2026-05-21",
+        "notes": "Church News obituary identifies Ruth Lybbert Renlund among children of Merlin and Nola Lybbert."
+      }
+    ]
+  },
+  {
+    "id": "ruth-lybbert-renlund-1940",
+    "display_name": "Ruth Lybbert Renlund",
+    "full_name": "Ruth Lybbert Renlund",
+    "birth_date": "1940-01-01",
+    "birth_place": "Unknown",
+    "death_date": null,
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Wife of Dale G. Renlund; daughter of Merlin R. Lybbert. Birth year placeholder pending a better public source.",
+    "sources": [
+      {
+        "url": "https://www.churchofjesuschrist.org/learn/dale-g-renlund?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Church biography identifies Dale G. Renlund’s marriage to Ruth Lybbert."
+      },
+      {
+        "url": "https://www.thechurchnews.com/2009/5/9/23230230/healing-hands-consecrated-to-the-lords-work/",
+        "accessed": "2026-05-21",
+        "notes": "Church News profile identifies Ruth Lybbert Renlund as daughter of Elder Merlin R. Lybbert."
+      },
+      {
+        "url": "https://www.thechurchnews.com/2021/11/19/23265633/nola-lybbert-merlin-obituary-canada-temple-cardston/",
+        "accessed": "2026-05-21",
+        "notes": "Church News obituary identifies Ruth Lybbert Renlund among children of Merlin and Nola Lybbert."
+      }
+    ]
+  }
+]

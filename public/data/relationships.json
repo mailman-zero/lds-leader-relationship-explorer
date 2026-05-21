@@ -1,0 +1,2123 @@
+[
+  {
+    "id": "rel-asael-smith-1744--joseph-smith-sr-1771--parent-child",
+    "type": "parent-child",
+    "parent_id": "asael-smith-1744",
+    "child_id": "joseph-smith-sr-1771",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Asael_Smith",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-asael-smith-1744--john-smith-1781--parent-child",
+    "type": "parent-child",
+    "parent_id": "asael-smith-1744",
+    "child_id": "john-smith-1781",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Smith_(Latter_Day_Saints)",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-smith-sr-1771--joseph-smith-jr-1805--parent-child",
+    "type": "parent-child",
+    "parent_id": "joseph-smith-sr-1771",
+    "child_id": "joseph-smith-jr-1805",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_Smith",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-smith-sr-1771--hyrum-smith-1800--parent-child",
+    "type": "parent-child",
+    "parent_id": "joseph-smith-sr-1771",
+    "child_id": "hyrum-smith-1800",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hyrum_Smith",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-smith-sr-1771--william-smith-1811--parent-child",
+    "type": "parent-child",
+    "parent_id": "joseph-smith-sr-1771",
+    "child_id": "william-smith-1811",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Smith_(Latter_Day_Saints)",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-smith-jr-1805--hyrum-smith-1800--sibling",
+    "type": "sibling",
+    "person_a_id": "joseph-smith-jr-1805",
+    "person_b_id": "hyrum-smith-1800",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hyrum_Smith",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-smith-jr-1805--william-smith-1811--sibling",
+    "type": "sibling",
+    "person_a_id": "joseph-smith-jr-1805",
+    "person_b_id": "william-smith-1811",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Smith_(Latter_Day_Saints)",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-john-smith-1781--george-a-smith-1817--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-smith-1781",
+    "child_id": "george-a-smith-1817",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/George_A._Smith",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-george-a-smith-1817--john-henry-smith-1848--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-a-smith-1817",
+    "child_id": "john-henry-smith-1848",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Henry_Smith",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-john-henry-smith-1848--george-albert-smith-1870--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-henry-smith-1848",
+    "child_id": "george-albert-smith-1870",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/George_Albert_Smith",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-hyrum-smith-1800--joseph-f-smith-1838--parent-child",
+    "type": "parent-child",
+    "parent_id": "hyrum-smith-1800",
+    "child_id": "joseph-f-smith-1838",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_F._Smith",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-hyrum-smith-1800--lovina-smith-1827--parent-child",
+    "type": "parent-child",
+    "parent_id": "hyrum-smith-1800",
+    "child_id": "lovina-smith-1827",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_Ballard",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-f-smith-1838--joseph-fielding-smith-1876--parent-child",
+    "type": "parent-child",
+    "parent_id": "joseph-f-smith-1838",
+    "child_id": "joseph-fielding-smith-1876",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_Fielding_Smith",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-f-smith-1838--hyrum-mack-smith-1872--parent-child",
+    "type": "parent-child",
+    "parent_id": "joseph-f-smith-1838",
+    "child_id": "hyrum-mack-smith-1872",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hyrum_Mack_Smith",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-lovina-smith-1827--henry-ballard-1832--spouse",
+    "type": "spouse",
+    "person_a_id": "lovina-smith-1827",
+    "person_b_id": "henry-ballard-1832",
+    "marriage_date": "1850-01-01",
+    "marriage_end_date": "1876-12-12",
+    "marriage_end_reason": "death",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_Ballard",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-henry-ballard-1832--melvin-j-ballard-1873--parent-child",
+    "type": "parent-child",
+    "parent_id": "henry-ballard-1832",
+    "child_id": "melvin-j-ballard-1873",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Melvin_J._Ballard",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-melvin-j-ballard-1873--m-russell-ballard-1928--parent-child",
+    "type": "parent-child",
+    "parent_id": "melvin-j-ballard-1873",
+    "child_id": "m-russell-ballard-1928",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/M._Russell_Ballard",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-heber-c-kimball-1801--david-patten-kimball-1839--parent-child",
+    "type": "parent-child",
+    "parent_id": "heber-c-kimball-1801",
+    "child_id": "david-patten-kimball-1839",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Spencer_W._Kimball",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-david-patten-kimball-1839--andrew-kimball-1858--parent-child",
+    "type": "parent-child",
+    "parent_id": "david-patten-kimball-1839",
+    "child_id": "andrew-kimball-1858",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Spencer_W._Kimball",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-andrew-kimball-1858--spencerw-kimball-1895--parent-child",
+    "type": "parent-child",
+    "parent_id": "andrew-kimball-1858",
+    "child_id": "spencerw-kimball-1895",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Spencer_W._Kimball",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-spencerw-kimball-1895--camilla-eyring-kimball-1894--spouse",
+    "type": "spouse",
+    "person_a_id": "spencerw-kimball-1895",
+    "person_b_id": "camilla-eyring-kimball-1894",
+    "marriage_date": "1917-11-16",
+    "marriage_end_date": "1985-11-05",
+    "marriage_end_reason": "death",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Spencer_W._Kimball",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-henry-eyring-chemist-1901--camilla-eyring-kimball-1894--sibling",
+    "type": "sibling",
+    "person_a_id": "henry-eyring-chemist-1901",
+    "person_b_id": "camilla-eyring-kimball-1894",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_Eyring_(chemist)",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-henry-eyring-chemist-1901--hb-eyring-1933--parent-child",
+    "type": "parent-child",
+    "parent_id": "henry-eyring-chemist-1901",
+    "child_id": "hb-eyring-1933",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_B._Eyring",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-bernice-kimball-1907--quentinl-cook-1940--parent-child",
+    "type": "parent-child",
+    "parent_id": "bernice-kimball-1907",
+    "child_id": "quentinl-cook-1940",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Quentin_L._Cook",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-john-young-1763--brigham-young-1801--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-young-1763",
+    "child_id": "brigham-young-1801",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brigham_Young",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-brigham-young-1801--brigham-young-jr-1836--parent-child",
+    "type": "parent-child",
+    "parent_id": "brigham-young-1801",
+    "child_id": "brigham-young-jr-1836",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brigham_Young_Jr.",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-jared-pratt-1784--parley-p-pratt-1807--parent-child",
+    "type": "parent-child",
+    "parent_id": "jared-pratt-1784",
+    "child_id": "parley-p-pratt-1807",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Parley_P._Pratt",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-jared-pratt-1784--orson-pratt-1811--parent-child",
+    "type": "parent-child",
+    "parent_id": "jared-pratt-1784",
+    "child_id": "orson-pratt-1811",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Orson_Pratt",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-parley-p-pratt-1807--orson-pratt-1811--sibling",
+    "type": "sibling",
+    "person_a_id": "parley-p-pratt-1807",
+    "person_b_id": "orson-pratt-1811",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Orson_Pratt",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-amasa-m-lyman-1813--francis-m-lyman-1840--parent-child",
+    "type": "parent-child",
+    "parent_id": "amasa-m-lyman-1813",
+    "child_id": "francis-m-lyman-1840",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Francis_M._Lyman",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-francis-m-lyman-1840--richard-r-lyman-1870--parent-child",
+    "type": "parent-child",
+    "parent_id": "francis-m-lyman-1840",
+    "child_id": "richard-r-lyman-1870",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_R._Lyman",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-franklin-d-richards-1821--george-f-richards-1861--parent-child",
+    "type": "parent-child",
+    "parent_id": "franklin-d-richards-1821",
+    "child_id": "george-f-richards-1861",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/George_F._Richards",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-george-f-richards-1861--legrand-richards-1886--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-f-richards-1861",
+    "child_id": "legrand-richards-1886",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/LeGrand_Richards",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-jedediah-m-grant-1816--heber-j-grant-1856--parent-child",
+    "type": "parent-child",
+    "parent_id": "jedediah-m-grant-1816",
+    "child_id": "heber-j-grant-1856",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Heber_J._Grant",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "rel-hyrum-smith-1800--william-smith-1811--sibling",
+    "type": "sibling",
+    "person_a_id": "hyrum-smith-1800",
+    "person_b_id": "william-smith-1811",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q2976186",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q8018530",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-clarissa-loomis-smith-1790--george-a-smith-1817--parent-child",
+    "type": "parent-child",
+    "parent_id": "clarissa-loomis-smith-1790",
+    "child_id": "george-a-smith-1817",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837183",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q5536005",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-george-a-smith-1817--almera-woodward-johnson-1808--spouse",
+    "type": "spouse",
+    "person_a_id": "george-a-smith-1817",
+    "person_b_id": "almera-woodward-johnson-1808",
+    "sealed": false,
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5536005",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q109904495",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-abigail-nabby-howe-1766--brigham-young-1801--parent-child",
+    "type": "parent-child",
+    "parent_id": "abigail-nabby-howe-1766",
+    "child_id": "brigham-young-1801",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q89890742",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q203559",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-brigham-young-1801--emily-dow-partridge-1824--spouse",
+    "type": "spouse",
+    "person_a_id": "brigham-young-1801",
+    "person_b_id": "emily-dow-partridge-1824",
+    "sealed": false,
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q203559",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q91157930",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-brigham-young-1801--eliza-roxcy-snow-1804--spouse",
+    "type": "spouse",
+    "person_a_id": "brigham-young-1801",
+    "person_b_id": "eliza-roxcy-snow-1804",
+    "sealed": false,
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q203559",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q3051180",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-brigham-young-jr-1836--b-morris-young-1854--sibling",
+    "type": "sibling",
+    "person_a_id": "brigham-young-jr-1836",
+    "person_b_id": "b-morris-young-1854",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4967308",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q4834119",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-brigham-young-jr-1836--john-willard-young-1844--sibling",
+    "type": "sibling",
+    "person_a_id": "brigham-young-jr-1836",
+    "person_b_id": "john-willard-young-1844",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4967308",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q15505516",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-heber-c-kimball-1801--sarah-ann-whitney-1825--spouse",
+    "type": "spouse",
+    "person_a_id": "heber-c-kimball-1801",
+    "person_b_id": "sarah-ann-whitney-1825",
+    "sealed": false,
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q9002343",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q7422060",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-rhoda-howe-richards-1762--willard-richards-1804--parent-child",
+    "type": "parent-child",
+    "parent_id": "rhoda-howe-richards-1762",
+    "child_id": "willard-richards-1804",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q107311353",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q8003479",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-olive-woolley-1859--spencerw-kimball-1895--parent-child",
+    "type": "parent-child",
+    "parent_id": "olive-woolley-1859",
+    "child_id": "spencerw-kimball-1895",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q84452576",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q1392523",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-jared-pratt-1769--parley-p-pratt-1807--parent-child",
+    "type": "parent-child",
+    "parent_id": "jared-pratt-1769",
+    "child_id": "parley-p-pratt-1807",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96201929",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q2465604",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-jared-pratt-1769--orson-pratt-1811--parent-child",
+    "type": "parent-child",
+    "parent_id": "jared-pratt-1769",
+    "child_id": "orson-pratt-1811",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96201929",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q2482954",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-clara-caroline-lyman-q103837175--richard-r-lyman-1870--parent-child",
+    "type": "parent-child",
+    "parent_id": "clara-caroline-lyman-q103837175",
+    "child_id": "richard-r-lyman-1870",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837175",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q7328566",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-oliver-snow-iii-q124156647--lorenzo-snow-1814--parent-child",
+    "type": "parent-child",
+    "parent_id": "oliver-snow-iii-q124156647",
+    "child_id": "lorenzo-snow-1814",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q124156647",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q635520",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-george-taft-benson-jr-q84550201--ezra-taft-benson-1899--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-taft-benson-jr-q84550201",
+    "child_id": "ezra-taft-benson-1899",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q84550201",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q1386097",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-bryant-s-hinckley-1867--gordon-b-hinckley-1910--parent-child",
+    "type": "parent-child",
+    "parent_id": "bryant-s-hinckley-1867",
+    "child_id": "gordon-b-hinckley-1910",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4980614",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q553147",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-john-taylor-1808--john-w-taylor-1858--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-taylor-1808",
+    "child_id": "john-w-taylor-1858",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q540244",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q6262572",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-george-q-cannon-1827--abraham-h-cannon-1859--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-q-cannon-1827",
+    "child_id": "abraham-h-cannon-1859",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q947083",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q4668883",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-wilford-woodruff-1807--abraham-o-woodruff-1872--parent-child",
+    "type": "parent-child",
+    "parent_id": "wilford-woodruff-1807",
+    "child_id": "abraham-o-woodruff-1872",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q560707",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q4669114",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-hiram-b-clawson-1826--rudger-clawson-1857--parent-child",
+    "type": "parent-child",
+    "parent_id": "hiram-b-clawson-1826",
+    "child_id": "rudger-clawson-1857",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5769020",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q7376908",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-helen-mar-kimball-1828--orson-f-whitney-1855--parent-child",
+    "type": "parent-child",
+    "parent_id": "helen-mar-kimball-1828",
+    "child_id": "orson-f-whitney-1855",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5702756",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q7104160",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-mary-louisa-woolley-1848--j-reuben-clark-1871--parent-child",
+    "type": "parent-child",
+    "parent_id": "mary-louisa-woolley-1848",
+    "child_id": "j-reuben-clark-1871",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q108155601",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q11310570",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-ira-hinckley-1828--alonzo-a-hinckley-1870--parent-child",
+    "type": "parent-child",
+    "parent_id": "ira-hinckley-1828",
+    "child_id": "alonzo-a-hinckley-1870",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q2890381",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q4734522",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-george-q-cannon-1827--sylvester-q-cannon-1877--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-q-cannon-1827",
+    "child_id": "sylvester-q-cannon-1877",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q947083",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q7660820",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-sylvester-q-cannon-1877--john-q-cannon-1857--sibling",
+    "type": "sibling",
+    "person_a_id": "sylvester-q-cannon-1877",
+    "person_b_id": "john-q-cannon-1857",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7660820",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q6253623",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-matthias-f-cowley-1858--matthew-cowley-1897--parent-child",
+    "type": "parent-child",
+    "parent_id": "matthias-f-cowley-1858",
+    "child_id": "matthew-cowley-1897",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q6791538",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q6790350",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-lydia-jane-brown-1856--hugh-b-brown-1883--parent-child",
+    "type": "parent-child",
+    "parent_id": "lydia-jane-brown-1856",
+    "child_id": "hugh-b-brown-1883",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837518",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q5929925",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-amy-faust-1897--james-e-faust-1920--parent-child",
+    "type": "parent-child",
+    "parent_id": "amy-faust-1897",
+    "child_id": "james-e-faust-1920",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96739209",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q6133086",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-brigham-young-1801--john-willard-young-1844--parent-child",
+    "type": "parent-child",
+    "parent_id": "brigham-young-1801",
+    "child_id": "john-willard-young-1844",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q203559",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q15505516",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-john-willard-young-1844--b-morris-young-1854--sibling",
+    "type": "sibling",
+    "person_a_id": "john-willard-young-1844",
+    "person_b_id": "b-morris-young-1854",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q15505516",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q4834119",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-smith-sr-1771--john-smith-1781--sibling",
+    "type": "sibling",
+    "person_a_id": "joseph-smith-sr-1771",
+    "person_b_id": "john-smith-1781",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q6181938",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q6258375",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-amasa-m-lyman-1813--eliza-maria-partridge-lyman-1820--spouse",
+    "type": "spouse",
+    "person_a_id": "amasa-m-lyman-1813",
+    "person_b_id": "eliza-maria-partridge-lyman-1820",
+    "sealed": false,
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4740383",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q43374468",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-sarah-edna-tanner-1878--nathan-eldon-tanner-1898--parent-child",
+    "type": "parent-child",
+    "parent_id": "sarah-edna-tanner-1878",
+    "child_id": "nathan-eldon-tanner-1898",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837606",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q14711845",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-dr-stephen-longstroth-richards-q132744678--stephen-l-richards-1879--parent-child",
+    "type": "parent-child",
+    "parent_id": "dr-stephen-longstroth-richards-q132744678",
+    "child_id": "stephen-l-richards-1879",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q132744678",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q7609734",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-oliver-snow-iii-q124156647--eliza-roxcy-snow-1804--parent-child",
+    "type": "parent-child",
+    "parent_id": "oliver-snow-iii-q124156647",
+    "child_id": "eliza-roxcy-snow-1804",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q124156647",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q3051180",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-heber-c-kimball-1801--helen-mar-kimball-1828--parent-child",
+    "type": "parent-child",
+    "parent_id": "heber-c-kimball-1801",
+    "child_id": "helen-mar-kimball-1828",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q9002343",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q5702756",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-george-a-smith-1817--bathsheba-kate-smith-merrill-1844--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-a-smith-1817",
+    "child_id": "bathsheba-kate-smith-merrill-1844",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5536005",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q124303095",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-george-albert-smith-1870--george-albert-smith-jr-1905--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-albert-smith-1870",
+    "child_id": "george-albert-smith-jr-1905",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q1392629",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q5536131",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-lucy-emily-woodruff-1870--george-albert-smith-jr-1905--parent-child",
+    "type": "parent-child",
+    "parent_id": "lucy-emily-woodruff-1870",
+    "child_id": "george-albert-smith-jr-1905",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q107148945",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q5536131",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-phineas-howe-1735--abigail-nabby-howe-1766--parent-child",
+    "type": "parent-child",
+    "parent_id": "phineas-howe-1735",
+    "child_id": "abigail-nabby-howe-1766",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96215967",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q89890742",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-b-morris-young-1854--celestia-armada-snow-q86018373--spouse",
+    "type": "spouse",
+    "person_a_id": "b-morris-young-1854",
+    "person_b_id": "celestia-armada-snow-q86018373",
+    "sealed": false,
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4834119",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q86018373",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-brigham-young-1801--alice-young-clawson-1839--parent-child",
+    "type": "parent-child",
+    "parent_id": "brigham-young-1801",
+    "child_id": "alice-young-clawson-1839",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q203559",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q106513169",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-alice-young-clawson-1839--hiram-b-clawson-1826--spouse",
+    "type": "spouse",
+    "person_a_id": "alice-young-clawson-1839",
+    "person_b_id": "hiram-b-clawson-1826",
+    "sealed": false,
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q106513169",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q5769020",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-heber-c-kimball-1801--andrew-kimball-1858--parent-child",
+    "type": "parent-child",
+    "parent_id": "heber-c-kimball-1801",
+    "child_id": "andrew-kimball-1858",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q9002343",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q4757612",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-phineas-howe-1735--rhoda-howe-richards-1762--parent-child",
+    "type": "parent-child",
+    "parent_id": "phineas-howe-1735",
+    "child_id": "rhoda-howe-richards-1762",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96215967",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q107311353",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-willard-richards-1804--dr-stephen-longstroth-richards-q132744678--parent-child",
+    "type": "parent-child",
+    "parent_id": "willard-richards-1804",
+    "child_id": "dr-stephen-longstroth-richards-q132744678",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q8003479",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q132744678",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-edwin-d-woolley-1807--olive-woolley-1859--parent-child",
+    "type": "parent-child",
+    "parent_id": "edwin-d-woolley-1807",
+    "child_id": "olive-woolley-1859",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5346340",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q84452576",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-crozier-kimball-q107183270--bernice-kimball-1907--parent-child",
+    "type": "parent-child",
+    "parent_id": "crozier-kimball-q107183270",
+    "child_id": "bernice-kimball-1907",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q107183270",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q107183269",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-ezra-t-benson-1811--george-taft-benson-sr-1846--parent-child",
+    "type": "parent-child",
+    "parent_id": "ezra-t-benson-1811",
+    "child_id": "george-taft-benson-sr-1846",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5423417",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q84550189",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-erastus-snow-1818--elizabeth-ashby-ivins-q125604231--parent-child",
+    "type": "parent-child",
+    "parent_id": "erastus-snow-1818",
+    "child_id": "elizabeth-ashby-ivins-q125604231",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q3731101",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q125604231",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-caroline-clara-callister-1820--clara-caroline-lyman-q103837175--parent-child",
+    "type": "parent-child",
+    "parent_id": "caroline-clara-callister-1820",
+    "child_id": "clara-caroline-lyman-q103837175",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837180",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837175",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-phinehas-richards-1788--franklin-d-richards-1821--parent-child",
+    "type": "parent-child",
+    "parent_id": "phinehas-richards-1788",
+    "child_id": "franklin-d-richards-1821",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7186384",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q5491440",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-wilford-woodruff-1807--wilford-woodruff-jr-1840--parent-child",
+    "type": "parent-child",
+    "parent_id": "wilford-woodruff-1807",
+    "child_id": "wilford-woodruff-jr-1840",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q560707",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q107148953",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-lorenzo-snow-1814--celestia-armada-snow-q86018373--parent-child",
+    "type": "parent-child",
+    "parent_id": "lorenzo-snow-1814",
+    "child_id": "celestia-armada-snow-q86018373",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q635520",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q86018373",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-george-taft-benson-sr-1846--george-taft-benson-jr-q84550201--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-taft-benson-sr-1846",
+    "child_id": "george-taft-benson-jr-q84550201",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q84550189",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q84550201",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-ira-hinckley-1828--bryant-s-hinckley-1867--parent-child",
+    "type": "parent-child",
+    "parent_id": "ira-hinckley-1828",
+    "child_id": "bryant-s-hinckley-1867",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q2890381",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q4980614",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-george-q-cannon-1827--john-q-cannon-1857--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-q-cannon-1827",
+    "child_id": "john-q-cannon-1857",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q947083",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q6253623",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-john-q-cannon-1857--elizabeth-ann-wells-cannon-1859--spouse",
+    "type": "spouse",
+    "person_a_id": "john-q-cannon-1857",
+    "person_b_id": "elizabeth-ann-wells-cannon-1859",
+    "sealed": false,
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q6253623",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q5362325",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-anthony-w-ivins-1852--antoine-r-ivins-1881--parent-child",
+    "type": "parent-child",
+    "parent_id": "anthony-w-ivins-1852",
+    "child_id": "antoine-r-ivins-1881",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4773652",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q4775529",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-elizabeth-ashby-ivins-q125604231--antoine-r-ivins-1881--parent-child",
+    "type": "parent-child",
+    "parent_id": "elizabeth-ashby-ivins-q125604231",
+    "child_id": "antoine-r-ivins-1881",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q125604231",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q4775529",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-edwin-d-woolley-1807--mary-louisa-woolley-1848--parent-child",
+    "type": "parent-child",
+    "parent_id": "edwin-d-woolley-1807",
+    "child_id": "mary-louisa-woolley-1848",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5346340",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q108155601",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-mary-caroline-finlinson-1875--amy-faust-1897--parent-child",
+    "type": "parent-child",
+    "parent_id": "mary-caroline-finlinson-1875",
+    "child_id": "amy-faust-1897",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96739210",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q96739209",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-daniel-h-wells-1814--elizabeth-ann-wells-cannon-1859--parent-child",
+    "type": "parent-child",
+    "parent_id": "daniel-h-wells-1814",
+    "child_id": "elizabeth-ann-wells-cannon-1859",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5217392",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q5362325",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-amasa-m-lyman-1813--martha-lydia-roper-lyman-1853--parent-child",
+    "type": "parent-child",
+    "parent_id": "amasa-m-lyman-1813",
+    "child_id": "martha-lydia-roper-lyman-1853",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q4740383",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q96739211",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-lydia-jane-brown-1856--sarah-edna-tanner-1878--parent-child",
+    "type": "parent-child",
+    "parent_id": "lydia-jane-brown-1856",
+    "child_id": "sarah-edna-tanner-1878",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837518",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837606",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-stephen-l-richards-1879--irene-louise-covey-q132744640--parent-child",
+    "type": "parent-child",
+    "parent_id": "stephen-l-richards-1879",
+    "child_id": "irene-louise-covey-q132744640",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q7609734",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q132744640",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-irene-smith-richards-q132744641--irene-louise-covey-q132744640--parent-child",
+    "type": "parent-child",
+    "parent_id": "irene-smith-richards-q132744641",
+    "child_id": "irene-louise-covey-q132744640",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q132744641",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q132744640",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-clarissa-loomis-smith-1790--caroline-clara-callister-1820--parent-child",
+    "type": "parent-child",
+    "parent_id": "clarissa-loomis-smith-1790",
+    "child_id": "caroline-clara-callister-1820",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837183",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q103837180",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-bathsheba-kate-smith-merrill-1844--irene-smith-richards-q132744641--parent-child",
+    "type": "parent-child",
+    "parent_id": "bathsheba-kate-smith-merrill-1844",
+    "child_id": "irene-smith-richards-q132744641",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q124303095",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q132744641",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-wilford-woodruff-jr-1840--lucy-emily-woodruff-1870--parent-child",
+    "type": "parent-child",
+    "parent_id": "wilford-woodruff-jr-1840",
+    "child_id": "lucy-emily-woodruff-1870",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q107148953",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q107148945",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-david-patten-kimball-1839--crozier-kimball-q107183270--parent-child",
+    "type": "parent-child",
+    "parent_id": "david-patten-kimball-1839",
+    "child_id": "crozier-kimball-q107183270",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q5238440",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q107183270",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-rhoda-howe-richards-1762--phinehas-richards-1788--parent-child",
+    "type": "parent-child",
+    "parent_id": "rhoda-howe-richards-1762",
+    "child_id": "phinehas-richards-1788",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q107311353",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q7186384",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-martha-lydia-roper-lyman-1853--mary-caroline-finlinson-1875--parent-child",
+    "type": "parent-child",
+    "parent_id": "martha-lydia-roper-lyman-1853",
+    "child_id": "mary-caroline-finlinson-1875",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q96739211",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      },
+      {
+        "url": "https://www.wikidata.org/wiki/Q96739210",
+        "accessed": "2026-05-21",
+        "notes": "Structured genealogy claims used to connect short family paths among FP/Q12 leaders."
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-fielding-smith-1876--amelia-smith-mcconkie-1916--parent-child",
+    "type": "parent-child",
+    "parent_id": "joseph-fielding-smith-1876",
+    "child_id": "amelia-smith-mcconkie-1916",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bruce_R._McConkie",
+        "accessed": "2026-05-21",
+        "notes": "Biography states Bruce R. McConkie married Amelia Smith, daughter of Joseph Fielding Smith."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_Fielding_Smith",
+        "accessed": "2026-05-21",
+        "notes": "Biography lists Amelia as a daughter of Joseph Fielding Smith and spouse of Bruce R. McConkie."
+      }
+    ]
+  },
+  {
+    "id": "rel-bruce-r-mcconkie-1915--amelia-smith-mcconkie-1916--spouse",
+    "type": "spouse",
+    "person_a_id": "bruce-r-mcconkie-1915",
+    "person_b_id": "amelia-smith-mcconkie-1916",
+    "marriage_date": "1937-10-13",
+    "marriage_end_date": "1985-04-19",
+    "marriage_end_reason": "death",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bruce_R._McConkie",
+        "accessed": "2026-05-21",
+        "notes": "Biography states Bruce R. McConkie married Amelia Smith, daughter of Joseph Fielding Smith."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_Fielding_Smith",
+        "accessed": "2026-05-21",
+        "notes": "Biography lists Amelia as a daughter of Joseph Fielding Smith and spouse of Bruce R. McConkie."
+      }
+    ]
+  },
+  {
+    "id": "rel-emer-harris-1781--martin-harris-1783--sibling",
+    "type": "sibling",
+    "person_a_id": "emer-harris-1781",
+    "person_b_id": "martin-harris-1783",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+      },
+      {
+        "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Biographical article states Dallin H. Oaks was born to Stella Harris Oaks and that his Harris lineage went back to Emer Harris, brother of Martin Harris."
+      },
+      {
+        "url": "https://studylib.net/doc/8912457/by-dallin-h.-oaks---%25maw",
+        "accessed": "2026-05-21",
+        "notes": "Pioneer Ancestors of Dallin and June Oaks gives the Emer Harris > Charles Harris > Silas Albert Harris > Stella Harris Oaks line."
+      }
+    ]
+  },
+  {
+    "id": "rel-emer-harris-1781--charles-harris-1834--parent-child",
+    "type": "parent-child",
+    "parent_id": "emer-harris-1781",
+    "child_id": "charles-harris-1834",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+      },
+      {
+        "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Biographical article states Dallin H. Oaks was born to Stella Harris Oaks and that his Harris lineage went back to Emer Harris, brother of Martin Harris."
+      },
+      {
+        "url": "https://studylib.net/doc/8912457/by-dallin-h.-oaks---%25maw",
+        "accessed": "2026-05-21",
+        "notes": "Pioneer Ancestors of Dallin and June Oaks gives the Emer Harris > Charles Harris > Silas Albert Harris > Stella Harris Oaks line."
+      }
+    ]
+  },
+  {
+    "id": "rel-charles-harris-1834--silas-albert-harris-1871--parent-child",
+    "type": "parent-child",
+    "parent_id": "charles-harris-1834",
+    "child_id": "silas-albert-harris-1871",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+      },
+      {
+        "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Biographical article states Dallin H. Oaks was born to Stella Harris Oaks and that his Harris lineage went back to Emer Harris, brother of Martin Harris."
+      },
+      {
+        "url": "https://studylib.net/doc/8912457/by-dallin-h.-oaks---%25maw",
+        "accessed": "2026-05-21",
+        "notes": "Pioneer Ancestors of Dallin and June Oaks gives the Emer Harris > Charles Harris > Silas Albert Harris > Stella Harris Oaks line."
+      }
+    ]
+  },
+  {
+    "id": "rel-silas-albert-harris-1871--stella-harris-oaks-1906--parent-child",
+    "type": "parent-child",
+    "parent_id": "silas-albert-harris-1871",
+    "child_id": "stella-harris-oaks-1906",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.stellahoaks.org/about-stella",
+        "accessed": "2026-05-21",
+        "notes": "Foundation biography gives Stella Harris Oaks’s birth date and identifies Silas Albert Harris as her father."
+      },
+      {
+        "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+      },
+      {
+        "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Biographical article states Dallin H. Oaks was born to Stella Harris Oaks and that his Harris lineage went back to Emer Harris, brother of Martin Harris."
+      },
+      {
+        "url": "https://studylib.net/doc/8912457/by-dallin-h.-oaks---%25maw",
+        "accessed": "2026-05-21",
+        "notes": "Pioneer Ancestors of Dallin and June Oaks gives the Emer Harris > Charles Harris > Silas Albert Harris > Stella Harris Oaks line."
+      }
+    ]
+  },
+  {
+    "id": "rel-stella-harris-oaks-1906--dallin-h-oaks-1932--parent-child",
+    "type": "parent-child",
+    "parent_id": "stella-harris-oaks-1906",
+    "child_id": "dallin-h-oaks-1932",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.stellahoaks.org/about-stella",
+        "accessed": "2026-05-21",
+        "notes": "Foundation biography gives Stella Harris Oaks’s birth date and identifies Silas Albert Harris as her father."
+      },
+      {
+        "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
+      },
+      {
+        "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Biographical article states Dallin H. Oaks was born to Stella Harris Oaks and that his Harris lineage went back to Emer Harris, brother of Martin Harris."
+      },
+      {
+        "url": "https://studylib.net/doc/8912457/by-dallin-h.-oaks---%25maw",
+        "accessed": "2026-05-21",
+        "notes": "Pioneer Ancestors of Dallin and June Oaks gives the Emer Harris > Charles Harris > Silas Albert Harris > Stella Harris Oaks line."
+      }
+    ]
+  },
+  {
+    "id": "rel-ronald-a-rasband-1951--melanie-twitchell-rasband-1951--spouse",
+    "type": "spouse",
+    "person_a_id": "ronald-a-rasband-1951",
+    "person_b_id": "melanie-twitchell-rasband-1951",
+    "marriage_date": "1973-09-04",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://www.thechurchnews.com/2000/4/29/23246610/elder-ronald-a-rasband-biography/",
+        "accessed": "2026-05-21",
+        "notes": "Church News biography identifies Melanie Twitchell Rasband as daughter of Blaine Exeter and Marilyn Woodbury Twitchell."
+      }
+    ]
+  },
+  {
+    "id": "rel-marilyn-woodbury-twitchell-1928--melanie-twitchell-rasband-1951--parent-child",
+    "type": "parent-child",
+    "parent_id": "marilyn-woodbury-twitchell-1928",
+    "child_id": "melanie-twitchell-rasband-1951",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.thechurchnews.com/2000/4/29/23246610/elder-ronald-a-rasband-biography/",
+        "accessed": "2026-05-21",
+        "notes": "Church News biography identifies Melanie Twitchell Rasband as daughter of Blaine Exeter and Marilyn Woodbury Twitchell."
+      }
+    ]
+  },
+  {
+    "id": "rel-nina-richards-woodbury-1899--marilyn-woodbury-twitchell-1928--parent-child",
+    "type": "parent-child",
+    "parent_id": "nina-richards-woodbury-1899",
+    "child_id": "marilyn-woodbury-twitchell-1928",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://ancestors.familysearch.org/en/KWCV-5FJ/frank-orin-woodbury-1898-1987",
+        "accessed": "2026-05-21",
+        "notes": "FamilySearch family timeline lists Marilyn Woodbury as a child of Frank Orin Woodbury and Nina Richards."
+      }
+    ]
+  },
+  {
+    "id": "rel-george-f-richards-1861--nina-richards-woodbury-1899--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-f-richards-1861",
+    "child_id": "nina-richards-woodbury-1899",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.churchhistorianspress.org/george-f-richards/photos?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Church Historians Press identifies Nina Richards in George F. and Alice A. Robinson Richards family photographs."
+      },
+      {
+        "url": "https://www.deseret.com/1992/11/7/19014710/death-mamie-richards-silver/",
+        "accessed": "2026-05-21",
+        "notes": "Sibling obituary identifies Mamie as daughter of George Franklin and Alice Almira Robinson Richards and names sister Nina Richards Woodbury."
+      }
+    ]
+  },
+  {
+    "id": "rel-dale-g-renlund-1952--ruth-lybbert-renlund-1940--spouse",
+    "type": "spouse",
+    "person_a_id": "dale-g-renlund-1952",
+    "person_b_id": "ruth-lybbert-renlund-1940",
+    "marriage_date": "1977-01-01",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://www.churchofjesuschrist.org/learn/dale-g-renlund?lang=eng",
+        "accessed": "2026-05-21",
+        "notes": "Church biography identifies Dale G. Renlund’s marriage to Ruth Lybbert."
+      }
+    ]
+  },
+  {
+    "id": "rel-merlin-r-lybbert-1926--ruth-lybbert-renlund-1940--parent-child",
+    "type": "parent-child",
+    "parent_id": "merlin-r-lybbert-1926",
+    "child_id": "ruth-lybbert-renlund-1940",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.thechurchnews.com/2009/5/9/23230230/healing-hands-consecrated-to-the-lords-work/",
+        "accessed": "2026-05-21",
+        "notes": "Church News profile identifies Ruth Lybbert Renlund as daughter of Elder Merlin R. Lybbert."
+      },
+      {
+        "url": "https://www.thechurchnews.com/2021/11/19/23265633/nola-lybbert-merlin-obituary-canada-temple-cardston/",
+        "accessed": "2026-05-21",
+        "notes": "Church News obituary identifies Ruth Lybbert Renlund among children of Merlin and Nola Lybbert."
+      }
+    ]
+  }
+]

@@ -1,0 +1,4134 @@
+[
+  {
+    "id": "pos-joseph-smith-jr-1805--church-president-1830",
+    "person_id": "joseph-smith-jr-1805",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1830-04-06",
+    "release_date": "1844-06-27",
+    "end_reason": "death",
+    "seniority_date": "1830-04-06",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_First_Presidency_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-jesse-gause-1785--fp-first-counselor-1832",
+    "person_id": "jesse-gause-1785",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1832-03-08",
+    "release_date": "1832-12-03",
+    "end_reason": "excommunicated",
+    "seniority_date": "1832-03-08",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_First_Presidency_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-sidney-rigdon-1793--fp-second-counselor-1832",
+    "person_id": "sidney-rigdon-1793",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1832-03-08",
+    "release_date": "1833-03-18",
+    "end_reason": "released",
+    "seniority_date": "1832-03-08",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_First_Presidency_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-sidney-rigdon-1793--fp-first-counselor-1833",
+    "person_id": "sidney-rigdon-1793",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1833-03-18",
+    "release_date": "1844-09-08",
+    "end_reason": "excommunicated",
+    "seniority_date": "1832-03-08",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_First_Presidency_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-frederick-g-williams-1787--fp-second-counselor-1833",
+    "person_id": "frederick-g-williams-1787",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1833-03-18",
+    "release_date": "1837-11-07",
+    "end_reason": "released",
+    "seniority_date": "1833-03-18",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_First_Presidency_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-smith-sr-1771--presiding-patriarch-1833",
+    "person_id": "joseph-smith-sr-1771",
+    "position": "Presiding Patriarch",
+    "position_code": "presiding-patriarch",
+    "ordination_date": "1833-12-18",
+    "release_date": "1840-09-14",
+    "end_reason": "death",
+    "seniority_date": "1833-12-18",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_Smith_Sr.",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "pos-brigham-young-1801--q12-member-1835",
+    "person_id": "brigham-young-1801",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1835-02-14",
+    "release_date": "1840-04-14",
+    "end_reason": "released",
+    "seniority_date": "1835-02-14",
+    "seniority_tiebreak": 2,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-heber-c-kimball-1801--q12-member-1835",
+    "person_id": "heber-c-kimball-1801",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1835-02-14",
+    "release_date": "1847-12-27",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1835-02-14",
+    "seniority_tiebreak": 3,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-lyman-e-johnson-1811--q12-member-1835",
+    "person_id": "lyman-e-johnson-1811",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1835-02-14",
+    "release_date": "1837-09-03",
+    "end_reason": "released",
+    "seniority_date": "1835-02-14",
+    "seniority_tiebreak": 11,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-david-w-patten-1799--q12-member-1835",
+    "person_id": "david-w-patten-1799",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1835-02-15",
+    "release_date": "1838-10-25",
+    "end_reason": "death",
+    "seniority_date": "1835-02-15",
+    "seniority_tiebreak": 1,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-f-boynton-1811--q12-member-1835",
+    "person_id": "john-f-boynton-1811",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1835-02-15",
+    "release_date": "1837-09-03",
+    "end_reason": "released",
+    "seniority_date": "1835-02-15",
+    "seniority_tiebreak": 10,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-luke-johnson-1807--q12-member-1835",
+    "person_id": "luke-johnson-1807",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1835-02-15",
+    "release_date": "1837-09-03",
+    "end_reason": "released",
+    "seniority_date": "1835-02-15",
+    "seniority_tiebreak": 7,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-orson-hyde-1805--q12-member-1835",
+    "person_id": "orson-hyde-1805",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1835-02-15",
+    "release_date": "1839-05-04",
+    "end_reason": "released",
+    "seniority_date": "1835-02-15",
+    "seniority_tiebreak": 4,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-william-e-mclellin-1806--q12-member-1835",
+    "person_id": "william-e-mclellin-1806",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1835-02-15",
+    "release_date": "1838-05-11",
+    "end_reason": "released",
+    "seniority_date": "1835-02-15",
+    "seniority_tiebreak": 5,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-william-smith-1811--q12-member-1835",
+    "person_id": "william-smith-1811",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1835-02-15",
+    "release_date": "1839-05-04",
+    "end_reason": "released",
+    "seniority_date": "1835-02-15",
+    "seniority_tiebreak": 8,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-parley-p-pratt-1807--q12-member-1835",
+    "person_id": "parley-p-pratt-1807",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1835-02-21",
+    "release_date": "1857-05-13",
+    "end_reason": "death",
+    "seniority_date": "1835-02-21",
+    "seniority_tiebreak": 6,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-thomas-b-marsh-1800--q12-president-1835",
+    "person_id": "thomas-b-marsh-1800",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1835-04-25",
+    "release_date": "1839-03-17",
+    "end_reason": "released",
+    "seniority_date": "1835-04-25",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-orson-pratt-1811--q12-member-1835",
+    "person_id": "orson-pratt-1811",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1835-04-26",
+    "release_date": "1842-08-20",
+    "end_reason": "released",
+    "seniority_date": "1835-04-26",
+    "seniority_tiebreak": 9,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hyrum-smith-1800--fp-counselor-1837-251",
+    "person_id": "hyrum-smith-1800",
+    "position": "Assistant Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1837-09-03",
+    "release_date": "1837-11-07",
+    "end_reason": "released",
+    "seniority_date": "1837-11-07",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_First_Presidency_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-smith-1781--fp-counselor-1837",
+    "person_id": "john-smith-1781",
+    "position": "Assistant Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1837-09-03",
+    "release_date": "1844-06-27",
+    "end_reason": "released",
+    "seniority_date": "1837-09-03",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_First_Presidency_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-smith-sr-1771--fp-counselor-1837",
+    "person_id": "joseph-smith-sr-1771",
+    "position": "Patriarch and Assistant Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1837-09-03",
+    "release_date": "1840-09-14",
+    "end_reason": "death",
+    "seniority_date": "1837-09-03",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_First_Presidency_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-oliver-cowdery-1806--fp-counselor-1837-250",
+    "person_id": "oliver-cowdery-1806",
+    "position": "Assistant Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1837-09-03",
+    "release_date": "1838-04-11",
+    "end_reason": "excommunicated",
+    "seniority_date": "1837-09-03",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_First_Presidency_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hyrum-smith-1800--fp-second-counselor-1837",
+    "person_id": "hyrum-smith-1800",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1837-11-07",
+    "release_date": "1841-01-24",
+    "end_reason": "released",
+    "seniority_date": "1837-11-07",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-e-page-1799--q12-member-1838",
+    "person_id": "john-e-page-1799",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1838-12-19",
+    "release_date": "1846-02-09",
+    "end_reason": "released",
+    "seniority_date": "1838-12-19",
+    "seniority_tiebreak": 12,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-taylor-1808--q12-member-1838",
+    "person_id": "john-taylor-1808",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1838-12-19",
+    "release_date": "1875-04-10",
+    "end_reason": "released",
+    "seniority_date": "1838-12-19",
+    "seniority_tiebreak": 13,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-a-smith-1817--q12-member-1839",
+    "person_id": "george-a-smith-1817",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1839-04-26",
+    "release_date": "1868-10-07",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1839-04-26",
+    "seniority_tiebreak": 15,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-wilford-woodruff-1807--q12-member-1839",
+    "person_id": "wilford-woodruff-1807",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1839-04-26",
+    "release_date": "1880-10-10",
+    "end_reason": "released",
+    "seniority_date": "1839-04-26",
+    "seniority_tiebreak": 14,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-william-smith-1811--q12-member-1839",
+    "person_id": "william-smith-1811",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1839-05-25",
+    "release_date": "1845-10-06",
+    "end_reason": "released",
+    "seniority_date": "1835-02-15",
+    "seniority_tiebreak": 8,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-orson-hyde-1805--q12-member-1839",
+    "person_id": "orson-hyde-1805",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1839-06-27",
+    "release_date": "1847-12-27",
+    "end_reason": "released",
+    "seniority_date": "1835-02-15",
+    "seniority_tiebreak": 4,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-willard-richards-1804--q12-member-1840",
+    "person_id": "willard-richards-1804",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1840-04-14",
+    "release_date": "1847-12-27",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1840-04-14",
+    "seniority_tiebreak": 16,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-brigham-young-1801--q12-president-1840",
+    "person_id": "brigham-young-1801",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1840-04-14",
+    "release_date": "1847-12-27",
+    "end_reason": "became-president",
+    "seniority_date": "1835-02-14",
+    "seniority_tiebreak": 2,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hyrum-smith-1800--assistant-president-1841",
+    "person_id": "hyrum-smith-1800",
+    "position": "Assistant President of the Church / Patriarch",
+    "position_code": "presiding-patriarch",
+    "ordination_date": "1841-01-19",
+    "release_date": "1844-06-27",
+    "end_reason": "death",
+    "seniority_date": "1835-02-14",
+    "seniority_tiebreak": 2,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hyrum_Smith",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "pos-hyrum-smith-1800--fp-counselor-1841",
+    "person_id": "hyrum-smith-1800",
+    "position": "Assistant President of the Church",
+    "position_code": "fp-counselor",
+    "ordination_date": "1841-01-24",
+    "release_date": "1844-06-27",
+    "end_reason": "death",
+    "seniority_date": "1837-11-07",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_First_Presidency_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-william-law-1809--fp-second-counselor-1841",
+    "person_id": "william-law-1809",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1841-01-24",
+    "release_date": "1844-04-18",
+    "end_reason": "excommunicated",
+    "seniority_date": "1841-01-24",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_First_Presidency_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-c-bennett-1804--fp-counselor-1841",
+    "person_id": "john-c-bennett-1804",
+    "position": "Assistant President in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1841-04-08",
+    "release_date": "1842-05-25",
+    "end_reason": "released",
+    "seniority_date": "1841-04-08",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_First_Presidency_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-lyman-wight-1796--q12-member-1841",
+    "person_id": "lyman-wight-1796",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1841-04-08",
+    "release_date": "1848-12-03",
+    "end_reason": "released",
+    "seniority_date": "1841-04-08",
+    "seniority_tiebreak": 17,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-amasa-m-lyman-1813--q12-member-1842",
+    "person_id": "amasa-m-lyman-1813",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1842-08-20",
+    "release_date": "1843-01-20",
+    "end_reason": "released",
+    "seniority_date": "1842-08-20",
+    "seniority_tiebreak": 18,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-orson-pratt-1811--q12-member-1843",
+    "person_id": "orson-pratt-1811",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1843-01-20",
+    "release_date": "1881-10-03",
+    "end_reason": "death",
+    "seniority_date": "1835-04-26",
+    "seniority_tiebreak": 9,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-amasa-m-lyman-1813--fp-counselor-1843",
+    "person_id": "amasa-m-lyman-1813",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1843-02-04",
+    "release_date": "1844-06-27",
+    "end_reason": "released",
+    "seniority_date": "1842-08-20",
+    "seniority_tiebreak": 18,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-amasa-m-lyman-1813--q12-member-1845",
+    "person_id": "amasa-m-lyman-1813",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1845-10-06",
+    "release_date": "1867-10-06",
+    "end_reason": "released",
+    "seniority_date": "1842-08-20",
+    "seniority_tiebreak": 18,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-ezra-t-benson-1811--q12-member-1846",
+    "person_id": "ezra-t-benson-1811",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1846-07-16",
+    "release_date": "1869-09-03",
+    "end_reason": "death",
+    "seniority_date": "1846-07-16",
+    "seniority_tiebreak": 19,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-brigham-young-1801--church-president-1847",
+    "person_id": "brigham-young-1801",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1847-12-27",
+    "release_date": "1877-08-29",
+    "end_reason": "death",
+    "seniority_date": "1835-02-14",
+    "seniority_tiebreak": 2,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-heber-c-kimball-1801--fp-first-counselor-1847",
+    "person_id": "heber-c-kimball-1801",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1847-12-27",
+    "release_date": "1868-06-22",
+    "end_reason": "death",
+    "seniority_date": "1835-02-14",
+    "seniority_tiebreak": 3,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-willard-richards-1804--fp-second-counselor-1847",
+    "person_id": "willard-richards-1804",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1847-12-27",
+    "release_date": "1854-03-11",
+    "end_reason": "death",
+    "seniority_date": "1840-04-14",
+    "seniority_tiebreak": 16,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-orson-hyde-1805--q12-president-1847",
+    "person_id": "orson-hyde-1805",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1847-12-27",
+    "release_date": "1875-04-10",
+    "end_reason": "released",
+    "seniority_date": "1835-02-15",
+    "seniority_tiebreak": 4,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-smith-1781--presiding-patriarch-1849",
+    "person_id": "john-smith-1781",
+    "position": "Presiding Patriarch to the Church",
+    "position_code": "presiding-patriarch",
+    "ordination_date": "1849-01-01",
+    "release_date": "1854-05-23",
+    "end_reason": "death",
+    "seniority_date": "1849-01-01",
+    "seniority_tiebreak": 0,
+    "notes": "Patriarch to the Church; uncle of Joseph Smith Jr.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Smith_(Latter_Day_Saints)",
+        "accessed": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "id": "pos-charles-c-rich-1809--q12-member-1849",
+    "person_id": "charles-c-rich-1809",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1849-02-12",
+    "release_date": "1883-11-17",
+    "end_reason": "death",
+    "seniority_date": "1849-02-12",
+    "seniority_tiebreak": 20,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-erastus-snow-1818--q12-member-1849",
+    "person_id": "erastus-snow-1818",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1849-02-12",
+    "release_date": "1888-05-27",
+    "end_reason": "death",
+    "seniority_date": "1849-02-12",
+    "seniority_tiebreak": 22,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-franklin-d-richards-1821--q12-member-1849",
+    "person_id": "franklin-d-richards-1821",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1849-02-12",
+    "release_date": "1898-09-13",
+    "end_reason": "released",
+    "seniority_date": "1849-02-12",
+    "seniority_tiebreak": 23,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-lorenzo-snow-1814--q12-member-1849",
+    "person_id": "lorenzo-snow-1814",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1849-02-12",
+    "release_date": "1873-06-08",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1849-02-12",
+    "seniority_tiebreak": 21,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-jedediah-m-grant-1816--fp-second-counselor-1854",
+    "person_id": "jedediah-m-grant-1816",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1854-04-07",
+    "release_date": "1856-12-01",
+    "end_reason": "death",
+    "seniority_date": "1854-04-07",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-daniel-h-wells-1814--fp-second-counselor-1857",
+    "person_id": "daniel-h-wells-1814",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1857-01-04",
+    "release_date": "1877-08-29",
+    "end_reason": "released",
+    "seniority_date": "1857-01-04",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-q-cannon-1827--q12-member-1860",
+    "person_id": "george-q-cannon-1827",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1860-08-26",
+    "release_date": "1873-06-08",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1860-08-26",
+    "seniority_tiebreak": 24,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-f-smith-1838--fp-counselor-1866",
+    "person_id": "joseph-f-smith-1838",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1866-07-01",
+    "release_date": "1877-08-29",
+    "end_reason": "released",
+    "seniority_date": "1877-08-29",
+    "seniority_tiebreak": 25,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-a-smith-1817--fp-first-counselor-1868",
+    "person_id": "george-a-smith-1817",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1868-10-07",
+    "release_date": "1875-09-01",
+    "end_reason": "death",
+    "seniority_date": "1839-04-26",
+    "seniority_tiebreak": 15,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-brigham-young-jr-1836--q12-member-1868",
+    "person_id": "brigham-young-jr-1836",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1868-10-09",
+    "release_date": "1873-06-08",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1868-10-09",
+    "seniority_tiebreak": 26,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-albert-carrington-1813--q12-member-1870",
+    "person_id": "albert-carrington-1813",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1870-07-03",
+    "release_date": "1873-06-08",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1870-07-03",
+    "seniority_tiebreak": 27,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-albert-carrington-1813--fp-counselor-1873",
+    "person_id": "albert-carrington-1813",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1873-06-08",
+    "release_date": "1874-05-09",
+    "end_reason": "released",
+    "seniority_date": "1870-07-03",
+    "seniority_tiebreak": 27,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-brigham-young-jr-1836--fp-counselor-1873",
+    "person_id": "brigham-young-jr-1836",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1873-06-08",
+    "release_date": "1874-05-09",
+    "end_reason": "released",
+    "seniority_date": "1868-10-09",
+    "seniority_tiebreak": 26,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-q-cannon-1827--fp-counselor-1873",
+    "person_id": "george-q-cannon-1827",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1873-06-08",
+    "release_date": "1874-05-09",
+    "end_reason": "released",
+    "seniority_date": "1860-08-26",
+    "seniority_tiebreak": 24,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-willard-young-1844--fp-counselor-1873",
+    "person_id": "john-willard-young-1844",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1873-06-08",
+    "release_date": "1874-05-09",
+    "end_reason": "released",
+    "seniority_date": "1876-10-08",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-lorenzo-snow-1814--fp-counselor-1873",
+    "person_id": "lorenzo-snow-1814",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1873-06-08",
+    "release_date": "1874-05-09",
+    "end_reason": "released",
+    "seniority_date": "1849-02-12",
+    "seniority_tiebreak": 21,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-albert-carrington-1813--fp-counselor-1874",
+    "person_id": "albert-carrington-1813",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1874-05-09",
+    "release_date": "1877-08-29",
+    "end_reason": "released",
+    "seniority_date": "1870-07-03",
+    "seniority_tiebreak": 27,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-brigham-young-jr-1836--fp-counselor-1874",
+    "person_id": "brigham-young-jr-1836",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1874-05-09",
+    "release_date": "1877-08-29",
+    "end_reason": "released",
+    "seniority_date": "1868-10-09",
+    "seniority_tiebreak": 26,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-q-cannon-1827--fp-counselor-1874",
+    "person_id": "george-q-cannon-1827",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1874-05-09",
+    "release_date": "1877-08-29",
+    "end_reason": "released",
+    "seniority_date": "1860-08-26",
+    "seniority_tiebreak": 24,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-willard-young-1844--fp-counselor-1874",
+    "person_id": "john-willard-young-1844",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1874-05-09",
+    "release_date": "1876-10-08",
+    "end_reason": "released",
+    "seniority_date": "1876-10-08",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-lorenzo-snow-1814--fp-counselor-1874",
+    "person_id": "lorenzo-snow-1814",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1874-05-09",
+    "release_date": "1877-08-29",
+    "end_reason": "released",
+    "seniority_date": "1849-02-12",
+    "seniority_tiebreak": 21,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-orson-hyde-1805--q12-member-1875",
+    "person_id": "orson-hyde-1805",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1875-04-10",
+    "release_date": "1878-11-28",
+    "end_reason": "death",
+    "seniority_date": "1835-02-15",
+    "seniority_tiebreak": 4,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-taylor-1808--q12-president-1875",
+    "person_id": "john-taylor-1808",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1875-04-10",
+    "release_date": "1880-10-10",
+    "end_reason": "became-president",
+    "seniority_date": "1838-12-19",
+    "seniority_tiebreak": 13,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-willard-young-1844--fp-first-counselor-1876",
+    "person_id": "john-willard-young-1844",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1876-10-08",
+    "release_date": "1877-08-29",
+    "end_reason": "released",
+    "seniority_date": "1876-10-08",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-albert-carrington-1813--q12-member-1877",
+    "person_id": "albert-carrington-1813",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1877-08-29",
+    "release_date": "1885-11-07",
+    "end_reason": "released",
+    "seniority_date": "1870-07-03",
+    "seniority_tiebreak": 27,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-brigham-young-jr-1836--q12-member-1877",
+    "person_id": "brigham-young-jr-1836",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1877-08-29",
+    "release_date": "1901-10-17",
+    "end_reason": "released",
+    "seniority_date": "1868-10-09",
+    "seniority_tiebreak": 26,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-q-cannon-1827--q12-member-1877",
+    "person_id": "george-q-cannon-1827",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1877-08-29",
+    "release_date": "1880-10-10",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1860-08-26",
+    "seniority_tiebreak": 24,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-f-smith-1838--q12-member-1877",
+    "person_id": "joseph-f-smith-1838",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1877-08-29",
+    "release_date": "1880-10-10",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1877-08-29",
+    "seniority_tiebreak": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-lorenzo-snow-1814--q12-member-1877",
+    "person_id": "lorenzo-snow-1814",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1877-08-29",
+    "release_date": "1889-04-07",
+    "end_reason": "released",
+    "seniority_date": "1849-02-12",
+    "seniority_tiebreak": 21,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-moses-thatcher-1842--q12-member-1879",
+    "person_id": "moses-thatcher-1842",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1879-04-09",
+    "release_date": "1896-04-06",
+    "end_reason": "released",
+    "seniority_date": "1879-04-09",
+    "seniority_tiebreak": 28,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-taylor-1808--church-president-1880",
+    "person_id": "john-taylor-1808",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1880-10-10",
+    "release_date": "1887-07-25",
+    "end_reason": "death",
+    "seniority_date": "1838-12-19",
+    "seniority_tiebreak": 13,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-q-cannon-1827--fp-first-counselor-1880",
+    "person_id": "george-q-cannon-1827",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1880-10-10",
+    "release_date": "1887-07-25",
+    "end_reason": "released",
+    "seniority_date": "1860-08-26",
+    "seniority_tiebreak": 24,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-f-smith-1838--fp-second-counselor-1880",
+    "person_id": "joseph-f-smith-1838",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1880-10-10",
+    "release_date": "1887-07-25",
+    "end_reason": "released",
+    "seniority_date": "1877-08-29",
+    "seniority_tiebreak": 25,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-wilford-woodruff-1807--q12-president-1880",
+    "person_id": "wilford-woodruff-1807",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1880-10-10",
+    "release_date": "1889-04-07",
+    "end_reason": "became-president",
+    "seniority_date": "1839-04-26",
+    "seniority_tiebreak": 14,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-francis-m-lyman-1840--q12-member-1880",
+    "person_id": "francis-m-lyman-1840",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1880-10-27",
+    "release_date": "1903-10-06",
+    "end_reason": "released",
+    "seniority_date": "1880-10-27",
+    "seniority_tiebreak": 29,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-henry-smith-1848--q12-member-1880",
+    "person_id": "john-henry-smith-1848",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1880-10-27",
+    "release_date": "1910-04-07",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1880-10-27",
+    "seniority_tiebreak": 30,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-teasdale-1831--q12-member-1882",
+    "person_id": "george-teasdale-1831",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1882-10-16",
+    "release_date": "1907-06-09",
+    "end_reason": "death",
+    "seniority_date": "1882-10-16",
+    "seniority_tiebreak": 31,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-heber-j-grant-1856--q12-member-1882",
+    "person_id": "heber-j-grant-1856",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1882-10-16",
+    "release_date": "1916-11-18",
+    "end_reason": "released",
+    "seniority_date": "1882-10-16",
+    "seniority_tiebreak": 32,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-w-taylor-1858--q12-member-1884",
+    "person_id": "john-w-taylor-1858",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1884-04-09",
+    "release_date": "1905-10-28",
+    "end_reason": "released",
+    "seniority_date": "1884-04-09",
+    "seniority_tiebreak": 33,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-q-cannon-1827--q12-member-1887",
+    "person_id": "george-q-cannon-1827",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1887-07-25",
+    "release_date": "1889-04-07",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1860-08-26",
+    "seniority_tiebreak": 24,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-f-smith-1838--q12-member-1887",
+    "person_id": "joseph-f-smith-1838",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1887-07-25",
+    "release_date": "1889-04-07",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1877-08-29",
+    "seniority_tiebreak": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-wilford-woodruff-1807--church-president-1889",
+    "person_id": "wilford-woodruff-1807",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1889-04-07",
+    "release_date": "1898-09-02",
+    "end_reason": "death",
+    "seniority_date": "1839-04-26",
+    "seniority_tiebreak": 14,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-q-cannon-1827--fp-first-counselor-1889",
+    "person_id": "george-q-cannon-1827",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1889-04-07",
+    "release_date": "1898-09-02",
+    "end_reason": "released",
+    "seniority_date": "1860-08-26",
+    "seniority_tiebreak": 24,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-f-smith-1838--fp-second-counselor-1889",
+    "person_id": "joseph-f-smith-1838",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1889-04-07",
+    "release_date": "1901-10-06",
+    "end_reason": "released",
+    "seniority_date": "1877-08-29",
+    "seniority_tiebreak": 25,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-lorenzo-snow-1814--q12-president-1889",
+    "person_id": "lorenzo-snow-1814",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1889-04-07",
+    "release_date": "1898-09-13",
+    "end_reason": "became-president",
+    "seniority_date": "1849-02-12",
+    "seniority_tiebreak": 21,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-abraham-h-cannon-1859--q12-member-1889",
+    "person_id": "abraham-h-cannon-1859",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1889-10-07",
+    "release_date": "1896-07-19",
+    "end_reason": "death",
+    "seniority_date": "1889-10-07",
+    "seniority_tiebreak": 36,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-anthon-h-lund-1844--q12-member-1889",
+    "person_id": "anthon-h-lund-1844",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1889-10-07",
+    "release_date": "1901-10-17",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1889-10-07",
+    "seniority_tiebreak": 35,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-marriner-w-merrill-1832--q12-member-1889",
+    "person_id": "marriner-w-merrill-1832",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1889-10-07",
+    "release_date": "1906-02-06",
+    "end_reason": "death",
+    "seniority_date": "1889-10-07",
+    "seniority_tiebreak": 34,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-abraham-o-woodruff-1872--q12-member-1897",
+    "person_id": "abraham-o-woodruff-1872",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1897-10-07",
+    "release_date": "1904-06-20",
+    "end_reason": "death",
+    "seniority_date": "1897-10-07",
+    "seniority_tiebreak": 38,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-matthias-f-cowley-1858--q12-member-1897",
+    "person_id": "matthias-f-cowley-1858",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1897-10-07",
+    "release_date": "1905-10-28",
+    "end_reason": "released",
+    "seniority_date": "1897-10-07",
+    "seniority_tiebreak": 37,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-lorenzo-snow-1814--church-president-1898",
+    "person_id": "lorenzo-snow-1814",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1898-09-13",
+    "release_date": "1901-10-10",
+    "end_reason": "death",
+    "seniority_date": "1849-02-12",
+    "seniority_tiebreak": 21,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-q-cannon-1827--fp-first-counselor-1898",
+    "person_id": "george-q-cannon-1827",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1898-09-13",
+    "release_date": "1901-04-12",
+    "end_reason": "death",
+    "seniority_date": "1860-08-26",
+    "seniority_tiebreak": 24,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-franklin-d-richards-1821--q12-president-1898",
+    "person_id": "franklin-d-richards-1821",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1898-09-13",
+    "release_date": "1899-12-09",
+    "end_reason": "death",
+    "seniority_date": "1849-02-12",
+    "seniority_tiebreak": 23,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-rudger-clawson-1857--q12-member-1898",
+    "person_id": "rudger-clawson-1857",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1898-10-10",
+    "release_date": "1901-10-06",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1898-10-10",
+    "seniority_tiebreak": 39,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-reed-smoot-1862--q12-member-1900",
+    "person_id": "reed-smoot-1862",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1900-04-08",
+    "release_date": "1941-02-09",
+    "end_reason": "death",
+    "seniority_date": "1900-04-08",
+    "seniority_tiebreak": 40,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-f-smith-1838--fp-first-counselor-1901",
+    "person_id": "joseph-f-smith-1838",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1901-10-06",
+    "release_date": "1901-10-10",
+    "end_reason": "released",
+    "seniority_date": "1877-08-29",
+    "seniority_tiebreak": 25,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-rudger-clawson-1857--fp-second-counselor-1901",
+    "person_id": "rudger-clawson-1857",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1901-10-06",
+    "release_date": "1901-10-10",
+    "end_reason": "released",
+    "seniority_date": "1898-10-10",
+    "seniority_tiebreak": 39,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-rudger-clawson-1857--q12-member-1901",
+    "person_id": "rudger-clawson-1857",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1901-10-10",
+    "release_date": "1918-11-23",
+    "end_reason": "released",
+    "seniority_date": "1898-10-10",
+    "seniority_tiebreak": 39,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-f-smith-1838--church-president-1901",
+    "person_id": "joseph-f-smith-1838",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1901-10-17",
+    "release_date": "1918-11-19",
+    "end_reason": "death",
+    "seniority_date": "1877-08-29",
+    "seniority_tiebreak": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-anthon-h-lund-1844--fp-second-counselor-1901",
+    "person_id": "anthon-h-lund-1844",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1901-10-17",
+    "release_date": "1910-04-07",
+    "end_reason": "released",
+    "seniority_date": "1889-10-07",
+    "seniority_tiebreak": 35,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-brigham-young-jr-1836--q12-president-1901",
+    "person_id": "brigham-young-jr-1836",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1901-10-17",
+    "release_date": "1903-04-11",
+    "end_reason": "death",
+    "seniority_date": "1868-10-09",
+    "seniority_tiebreak": 26,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hyrum-mack-smith-1872--q12-member-1901",
+    "person_id": "hyrum-mack-smith-1872",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1901-10-24",
+    "release_date": "1918-01-23",
+    "end_reason": "death",
+    "seniority_date": "1901-10-24",
+    "seniority_tiebreak": 41,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-francis-m-lyman-1840--q12-president-1903",
+    "person_id": "francis-m-lyman-1840",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1903-10-06",
+    "release_date": "1916-11-18",
+    "end_reason": "death",
+    "seniority_date": "1880-10-27",
+    "seniority_tiebreak": 29,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-albert-smith-1870--q12-member-1903",
+    "person_id": "george-albert-smith-1870",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1903-10-08",
+    "release_date": "1943-06-21",
+    "end_reason": "released",
+    "seniority_date": "1903-10-08",
+    "seniority_tiebreak": 42,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-charles-w-penrose-1832--q12-member-1904",
+    "person_id": "charles-w-penrose-1832",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1904-07-07",
+    "release_date": "1911-12-07",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1904-07-07",
+    "seniority_tiebreak": 43,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-david-o-mckay-1873--q12-member-1906",
+    "person_id": "david-o-mckay-1873",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1906-04-09",
+    "release_date": "1934-10-11",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1906-04-09",
+    "seniority_tiebreak": 46,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-f-richards-1861--q12-member-1906",
+    "person_id": "george-f-richards-1861",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1906-04-09",
+    "release_date": "1945-05-21",
+    "end_reason": "released",
+    "seniority_date": "1906-04-09",
+    "seniority_tiebreak": 44,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-orson-f-whitney-1855--q12-member-1906",
+    "person_id": "orson-f-whitney-1855",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1906-04-09",
+    "release_date": "1931-05-16",
+    "end_reason": "death",
+    "seniority_date": "1906-04-09",
+    "seniority_tiebreak": 45,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-anthony-w-ivins-1852--q12-member-1907",
+    "person_id": "anthony-w-ivins-1852",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1907-10-06",
+    "release_date": "1921-03-10",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1907-10-06",
+    "seniority_tiebreak": 47,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-anthon-h-lund-1844--fp-first-counselor-1910",
+    "person_id": "anthon-h-lund-1844",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1910-04-07",
+    "release_date": "1918-11-19",
+    "end_reason": "released",
+    "seniority_date": "1889-10-07",
+    "seniority_tiebreak": 35,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-henry-smith-1848--fp-second-counselor-1910",
+    "person_id": "john-henry-smith-1848",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1910-04-07",
+    "release_date": "1911-10-13",
+    "end_reason": "death",
+    "seniority_date": "1880-10-27",
+    "seniority_tiebreak": 30,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-fielding-smith-1876--q12-member-1910",
+    "person_id": "joseph-fielding-smith-1876",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1910-04-07",
+    "release_date": "1950-08-08",
+    "end_reason": "released",
+    "seniority_date": "1910-04-07",
+    "seniority_tiebreak": 48,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-charles-w-penrose-1832--fp-second-counselor-1911",
+    "person_id": "charles-w-penrose-1832",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1911-12-07",
+    "release_date": "1918-11-19",
+    "end_reason": "released",
+    "seniority_date": "1904-07-07",
+    "seniority_tiebreak": 43,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-james-e-talmage-1862--q12-member-1911",
+    "person_id": "james-e-talmage-1862",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1911-12-08",
+    "release_date": "1933-07-27",
+    "end_reason": "death",
+    "seniority_date": "1911-12-08",
+    "seniority_tiebreak": 49,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-heber-j-grant-1856--q12-president-1916",
+    "person_id": "heber-j-grant-1856",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1916-11-18",
+    "release_date": "1918-11-23",
+    "end_reason": "became-president",
+    "seniority_date": "1882-10-16",
+    "seniority_tiebreak": 32,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-stephen-l-richards-1879--q12-member-1917",
+    "person_id": "stephen-l-richards-1879",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1917-01-18",
+    "release_date": "1951-04-09",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1917-01-18",
+    "seniority_tiebreak": 50,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-richard-r-lyman-1870--q12-member-1918",
+    "person_id": "richard-r-lyman-1870",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1918-04-07",
+    "release_date": "1943-11-12",
+    "end_reason": "released",
+    "seniority_date": "1918-04-07",
+    "seniority_tiebreak": 51,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-heber-j-grant-1856--church-president-1918",
+    "person_id": "heber-j-grant-1856",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1918-11-23",
+    "release_date": "1945-05-14",
+    "end_reason": "death",
+    "seniority_date": "1882-10-16",
+    "seniority_tiebreak": 32,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-anthon-h-lund-1844--fp-first-counselor-1918",
+    "person_id": "anthon-h-lund-1844",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1918-11-23",
+    "release_date": "1921-03-02",
+    "end_reason": "death",
+    "seniority_date": "1889-10-07",
+    "seniority_tiebreak": 35,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-charles-w-penrose-1832--fp-second-counselor-1918",
+    "person_id": "charles-w-penrose-1832",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1918-11-23",
+    "release_date": "1921-03-10",
+    "end_reason": "released",
+    "seniority_date": "1904-07-07",
+    "seniority_tiebreak": 43,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-rudger-clawson-1857--q12-president-1918",
+    "person_id": "rudger-clawson-1857",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1918-11-23",
+    "release_date": "1943-06-21",
+    "end_reason": "death",
+    "seniority_date": "1898-10-10",
+    "seniority_tiebreak": 39,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-melvin-j-ballard-1873--q12-member-1919",
+    "person_id": "melvin-j-ballard-1873",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1919-01-07",
+    "release_date": "1939-07-30",
+    "end_reason": "death",
+    "seniority_date": "1919-01-07",
+    "seniority_tiebreak": 52,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-charles-w-penrose-1832--fp-first-counselor-1921",
+    "person_id": "charles-w-penrose-1832",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1921-03-10",
+    "release_date": "1925-05-16",
+    "end_reason": "death",
+    "seniority_date": "1904-07-07",
+    "seniority_tiebreak": 43,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-anthony-w-ivins-1852--fp-second-counselor-1921",
+    "person_id": "anthony-w-ivins-1852",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1921-03-10",
+    "release_date": "1925-05-25",
+    "end_reason": "released",
+    "seniority_date": "1907-10-06",
+    "seniority_tiebreak": 47,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-john-a-widtsoe-1872--q12-member-1921",
+    "person_id": "john-a-widtsoe-1872",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1921-03-17",
+    "release_date": "1952-11-29",
+    "end_reason": "death",
+    "seniority_date": "1921-03-17",
+    "seniority_tiebreak": 53,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-anthony-w-ivins-1852--fp-first-counselor-1925",
+    "person_id": "anthony-w-ivins-1852",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1925-05-25",
+    "release_date": "1934-09-23",
+    "end_reason": "death",
+    "seniority_date": "1907-10-06",
+    "seniority_tiebreak": 47,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-f-merrill-1868--q12-member-1931",
+    "person_id": "joseph-f-merrill-1868",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1931-10-08",
+    "release_date": "1952-02-03",
+    "end_reason": "death",
+    "seniority_date": "1931-10-08",
+    "seniority_tiebreak": 54,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-j-reuben-clark-1871--fp-second-counselor-1933",
+    "person_id": "j-reuben-clark-1871",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1933-04-06",
+    "release_date": "1934-10-06",
+    "end_reason": "released",
+    "seniority_date": "1934-10-11",
+    "seniority_tiebreak": 56,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-charles-a-callis-1865--q12-member-1933",
+    "person_id": "charles-a-callis-1865",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1933-10-12",
+    "release_date": "1947-01-21",
+    "end_reason": "death",
+    "seniority_date": "1933-10-12",
+    "seniority_tiebreak": 55,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-j-reuben-clark-1871--fp-first-counselor-1934",
+    "person_id": "j-reuben-clark-1871",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1934-10-06",
+    "release_date": "1945-05-14",
+    "end_reason": "released",
+    "seniority_date": "1934-10-11",
+    "seniority_tiebreak": 56,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-david-o-mckay-1873--fp-second-counselor-1934",
+    "person_id": "david-o-mckay-1873",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1934-10-11",
+    "release_date": "1945-05-14",
+    "end_reason": "released",
+    "seniority_date": "1906-04-09",
+    "seniority_tiebreak": 46,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-alonzo-a-hinckley-1870--q12-member-1934",
+    "person_id": "alonzo-a-hinckley-1870",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1934-10-11",
+    "release_date": "1936-12-22",
+    "end_reason": "death",
+    "seniority_date": "1934-10-11",
+    "seniority_tiebreak": 57,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-albert-e-bowen-1875--q12-member-1937",
+    "person_id": "albert-e-bowen-1875",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1937-04-08",
+    "release_date": "1953-07-15",
+    "end_reason": "death",
+    "seniority_date": "1937-04-08",
+    "seniority_tiebreak": 58,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-sylvester-q-cannon-1877--q12-member-1939",
+    "person_id": "sylvester-q-cannon-1877",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1939-10-06",
+    "release_date": "1943-05-29",
+    "end_reason": "death",
+    "seniority_date": "1939-10-06",
+    "seniority_tiebreak": 59,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-harold-b-lee-1899--q12-member-1941",
+    "person_id": "harold-b-lee-1899",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1941-04-10",
+    "release_date": "1970-01-23",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1941-04-10",
+    "seniority_tiebreak": 60,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-albert-smith-1870--q12-president-1943",
+    "person_id": "george-albert-smith-1870",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1943-06-21",
+    "release_date": "1945-05-21",
+    "end_reason": "became-president",
+    "seniority_date": "1903-10-08",
+    "seniority_tiebreak": 42,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-ezra-taft-benson-1899--q12-member-1943",
+    "person_id": "ezra-taft-benson-1899",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1943-10-07",
+    "release_date": "1973-12-30",
+    "end_reason": "released",
+    "seniority_date": "1943-10-07",
+    "seniority_tiebreak": 62,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-spencerw-kimball-1895--q12-member-1943",
+    "person_id": "spencerw-kimball-1895",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1943-10-07",
+    "release_date": "1970-01-23",
+    "end_reason": "released",
+    "seniority_date": "1943-10-07",
+    "seniority_tiebreak": 61,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-mark-e-petersen-1900--q12-member-1944",
+    "person_id": "mark-e-petersen-1900",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1944-04-20",
+    "release_date": "1984-01-11",
+    "end_reason": "death",
+    "seniority_date": "1944-04-20",
+    "seniority_tiebreak": 63,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-albert-smith-1870--church-president-1945",
+    "person_id": "george-albert-smith-1870",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1945-05-21",
+    "release_date": "1951-04-04",
+    "end_reason": "death",
+    "seniority_date": "1903-10-08",
+    "seniority_tiebreak": 42,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-j-reuben-clark-1871--fp-first-counselor-1945",
+    "person_id": "j-reuben-clark-1871",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1945-05-21",
+    "release_date": "1951-04-04",
+    "end_reason": "released",
+    "seniority_date": "1934-10-11",
+    "seniority_tiebreak": 56,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-david-o-mckay-1873--fp-second-counselor-1945",
+    "person_id": "david-o-mckay-1873",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1945-05-21",
+    "release_date": "1951-04-04",
+    "end_reason": "released",
+    "seniority_date": "1906-04-09",
+    "seniority_tiebreak": 46,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-f-richards-1861--q12-president-1945",
+    "person_id": "george-f-richards-1861",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1945-05-21",
+    "release_date": "1950-08-08",
+    "end_reason": "death",
+    "seniority_date": "1906-04-09",
+    "seniority_tiebreak": 44,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-matthew-cowley-1897--q12-member-1945",
+    "person_id": "matthew-cowley-1897",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1945-10-11",
+    "release_date": "1953-12-13",
+    "end_reason": "death",
+    "seniority_date": "1945-10-11",
+    "seniority_tiebreak": 64,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-henry-d-moyle-1889--q12-member-1947",
+    "person_id": "henry-d-moyle-1889",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1947-04-10",
+    "release_date": "1959-06-12",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1947-04-10",
+    "seniority_tiebreak": 65,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-fielding-smith-1876--q12-president-1950",
+    "person_id": "joseph-fielding-smith-1876",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1950-08-08",
+    "release_date": "1970-01-23",
+    "end_reason": "became-president",
+    "seniority_date": "1910-04-07",
+    "seniority_tiebreak": 48,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-delbert-l-stapley-1896--q12-member-1950",
+    "person_id": "delbert-l-stapley-1896",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1950-10-05",
+    "release_date": "1978-08-19",
+    "end_reason": "death",
+    "seniority_date": "1950-10-05",
+    "seniority_tiebreak": 66,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-david-o-mckay-1873--church-president-1951",
+    "person_id": "david-o-mckay-1873",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1951-04-09",
+    "release_date": "1970-01-18",
+    "end_reason": "death",
+    "seniority_date": "1906-04-09",
+    "seniority_tiebreak": 46,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-stephen-l-richards-1879--fp-first-counselor-1951",
+    "person_id": "stephen-l-richards-1879",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1951-04-09",
+    "release_date": "1959-05-19",
+    "end_reason": "death",
+    "seniority_date": "1917-01-18",
+    "seniority_tiebreak": 50,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-j-reuben-clark-1871--fp-second-counselor-1951",
+    "person_id": "j-reuben-clark-1871",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1951-04-09",
+    "release_date": "1959-06-12",
+    "end_reason": "released",
+    "seniority_date": "1934-10-11",
+    "seniority_tiebreak": 56,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-marion-g-romney-1897--q12-member-1951",
+    "person_id": "marion-g-romney-1897",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1951-10-04",
+    "release_date": "1972-07-07",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1951-10-04",
+    "seniority_tiebreak": 67,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-legrand-richards-1886--q12-member-1952",
+    "person_id": "legrand-richards-1886",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1952-04-06",
+    "release_date": "1983-01-11",
+    "end_reason": "death",
+    "seniority_date": "1952-04-06",
+    "seniority_tiebreak": 68,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-adam-s-bennion-1886--q12-member-1953",
+    "person_id": "adam-s-bennion-1886",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1953-04-09",
+    "release_date": "1958-02-11",
+    "end_reason": "death",
+    "seniority_date": "1953-04-09",
+    "seniority_tiebreak": 69,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-richard-l-evans-1906--q12-member-1953",
+    "person_id": "richard-l-evans-1906",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1953-10-08",
+    "release_date": "1971-11-01",
+    "end_reason": "death",
+    "seniority_date": "1953-10-08",
+    "seniority_tiebreak": 70,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-george-q-morris-1874--q12-member-1954",
+    "person_id": "george-q-morris-1874",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1954-04-08",
+    "release_date": "1962-04-23",
+    "end_reason": "death",
+    "seniority_date": "1954-04-08",
+    "seniority_tiebreak": 71,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hugh-b-brown-1883--q12-member-1958",
+    "person_id": "hugh-b-brown-1883",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1958-04-10",
+    "release_date": "1961-06-22",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1958-04-10",
+    "seniority_tiebreak": 72,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-j-reuben-clark-1871--fp-first-counselor-1959",
+    "person_id": "j-reuben-clark-1871",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1959-06-12",
+    "release_date": "1961-10-06",
+    "end_reason": "death",
+    "seniority_date": "1934-10-11",
+    "seniority_tiebreak": 56,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-henry-d-moyle-1889--fp-second-counselor-1959",
+    "person_id": "henry-d-moyle-1889",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1959-06-12",
+    "release_date": "1961-10-12",
+    "end_reason": "released",
+    "seniority_date": "1947-04-10",
+    "seniority_tiebreak": 65,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-howard-w-hunter-1907--q12-member-1959",
+    "person_id": "howard-w-hunter-1907",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1959-10-10",
+    "release_date": "1985-11-10",
+    "end_reason": "released",
+    "seniority_date": "1959-10-10",
+    "seniority_tiebreak": 73,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hugh-b-brown-1883--fp-counselor-1961",
+    "person_id": "hugh-b-brown-1883",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1961-06-22",
+    "release_date": "1961-10-12",
+    "end_reason": "released",
+    "seniority_date": "1958-04-10",
+    "seniority_tiebreak": 72,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-gordon-b-hinckley-1910--q12-member-1961",
+    "person_id": "gordon-b-hinckley-1910",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1961-10-05",
+    "release_date": "1981-07-23",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1961-10-05",
+    "seniority_tiebreak": 74,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-henry-d-moyle-1889--fp-first-counselor-1961",
+    "person_id": "henry-d-moyle-1889",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1961-10-12",
+    "release_date": "1963-09-18",
+    "end_reason": "death",
+    "seniority_date": "1947-04-10",
+    "seniority_tiebreak": 65,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hugh-b-brown-1883--fp-second-counselor-1961",
+    "person_id": "hugh-b-brown-1883",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1961-10-12",
+    "release_date": "1963-10-04",
+    "end_reason": "released",
+    "seniority_date": "1958-04-10",
+    "seniority_tiebreak": 72,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-nathan-eldon-tanner-1898--q12-member-1962",
+    "person_id": "nathan-eldon-tanner-1898",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1962-10-11",
+    "release_date": "1963-10-04",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1962-10-11",
+    "seniority_tiebreak": 75,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hugh-b-brown-1883--fp-first-counselor-1963",
+    "person_id": "hugh-b-brown-1883",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1963-10-04",
+    "release_date": "1970-01-18",
+    "end_reason": "released",
+    "seniority_date": "1958-04-10",
+    "seniority_tiebreak": 72,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-nathan-eldon-tanner-1898--fp-second-counselor-1963",
+    "person_id": "nathan-eldon-tanner-1898",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1963-10-04",
+    "release_date": "1970-01-18",
+    "end_reason": "released",
+    "seniority_date": "1962-10-11",
+    "seniority_tiebreak": 75,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-thomas-s-monson-1927--q12-member-1963",
+    "person_id": "thomas-s-monson-1927",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1963-10-04",
+    "release_date": "1985-11-10",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1963-10-04",
+    "seniority_tiebreak": 76,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-fielding-smith-1876--fp-counselor-1965",
+    "person_id": "joseph-fielding-smith-1876",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1965-10-29",
+    "release_date": "1970-01-18",
+    "end_reason": "released",
+    "seniority_date": "1910-04-07",
+    "seniority_tiebreak": 48,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-alvin-r-dyer-1903--fp-counselor-1968",
+    "person_id": "alvin-r-dyer-1903",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1968-04-06",
+    "release_date": "1970-01-18",
+    "end_reason": "released",
+    "seniority_date": "1968-04-06",
+    "seniority_tiebreak": 0,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hugh-b-brown-1883--q12-member-1970",
+    "person_id": "hugh-b-brown-1883",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1970-01-18",
+    "release_date": "1975-12-02",
+    "end_reason": "death",
+    "seniority_date": "1958-04-10",
+    "seniority_tiebreak": 72,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-fielding-smith-1876--church-president-1970",
+    "person_id": "joseph-fielding-smith-1876",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1970-01-23",
+    "release_date": "1972-07-02",
+    "end_reason": "death",
+    "seniority_date": "1910-04-07",
+    "seniority_tiebreak": 48,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-harold-b-lee-1899--fp-first-counselor-1970",
+    "person_id": "harold-b-lee-1899",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1970-01-23",
+    "release_date": "1972-07-02",
+    "end_reason": "released",
+    "seniority_date": "1941-04-10",
+    "seniority_tiebreak": 60,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-nathan-eldon-tanner-1898--fp-second-counselor-1970",
+    "person_id": "nathan-eldon-tanner-1898",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1970-01-23",
+    "release_date": "1972-07-02",
+    "end_reason": "released",
+    "seniority_date": "1962-10-11",
+    "seniority_tiebreak": 75,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-spencerw-kimball-1895--q12-president-1970",
+    "person_id": "spencerw-kimball-1895",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1970-01-23",
+    "release_date": "1973-12-30",
+    "end_reason": "became-president",
+    "seniority_date": "1943-10-07",
+    "seniority_tiebreak": 61,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-boyd-k-packer-1924--q12-member-1970",
+    "person_id": "boyd-k-packer-1924",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1970-04-06",
+    "release_date": "1994-06-05",
+    "end_reason": "released",
+    "seniority_date": "1970-04-06",
+    "seniority_tiebreak": 77,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-marvin-j-ashton-1915--q12-member-1971",
+    "person_id": "marvin-j-ashton-1915",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1971-12-02",
+    "release_date": "1994-02-25",
+    "end_reason": "death",
+    "seniority_date": "1971-12-02",
+    "seniority_tiebreak": 78,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-harold-b-lee-1899--church-president-1972",
+    "person_id": "harold-b-lee-1899",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1972-07-07",
+    "release_date": "1973-12-26",
+    "end_reason": "death",
+    "seniority_date": "1941-04-10",
+    "seniority_tiebreak": 60,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-nathan-eldon-tanner-1898--fp-first-counselor-1972",
+    "person_id": "nathan-eldon-tanner-1898",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1972-07-07",
+    "release_date": "1973-12-26",
+    "end_reason": "released",
+    "seniority_date": "1962-10-11",
+    "seniority_tiebreak": 75,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-marion-g-romney-1897--fp-second-counselor-1972",
+    "person_id": "marion-g-romney-1897",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1972-07-07",
+    "release_date": "1982-12-02",
+    "end_reason": "released",
+    "seniority_date": "1951-10-04",
+    "seniority_tiebreak": 67,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-bruce-r-mcconkie-1915--q12-member-1972",
+    "person_id": "bruce-r-mcconkie-1915",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1972-10-12",
+    "release_date": "1985-04-19",
+    "end_reason": "death",
+    "seniority_date": "1972-10-12",
+    "seniority_tiebreak": 79,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-spencerw-kimball-1895--church-president-1973",
+    "person_id": "spencerw-kimball-1895",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1973-12-30",
+    "release_date": "1985-11-05",
+    "end_reason": "death",
+    "seniority_date": "1943-10-07",
+    "seniority_tiebreak": 61,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-nathan-eldon-tanner-1898--fp-first-counselor-1973",
+    "person_id": "nathan-eldon-tanner-1898",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1973-12-30",
+    "release_date": "1982-11-27",
+    "end_reason": "death",
+    "seniority_date": "1962-10-11",
+    "seniority_tiebreak": 75,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-ezra-taft-benson-1899--q12-president-1973",
+    "person_id": "ezra-taft-benson-1899",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1973-12-30",
+    "release_date": "1985-11-10",
+    "end_reason": "became-president",
+    "seniority_date": "1943-10-07",
+    "seniority_tiebreak": 62,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-l-tom-perry-1922--q12-member-1974",
+    "person_id": "l-tom-perry-1922",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1974-04-06",
+    "release_date": "2015-05-30",
+    "end_reason": "death",
+    "seniority_date": "1974-04-06",
+    "seniority_tiebreak": 80,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-david-b-haight-1906--q12-member-1976",
+    "person_id": "david-b-haight-1906",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1976-01-08",
+    "release_date": "2004-07-31",
+    "end_reason": "death",
+    "seniority_date": "1976-01-08",
+    "seniority_tiebreak": 81,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-james-e-faust-1920--q12-member-1978",
+    "person_id": "james-e-faust-1920",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1978-09-30",
+    "release_date": "1995-03-12",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1978-09-30",
+    "seniority_tiebreak": 82,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-gordon-b-hinckley-1910--fp-counselor-1981",
+    "person_id": "gordon-b-hinckley-1910",
+    "position": "Counselor in the First Presidency",
+    "position_code": "fp-counselor",
+    "ordination_date": "1981-07-23",
+    "release_date": "1982-12-02",
+    "end_reason": "released",
+    "seniority_date": "1961-10-05",
+    "seniority_tiebreak": 74,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-neal-a-maxwell-1926--q12-member-1981",
+    "person_id": "neal-a-maxwell-1926",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1981-07-23",
+    "release_date": "2004-07-21",
+    "end_reason": "death",
+    "seniority_date": "1981-07-23",
+    "seniority_tiebreak": 83,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-marion-g-romney-1897--fp-first-counselor-1982",
+    "person_id": "marion-g-romney-1897",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1982-12-02",
+    "release_date": "1985-11-05",
+    "end_reason": "released",
+    "seniority_date": "1951-10-04",
+    "seniority_tiebreak": 67,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-gordon-b-hinckley-1910--fp-second-counselor-1982",
+    "person_id": "gordon-b-hinckley-1910",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1982-12-02",
+    "release_date": "1985-11-05",
+    "end_reason": "released",
+    "seniority_date": "1961-10-05",
+    "seniority_tiebreak": 74,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-rm-nelson-1924--q12-member-1984",
+    "person_id": "rm-nelson-1924",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1984-04-07",
+    "release_date": "2015-07-15",
+    "end_reason": "released",
+    "seniority_date": "1984-04-07",
+    "seniority_tiebreak": 84,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-dallin-h-oaks-1932--q12-member-1984",
+    "person_id": "dallin-h-oaks-1932",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1984-05-03",
+    "release_date": "2018-01-14",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1984-05-03",
+    "seniority_tiebreak": 85,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-m-russell-ballard-1928--q12-member-1985",
+    "person_id": "m-russell-ballard-1928",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1985-10-06",
+    "release_date": "2018-01-14",
+    "end_reason": "released",
+    "seniority_date": "1985-10-06",
+    "seniority_tiebreak": 86,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-marion-g-romney-1897--q12-member-1985",
+    "person_id": "marion-g-romney-1897",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1985-11-05",
+    "release_date": "1988-05-20",
+    "end_reason": "death",
+    "seniority_date": "1951-10-04",
+    "seniority_tiebreak": 67,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-ezra-taft-benson-1899--church-president-1985",
+    "person_id": "ezra-taft-benson-1899",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1985-11-10",
+    "release_date": "1994-05-30",
+    "end_reason": "death",
+    "seniority_date": "1943-10-07",
+    "seniority_tiebreak": 62,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-gordon-b-hinckley-1910--fp-first-counselor-1985",
+    "person_id": "gordon-b-hinckley-1910",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1985-11-10",
+    "release_date": "1994-06-05",
+    "end_reason": "released",
+    "seniority_date": "1961-10-05",
+    "seniority_tiebreak": 74,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-thomas-s-monson-1927--fp-second-counselor-1985",
+    "person_id": "thomas-s-monson-1927",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1985-11-10",
+    "release_date": "1995-03-03",
+    "end_reason": "released",
+    "seniority_date": "1963-10-04",
+    "seniority_tiebreak": 76,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-howard-w-hunter-1907--q12-president-1985",
+    "person_id": "howard-w-hunter-1907",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1985-11-10",
+    "release_date": "1994-06-05",
+    "end_reason": "became-president",
+    "seniority_date": "1959-10-10",
+    "seniority_tiebreak": 73,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-joseph-b-wirthlin-1917--q12-member-1986",
+    "person_id": "joseph-b-wirthlin-1917",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1986-10-04",
+    "release_date": "2008-12-01",
+    "end_reason": "death",
+    "seniority_date": "1986-10-04",
+    "seniority_tiebreak": 87,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-richard-g-scott-1928--q12-member-1988",
+    "person_id": "richard-g-scott-1928",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1988-10-01",
+    "release_date": "2015-09-22",
+    "end_reason": "death",
+    "seniority_date": "1988-10-01",
+    "seniority_tiebreak": 88,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-robert-d-hales-1932--q12-member-1994",
+    "person_id": "robert-d-hales-1932",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1994-04-02",
+    "release_date": "2017-10-01",
+    "end_reason": "released",
+    "seniority_date": "1994-04-02",
+    "seniority_tiebreak": 89,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-howard-w-hunter-1907--church-president-1994",
+    "person_id": "howard-w-hunter-1907",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1994-06-05",
+    "release_date": "1995-03-03",
+    "end_reason": "death",
+    "seniority_date": "1959-10-10",
+    "seniority_tiebreak": 73,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-gordon-b-hinckley-1910--fp-first-counselor-1994",
+    "person_id": "gordon-b-hinckley-1910",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1994-06-05",
+    "release_date": "1995-03-03",
+    "end_reason": "released",
+    "seniority_date": "1961-10-05",
+    "seniority_tiebreak": 74,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-boyd-k-packer-1924--q12-president-1994",
+    "person_id": "boyd-k-packer-1924",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "1994-06-05",
+    "release_date": "2015-07-03",
+    "end_reason": "death",
+    "seniority_date": "1970-04-06",
+    "seniority_tiebreak": 77,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-jeffrey-r-holland-1940--q12-member-1994",
+    "person_id": "jeffrey-r-holland-1940",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1994-06-23",
+    "release_date": "2023-11-15",
+    "end_reason": "released",
+    "seniority_date": "1994-06-23",
+    "seniority_tiebreak": 90,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-gordon-b-hinckley-1910--church-president-1995",
+    "person_id": "gordon-b-hinckley-1910",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "1995-03-12",
+    "release_date": "2008-01-27",
+    "end_reason": "death",
+    "seniority_date": "1961-10-05",
+    "seniority_tiebreak": 74,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-thomas-s-monson-1927--fp-first-counselor-1995",
+    "person_id": "thomas-s-monson-1927",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "1995-03-12",
+    "release_date": "2008-01-27",
+    "end_reason": "released",
+    "seniority_date": "1963-10-04",
+    "seniority_tiebreak": 76,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-james-e-faust-1920--fp-second-counselor-1995",
+    "person_id": "james-e-faust-1920",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "1995-03-12",
+    "release_date": "2007-08-10",
+    "end_reason": "death",
+    "seniority_date": "1978-09-30",
+    "seniority_tiebreak": 82,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hb-eyring-1933--q12-member-1995",
+    "person_id": "hb-eyring-1933",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "1995-04-01",
+    "release_date": "2007-10-06",
+    "end_reason": "called-to-fp",
+    "seniority_date": "1995-04-01",
+    "seniority_tiebreak": 91,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-david-a-bednar-1952--q12-member-2004",
+    "person_id": "david-a-bednar-1952",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2004-10-02",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2004-10-02",
+    "seniority_tiebreak": 93,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-dieter-f-uchtdorf-1940--q12-member-2004",
+    "person_id": "dieter-f-uchtdorf-1940",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2004-10-02",
+    "release_date": "2008-02-03",
+    "end_reason": "called-to-fp",
+    "seniority_date": "2004-10-02",
+    "seniority_tiebreak": 92,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hb-eyring-1933--fp-second-counselor-2007",
+    "person_id": "hb-eyring-1933",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "2007-10-06",
+    "release_date": "2008-01-27",
+    "end_reason": "released",
+    "seniority_date": "1995-04-01",
+    "seniority_tiebreak": 91,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-quentinl-cook-1940--q12-member-2007",
+    "person_id": "quentinl-cook-1940",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2007-10-06",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2007-10-06",
+    "seniority_tiebreak": 94,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-thomas-s-monson-1927--church-president-2008",
+    "person_id": "thomas-s-monson-1927",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "2008-02-03",
+    "release_date": "2018-01-02",
+    "end_reason": "death",
+    "seniority_date": "1963-10-04",
+    "seniority_tiebreak": 76,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hb-eyring-1933--fp-first-counselor-2008",
+    "person_id": "hb-eyring-1933",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "2008-02-03",
+    "release_date": "2018-01-02",
+    "end_reason": "released",
+    "seniority_date": "1995-04-01",
+    "seniority_tiebreak": 91,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-dieter-f-uchtdorf-1940--fp-second-counselor-2008",
+    "person_id": "dieter-f-uchtdorf-1940",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "2008-02-03",
+    "release_date": "2018-01-02",
+    "end_reason": "released",
+    "seniority_date": "2004-10-02",
+    "seniority_tiebreak": 92,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-d-todd-christofferson-1945--q12-member-2008",
+    "person_id": "d-todd-christofferson-1945",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2008-04-05",
+    "release_date": "2025-10-14",
+    "end_reason": "called-to-fp",
+    "seniority_date": "2008-04-05",
+    "seniority_tiebreak": 95,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-neil-l-andersen-1951--q12-member-2009",
+    "person_id": "neil-l-andersen-1951",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2009-04-04",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2009-04-04",
+    "seniority_tiebreak": 96,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-rm-nelson-1924--q12-president-2015",
+    "person_id": "rm-nelson-1924",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "2015-07-15",
+    "release_date": "2018-01-14",
+    "end_reason": "became-president",
+    "seniority_date": "1984-04-07",
+    "seniority_tiebreak": 84,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-dale-g-renlund-1952--q12-member-2015",
+    "person_id": "dale-g-renlund-1952",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2015-10-03",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2015-10-03",
+    "seniority_tiebreak": 99,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-gary-e-stevenson-1955--q12-member-2015",
+    "person_id": "gary-e-stevenson-1955",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2015-10-03",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2015-10-03",
+    "seniority_tiebreak": 98,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-ronald-a-rasband-1951--q12-member-2015",
+    "person_id": "ronald-a-rasband-1951",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2015-10-03",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2015-10-03",
+    "seniority_tiebreak": 97,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-dieter-f-uchtdorf-1940--q12-member-2018",
+    "person_id": "dieter-f-uchtdorf-1940",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2018-01-02",
+    "release_date": "2026-01-08",
+    "end_reason": "released",
+    "seniority_date": "2004-10-02",
+    "seniority_tiebreak": 92,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-rm-nelson-1924--church-president-2018",
+    "person_id": "rm-nelson-1924",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "2018-01-14",
+    "release_date": "2025-09-27",
+    "end_reason": "death",
+    "seniority_date": "1984-04-07",
+    "seniority_tiebreak": 84,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-dallin-h-oaks-1932--fp-first-counselor-2018",
+    "person_id": "dallin-h-oaks-1932",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "2018-01-14",
+    "release_date": "2025-09-27",
+    "end_reason": "released",
+    "seniority_date": "1984-05-03",
+    "seniority_tiebreak": 85,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hb-eyring-1933--fp-second-counselor-2018",
+    "person_id": "hb-eyring-1933",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "2018-01-14",
+    "release_date": "2025-09-27",
+    "end_reason": "released",
+    "seniority_date": "1995-04-01",
+    "seniority_tiebreak": 91,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-m-russell-ballard-1928--q12-president-2018",
+    "person_id": "m-russell-ballard-1928",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "2018-01-14",
+    "release_date": "2023-11-12",
+    "end_reason": "death",
+    "seniority_date": "1985-10-06",
+    "seniority_tiebreak": 86,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-gerrit-w-gong-1953--q12-member-2018",
+    "person_id": "gerrit-w-gong-1953",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2018-03-31",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2018-03-31",
+    "seniority_tiebreak": 100,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-ulisses-soares-1958--q12-member-2018",
+    "person_id": "ulisses-soares-1958",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2018-03-31",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2018-03-31",
+    "seniority_tiebreak": 101,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-jeffrey-r-holland-1940--q12-president-2023",
+    "person_id": "jeffrey-r-holland-1940",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "2023-11-15",
+    "release_date": "2025-12-27",
+    "end_reason": "death",
+    "seniority_date": "1994-06-23",
+    "seniority_tiebreak": 90,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-patrick-kearon-1961--q12-member-2023",
+    "person_id": "patrick-kearon-1961",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2023-12-07",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2023-12-07",
+    "seniority_tiebreak": 102,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-dallin-h-oaks-1932--church-president-2025",
+    "person_id": "dallin-h-oaks-1932",
+    "position": "President of the Church",
+    "position_code": "church-president",
+    "ordination_date": "2025-10-14",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "1984-05-03",
+    "seniority_tiebreak": 85,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-hb-eyring-1933--fp-first-counselor-2025",
+    "person_id": "hb-eyring-1933",
+    "position": "First Counselor in the First Presidency",
+    "position_code": "fp-first-counselor",
+    "ordination_date": "2025-10-14",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "1995-04-01",
+    "seniority_tiebreak": 91,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-d-todd-christofferson-1945--fp-second-counselor-2025",
+    "person_id": "d-todd-christofferson-1945",
+    "position": "Second Counselor in the First Presidency",
+    "position_code": "fp-second-counselor",
+    "ordination_date": "2025-10-14",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2008-04-05",
+    "seniority_tiebreak": 95,
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/training/library/general-authorities-of-the-church/list-of-presidents-of-the-church-and-their-counselors?lang=eng",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-gerald-causse-1963--q12-member-2025",
+    "person_id": "gerald-causse-1963",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2025-11-06",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2025-11-06",
+    "seniority_tiebreak": 103,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-dieter-f-uchtdorf-1940--q12-president-2026",
+    "person_id": "dieter-f-uchtdorf-1940",
+    "position": "President of the Quorum of the Twelve",
+    "position_code": "q12-president",
+    "ordination_date": "2026-01-08",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2004-10-02",
+    "seniority_tiebreak": 92,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "pos-clark-g-gilbert-1970--q12-member-2026",
+    "person_id": "clark-g-gilbert-1970",
+    "position": "Quorum of the Twelve Apostles",
+    "position_code": "q12-member",
+    "ordination_date": "2026-02-12",
+    "release_date": null,
+    "end_reason": null,
+    "seniority_date": "2026-02-12",
+    "seniority_tiebreak": 104,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+        "accessed": "2026-05-21"
+      }
+    ]
+  }
+]
