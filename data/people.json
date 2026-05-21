@@ -4240,9 +4240,9 @@
     ]
   },
   {
-    "id": "mary-ann-hyde-cowley-1857",
-    "display_name": "Mary Ann Hyde Cowley",
-    "full_name": "Mary Ann Hyde Cowley",
+    "id": "abbie-hyde-cowley-1857",
+    "display_name": "Abbie Hyde Cowley",
+    "full_name": "Abbie Hyde Cowley",
     "birth_date": "1857-01-01",
     "birth_place": "Utah, USA",
     "death_date": null,
@@ -4250,15 +4250,17 @@
     "gender": "F",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "Daughter of Orson Hyde (original Q12); wife of Matthias F. Cowley (Q12). Bridges the Hyde and Cowley apostolic family clusters.",
+    "notes": "Daughter of Orson Hyde (original Q12); wife of Matthias F. Cowley (Q12); mother of apostle Matthew Cowley. Wikipedia consistently names her 'Abbie Hyde.' Bridges the Hyde and Cowley apostolic family clusters.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Matthias_F._Cowley",
-        "accessed": "2026-05-21"
+        "accessed": "2026-05-21",
+        "notes": "Mother of Matthew Cowley named as 'Abbie Hyde'"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Orson_Hyde",
-        "accessed": "2026-05-21"
+        "url": "https://en.wikipedia.org/wiki/Matthew_Cowley",
+        "accessed": "2026-05-21",
+        "notes": "Matthew Cowley's mother named as 'Abbie Hyde'"
       }
     ]
   },
@@ -4383,21 +4385,64 @@
     ]
   },
   {
-    "id": "elva-rachel-taylor-cowley-1897",
-    "display_name": "Elva Rachel Taylor Cowley",
-    "full_name": "Elva Rachel Taylor Cowley",
+    "id": "elva-eleanor-taylor-cowley-1897",
+    "display_name": "Elva Eleanor Taylor Cowley",
+    "full_name": "Elva Eleanor Taylor Cowley",
     "birth_date": "1897-01-01",
     "birth_place": "Utah, USA",
     "death_date": "1990-01-01",
     "death_place": null,
     "gender": "F",
     "is_leader": false,
-    "notes": "Wife of Apostle Matthew Cowley (married 1920). Believed to be daughter of Apostle John W. Taylor \u2014 needs FamilySearch verification. John W. Taylor and Matthias F. Cowley (Matthew's father) were excommunicated together in 1911.",
+    "notes": "Wife of Apostle Matthew Cowley (married July 13, 1922 at Salt Lake Temple). Believed to be daughter of Apostle John W. Taylor \u2014 needs FamilySearch verification. John W. Taylor and Matthias F. Cowley (Matthew's father) were excommunicated together in 1911.",
     "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Matthew_Cowley",
+        "accessed": "2026-05-21",
+        "notes": "Wife named 'Elva Eleanor Taylor,' married July 13, 1922 at Salt Lake Temple. Parentage not stated."
+      },
       {
         "url": "https://www.familysearch.org/tree/person/details/",
         "accessed": "2026-05-21",
-        "notes": "Needs verification \u2014 Elva Rachel Taylor Cowley, wife of Matthew Cowley"
+        "notes": "Needs verification \u2014 Elva Eleanor Taylor Cowley as daughter of John W. Taylor"
+      }
+    ]
+  },
+  {
+    "id": "abraham-o-smoot-1828",
+    "display_name": "Abraham Owen Smoot",
+    "full_name": "Abraham Owen Smoot",
+    "birth_date": "1828-02-17",
+    "birth_place": "Williamson County, Tennessee",
+    "death_date": "1895-03-06",
+    "death_place": "Provo, Utah",
+    "gender": "M",
+    "is_leader": false,
+    "notes": "Brigham Young Academy (BYU) president, Salt Lake City mayor, stake president. Father of Reed Smoot (apostle/senator) and Zina Beal Smoot (wife of Orson F. Whitney).",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Abraham_O._Smoot",
+        "accessed": "2026-05-21",
+        "notes": "Parents, wives, children including Reed Smoot and Zina Beal Smoot who married Orson F. Whitney"
+      }
+    ]
+  },
+  {
+    "id": "zina-beal-smoot-whitney-1860",
+    "display_name": "Zina Beal Smoot Whitney",
+    "full_name": "Zina Beal Smoot Whitney",
+    "birth_date": "1860-01-01",
+    "birth_place": "Utah, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "notes": "Daughter of Abraham O. Smoot; wife of Apostle Orson F. Whitney. Bridge between Smoot and Whitney apostolic families.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Abraham_O._Smoot",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Zina Beal Smoot married apostle Orson F. Whitney"
       }
     ]
   }

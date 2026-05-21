@@ -2534,10 +2534,10 @@
     ]
   },
   {
-    "id": "rel-orson-hyde-1805--mary-ann-hyde-cowley-1857--parent-child",
+    "id": "rel-orson-hyde-1805--abbie-hyde-cowley-1857--parent-child",
     "type": "parent-child",
     "parent_id": "orson-hyde-1805",
-    "child_id": "mary-ann-hyde-cowley-1857",
+    "child_id": "abbie-hyde-cowley-1857",
     "subtype": "biological",
     "sources": [
       {
@@ -2547,10 +2547,10 @@
     ]
   },
   {
-    "id": "rel-matthias-f-cowley-1858--mary-ann-hyde-cowley-1857--spouse",
+    "id": "rel-matthias-f-cowley-1858--abbie-hyde-cowley-1857--spouse",
     "type": "spouse",
     "person_a_id": "matthias-f-cowley-1858",
-    "person_b_id": "mary-ann-hyde-cowley-1857",
+    "person_b_id": "abbie-hyde-cowley-1857",
     "sealed": true,
     "sources": [
       {
@@ -2696,33 +2696,74 @@
     ]
   },
   {
-    "id": "rel-john-w-taylor-1858--elva-rachel-taylor-cowley-1897--parent-child",
+    "id": "rel-john-w-taylor-1858--elva-eleanor-taylor-cowley-1897--parent-child",
     "type": "parent-child",
     "parent_id": "john-w-taylor-1858",
-    "child_id": "elva-rachel-taylor-cowley-1897",
+    "child_id": "elva-eleanor-taylor-cowley-1897",
     "subtype": "biological",
     "notes": "Believed to be John W. Taylor's daughter \u2014 needs FamilySearch verification",
     "sources": [
       {
         "url": "https://www.familysearch.org/tree/person/details/",
         "accessed": "2026-05-21",
-        "notes": "NEEDS VERIFICATION: Elva Rachel Taylor as John W. Taylor's daughter"
+        "notes": "NEEDS VERIFICATION: Elva Eleanor Taylor as John W. Taylor's daughter"
       }
     ]
   },
   {
-    "id": "rel-matthew-cowley-1897--elva-rachel-taylor-cowley-1897--spouse",
+    "id": "rel-matthew-cowley-1897--elva-eleanor-taylor-cowley-1897--spouse",
     "type": "spouse",
     "person_a_id": "matthew-cowley-1897",
-    "person_b_id": "elva-rachel-taylor-cowley-1897",
-    "marriage_date": "1920-09-06",
-    "marriage_place": "Salt Lake City, Utah",
-    "notes": "Matthew Cowley and Elva Rachel Taylor married September 6, 1920",
+    "person_b_id": "elva-eleanor-taylor-cowley-1897",
+    "marriage_date": "1922-07-13",
+    "marriage_place": "Salt Lake Temple, Salt Lake City, Utah",
+    "notes": "Matthew Cowley and Elva Eleanor Taylor married July 13, 1922 at Salt Lake Temple. Bride's parentage (John W. Taylor's daughter) needs FamilySearch verification.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Matthew_Cowley",
         "accessed": "2026-05-21",
-        "notes": "Marriage date confirmed; bride's parentage needs verification"
+        "notes": "Wikipedia: married 'Elva Eleanor Taylor' on July 13, 1922"
+      }
+    ]
+  },
+  {
+    "id": "rel-abraham-o-smoot-1828--reed-smoot-1862--parent-child",
+    "type": "parent-child",
+    "parent_id": "abraham-o-smoot-1828",
+    "child_id": "reed-smoot-1862",
+    "subtype": "biological",
+    "notes": "Reed Smoot was Abraham Owen Smoot's son by Anne Kirstine Mauritsen",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Reed_Smoot",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-abraham-o-smoot-1828--zina-beal-smoot-whitney-1860--parent-child",
+    "type": "parent-child",
+    "parent_id": "abraham-o-smoot-1828",
+    "child_id": "zina-beal-smoot-whitney-1860",
+    "subtype": "biological",
+    "notes": "Zina Beal Smoot was Abraham Owen Smoot's daughter",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Abraham_O._Smoot",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-orson-f-whitney-1855--zina-beal-smoot-whitney-1860--spouse",
+    "type": "spouse",
+    "person_a_id": "orson-f-whitney-1855",
+    "person_b_id": "zina-beal-smoot-whitney-1860",
+    "notes": "Orson F. Whitney married Zina Beal Smoot (Abraham Owen Smoot's daughter). Wikipedia: 'Zina Beal Smoot, who married apostle Orson F. Whitney'",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Abraham_O._Smoot",
+        "accessed": "2026-05-21"
       }
     ]
   }
