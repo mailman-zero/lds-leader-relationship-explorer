@@ -2766,5 +2766,115 @@
         "accessed": "2026-05-21"
       }
     ]
+  },
+  {
+    "id": "rel-john-taylor-1808--annie-taylor-hyde-1849--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-taylor-1808",
+    "child_id": "annie-taylor-hyde-1849",
+    "subtype": "biological",
+    "notes": "John Taylor's daughter by wife Jane Ballantyne. Wikipedia article on Annie Taylor Hyde confirms father John Taylor and mother Jane Ballantyne.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Annie_Taylor_Hyde",
+        "accessed": "2026-05-21"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Taylor_(Mormon)",
+        "accessed": "2026-05-21",
+        "notes": "John Taylor Wikipedia lists Annie Taylor Hyde as his daughter"
+      }
+    ]
+  },
+  {
+    "id": "rel-orson-hyde-1805--alonzo-eugene-hyde-1845--parent-child",
+    "type": "parent-child",
+    "parent_id": "orson-hyde-1805",
+    "child_id": "alonzo-eugene-hyde-1845",
+    "subtype": "biological",
+    "notes": "Alonzo Eugene Hyde was a son of Apostle Orson Hyde. Confirmed by Annie Taylor Hyde Wikipedia article which states her husband was 'a son of Orson Hyde.'",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Annie_Taylor_Hyde",
+        "accessed": "2026-05-21",
+        "notes": "States Annie Taylor Hyde's husband Alonzo was 'a son of Orson Hyde'"
+      }
+    ]
+  },
+  {
+    "id": "rel-alonzo-eugene-hyde-1845--annie-taylor-hyde-1849--spouse",
+    "type": "spouse",
+    "person_a_id": "alonzo-eugene-hyde-1845",
+    "person_b_id": "annie-taylor-hyde-1849",
+    "notes": "Alonzo Eugene Hyde (son of Orson Hyde) married Annie Taylor Hyde (daughter of John Taylor). Confirmed by Wikipedia article on Annie Taylor Hyde.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Annie_Taylor_Hyde",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-alonzo-eugene-hyde-1845--annie-laura-hyde-merrill-1876--parent-child",
+    "type": "parent-child",
+    "parent_id": "alonzo-eugene-hyde-1845",
+    "child_id": "annie-laura-hyde-merrill-1876",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_F._Merrill",
+        "accessed": "2026-05-21",
+        "notes": "Joseph F. Merrill married Annie Laura Hyde, daughter of Alonzo Hyde and Annie Taylor Hyde"
+      }
+    ]
+  },
+  {
+    "id": "rel-annie-taylor-hyde-1849--annie-laura-hyde-merrill-1876--parent-child",
+    "type": "parent-child",
+    "parent_id": "annie-taylor-hyde-1849",
+    "child_id": "annie-laura-hyde-merrill-1876",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Annie_Taylor_Hyde",
+        "accessed": "2026-05-21",
+        "notes": "Confirms Annie Laura Hyde as Annie Taylor Hyde's daughter who married Joseph F. Merrill"
+      }
+    ]
+  },
+  {
+    "id": "rel-joseph-f-merrill-1868--annie-laura-hyde-merrill-1876--spouse",
+    "type": "spouse",
+    "person_a_id": "joseph-f-merrill-1868",
+    "person_b_id": "annie-laura-hyde-merrill-1876",
+    "marriage_date": "1898-01-01",
+    "notes": "Joseph F. Merrill married Annie Laura Hyde in 1898.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_F._Merrill",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms marriage to Annie Laura Hyde in 1898"
+      }
+    ]
+  },
+  {
+    "id": "rel-marriner-w-merrill-1832--joseph-f-merrill-1868--parent-child",
+    "type": "parent-child",
+    "parent_id": "marriner-w-merrill-1832",
+    "child_id": "joseph-f-merrill-1868",
+    "subtype": "biological",
+    "notes": "Joseph F. Merrill was the son of Apostle Marriner W. Merrill by wife Maria Loenza Kingsbury. Confirmed by Wikipedia articles on both.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_F._Merrill",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms father was Apostle Marriner W. Merrill"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Marriner_W._Merrill",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Maria Loenza Kingsbury was mother of future Apostle Joseph F. Merrill"
+      }
+    ]
   }
 ]

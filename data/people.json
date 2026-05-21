@@ -4445,5 +4445,75 @@
         "notes": "Wikipedia confirms Zina Beal Smoot married apostle Orson F. Whitney"
       }
     ]
+  },
+  {
+    "id": "annie-taylor-hyde-1849",
+    "display_name": "Annie Taylor Hyde",
+    "full_name": "Annie Taylor Hyde",
+    "birth_date": "1849-01-01",
+    "birth_place": "Utah Territory",
+    "death_date": "1909-01-01",
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Apostle/President John Taylor and Jane Ballantyne (one of JT's wives). Wife of Alonzo Eugene Hyde (son of Apostle Orson Hyde). Mother of Annie Laura Hyde (who married Apostle Joseph F. Merrill). Founder of Daughters of Utah Pioneers; leader in Relief Society general presidency. Bridges Taylor and Hyde apostolic families.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Annie_Taylor_Hyde",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms father John Taylor (apostle), mother Jane Ballantyne, husband 'a son of Orson Hyde', daughter Annie Laura Hyde who married Joseph F. Merrill. Born 1849, died 1909."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Taylor_(Mormon)",
+        "accessed": "2026-05-21",
+        "notes": "John Taylor Wikipedia lists Annie Taylor Hyde as his daughter, mother Jane Ballantyne."
+      }
+    ]
+  },
+  {
+    "id": "alonzo-eugene-hyde-1845",
+    "display_name": "Alonzo Eugene Hyde",
+    "full_name": "Alonzo Eugene Hyde",
+    "birth_date": "1845-01-01",
+    "birth_place": "Utah Territory",
+    "death_date": null,
+    "death_place": null,
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Son of Apostle Orson Hyde. Husband of Annie Taylor Hyde (daughter of President John Taylor). Father of Annie Laura Hyde (wife of Apostle Joseph F. Merrill). Approximate birth year — needs FamilySearch verification.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Annie_Taylor_Hyde",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Annie Taylor Hyde's husband was 'a son of Orson Hyde.' His given name Alonzo Eugene Hyde confirmed from the article."
+      }
+    ]
+  },
+  {
+    "id": "annie-laura-hyde-merrill-1876",
+    "display_name": "Annie Laura Hyde Merrill",
+    "full_name": "Annie Laura Hyde Merrill",
+    "birth_date": "1876-01-01",
+    "birth_place": "Utah Territory",
+    "death_date": null,
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Alonzo Eugene Hyde and Annie Taylor Hyde. Wife of Apostle Joseph F. Merrill (married 1898). Bridges the Hyde/Taylor cluster to the Merrill apostolic family. Approximate birth year.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_F._Merrill",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia: Joseph F. Merrill married Annie Laura Hyde in 1898; she was daughter of Alonzo Hyde and Annie Taylor Hyde."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Annie_Taylor_Hyde",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Annie Laura Hyde married Joseph F. Merrill."
+      }
+    ]
   }
 ]
