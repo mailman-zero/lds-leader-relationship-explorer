@@ -4319,5 +4319,47 @@
         "accessed": "2026-05-21"
       }
     ]
+  },
+  {
+    "id": "mary-ann-frost-pratt-1819",
+    "display_name": "Mary Ann Frost Pratt",
+    "full_name": "Mary Ann Frost Stearns Pratt",
+    "birth_date": "1819-01-01",
+    "birth_place": "New Hampshire, USA",
+    "death_date": "1891-01-01",
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Sealed to Joseph Smith Jr. (Aug 26, 1843); earthly wife of Parley P. Pratt. Bridges the Pratt apostolic cluster to the main Smith family cluster.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mary_Ann_Frost_Stearns_Pratt",
+        "accessed": "2026-05-21"
+      },
+      {
+        "url": "https://josephsmithspolygamy.org/plural-wives-overview/mary-ann-frost-stearns/",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "romania-pratt-penrose-1839",
+    "display_name": "Romania Bunnell Pratt Penrose",
+    "full_name": "Romania Bunnell Pratt Penrose",
+    "birth_date": "1839-01-01",
+    "birth_place": "Illinois, USA",
+    "death_date": "1932-01-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Parley P. Pratt; wife of Q12/FP member Charles W. Penrose. Pioneer physician and educator.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Romania_Bunnell_Pratt_Penrose",
+        "accessed": "2026-05-21"
+      }
+    ]
   }
 ]

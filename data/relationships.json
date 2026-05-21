@@ -2654,5 +2654,64 @@
         "accessed": "2026-05-21"
       }
     ]
+  },
+  {
+    "id": "rel-joseph-smith-jr-1805--mary-ann-frost-pratt-1819--spouse",
+    "type": "spouse",
+    "person_a_id": "joseph-smith-jr-1805",
+    "person_b_id": "mary-ann-frost-pratt-1819",
+    "marriage_date": "1843-08-26",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mary_Ann_Frost_Stearns_Pratt",
+        "accessed": "2026-05-21"
+      },
+      {
+        "url": "https://josephsmithspolygamy.org/plural-wives-overview/mary-ann-frost-stearns/",
+        "accessed": "2026-05-21",
+        "notes": "Sealed to Joseph Smith Jr. Aug 26, 1843; continued as earthly wife of Parley P. Pratt."
+      }
+    ]
+  },
+  {
+    "id": "rel-parley-p-pratt-1807--mary-ann-frost-pratt-1819--spouse",
+    "type": "spouse",
+    "person_a_id": "parley-p-pratt-1807",
+    "person_b_id": "mary-ann-frost-pratt-1819",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Parley_P._Pratt",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-parley-p-pratt-1807--romania-pratt-penrose-1839--parent-child",
+    "type": "parent-child",
+    "parent_id": "parley-p-pratt-1807",
+    "child_id": "romania-pratt-penrose-1839",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Romania_Bunnell_Pratt_Penrose",
+        "accessed": "2026-05-21"
+      }
+    ]
+  },
+  {
+    "id": "rel-charles-w-penrose-1832--romania-pratt-penrose-1839--spouse",
+    "type": "spouse",
+    "person_a_id": "charles-w-penrose-1832",
+    "person_b_id": "romania-pratt-penrose-1839",
+    "marriage_date": "1865-01-01",
+    "sealed": true,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Charles_W._Penrose",
+        "accessed": "2026-05-21"
+      }
+    ]
   }
 ]
