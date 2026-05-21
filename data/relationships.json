@@ -2694,5 +2694,36 @@
         "accessed": "2026-05-21"
       }
     ]
+  },
+  {
+    "id": "rel-john-w-taylor-1858--elva-rachel-taylor-cowley-1897--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-w-taylor-1858",
+    "child_id": "elva-rachel-taylor-cowley-1897",
+    "subtype": "biological",
+    "notes": "Believed to be John W. Taylor's daughter \u2014 needs FamilySearch verification",
+    "sources": [
+      {
+        "url": "https://www.familysearch.org/tree/person/details/",
+        "accessed": "2026-05-21",
+        "notes": "NEEDS VERIFICATION: Elva Rachel Taylor as John W. Taylor's daughter"
+      }
+    ]
+  },
+  {
+    "id": "rel-matthew-cowley-1897--elva-rachel-taylor-cowley-1897--spouse",
+    "type": "spouse",
+    "person_a_id": "matthew-cowley-1897",
+    "person_b_id": "elva-rachel-taylor-cowley-1897",
+    "marriage_date": "1920-09-06",
+    "marriage_place": "Salt Lake City, Utah",
+    "notes": "Matthew Cowley and Elva Rachel Taylor married September 6, 1920",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Matthew_Cowley",
+        "accessed": "2026-05-21",
+        "notes": "Marriage date confirmed; bride's parentage needs verification"
+      }
+    ]
   }
 ]

@@ -38,6 +38,8 @@ const tests: [string, string, string | null][] = [
   ["parley-p-pratt-1807", "george-q-cannon-1827", null],
   // Henry B. Eyring → M. Russell Ballard (Kimball cluster now joined to main via Alice Ann Kimball/JFS)
   ["hb-eyring-1933", "m-russell-ballard-1928", null],
+  // Orson Hyde → John Taylor (Hyde/Cowley cluster via Matthew Cowley/Elva Taylor/John W. Taylor bridge)
+  ["orson-hyde-1805", "john-taylor-1808", null],
 ];
 
 let passed = 0, failed = 0;

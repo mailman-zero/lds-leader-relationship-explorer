@@ -4381,5 +4381,24 @@
         "notes": "Lists Alice Ann Kimball as one of Joseph F. Smith's plural wives"
       }
     ]
+  },
+  {
+    "id": "elva-rachel-taylor-cowley-1897",
+    "display_name": "Elva Rachel Taylor Cowley",
+    "full_name": "Elva Rachel Taylor Cowley",
+    "birth_date": "1897-01-01",
+    "birth_place": "Utah, USA",
+    "death_date": "1990-01-01",
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "notes": "Wife of Apostle Matthew Cowley (married 1920). Believed to be daughter of Apostle John W. Taylor \u2014 needs FamilySearch verification. John W. Taylor and Matthias F. Cowley (Matthew's father) were excommunicated together in 1911.",
+    "sources": [
+      {
+        "url": "https://www.familysearch.org/tree/person/details/",
+        "accessed": "2026-05-21",
+        "notes": "Needs verification \u2014 Elva Rachel Taylor Cowley, wife of Matthew Cowley"
+      }
+    ]
   }
 ]
