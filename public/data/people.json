@@ -5203,6 +5203,106 @@
     ]
   },
   {
+    "id": "phineas-h-young-1799",
+    "display_name": "Phineas H. Young",
+    "full_name": "Phineas Howe Young",
+    "birth_date": "1799-02-16",
+    "birth_place": "Hopkinton, Middlesex County, Massachusetts, USA",
+    "death_date": "1879-09-12",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Older brother of Brigham Young; both sons of John Young (1763) and Abigail Nabby Howe (1766). In September 1834 married Lucy Pearce Cowdery (1814), the half-sister of Oliver Cowdery, connecting the Cowdery and Young families.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Phineas_Young",
+        "accessed": "2026-05-22",
+        "notes": "Wikipedia: Phineas Howe Young (1799-1879), older brother of Brigham Young; married Lucy Cowdery, half-sister of Oliver Cowdery, in September 1834"
+      }
+    ]
+  },
+  {
+    "id": "lucy-pearce-cowdery-young-1814",
+    "display_name": "Lucy Pearce Cowdery Young",
+    "full_name": "Lucy Pearce Cowdery Young",
+    "birth_date": "1814-01-01",
+    "birth_place": "Unknown, USA",
+    "death_date": null,
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of William Cowdery and his second wife Keziah Pearce Austin; therefore the half-sister of Oliver Cowdery (who was from William's first wife Rebecca Fuller). Married Phineas H. Young (older brother of Brigham Young) in Kirtland, Ohio in September 1834.",
+    "sources": [
+      {
+        "url": "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?filename=6&article=1083&context=mi&type=additional",
+        "accessed": "2026-05-22",
+        "notes": "\"The Return of Oliver Cowdery\" (BYU): 'In September 1834, Phineas married Lucy Cowdery, a half sister of Oliver Cowdery, in Kirtland.' Her birth year 1814 confirmed by family records of William Cowdery's second family."
+      }
+    ]
+  },
+  {
+    "id": "benjamin-erastus-rich-1855",
+    "display_name": "Benjamin Erastus Rich",
+    "full_name": "Benjamin Erastus Rich",
+    "birth_date": "1855-11-07",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1913-01-01",
+    "death_place": "Atlanta, Georgia, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Son of Apostle Charles C. Rich (1809) and Sarah De Arman Pea. Served as president of the Southern States Mission, Middle States Mission, and Eastern States Mission. Married Diana Farr (daughter of Lorin Farr) on December 27, 1877, making him the brother-in-law of Apostle John Henry Smith (who married Diana's sister Sarah Farr).",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ben_E._Rich",
+        "accessed": "2026-05-22",
+        "notes": "Wikipedia: son of Charles C. Rich; married Diana Farr Dec 27 1877; brother-in-law of John Henry Smith"
+      }
+    ]
+  },
+  {
+    "id": "diana-farr-rich-1858",
+    "display_name": "Diana Farr Rich",
+    "full_name": "Diana Farr Rich",
+    "birth_date": "1858-04-05",
+    "birth_place": "Ogden, Weber County, Utah, USA",
+    "death_date": "1933-08-27",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Lorin Farr (first president of the Ogden Stake) and his wife. Full sister of Sarah Farr (who married Apostle John Henry Smith). Married Benjamin Erastus Rich (son of Apostle Charles C. Rich) on December 27, 1877.",
+    "sources": [
+      {
+        "url": "https://www.geni.com/people/Benjamin-Rich/6000000014694814918",
+        "accessed": "2026-05-22",
+        "notes": "Geni: Diana Farr born April 5, 1858 Ogden UT; daughter of Lorin Farr; married Benjamin Erastus Rich Dec 27 1877"
+      }
+    ]
+  },
+  {
+    "id": "sarah-farr-smith-1849",
+    "display_name": "Sarah Farr Smith",
+    "full_name": "Sarah Farr Smith",
+    "birth_date": "1849-10-30",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1921-02-04",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Lorin Farr (first president of the Ogden Stake). Full sister of Diana Farr (who married Benjamin Erastus Rich, son of Apostle Charles C. Rich). Married Apostle John Henry Smith (son of Apostle George A. Smith) on October 20, 1866.",
+    "sources": [
+      {
+        "url": "https://familypedia.fandom.com/wiki/Sarah_Farr_(1849-1921)",
+        "accessed": "2026-05-22",
+        "notes": "Familypedia: Sarah Farr (1849-1921), daughter of Lorin Farr, married John Henry Smith Oct 20 1866"
+      }
+    ]
+  },
+  {
     "id": "emma-rae-mckay-ashton-1913",
     "display_name": "Emma Rae McKay Ashton",
     "full_name": "Emma Rae McKay Ashton",
@@ -5219,6 +5319,98 @@
         "url": "https://www.findagrave.com/memorial/13236126/emma-rae-ashton",
         "accessed": "2026-05-21",
         "notes": "Emma Rae McKay Ashton (1913-2006), daughter of David O. McKay, married Conway Ashton"
+      }
+    ]
+  },
+  {
+    "id": "rebecca-swain-williams-1798",
+    "display_name": "Rebecca Swain Williams",
+    "full_name": "Rebecca Swain Williams",
+    "birth_date": "1798-01-01",
+    "death_date": "1861-01-01",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "First wife of Frederick Granger Williams (1787), Counselor in the First Presidency. After Frederick's death on October 10, 1842, she traveled to Utah in 1849 with her son Ezra Granger Williams (who founded the first hospital west of the Mississippi in Salt Lake City). On February 7, 1846, in the Nauvoo Temple, she was sealed for eternity to her husband Frederick G. Williams and married for time to Apostle Heber C. Kimball.",
+    "sources": [
+      {
+        "url": "https://www.thechurchnews.com/2006/8/19/23234451/illustrious-ancestor/",
+        "accessed": "2026-05-22",
+        "notes": "After Frederick G. Williams died in 1842, his widow Rebecca married Heber C. Kimball"
+      },
+      {
+        "url": "https://www.geni.com/people/Rebecca-Swain/6000000001363776862",
+        "accessed": "2026-05-22",
+        "notes": "Rebecca received her endowments in the Nauvoo Temple on February 7, 1846, at which time she was sealed to her husband Frederick G. Williams and married for time to Heber C. Kimball"
+      }
+    ]
+  },
+  {
+    "id": "louisa-ballif-1850",
+    "display_name": "Louisa Ballif",
+    "full_name": "Louisa Alexandrine Ballif",
+    "birth_date": "1850-01-01",
+    "death_date": "1922-01-01",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Swiss-French LDS convert Serge Louis Ballif and Elise Marie LeCoultre. Born in Switzerland, emigrated to Utah with family traveling in the 1854 Robert L. Campbell Company (listed as age 4). Married George Taft Benson Sr. (son of Apostle Ezra T. Benson 1811) on December 20, 1867 at the Endowment House in Salt Lake City; they had 13 children, including Serge Ballif Benson (b. 1877) named in honor of her father. Her sister Marie Jeanne Ballif married Aaron Dunham Thatcher (brother of Apostle Moses Thatcher), creating the genealogical bridge connecting the Benson cluster to the main cluster.",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/chd/individual/serge-louis-ballif-1821?lang=eng",
+        "accessed": "2026-05-22",
+        "notes": "CHD lists Serge Louis Ballif traveling with Elise Marie LeCoultre (age 29), Louisa Alexandrine Ballif (age 4), and Marie Jeanne Ballif (age 2) in the 1854 Robert L. Campbell Company, confirming Louisa and Marie are daughters of Serge Ballif"
+      },
+      {
+        "url": "https://www.geni.com/people/George-Taft-Benson-Sr/6000000009861790889",
+        "accessed": "2026-05-22",
+        "notes": "Louisa Alexandrine Ballif Benson, daughter of Serge Louis Ballif and Elise Marie LeCoultre, married George Taft Benson on December 20, 1867; emigrated to US in 1860 at age 10 (born ~1850)"
+      }
+    ]
+  },
+  {
+    "id": "marie-jeanne-ballif-1852",
+    "display_name": "Marie Jeanne Ballif",
+    "full_name": "Marie Jeanne Ballif",
+    "birth_date": "1852-01-01",
+    "death_date": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Swiss-French LDS convert Serge Louis Ballif and Elise Marie LeCoultre. Born in Switzerland; age 2 when traveling with the family in the 1854 Robert L. Campbell Company to Utah. Sister of Louisa Alexandrine Ballif (who married George Taft Benson Sr., son of Apostle Ezra T. Benson 1811). Married Aaron Dunham Thatcher (1837-1909) on April 10, 1871; Aaron was a brother of Apostle Moses Thatcher. This sibling-spouse chain bridges the Benson cluster (ETB 1811, ETB 1899) to the main cluster (Moses Thatcher).",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/chd/individual/serge-louis-ballif-1821?lang=eng",
+        "accessed": "2026-05-22",
+        "notes": "CHD lists Serge Louis Ballif traveling with Elise Marie LeCoultre (age 29), Louisa Alexandrine Ballif (age 4), and Marie Jeanne Ballif (age 2) in the 1854 Robert L. Campbell Company"
+      },
+      {
+        "url": "https://history.churchofjesuschrist.org/chd/individual/aaron-dunham-thatcher-1837?lang=eng",
+        "accessed": "2026-05-22",
+        "notes": "Aaron Dunham Thatcher married Marie Jeanne Ballif on April 10, 1871"
+      }
+    ]
+  },
+  {
+    "id": "aaron-dunham-thatcher-1837",
+    "display_name": "Aaron Dunham Thatcher",
+    "full_name": "Aaron Dunham Thatcher",
+    "birth_date": "1837-01-01",
+    "death_date": "1909-09-08",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Brother of Apostle Moses Thatcher. Son of Hezekiah Thatcher (1808) and Alena Kitchen (1808). One of several Thatcher siblings who joined the LDS Church and settled in Cache Valley, Utah; his siblings include Joseph Wycoff, John Bethewel, George Washington, Moses, Hyrum Smith, and others. Married Marie Jeanne Ballif (sister of Louisa Ballif, wife of George Taft Benson Sr.) on April 10, 1871 in Logan, Utah. His children include Edgar Ballif Thatcher, Louise Ballif Thatcher, and Harriett Ballif Thatcher, honoring their Ballif maternal heritage. Died September 8, 1909 in Logan, Cache County, Utah.",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/chd/individual/aaron-dunham-thatcher-1837?lang=eng",
+        "accessed": "2026-05-22",
+        "notes": "Aaron Dunham Thatcher, born 1837, married Marie Jeanne Ballif on April 10, 1871; died September 8, 1909 in Logan, Utah"
+      },
+      {
+        "url": "https://www.uen.org/utah_history_encyclopedia/t/THATCHER_MOSES.shtml",
+        "accessed": "2026-05-22",
+        "notes": "Moses Thatcher's siblings include Aaron Dunham Thatcher; both were children of Hezekiah Thatcher and Alena Kitchen"
       }
     ]
   }

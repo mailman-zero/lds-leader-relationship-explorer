@@ -3569,6 +3569,118 @@
     ]
   },
   {
+    "id": "rel-john-young-1763--phineas-h-young-1799--parent-child",
+    "type": "parent-child",
+    "parent_id": "john-young-1763",
+    "child_id": "phineas-h-young-1799",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Phineas_Young",
+        "accessed": "2026-05-22",
+        "notes": "Wikipedia: Phineas Howe Young (1799-1879), son of John Young and Abigail Howe, older brother of Brigham Young"
+      }
+    ]
+  },
+  {
+    "id": "rel-abigail-nabby-howe-1766--phineas-h-young-1799--parent-child",
+    "type": "parent-child",
+    "parent_id": "abigail-nabby-howe-1766",
+    "child_id": "phineas-h-young-1799",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Phineas_Young",
+        "accessed": "2026-05-22",
+        "notes": "Wikipedia: Phineas Howe Young (1799-1879), son of John Young and Abigail Howe, older brother of Brigham Young"
+      }
+    ]
+  },
+  {
+    "id": "rel-phineas-h-young-1799--lucy-pearce-cowdery-young-1814--spouse",
+    "type": "spouse",
+    "person_a_id": "phineas-h-young-1799",
+    "person_b_id": "lucy-pearce-cowdery-young-1814",
+    "marriage_date": "1834-09-01",
+    "sources": [
+      {
+        "url": "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?filename=6&article=1083&context=mi&type=additional",
+        "accessed": "2026-05-22",
+        "notes": "\"The Return of Oliver Cowdery\" (BYU): Phineas married Lucy Cowdery, half-sister of Oliver Cowdery, in Kirtland in September 1834"
+      }
+    ]
+  },
+  {
+    "id": "rel-oliver-cowdery-1806--lucy-pearce-cowdery-young-1814--sibling",
+    "type": "sibling",
+    "person_a_id": "oliver-cowdery-1806",
+    "person_b_id": "lucy-pearce-cowdery-young-1814",
+    "subtype": "half",
+    "sources": [
+      {
+        "url": "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?filename=6&article=1083&context=mi&type=additional",
+        "accessed": "2026-05-22",
+        "notes": "Oliver Cowdery's half-sister Lucy (daughter of father William Cowdery by second wife Keziah Pearce Austin) married Phineas H. Young"
+      }
+    ]
+  },
+  {
+    "id": "rel-charles-c-rich-1809--benjamin-erastus-rich-1855--parent-child",
+    "type": "parent-child",
+    "parent_id": "charles-c-rich-1809",
+    "child_id": "benjamin-erastus-rich-1855",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ben_E._Rich",
+        "accessed": "2026-05-22",
+        "notes": "Wikipedia: Benjamin Erastus Rich was one of 52 children of Apostle Charles C. Rich"
+      }
+    ]
+  },
+  {
+    "id": "rel-benjamin-erastus-rich-1855--diana-farr-rich-1858--spouse",
+    "type": "spouse",
+    "person_a_id": "benjamin-erastus-rich-1855",
+    "person_b_id": "diana-farr-rich-1858",
+    "marriage_date": "1877-12-27",
+    "sources": [
+      {
+        "url": "https://www.geni.com/people/Benjamin-Rich/6000000014694814918",
+        "accessed": "2026-05-22",
+        "notes": "Benjamin Erastus Rich married Diana Farr on December 27, 1877 in Salt Lake City"
+      }
+    ]
+  },
+  {
+    "id": "rel-diana-farr-rich-1858--sarah-farr-smith-1849--sibling",
+    "type": "sibling",
+    "person_a_id": "diana-farr-rich-1858",
+    "person_b_id": "sarah-farr-smith-1849",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://www.geni.com/people/Lorin-Farr/6000000006419450811",
+        "accessed": "2026-05-22",
+        "notes": "Diana Farr and Sarah Farr were both daughters of Lorin Farr"
+      }
+    ]
+  },
+  {
+    "id": "rel-sarah-farr-smith-1849--john-henry-smith-1848--spouse",
+    "type": "spouse",
+    "person_a_id": "sarah-farr-smith-1849",
+    "person_b_id": "john-henry-smith-1848",
+    "marriage_date": "1866-10-20",
+    "sources": [
+      {
+        "url": "https://familypedia.fandom.com/wiki/Sarah_Farr_(1849-1921)",
+        "accessed": "2026-05-22",
+        "notes": "Sarah Farr (1849-1921) married John Henry Smith on October 20, 1866"
+      }
+    ]
+  },
+  {
     "id": "rel-david-o-mckay-1873--emma-rae-mckay-ashton-1913--parent-child",
     "type": "parent-child",
     "parent_id": "david-o-mckay-1873",
@@ -3579,6 +3691,94 @@
         "url": "https://www.findagrave.com/memorial/13236126/emma-rae-ashton",
         "accessed": "2026-05-21",
         "notes": "Emma Rae McKay Ashton (1913-2006) was a daughter of David O. McKay and Emma Ray Riggs McKay"
+      }
+    ]
+  },
+  {
+    "id": "rel-frederick-g-williams-1787--rebecca-swain-williams-1798--spouse",
+    "type": "spouse",
+    "person_a_id": "frederick-g-williams-1787",
+    "person_b_id": "rebecca-swain-williams-1798",
+    "sources": [
+      {
+        "url": "https://www.thechurchnews.com/2006/8/19/23234451/illustrious-ancestor/",
+        "accessed": "2026-05-22",
+        "notes": "Rebecca Swain was the wife of Frederick G. Williams; after his death in 1842 she married Heber C. Kimball"
+      }
+    ]
+  },
+  {
+    "id": "rel-rebecca-swain-williams-1798--heber-c-kimball-1801--spouse",
+    "type": "spouse",
+    "person_a_id": "rebecca-swain-williams-1798",
+    "person_b_id": "heber-c-kimball-1801",
+    "marriage_date": "1846-02-07",
+    "sources": [
+      {
+        "url": "https://www.geni.com/people/Rebecca-Swain/6000000001363776862",
+        "accessed": "2026-05-22",
+        "notes": "Rebecca received her endowments in the Nauvoo Temple on February 7, 1846, at which time she was sealed to her husband Frederick G. Williams and married for time to Heber C. Kimball"
+      }
+    ]
+  },
+  {
+    "id": "rel-george-taft-benson-sr-1846--louisa-ballif-1850--spouse",
+    "type": "spouse",
+    "person_a_id": "george-taft-benson-sr-1846",
+    "person_b_id": "louisa-ballif-1850",
+    "marriage_date": "1867-12-20",
+    "sources": [
+      {
+        "url": "https://www.geni.com/people/George-Taft-Benson-Sr/6000000009861790889",
+        "accessed": "2026-05-22",
+        "notes": "George Taft Benson married Louisa Alexandrine Ballif on December 20, 1867 at the Endowment House in Salt Lake City; she was the daughter of Serge Louis Ballif and Elise Marie LeCoultre"
+      }
+    ]
+  },
+  {
+    "id": "rel-louisa-ballif-1850--marie-jeanne-ballif-1852--sibling",
+    "type": "sibling",
+    "subtype": "full",
+    "person_a_id": "louisa-ballif-1850",
+    "person_b_id": "marie-jeanne-ballif-1852",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/chd/individual/serge-louis-ballif-1821?lang=eng",
+        "accessed": "2026-05-22",
+        "notes": "CHD 1854 Robert L. Campbell Company records list Serge Louis Ballif traveling with Elise Marie LeCoultre (age 29), Louisa Alexandrine Ballif (age 4), and Marie Jeanne Ballif (age 2) — both are daughters of Serge Louis Ballif and thus full sisters"
+      }
+    ]
+  },
+  {
+    "id": "rel-marie-jeanne-ballif-1852--aaron-dunham-thatcher-1837--spouse",
+    "type": "spouse",
+    "person_a_id": "marie-jeanne-ballif-1852",
+    "person_b_id": "aaron-dunham-thatcher-1837",
+    "marriage_date": "1871-04-10",
+    "sources": [
+      {
+        "url": "https://history.churchofjesuschrist.org/chd/individual/aaron-dunham-thatcher-1837?lang=eng",
+        "accessed": "2026-05-22",
+        "notes": "Aaron Dunham Thatcher married Marie Jeanne Ballif on April 10, 1871"
+      }
+    ]
+  },
+  {
+    "id": "rel-moses-thatcher-1842--aaron-dunham-thatcher-1837--sibling",
+    "type": "sibling",
+    "subtype": "full",
+    "person_a_id": "moses-thatcher-1842",
+    "person_b_id": "aaron-dunham-thatcher-1837",
+    "sources": [
+      {
+        "url": "https://www.uen.org/utah_history_encyclopedia/t/THATCHER_MOSES.shtml",
+        "accessed": "2026-05-22",
+        "notes": "Moses Thatcher and Aaron Dunham Thatcher were brothers, both children of Hezekiah Thatcher (1808) and Alena Kitchen (1808)"
+      },
+      {
+        "url": "https://history.churchofjesuschrist.org/chd/individual/aaron-dunham-thatcher-1837?lang=eng",
+        "accessed": "2026-05-22",
+        "notes": "Aaron Dunham Thatcher and Moses Thatcher share the same parents: Hezekiah Thatcher and Alena Kitchen"
       }
     ]
   }
