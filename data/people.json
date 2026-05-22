@@ -5413,5 +5413,69 @@
         "notes": "Moses Thatcher's siblings include Aaron Dunham Thatcher; both were children of Hezekiah Thatcher and Alena Kitchen"
       }
     ]
+  },
+  {
+    "id": "andrea-rich-1890",
+    "display_name": "Andrea Rich",
+    "full_name": "Andrea Rich",
+    "birth_date": "1890-01-01",
+    "death_date": "1971-01-01",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Apostle Charles C. Rich's son Benjamin Erastus Rich (1855-1914) and his wife Diana Farr Rich (1858-1926). Ben E. Rich served as a mission president and was one of fifty-two children of Apostle Charles C. Rich. Andrea married U.S. Senator Arthur V. Watkins on June 18, 1913. Their daughter Jeanene Watkins (born June 30, 1929) married Richard G. Scott on July 16, 1953 in the Manti Temple. Andrea died in 1971 from complications of a stroke.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Arthur_V._Watkins",
+        "accessed": "2026-05-22",
+        "notes": "Arthur Vivian Watkins married Andrea Rich on June 18, 1913; Andrea was the daughter of Ben E. Rich (son of Apostle Charles C. Rich)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_G._Scott",
+        "accessed": "2026-05-22",
+        "notes": "Richard G. Scott married Jeanene Watkins, whose mother was Andrea Rich, daughter of Ben E. Rich"
+      }
+    ]
+  },
+  {
+    "id": "arthur-v-watkins-1886",
+    "display_name": "Arthur V. Watkins",
+    "full_name": "Arthur Vivian Watkins",
+    "birth_date": "1886-02-01",
+    "death_date": "1973-09-01",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "U.S. Senator from Utah (1947–1959), born February 1, 1886 in Midway, Wasatch County, Utah. Son of Arthur Watkins and Emily Adkins. Served as presiding judge of the Senate subcommittee that censured Senator Joseph McCarthy in 1954. Married Andrea Rich (daughter of Ben E. Rich, son of Apostle Charles C. Rich) on June 18, 1913. Their daughter Jeanene Watkins (born June 30, 1929) married Apostle Richard G. Scott on July 16, 1953 in the Manti Temple. Died September 1, 1973 in Orem, Utah.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Arthur_V._Watkins",
+        "accessed": "2026-05-22",
+        "notes": "Arthur Vivian Watkins, born February 1, 1886 in Midway, Utah; died September 1, 1973 in Orem, Utah; U.S. Senator 1947-1959; married Andrea Rich June 18, 1913"
+      }
+    ]
+  },
+  {
+    "id": "jeanene-watkins-1929",
+    "display_name": "Jeanene Watkins",
+    "full_name": "Jeanene Watkins",
+    "birth_date": "1929-06-30",
+    "death_date": "1995-05-15",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of U.S. Senator Arthur V. Watkins (1886-1973) and Andrea Rich Watkins (1890-1971). Andrea Rich was the daughter of Benjamin Erastus Rich (1855-1914), who was a son of Apostle Charles C. Rich (1809-1883). Born June 30, 1929 in Orem, Utah. Married Richard G. Scott on July 16, 1953 in the Manti Temple. They had seven children; three died in infancy. Jeanene died May 15, 1995. Her life and character were the subject of Elder Scott's April 1996 general conference address.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_G._Scott",
+        "accessed": "2026-05-22",
+        "notes": "Richard G. Scott married Jeanene Watkins on July 16, 1953 in the Manti Temple; she was born June 30, 1929 and died May 15, 1995; her parents were Arthur V. Watkins and Andrea Rich"
+      },
+      {
+        "url": "https://www.churchofjesuschrist.org/study/general-conference/1996/04/the-sustaining-power-of-faith-in-times-of-uncertainty-and-testing?lang=eng",
+        "accessed": "2026-05-22",
+        "notes": "Elder Scott's April 1996 general conference address honoring Jeanene's life and faith"
+      }
+    ]
   }
 ]

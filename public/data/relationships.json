@@ -3781,5 +3781,85 @@
         "notes": "Aaron Dunham Thatcher and Moses Thatcher share the same parents: Hezekiah Thatcher and Alena Kitchen"
       }
     ]
+  },
+  {
+    "id": "rel-benjamin-erastus-rich-1855--andrea-rich-1890--parent-child",
+    "type": "parent-child",
+    "parent_id": "benjamin-erastus-rich-1855",
+    "child_id": "andrea-rich-1890",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Arthur_V._Watkins",
+        "accessed": "2026-05-22",
+        "notes": "Arthur V. Watkins married Andrea Rich, daughter of Ben E. Rich (mission president and son of Apostle Charles C. Rich)"
+      }
+    ]
+  },
+  {
+    "id": "rel-diana-farr-rich-1858--andrea-rich-1890--parent-child",
+    "type": "parent-child",
+    "parent_id": "diana-farr-rich-1858",
+    "child_id": "andrea-rich-1890",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Arthur_V._Watkins",
+        "accessed": "2026-05-22",
+        "notes": "Andrea Rich was the daughter of Ben E. Rich and his wife Diana Farr Rich"
+      }
+    ]
+  },
+  {
+    "id": "rel-andrea-rich-1890--arthur-v-watkins-1886--spouse",
+    "type": "spouse",
+    "person_a_id": "andrea-rich-1890",
+    "person_b_id": "arthur-v-watkins-1886",
+    "marriage_date": "1913-06-18",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Arthur_V._Watkins",
+        "accessed": "2026-05-22",
+        "notes": "Arthur Vivian Watkins married Andrea Rich on June 18, 1913"
+      }
+    ]
+  },
+  {
+    "id": "rel-andrea-rich-1890--jeanene-watkins-1929--parent-child",
+    "type": "parent-child",
+    "parent_id": "andrea-rich-1890",
+    "child_id": "jeanene-watkins-1929",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_G._Scott",
+        "accessed": "2026-05-22",
+        "notes": "Jeanene Watkins's mother was Andrea Rich Watkins"
+      }
+    ]
+  },
+  {
+    "id": "rel-arthur-v-watkins-1886--jeanene-watkins-1929--parent-child",
+    "type": "parent-child",
+    "parent_id": "arthur-v-watkins-1886",
+    "child_id": "jeanene-watkins-1929",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_G._Scott",
+        "accessed": "2026-05-22",
+        "notes": "Jeanene Watkins was the daughter of U.S. Senator Arthur V. Watkins; she was born June 30, 1929 in Orem, Utah"
+      }
+    ]
+  },
+  {
+    "id": "rel-richard-g-scott-1928--jeanene-watkins-1929--spouse",
+    "type": "spouse",
+    "person_a_id": "richard-g-scott-1928",
+    "person_b_id": "jeanene-watkins-1929",
+    "marriage_date": "1953-07-16",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_G._Scott",
+        "accessed": "2026-05-22",
+        "notes": "Richard G. Scott married Jeanene Watkins on July 16, 1953 in the Manti Temple"
+      }
+    ]
   }
 ]
