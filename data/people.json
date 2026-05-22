@@ -4841,5 +4841,385 @@
         "notes": "FamilySearch ID KWC6-RFJ confirms parents and dates"
       }
     ]
+  },
+  {
+    "id": "effie-walker-morris-ashton-1859",
+    "display_name": "Effie Walker Morris Ashton",
+    "full_name": "Effie Walker Morris Ashton",
+    "birth_date": "1859-01-01",
+    "birth_place": "Cedar City, Iron County, Utah, USA",
+    "death_date": "1929-01-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Elias Morris (1825) and Mary Lois Walker Morris (1835). Full sister of Apostle George Q. Morris (1874). Married Edward Treharne Ashton. Mother of Presiding Bishop Marvin Owen Ashton (1883), who is the father of Apostle Marvin J. Ashton (1915). This makes Marvin J. Ashton the great-nephew of George Q. Morris.",
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Morris-14839",
+        "accessed": "2026-05-21",
+        "notes": "WikiTree confirms Effie Walker Morris (1859-1929) is daughter of Elias Morris and Mary Lois Walker Morris, and sister of George Q. Morris"
+      }
+    ]
+  },
+  {
+    "id": "marvin-owen-ashton-1883",
+    "display_name": "Marvin Owen Ashton",
+    "full_name": "Marvin Owen Ashton",
+    "birth_date": "1883-01-01",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1946-10-07",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": "KWCD-9GZ",
+    "notes": "Son of Edward Treharne Ashton and Effie Walker Morris Ashton (sister of Apostle George Q. Morris). Served as Presiding Bishop of the Church 1938-1946 (First Counselor in the Presiding Bishopric). Father of Apostle Marvin J. Ashton (1915). Grandson of Elias Morris and Mary Lois Walker Morris.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Marvin_O._Ashton",
+        "accessed": "2026-05-21",
+        "notes": "Marvin Owen Ashton (1883-1946), Presiding Bishop; father of Apostle Marvin J. Ashton; son of Edward Treharne Ashton and Effie Walker Morris"
+      }
+    ]
+  },
+  {
+    "id": "nathan-tanner-sr-1815",
+    "display_name": "Nathan Tanner Sr.",
+    "full_name": "Nathan Tanner Sr.",
+    "birth_date": "1815-05-14",
+    "birth_place": "Greenwich, Washington County, New York, USA",
+    "death_date": "1910-01-01",
+    "death_place": "Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "LDS pioneer and colonizer. Married Rachel Winter Smith Tanner. Father of Lydia Jane Tanner (1838, who became Lydia Jane Brown, grandmother of Hugh B. Brown) and Stewart Tefft Tanner (1856, grandfather of Fern Lucinda Tanner who married Harold B. Lee). Descendant of Nathan Tanner (frontiersman). Ancestor of Hugh B. Brown, N. Eldon Tanner, and Harold B. Lee.",
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Tanner-2717",
+        "accessed": "2026-05-21",
+        "notes": "Nathan Tanner Sr. (1815-1910), father of Lydia Jane Tanner (1838) and Stewart Tefft Tanner (1856)"
+      }
+    ]
+  },
+  {
+    "id": "lydia-jane-tanner-1838",
+    "display_name": "Lydia Jane Tanner Brown",
+    "full_name": "Lydia Jane Tanner Brown",
+    "birth_date": "1838-01-01",
+    "birth_place": "Utah, USA",
+    "death_date": "1872-01-01",
+    "death_place": "Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": "L5X8-M9Z",
+    "notes": "Daughter of Nathan Tanner Sr. (1815-1910) and Rachel Winter Smith Tanner. Married James Stephens Brown (1828-1902). Mother of Lydia Jane Brown (1855, grandmother of Hugh B. Brown and great-grandmother of N. Eldon Tanner). Died 1872.",
+    "sources": [
+      {
+        "url": "https://ancestors.familysearch.org/en/L5X8-M9Z/lydia-jane-tanner-1838-1872",
+        "accessed": "2026-05-21",
+        "notes": "FamilySearch ID L5X8-M9Z: Lydia Jane Tanner (1838-1872), daughter of Nathan Tanner Sr."
+      }
+    ]
+  },
+  {
+    "id": "james-stephens-brown-1828",
+    "display_name": "James Stephens Brown",
+    "full_name": "James Stephens Brown",
+    "birth_date": "1828-01-01",
+    "birth_place": "USA",
+    "death_date": "1902-01-01",
+    "death_place": "Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "LDS pioneer. Married Lydia Jane Tanner (daughter of Nathan Tanner Sr.) in Utah. Father of Lydia Jane Brown (1855), grandmother of Apostle Hugh B. Brown and N. Eldon Tanner's mother Sarah Edna Brown.",
+    "sources": [
+      {
+        "url": "https://familypedia.fandom.com/wiki/Lydia_Jane_Brown_(1855-1935)",
+        "accessed": "2026-05-21",
+        "notes": "Lydia Jane Brown (1855-1935) daughter of James Stephens Brown (1828-1902) and Lydia Jane Tanner (1838-1872)"
+      }
+    ]
+  },
+  {
+    "id": "stewart-tefft-tanner-1856",
+    "display_name": "Stewart Tefft Tanner",
+    "full_name": "Stewart Tefft Tanner",
+    "birth_date": "1856-06-04",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1931-01-01",
+    "death_place": "Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Son of Nathan Tanner Sr. (1815-1910) and Rachel Winter Smith Tanner. Father of Fern Lucinda Tanner (1895), who married Apostle/President Harold B. Lee. Brother branch of same family as Hugh B. Brown (both descendants of Nathan Tanner Sr.).",
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Tanner-2717",
+        "accessed": "2026-05-21",
+        "notes": "Stewart Tefft Tanner born June 4, 1856 in Salt Lake City, child of Nathan Tanner Sr."
+      }
+    ]
+  },
+  {
+    "id": "fern-lucinda-tanner-lee-1895",
+    "display_name": "Fern Lucinda Tanner Lee",
+    "full_name": "Fern Lucinda Tanner Lee",
+    "birth_date": "1895-11-14",
+    "birth_place": "Granger, Salt Lake County, Utah, USA",
+    "death_date": "1962-01-01",
+    "death_place": "Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Stewart Tefft Tanner (1856-1931) and Janet Somerville Coats (1856-1932). Married Apostle/President Harold B. Lee on November 14, 1923. First cousin once-removed of N. Eldon Tanner through shared ancestor Nathan Tanner Sr. Served a mission in the Western States Mission.",
+    "sources": [
+      {
+        "url": "https://familypedia.fandom.com/wiki/Fern_Lucinda_Tanner_(1895-1962)",
+        "accessed": "2026-05-21",
+        "notes": "Fern Lucinda Tanner born November 14, 1895 in Granger, Salt Lake County, Utah. Daughter of Stewart Tefft Tanner."
+      }
+    ]
+  },
+  {
+    "id": "robert-francis-neslen-1832",
+    "display_name": "Robert Francis Neslen",
+    "full_name": "Robert Francis Neslen",
+    "birth_date": "1832-12-10",
+    "birth_place": "England, United Kingdom",
+    "death_date": null,
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "English LDS convert who emigrated to Utah. Father of Florence Neslen Evans (by Eleanor Stevens) and Charles Clarence Neslen (by Eliza Saville). Florence was mother of Apostle Richard L. Evans; Charles married Grace T. Cannon (daughter of Apostle George Q. Cannon).",
+    "sources": [
+      {
+        "url": "https://www.findagrave.com/memorial/146631787",
+        "accessed": "2026-05-21",
+        "notes": "Florence Neslen Evans (1866-1940), daughter of Robert Francis Neslen and Eleanor Stevens"
+      }
+    ]
+  },
+  {
+    "id": "florence-neslen-evans-1866",
+    "display_name": "Florence Neslen Evans",
+    "full_name": "Florence Neslen Evans",
+    "birth_date": "1866-04-06",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1940-01-11",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Robert Francis Neslen and Eleanor Stevens. Wife of John Alldridge Evans (1865-1906). Mother of Apostle Richard L. Evans. Half-sister of Charles Clarence Neslen (who married Grace T. Cannon, daughter of George Q. Cannon). Raised nine children after her husband's death.",
+    "sources": [
+      {
+        "url": "https://www.findagrave.com/memorial/146631787",
+        "accessed": "2026-05-21",
+        "notes": "Florence Neslen Evans (April 6, 1866 - January 11, 1940), mother of Richard L. Evans"
+      }
+    ]
+  },
+  {
+    "id": "charles-c-neslen-1879",
+    "display_name": "Charles Clarence Neslen",
+    "full_name": "Charles Clarence Neslen",
+    "birth_date": "1879-04-17",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1967-01-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Son of Robert Francis Neslen and Eliza Saville. Half-brother of Florence Neslen Evans (mother of Apostle Richard L. Evans). Married Grace Telle Cannon (daughter of Apostle George Q. Cannon) on October 26, 1905. Served as bishop of the 20th Ward 1913-1938. Bridges Richard L. Evans to George Q. Cannon.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Charles_Neslen",
+        "accessed": "2026-05-21",
+        "notes": "Charles Clarence Neslen (1879-1967) married Grace T. Cannon Oct 26 1905; his half-sister Florence Neslen was mother of Apostle Richard L. Evans"
+      }
+    ]
+  },
+  {
+    "id": "grace-telle-cannon-neslen-1880",
+    "display_name": "Grace Telle Cannon Neslen",
+    "full_name": "Grace Telle Cannon Neslen",
+    "birth_date": "1880-01-01",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1950-01-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Apostle George Q. Cannon and his fourth wife Martha Telle Cannon (married March 16, 1868). Married Charles Clarence Neslen on October 26, 1905. Half-brother-in-law of Florence Neslen Evans, mother of Apostle Richard L. Evans.",
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Cannon-158",
+        "accessed": "2026-05-21",
+        "notes": "Grace Telle (Cannon) Neslen, born January 1, 1880 in Salt Lake City; daughter of George Quayle Cannon and Martha Telle"
+      }
+    ]
+  },
+  {
+    "id": "georgiana-snow-thatcher-1862",
+    "display_name": "Georgiana Snow Thatcher",
+    "full_name": "Georgiana Snow Thatcher",
+    "birth_date": "1862-01-01",
+    "birth_place": "Utah, USA",
+    "death_date": "1929-01-01",
+    "death_place": "Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Apostle Erastus Fairbanks Snow (1818-1888) and Elizabeth Rebecca Ashby. Married Apostle Moses Thatcher. Connects Moses Thatcher to main cluster via her father Erastus Snow.",
+    "sources": [
+      {
+        "url": "https://www.findagrave.com/memorial/34482268/georgiana-thatcher",
+        "accessed": "2026-05-21",
+        "notes": "Georgiana Snow Thatcher (1862-1929), daughter of Erastus Snow, wife of Moses Thatcher"
+      }
+    ]
+  },
+  {
+    "id": "elias-morris-1825",
+    "display_name": "Elias Morris",
+    "full_name": "Elias Morris",
+    "birth_date": "1825-06-30",
+    "birth_place": "Wales, United Kingdom",
+    "death_date": "1898-01-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Welsh pioneer. Father of Apostle George Q. Morris. Married Mary Lois Walker (sister of Ann Agatha Walker Pratt, wife of Apostle Parley P. Pratt). He and his brother John both married Mary Lois; John Morris died 1855 and Elias then married her.",
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Morris-13742",
+        "accessed": "2026-05-21",
+        "notes": "Elias Morris born 30 June 1825 in Wales, son of John Morris and Barbara Thomas"
+      }
+    ]
+  },
+  {
+    "id": "mary-lois-walker-morris-1835",
+    "display_name": "Mary Lois Walker Morris",
+    "full_name": "Mary Lois Walker Morris",
+    "birth_date": "1835-05-19",
+    "birth_place": "Leek, Staffordshire, England",
+    "death_date": "1919-01-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": "KWJC-4D8",
+    "notes": "Mother of Apostle George Q. Morris. Sister of Ann Agatha Walker Pratt (wife of Apostle Parley P. Pratt). Both daughters of William Gibson Walker and Mary Godwin of Leek, Staffordshire, England. Pioneer of 1850. Her diaries were published by USU Press.",
+    "sources": [
+      {
+        "url": "https://jared.pratt-family.org/parley_family_histories/ann-agatha-walker-life-sketch.html",
+        "accessed": "2026-05-21",
+        "notes": "Confirmed sisters: Ann Agatha Walker Pratt and Mary Lois Walker Morris, daughters of William Gibson Walker and Mary Godwin"
+      }
+    ]
+  },
+  {
+    "id": "ann-agatha-walker-pratt-1829",
+    "display_name": "Ann Agatha Walker Pratt",
+    "full_name": "Ann Agatha Walker Pratt",
+    "birth_date": "1829-06-11",
+    "birth_place": "Leek, Staffordshire, England",
+    "death_date": "1908-06-25",
+    "death_place": "Ogden, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Eldest daughter of William Gibson Walker and Mary Godwin. Married Apostle Parley P. Pratt at Winter Quarters on April 28, 1847. Sister of Mary Lois Walker Morris (mother of Apostle George Q. Morris). Came to Utah 1847; known as first woman to drive an ox team across the plains.",
+    "sources": [
+      {
+        "url": "https://jared.pratt-family.org/parley_family_histories/ann-agatha-walker-life-sketch.html",
+        "accessed": "2026-05-21",
+        "notes": "Born June 11, 1829 in Leek, Staffordshire. Married Parley P. Pratt Apr 28 1847. Sister of Mary Lois Walker Morris."
+      }
+    ]
+  },
+  {
+    "id": "jane-maria-carrington-young-1840",
+    "display_name": "Jane Maria Carrington Young",
+    "full_name": "Jane Maria Carrington Young",
+    "birth_date": "1840-01-01",
+    "birth_place": "Unknown",
+    "death_date": "1905-01-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Apostle Albert Carrington (1813) and his first wife Rhoda Maria Woods. Married Apostle Brigham Young Jr. (son of Brigham Young) in 1857 as his second wife. Bridges Albert Carrington to the main cluster via Brigham Young Jr. (son of Brigham Young, who is in the main cluster).",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brigham_Young,_Jr.",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia on Brigham Young Jr.: 'In 1857, Young married his second wife, Jane Carrington, a daughter of Albert Carrington.'"
+      }
+    ]
+  },
+  {
+    "id": "elias-conway-ashton-1880",
+    "display_name": "Elias Conway Ashton",
+    "full_name": "Elias Conway Ashton",
+    "birth_date": "1880-01-01",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1919-01-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Son of Edward Treharne Ashton and Effie Walker Morris Ashton. Full brother of Presiding Bishop Marvin Owen Ashton (1883). Father of Conway Ashton (1913), who married Emma Rae McKay (daughter of President David O. McKay). Bridges David O. McKay to the main cluster via the sibling connection to Marvin Owen Ashton.",
+    "sources": [
+      {
+        "url": "https://archive.org/stream/TheEdwardAshtonAndJaneTreharneAshtonLegacyOfFaith/EdJaneBookHighRes_djvu.txt",
+        "accessed": "2026-05-21",
+        "notes": "The Edward Ashton and Jane Treharne Ashton Legacy of Faith confirms Elias Conway Ashton (b. 1880) was a son of Edward Treharne Ashton and Effie Walker Morris, same parents as Marvin Owen Ashton (b. 1883)"
+      }
+    ]
+  },
+  {
+    "id": "conway-ashton-1913",
+    "display_name": "Conway Ashton",
+    "full_name": "Conway Ashton",
+    "birth_date": "1913-02-18",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "2009-01-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Son of Elias Conway Ashton (1880-1919) and Rosabel Hall Ashton. Married Emma Rae McKay (daughter of President David O. McKay) on August 16, 1939 in the Salt Lake Temple. His father Elias Conway was the full brother of Presiding Bishop Marvin Owen Ashton (grandfather of Apostle Marvin J. Ashton).",
+    "sources": [
+      {
+        "url": "https://www.legacy.com/us/obituaries/saltlaketribune/name/conway-ashton-obituary?id=28535588",
+        "accessed": "2026-05-21",
+        "notes": "Conway Ashton obituary (Salt Lake Tribune 2009): born February 18, 1913, eldest son of Elias Conway Ashton"
+      }
+    ]
+  },
+  {
+    "id": "emma-rae-mckay-ashton-1913",
+    "display_name": "Emma Rae McKay Ashton",
+    "full_name": "Emma Rae McKay Ashton",
+    "birth_date": "1913-01-01",
+    "birth_place": "Ogden, Utah, USA",
+    "death_date": "2006-02-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of President David O. McKay (1873) and Emma Ray Riggs McKay. Married Conway Ashton (son of Elias Conway Ashton, who was the full brother of Presiding Bishop Marvin Owen Ashton) on August 16, 1939 in the Salt Lake Temple. Their son Alan C. Ashton co-founded WordPerfect Corporation.",
+    "sources": [
+      {
+        "url": "https://www.findagrave.com/memorial/13236126/emma-rae-ashton",
+        "accessed": "2026-05-21",
+        "notes": "Emma Rae McKay Ashton (1913-2006), daughter of David O. McKay, married Conway Ashton"
+      }
+    ]
   }
 ]

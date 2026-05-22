@@ -3191,5 +3191,395 @@
         "notes": "BYU RSC: Bruce Redd McConkie born to Oscar Walter McConkie and Margaret Vivian Redd"
       }
     ]
+  },
+  {
+    "id": "rel-nathan-tanner-sr-1815--lydia-jane-tanner-1838--parent-child",
+    "type": "parent-child",
+    "parent_id": "nathan-tanner-sr-1815",
+    "child_id": "lydia-jane-tanner-1838",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Tanner-2717",
+        "accessed": "2026-05-21",
+        "notes": "Lydia Jane Tanner (1838) listed as child of Nathan Tanner Sr. and Rachel Winter Smith Tanner"
+      }
+    ]
+  },
+  {
+    "id": "rel-nathan-tanner-sr-1815--stewart-tefft-tanner-1856--parent-child",
+    "type": "parent-child",
+    "parent_id": "nathan-tanner-sr-1815",
+    "child_id": "stewart-tefft-tanner-1856",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Tanner-2717",
+        "accessed": "2026-05-21",
+        "notes": "Stewart Tefft Tanner (born June 4, 1856) listed as child of Nathan Tanner Sr. and Rachel Winter Smith Tanner"
+      }
+    ]
+  },
+  {
+    "id": "rel-james-stephens-brown-1828--lydia-jane-tanner-1838--spouse",
+    "type": "spouse",
+    "person_a_id": "james-stephens-brown-1828",
+    "person_b_id": "lydia-jane-tanner-1838",
+    "sources": [
+      {
+        "url": "https://familypedia.fandom.com/wiki/Lydia_Jane_Brown_(1855-1935)",
+        "accessed": "2026-05-21",
+        "notes": "Lydia Jane Brown (1855) daughter of James Stephens Brown and Lydia Jane Tanner"
+      }
+    ]
+  },
+  {
+    "id": "rel-james-stephens-brown-1828--lydia-jane-brown-1856--parent-child",
+    "type": "parent-child",
+    "parent_id": "james-stephens-brown-1828",
+    "child_id": "lydia-jane-brown-1856",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://familypedia.fandom.com/wiki/Lydia_Jane_Brown_(1855-1935)",
+        "accessed": "2026-05-21",
+        "notes": "Lydia Jane Brown born August 10, 1855, daughter of James Stephens Brown (1828-1902) and Lydia Jane Tanner (1838-1872)"
+      }
+    ]
+  },
+  {
+    "id": "rel-lydia-jane-tanner-1838--lydia-jane-brown-1856--parent-child",
+    "type": "parent-child",
+    "parent_id": "lydia-jane-tanner-1838",
+    "child_id": "lydia-jane-brown-1856",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://familypedia.fandom.com/wiki/Lydia_Jane_Brown_(1855-1935)",
+        "accessed": "2026-05-21",
+        "notes": "Lydia Jane Brown (1855-1935) daughter of Lydia Jane Tanner (1838-1872)"
+      }
+    ]
+  },
+  {
+    "id": "rel-stewart-tefft-tanner-1856--fern-lucinda-tanner-lee-1895--parent-child",
+    "type": "parent-child",
+    "parent_id": "stewart-tefft-tanner-1856",
+    "child_id": "fern-lucinda-tanner-lee-1895",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://familypedia.fandom.com/wiki/Fern_Lucinda_Tanner_(1895-1962)",
+        "accessed": "2026-05-21",
+        "notes": "Fern Lucinda Tanner daughter of Stewart Tefft Tanner and Janet Somerville Coats"
+      }
+    ]
+  },
+  {
+    "id": "rel-harold-b-lee-1899--fern-lucinda-tanner-lee-1895--spouse",
+    "type": "spouse",
+    "person_a_id": "harold-b-lee-1899",
+    "person_b_id": "fern-lucinda-tanner-lee-1895",
+    "marriage_date": "1923-11-14",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Harold_B._Lee",
+        "accessed": "2026-05-21",
+        "notes": "Harold B. Lee married Fern Lucinda Tanner on November 14, 1923"
+      }
+    ]
+  },
+  {
+    "id": "rel-robert-francis-neslen-1832--florence-neslen-evans-1866--parent-child",
+    "type": "parent-child",
+    "parent_id": "robert-francis-neslen-1832",
+    "child_id": "florence-neslen-evans-1866",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.findagrave.com/memorial/146631787",
+        "accessed": "2026-05-21",
+        "notes": "Florence Neslen Evans daughter of Robert Francis Neslen and Eleanor Stevens"
+      }
+    ]
+  },
+  {
+    "id": "rel-robert-francis-neslen-1832--charles-c-neslen-1879--parent-child",
+    "type": "parent-child",
+    "parent_id": "robert-francis-neslen-1832",
+    "child_id": "charles-c-neslen-1879",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Charles_Neslen",
+        "accessed": "2026-05-21",
+        "notes": "Charles Clarence Neslen son of Robert Francis Neslen and Eliza Saville"
+      }
+    ]
+  },
+  {
+    "id": "rel-florence-neslen-evans-1866--richard-l-evans-1906--parent-child",
+    "type": "parent-child",
+    "parent_id": "florence-neslen-evans-1866",
+    "child_id": "richard-l-evans-1906",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_L._Evans",
+        "accessed": "2026-05-21",
+        "notes": "Richard L. Evans born March 23, 1906 to John Alldridge Evans and Florence Neslen"
+      }
+    ]
+  },
+  {
+    "id": "rel-charles-c-neslen-1879--grace-telle-cannon-neslen-1880--spouse",
+    "type": "spouse",
+    "person_a_id": "charles-c-neslen-1879",
+    "person_b_id": "grace-telle-cannon-neslen-1880",
+    "marriage_date": "1905-10-26",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Charles_Neslen",
+        "accessed": "2026-05-21",
+        "notes": "Charles Clarence Neslen married Grace T. Cannon on October 26, 1905"
+      }
+    ]
+  },
+  {
+    "id": "rel-george-q-cannon-1827--grace-telle-cannon-neslen-1880--parent-child",
+    "type": "parent-child",
+    "parent_id": "george-q-cannon-1827",
+    "child_id": "grace-telle-cannon-neslen-1880",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Cannon-158",
+        "accessed": "2026-05-21",
+        "notes": "Grace Telle Cannon Neslen born January 1, 1880; daughter of George Q. Cannon and Martha Telle"
+      }
+    ]
+  },
+  {
+    "id": "rel-erastus-snow-1818--georgiana-snow-thatcher-1862--parent-child",
+    "type": "parent-child",
+    "parent_id": "erastus-snow-1818",
+    "child_id": "georgiana-snow-thatcher-1862",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://familypedia.fandom.com/wiki/Georgina_Snow_(1862-1929)",
+        "accessed": "2026-05-21",
+        "notes": "Georgiana Snow (1862-1929) daughter of Erastus Fairbanks Snow and Elizabeth Rebecca Ashby"
+      }
+    ]
+  },
+  {
+    "id": "rel-moses-thatcher-1842--georgiana-snow-thatcher-1862--spouse",
+    "type": "spouse",
+    "person_a_id": "moses-thatcher-1842",
+    "person_b_id": "georgiana-snow-thatcher-1862",
+    "sources": [
+      {
+        "url": "https://www.uen.org/utah_history_encyclopedia/t/THATCHER_MOSES.shtml",
+        "accessed": "2026-05-21",
+        "notes": "Moses Thatcher married Georgie Snow, daughter of Apostle Erastus Snow"
+      }
+    ]
+  },
+  {
+    "id": "rel-elias-morris-1825--george-q-morris-1874--parent-child",
+    "type": "parent-child",
+    "parent_id": "elias-morris-1825",
+    "child_id": "george-q-morris-1874",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://rsc.byu.edu/prophets-apostles-last-dispensation/george-quayle-morris",
+        "accessed": "2026-05-21",
+        "notes": "George Q. Morris born February 20, 1874, son of Elias Morris and Mary Lois Walker"
+      }
+    ]
+  },
+  {
+    "id": "rel-elias-morris-1825--mary-lois-walker-morris-1835--spouse",
+    "type": "spouse",
+    "person_a_id": "elias-morris-1825",
+    "person_b_id": "mary-lois-walker-morris-1835",
+    "marriage_date": "1855-01-01",
+    "sources": [
+      {
+        "url": "https://rsc.byu.edu/prophets-apostles-last-dispensation/george-quayle-morris",
+        "accessed": "2026-05-21",
+        "notes": "Mary Lois Walker married John Thomas Morris 1852 (died 1855), then married his brother Elias Morris"
+      }
+    ]
+  },
+  {
+    "id": "rel-mary-lois-walker-morris-1835--ann-agatha-walker-pratt-1829--sibling",
+    "type": "sibling",
+    "person_a_id": "mary-lois-walker-morris-1835",
+    "person_b_id": "ann-agatha-walker-pratt-1829",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://jared.pratt-family.org/parley_family_histories/ann-agatha-walker-life-sketch.html",
+        "accessed": "2026-05-21",
+        "notes": "Ann Agatha Walker Pratt life sketch confirms Mary Lois Walker Morris was her sister; both daughters of William Gibson Walker and Mary Godwin of Leek, Staffordshire"
+      }
+    ]
+  },
+  {
+    "id": "rel-ann-agatha-walker-pratt-1829--parley-p-pratt-1807--spouse",
+    "type": "spouse",
+    "person_a_id": "ann-agatha-walker-pratt-1829",
+    "person_b_id": "parley-p-pratt-1807",
+    "marriage_date": "1847-04-28",
+    "sources": [
+      {
+        "url": "https://jared.pratt-family.org/parley_family_histories/ann-agatha-walker-life-sketch.html",
+        "accessed": "2026-05-21",
+        "notes": "Ann Agatha Walker married Apostle Parley P. Pratt at Winter Quarters, April 28, 1847"
+      }
+    ]
+  },
+  {
+    "id": "rel-elias-morris-1825--effie-walker-morris-ashton-1859--parent-child",
+    "type": "parent-child",
+    "parent_id": "elias-morris-1825",
+    "child_id": "effie-walker-morris-ashton-1859",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Morris-14839",
+        "accessed": "2026-05-21",
+        "notes": "Effie Walker Morris Ashton was a daughter of Elias Morris and Mary Lois Walker Morris, full sister of Apostle George Q. Morris"
+      }
+    ]
+  },
+  {
+    "id": "rel-mary-lois-walker-morris-1835--effie-walker-morris-ashton-1859--parent-child",
+    "type": "parent-child",
+    "parent_id": "mary-lois-walker-morris-1835",
+    "child_id": "effie-walker-morris-ashton-1859",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.wikitree.com/wiki/Morris-14839",
+        "accessed": "2026-05-21",
+        "notes": "Effie Walker Morris Ashton was a daughter of Elias Morris and Mary Lois Walker Morris, full sister of Apostle George Q. Morris"
+      }
+    ]
+  },
+  {
+    "id": "rel-effie-walker-morris-ashton-1859--marvin-owen-ashton-1883--parent-child",
+    "type": "parent-child",
+    "parent_id": "effie-walker-morris-ashton-1859",
+    "child_id": "marvin-owen-ashton-1883",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Marvin_O._Ashton",
+        "accessed": "2026-05-21",
+        "notes": "Marvin Owen Ashton (Presiding Bishop 1938-1946) was the son of Edward Treharne Ashton and Effie Walker Morris Ashton"
+      }
+    ]
+  },
+  {
+    "id": "rel-marvin-owen-ashton-1883--marvin-j-ashton-1915--parent-child",
+    "type": "parent-child",
+    "parent_id": "marvin-owen-ashton-1883",
+    "child_id": "marvin-j-ashton-1915",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Marvin_J._Ashton",
+        "accessed": "2026-05-21",
+        "notes": "Apostle Marvin J. Ashton (1915-1994) was the son of Presiding Bishop Marvin Owen Ashton"
+      }
+    ]
+  },
+  {
+    "id": "rel-albert-carrington-1813--jane-maria-carrington-young-1840--parent-child",
+    "type": "parent-child",
+    "parent_id": "albert-carrington-1813",
+    "child_id": "jane-maria-carrington-young-1840",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brigham_Young,_Jr.",
+        "accessed": "2026-05-21",
+        "notes": "Wikipedia confirms Jane Carrington was 'a daughter of Albert Carrington'"
+      }
+    ]
+  },
+  {
+    "id": "rel-brigham-young-jr-1836--jane-maria-carrington-young-1840--spouse",
+    "type": "spouse",
+    "person_a_id": "brigham-young-jr-1836",
+    "person_b_id": "jane-maria-carrington-young-1840",
+    "marriage_date": "1857-01-01",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brigham_Young,_Jr.",
+        "accessed": "2026-05-21",
+        "notes": "Brigham Young Jr. married Jane Carrington in 1857 as his second wife; she was a daughter of Albert Carrington"
+      }
+    ]
+  },
+  {
+    "id": "rel-elias-conway-ashton-1880--marvin-owen-ashton-1883--sibling",
+    "type": "sibling",
+    "person_a_id": "elias-conway-ashton-1880",
+    "person_b_id": "marvin-owen-ashton-1883",
+    "subtype": "full",
+    "sources": [
+      {
+        "url": "https://archive.org/stream/TheEdwardAshtonAndJaneTreharneAshtonLegacyOfFaith/EdJaneBookHighRes_djvu.txt",
+        "accessed": "2026-05-21",
+        "notes": "The Edward Ashton and Jane Treharne Ashton Legacy of Faith confirms both Elias Conway Ashton (b. 1880) and Marvin Owen Ashton (b. 1883) were children of Edward Treharne Ashton and Effie Walker Morris Ashton"
+      }
+    ]
+  },
+  {
+    "id": "rel-elias-conway-ashton-1880--conway-ashton-1913--parent-child",
+    "type": "parent-child",
+    "parent_id": "elias-conway-ashton-1880",
+    "child_id": "conway-ashton-1913",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.legacy.com/us/obituaries/saltlaketribune/name/conway-ashton-obituary?id=28535588",
+        "accessed": "2026-05-21",
+        "notes": "Conway Ashton obituary confirms he was 'the eldest son of Elias Conway Ashton'"
+      }
+    ]
+  },
+  {
+    "id": "rel-conway-ashton-1913--emma-rae-mckay-ashton-1913--spouse",
+    "type": "spouse",
+    "person_a_id": "conway-ashton-1913",
+    "person_b_id": "emma-rae-mckay-ashton-1913",
+    "marriage_date": "1939-08-16",
+    "sources": [
+      {
+        "url": "https://www.deseret.com/2006/2/6/19748949/obituary-emma-rae-ashton/",
+        "accessed": "2026-05-21",
+        "notes": "Emma Rae McKay Ashton obituary (Deseret News 2006): married Conway Ashton August 16, 1939 in the Salt Lake Temple"
+      }
+    ]
+  },
+  {
+    "id": "rel-david-o-mckay-1873--emma-rae-mckay-ashton-1913--parent-child",
+    "type": "parent-child",
+    "parent_id": "david-o-mckay-1873",
+    "child_id": "emma-rae-mckay-ashton-1913",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.findagrave.com/memorial/13236126/emma-rae-ashton",
+        "accessed": "2026-05-21",
+        "notes": "Emma Rae McKay Ashton (1913-2006) was a daughter of David O. McKay and Emma Ray Riggs McKay"
+      }
+    ]
   }
 ]
