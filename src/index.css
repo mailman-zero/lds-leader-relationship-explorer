@@ -950,6 +950,13 @@ body {
   .viz-pill:active {
     transform: scale(0.97);
   }
+  /* Slider: drop out of fixed positioning, centre above the circle */
+  .viz-slider-card {
+    position: static;
+    width: min(320px, 88vw);
+    margin: 8px auto 0;
+    box-shadow: var(--shadow-sm);
+  }
 }
 
 /* ===== Relatedness slider ===== */

@@ -239,6 +239,23 @@ export function RelationshipVisualizer({ graph, onSelect }: RelationshipVisualiz
 
   return (
     <>
+    {/* Slider first in DOM so on mobile (position:static) it sits above the circle */}
+    <div className="viz-slider-card">
+      <label className="viz-slider-label" htmlFor="viz-relatedness">
+        Relatedness
+        <span className="viz-slider-value">{maxHops}</span>
+      </label>
+      <input
+        id="viz-relatedness"
+        type="range"
+        min={1}
+        max={30}
+        value={maxHops}
+        onChange={(e) => setMaxHops(Number(e.target.value))}
+        className="viz-slider"
+      />
+    </div>
+
     <div className="visualizer-page">
       <div className="visualizer-frame">
         <svg
@@ -291,23 +308,6 @@ export function RelationshipVisualizer({ graph, onSelect }: RelationshipVisualiz
           </g>
         </svg>
       </div>
-    </div>
-
-    {/* Fixed overlay — does not participate in flex layout, so the circle stays centered */}
-    <div className="viz-slider-card">
-      <label className="viz-slider-label" htmlFor="viz-relatedness">
-        Relatedness
-        <span className="viz-slider-value">{maxHops}</span>
-      </label>
-      <input
-        id="viz-relatedness"
-        type="range"
-        min={1}
-        max={30}
-        value={maxHops}
-        onChange={(e) => setMaxHops(Number(e.target.value))}
-        className="viz-slider"
-      />
     </div>
     </>
   );
