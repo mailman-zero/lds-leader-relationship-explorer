@@ -230,6 +230,7 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailP
         {currentRelated.length > 0 && (
           <div className="relation-section">
             <h3>Current leaders</h3>
+            <div className="rs-asof">as of {formatDate(snapshot.date)}</div>
             <div className="rs-sub">
               {currentRelated.length} {currentRelated.length === 1 ? "connection" : "connections"} · hover to see the path
             </div>

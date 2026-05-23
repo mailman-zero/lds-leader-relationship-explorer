@@ -64,15 +64,6 @@ body {
   color: var(--accent-deep);
   font-weight: 400;
 }
-.brand .as-of {
-  font-family: var(--mono);
-  font-size: 11px;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--muted);
-  margin-top: 3px;
-}
-
 .picker {
   display: flex;
   align-items: center;
@@ -729,6 +720,13 @@ body {
   font-weight: 500;
   font-size: 22px;
   margin: 0 0 4px;
+}
+.relation-section .rs-asof {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin: 2px 0 6px;
 }
 .relation-section .rs-sub {
   font-family: var(--mono);
