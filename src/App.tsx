@@ -6,6 +6,12 @@ import { TimelinePicker } from "./components/TimelinePicker";
 import { MainView } from "./components/MainView";
 import { Detail } from "./components/Detail";
 
+function formatDate(iso: string): string {
+  const [y, m, d] = iso.split("-").map(Number);
+  const months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  return `${months[m - 1]} ${d}, ${y}`;
+}
+
 function parseHash(hash: string): { date?: string; personId?: string } {
   const path = hash.replace(/^#/, "");
   const m = path.match(/^\/fp\/([^/]+)(?:\/person\/([^/]+))?$/);
@@ -76,6 +82,7 @@ export default function App() {
         <div className="brand">
           <div className="eyebrow">The Church of Jesus Christ of Latter-day Saints</div>
           <h1>First Presidency <em>&amp;</em> Quorum of the Twelve Apostles</h1>
+          <div className="as-of">as of {formatDate(resolvedDate)}</div>
         </div>
         <TimelinePicker
           dates={dates}
