@@ -6,7 +6,7 @@ const inflight = new Map<string, Promise<Biography | null>>();
 
 function fetchBio(personId: string): Promise<Biography | null> {
   if (inflight.has(personId)) return inflight.get(personId)!;
-  const p = fetch(`/data/bios/${personId}.json`)
+  const p = fetch(import.meta.env.BASE_URL + `data/bios/${personId}.json`)
     .then((r) => {
       if (!r.ok) return null;
       return r.json() as Promise<Biography>;

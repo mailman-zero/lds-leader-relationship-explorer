@@ -1,5 +1,4 @@
-import { useMemo, useEffect } from "react";
-import { Routes, Route, useParams, useNavigate, Navigate } from "react-router-dom";
+import { useState, useEffect, useMemo } from "react";
 import { useGraph } from "./hooks/useGraph";
 import { getChangeDates, getSnapshot } from "./graph/timeline";
 import { describeEvent } from "./utils/describeEvent";
@@ -7,43 +6,38 @@ import { TimelinePicker } from "./components/TimelinePicker";
 import { MainView } from "./components/MainView";
 import { Detail } from "./components/Detail";
 
-function RedirectToLatest() {
+function parseHash(hash: string): { date?: string; personId?: string } {
+  const path = hash.replace(/^#/, "");
+  const m = path.match(/^\/fp\/([^/]+)(?:\/person\/([^/]+))?$/);
+  if (m) return { date: m[1], personId: m[2] };
+  return {};
+}
+
+function useHashParams() {
+  const [hash, setHash] = useState(() => window.location.hash);
+  useEffect(() => {
+    const onChange = () => setHash(window.location.hash);
+    window.addEventListener("hashchange", onChange);
+    return () => window.removeEventListener("hashchange", onChange);
+  }, []);
+  return parseHash(hash);
+}
+
+function navigate(path: string) {
+  window.location.hash = path;
+}
+
+export default function App() {
+  const { date, personId } = useHashParams();
   const { graph, loading, error } = useGraph();
-  const navigate = useNavigate();
 
   const dates = useMemo(() => (graph ? getChangeDates(graph) : []), [graph]);
 
   useEffect(() => {
-    if (dates.length > 0) {
-      navigate("/fp/" + dates[dates.length - 1], { replace: true });
+    if (dates.length > 0 && !date) {
+      navigate("/fp/" + dates[dates.length - 1]);
     }
-  }, [dates, navigate]);
-
-  if (error) {
-    return (
-      <div style={{ display: "flex", alignItems: "center", justifyContent: "center", minHeight: "100vh", fontFamily: "var(--mono)", fontSize: 13, color: "var(--accent)" }}>
-        {error}
-      </div>
-    );
-  }
-
-  if (loading || dates.length === 0) {
-    return (
-      <div style={{ display: "flex", alignItems: "center", justifyContent: "center", minHeight: "100vh", fontFamily: "var(--mono)", fontSize: 13, letterSpacing: "0.18em", textTransform: "uppercase", color: "var(--muted)" }}>
-        Loading…
-      </div>
-    );
-  }
-
-  return null;
-}
-
-function AppShell() {
-  const { date, personId } = useParams<{ date: string; personId?: string }>();
-  const navigate = useNavigate();
-  const { graph, loading, error } = useGraph();
-
-  const dates = useMemo(() => (graph ? getChangeDates(graph) : []), [graph]);
+  }, [dates, date]);
 
   const resolvedDate = date ?? (dates.length ? dates[dates.length - 1] : null);
 
@@ -53,27 +47,12 @@ function AppShell() {
   );
 
   const getNoteFor = useMemo(
-    () => (graph && dates.length
-      ? (d: string) => describeEvent(graph, d, dates)
-      : () => ({ title: "", note: "" })),
+    () =>
+      graph && dates.length
+        ? (d: string) => describeEvent(graph, d, dates)
+        : () => ({ title: "", note: "" }),
     [graph, dates]
   );
-
-  const handleSelectDate = (d: string) => {
-    navigate("/fp/" + d);
-  };
-
-  const handleSelectPerson = (id: string) => {
-    navigate("/fp/" + resolvedDate + "/person/" + id);
-  };
-
-  const handleClosePerson = () => {
-    navigate("/fp/" + resolvedDate);
-  };
-
-  const handleSwitchPerson = (id: string) => {
-    navigate("/fp/" + resolvedDate + "/person/" + id);
-  };
 
   if (loading) {
     return (
@@ -102,14 +81,14 @@ function AppShell() {
           dates={dates}
           currentDate={resolvedDate}
           getNoteFor={getNoteFor}
-          onSelect={handleSelectDate}
+          onSelect={(d) => navigate("/fp/" + d)}
         />
       </div>
 
       <MainView
         snapshot={snapshot}
         graph={graph}
-        onSelect={handleSelectPerson}
+        onSelect={(id) => navigate("/fp/" + resolvedDate + "/person/" + id)}
       />
 
       {personId && (
@@ -117,21 +96,10 @@ function AppShell() {
           personId={personId}
           graph={graph}
           snapshot={snapshot}
-          onClose={handleClosePerson}
-          onSwitch={handleSwitchPerson}
+          onClose={() => navigate("/fp/" + resolvedDate)}
+          onSwitch={(id) => navigate("/fp/" + resolvedDate + "/person/" + id)}
         />
       )}
     </>
-  );
-}
-
-export default function App() {
-  return (
-    <Routes>
-      <Route path="/" element={<RedirectToLatest />} />
-      <Route path="/fp/:date" element={<AppShell />} />
-      <Route path="/fp/:date/person/:personId" element={<AppShell />} />
-      <Route path="*" element={<Navigate to="/" replace />} />
-    </Routes>
   );
 }

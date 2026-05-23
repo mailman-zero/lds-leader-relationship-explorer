@@ -102,9 +102,9 @@ export async function loadRawData(): Promise<{
   positions: LeadershipPosition[];
 }> {
   const [peopleRes, relsRes, positionsRes] = await Promise.all([
-    fetch("/data/people.json"),
-    fetch("/data/relationships.json"),
-    fetch("/data/leadership_positions.json"),
+    fetch(import.meta.env.BASE_URL + "data/people.json"),
+    fetch(import.meta.env.BASE_URL + "data/relationships.json"),
+    fetch(import.meta.env.BASE_URL + "data/leadership_positions.json"),
   ]);
 
   const [rawPeople, rawRels, rawPositions] = await Promise.all([

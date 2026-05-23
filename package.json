@@ -14,8 +14,6 @@
   "dependencies": {
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
-    "react-router-dom": "^7.15.1",
-    "urlpattern-polyfill": "^10.1.0",
     "zod": "^4.4.3"
   },
   "devDependencies": {
