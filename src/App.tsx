@@ -1,21 +1,51 @@
-import { useMemo } from "react";
+import { useMemo, useEffect } from "react";
+import { Routes, Route, useParams, useNavigate, Navigate } from "react-router-dom";
 import { useGraph } from "./hooks/useGraph";
 import { getChangeDates, getSnapshot } from "./graph/timeline";
 import { describeEvent } from "./utils/describeEvent";
 import { TimelinePicker } from "./components/TimelinePicker";
 import { MainView } from "./components/MainView";
 import { Detail } from "./components/Detail";
-import { useState } from "react";
 
-export default function App() {
+function RedirectToLatest() {
   const { graph, loading, error } = useGraph();
-  const [currentDate, setCurrentDate] = useState<string | null>(null);
-  const [selectedPersonId, setSelectedPersonId] = useState<string | null>(null);
+  const navigate = useNavigate();
 
   const dates = useMemo(() => (graph ? getChangeDates(graph) : []), [graph]);
 
-  // Default to latest date once graph loads
-  const resolvedDate = currentDate ?? (dates.length ? dates[dates.length - 1] : null);
+  useEffect(() => {
+    if (dates.length > 0) {
+      navigate("/fp/" + dates[dates.length - 1], { replace: true });
+    }
+  }, [dates, navigate]);
+
+  if (error) {
+    return (
+      <div style={{ display: "flex", alignItems: "center", justifyContent: "center", minHeight: "100vh", fontFamily: "var(--mono)", fontSize: 13, color: "var(--accent)" }}>
+        {error}
+      </div>
+    );
+  }
+
+  if (loading || dates.length === 0) {
+    return (
+      <div style={{ display: "flex", alignItems: "center", justifyContent: "center", minHeight: "100vh", fontFamily: "var(--mono)", fontSize: 13, letterSpacing: "0.18em", textTransform: "uppercase", color: "var(--muted)" }}>
+        Loading…
+      </div>
+    );
+  }
+
+  return null;
+}
+
+function AppShell() {
+  const { date, personId } = useParams<{ date: string; personId?: string }>();
+  const navigate = useNavigate();
+  const { graph, loading, error } = useGraph();
+
+  const dates = useMemo(() => (graph ? getChangeDates(graph) : []), [graph]);
+
+  const resolvedDate = date ?? (dates.length ? dates[dates.length - 1] : null);
 
   const snapshot = useMemo(
     () => (graph && resolvedDate ? getSnapshot(graph, resolvedDate) : null),
@@ -24,14 +54,25 @@ export default function App() {
 
   const getNoteFor = useMemo(
     () => (graph && dates.length
-      ? (date: string) => describeEvent(graph, date, dates)
+      ? (d: string) => describeEvent(graph, d, dates)
       : () => ({ title: "", note: "" })),
     [graph, dates]
   );
 
-  const handleSelectDate = (date: string) => {
-    setSelectedPersonId(null);
-    setCurrentDate(date);
+  const handleSelectDate = (d: string) => {
+    navigate("/fp/" + d);
+  };
+
+  const handleSelectPerson = (id: string) => {
+    navigate("/fp/" + resolvedDate + "/person/" + id);
+  };
+
+  const handleClosePerson = () => {
+    navigate("/fp/" + resolvedDate);
+  };
+
+  const handleSwitchPerson = (id: string) => {
+    navigate("/fp/" + resolvedDate + "/person/" + id);
   };
 
   if (loading) {
@@ -68,18 +109,29 @@ export default function App() {
       <MainView
         snapshot={snapshot}
         graph={graph}
-        onSelect={setSelectedPersonId}
+        onSelect={handleSelectPerson}
       />
 
-      {selectedPersonId && (
+      {personId && (
         <Detail
-          personId={selectedPersonId}
+          personId={personId}
           graph={graph}
           snapshot={snapshot}
-          onClose={() => setSelectedPersonId(null)}
-          onSwitch={(id) => setSelectedPersonId(id)}
+          onClose={handleClosePerson}
+          onSwitch={handleSwitchPerson}
         />
       )}
     </>
+  );
+}
+
+export default function App() {
+  return (
+    <Routes>
+      <Route path="/" element={<RedirectToLatest />} />
+      <Route path="/fp/:date" element={<AppShell />} />
+      <Route path="/fp/:date/person/:personId" element={<AppShell />} />
+      <Route path="*" element={<Navigate to="/" replace />} />
+    </Routes>
   );
 }
