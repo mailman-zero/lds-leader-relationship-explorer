@@ -445,23 +445,25 @@ body {
 /* First Presidency trio */
 .fp-trio {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(124px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 12px;
   max-width: 600px;
   margin: 0 auto;
   align-items: end;
   justify-items: center;
 }
-.fp-trio .portrait { width: 84px; }
-.fp-trio .card.center .portrait { width: 108px; }
+/* Portraits shrink fluidly as viewport narrows; fixed size once wide enough */
+.fp-trio .portrait { width: min(84px, 22vw); }
+.fp-trio .card.center .portrait { width: min(108px, 25vw); }
 .fp-trio .card.center .name { font-size: 14px; max-width: 124px; }
 .fp-trio .card.center .glyph { font-size: 32px; }
 
-@media (max-width: 460px) {
-  .fp-trio {
-    grid-template-columns: 1fr;
-  }
+/* Collapse to single column only when three portraits would be too tiny */
+@media (max-width: 300px) {
+  .fp-trio { grid-template-columns: 1fr; }
   .fp-trio .card.center { order: -1; }
+  .fp-trio .portrait { width: 84px; }
+  .fp-trio .card.center .portrait { width: 108px; }
 }
 
 /* Q12 grid: compact 2x6 on laptop/desktop */
