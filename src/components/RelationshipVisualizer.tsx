@@ -238,6 +238,7 @@ export function RelationshipVisualizer({ graph, onSelect }: RelationshipVisualiz
   }, [leaders, hoveredId]);
 
   return (
+    <>
     <div className="visualizer-page">
       <div className="visualizer-frame">
         <svg
@@ -290,22 +291,24 @@ export function RelationshipVisualizer({ graph, onSelect }: RelationshipVisualiz
           </g>
         </svg>
       </div>
-
-      <div className="viz-slider-card">
-        <label className="viz-slider-label" htmlFor="viz-relatedness">
-          Relatedness
-          <span className="viz-slider-value">{maxHops}</span>
-        </label>
-        <input
-          id="viz-relatedness"
-          type="range"
-          min={1}
-          max={30}
-          value={maxHops}
-          onChange={(e) => setMaxHops(Number(e.target.value))}
-          className="viz-slider"
-        />
-      </div>
     </div>
+
+    {/* Fixed overlay — does not participate in flex layout, so the circle stays centered */}
+    <div className="viz-slider-card">
+      <label className="viz-slider-label" htmlFor="viz-relatedness">
+        Relatedness
+        <span className="viz-slider-value">{maxHops}</span>
+      </label>
+      <input
+        id="viz-relatedness"
+        type="range"
+        min={1}
+        max={30}
+        value={maxHops}
+        onChange={(e) => setMaxHops(Number(e.target.value))}
+        className="viz-slider"
+      />
+    </div>
+    </>
   );
 }

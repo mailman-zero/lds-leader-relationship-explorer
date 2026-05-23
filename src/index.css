@@ -953,7 +953,12 @@ body {
 }
 
 /* ===== Relatedness slider ===== */
+/* Fixed overlay — sits below the × button; does not affect circle centering. */
 .viz-slider-card {
+  position: fixed;
+  top: 66px;   /* below .viz-close (top:14 + height:36 + 16px gap) */
+  right: 24px;
+  z-index: 40;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -963,8 +968,7 @@ body {
   border: 1px solid var(--line);
   border-radius: 12px;
   box-shadow: var(--shadow-sm);
-  margin-top: 8px;
-  width: min(280px, 80vw);
+  width: 220px;
 }
 .viz-slider-label {
   display: flex;
