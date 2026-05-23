@@ -452,9 +452,10 @@ body {
   align-items: end;
   justify-items: center;
 }
-/* Portrait at bottom of card so portrait bottoms align regardless of label height */
-.fp-trio .card {
-  flex-direction: column-reverse;
+/* Reserve two-line height for name so single-line names pad down to match,
+   keeping all card heights equal and portrait bottoms aligned */
+.fp-trio .card .name {
+  min-height: 2.16em;
 }
 /* Portraits shrink fluidly as viewport narrows; fixed size once wide enough */
 .fp-trio .portrait { width: min(84px, 22vw); }
