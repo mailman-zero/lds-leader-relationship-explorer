@@ -950,12 +950,21 @@ body {
   .viz-pill:active {
     transform: scale(0.97);
   }
-  /* Slider: drop out of fixed positioning, centre above the circle */
+  /* Slider: stay fixed but centre below the topbar; push the circle down
+     explicitly so it never overlaps. */
   .viz-slider-card {
-    position: static;
+    top: 58px;   /* just below the ~54px mobile topbar */
+    right: auto;
+    left: 50%;
+    transform: translateX(-50%);
     width: min(320px, 88vw);
-    margin: 8px auto 0;
-    box-shadow: var(--shadow-sm);
+  }
+  .visualizer-page {
+    padding-top: 110px;  /* topbar(~54px) + slider(~70px) + gap */
+  }
+  /* Constrain the circle so it fits below the slider in the remaining height */
+  .visualizer-frame {
+    width: min(96vw, calc(100vh - 220px));
   }
 }
 
