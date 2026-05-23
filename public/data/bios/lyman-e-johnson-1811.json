@@ -1,0 +1,32 @@
+{
+  "person_id": "lyman-e-johnson-1811",
+  "life_summary": "Lyman Eugene Johnson was born on October 24, 1811, in Pomfret, Windsor County, Vermont, a region steeped in New England Calvinist tradition and frontier experience. He came of age during the Second Great Awakening and the rapid expansion of American settlement westward. On September 4, 1834, he married Sarah Susan Long, establishing a household that produced at least five children. Johnson was a man of ambition and capability, with talents for law, business, and civic organization that would define his later life. His journey from rural Vermont to the American frontier exemplified the restless energy and opportunity-seeking that characterized his generation.",
+  "church_summary": "Johnson began his missionary service in 1832, traveling with Orson Pratt throughout the eastern United States, and continued as a successful missionary from 1835 to 1837. He participated in Zion's Camp, the military expedition undertaken in summer 1834 to redeem lands in Missouri. He was called to the Quorum of the Twelve Apostles on February 14, 1835, but his tenure was turbulent. He was removed from the Quorum of the Twelve on September 3, 1837, and subsequently excommunicated on April 13, 1838. After leaving the church, Johnson relocated to Iowa and Wisconsin, where he established himself as one of the founding figures of Keokuk, Iowa, and became a successful pioneer lawyer. He died on December 20, 1859, when his sleigh broke through an air-hole in the ice of the Mississippi River near Prairie du Chien, Wisconsin.",
+  "born": "1811-10-24",
+  "birth_place": "Pomfret, Windsor County, Vermont, United States",
+  "died": "1859-12-20",
+  "death_place": "Prairie du Chien, Wisconsin, United States",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Sarah Susan Long",
+      "marriage_date": "1834-09-04",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Eastern United States",
+    "years": "1832–1837"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "missionary work",
+    "legal and civic leadership",
+    "pioneering"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lyman_E._Johnson"
+}

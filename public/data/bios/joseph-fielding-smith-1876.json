@@ -1,0 +1,46 @@
+{
+  "person_id": "joseph-fielding-smith-1876",
+  "life_summary": "Joseph Fielding Smith Jr. was born July 19, 1876, in Salt Lake City to Joseph F. Smith, who would later become church president. He grew to manhood in a family of prominence and responsibility within the LDS Church. Smith received education appropriate to his position and family status. He married three times during his lifetime: first to Louie Emily Shurtliff, who died in 1908; then to Ethel Georgina Reynolds, who died in 1937; and finally to Jessie Ella Evans in 1938. His marriages produced a substantial family, and he was a devoted husband and father despite the losses he experienced in widowhood.",
+  "church_summary": "Joseph Fielding Smith Jr. was named to the Quorum of the Twelve Apostles in 1910 at age thirty-four. He later served as Church Historian and Recorder, a position he held for nearly fifty years, making him one of the Church's primary custodians of historical records and doctrinal archives. Smith was a prolific author, publishing twenty-five books on religious subjects. He served as President of the Quorum of the Twelve Apostles from 1951 to 1970, ranking as the third-longest tenure in that position. Smith held rigid orthodoxy in his theological views, particularly opposing evolutionary theory, and authored Man, His Origin and Destiny to challenge evolution, though church leadership did not officially endorse this work. He became the tenth president of the Church in 1970 at age ninety-three, making him the oldest person to assume that office. His brief presidency introduced area conferences, organizational reforms, and temple dedications in Ogden and Provo. He died peacefully at home on July 2, 1972.",
+  "born": "1876-07-19",
+  "birth_place": "Salt Lake City, Utah, United States",
+  "died": "1972-07-02",
+  "death_place": null,
+  "burial_place": "Salt Lake City Cemetery, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Louie Emily Shurtliff",
+      "marriage_date": null,
+      "marriage_end_date": "1908",
+      "marriage_end_reason": "death"
+    },
+    {
+      "name": "Ethel Georgina Reynolds",
+      "marriage_date": null,
+      "marriage_end_date": "1937",
+      "marriage_end_reason": "death"
+    },
+    {
+      "name": "Jessie Ella Evans",
+      "marriage_date": "1938",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": null,
+  "notable_companions": [],
+  "temples_dedicated": [
+    "Ogden Temple",
+    "Provo Temple"
+  ],
+  "teaching_emphasis": [
+    "historical preservation",
+    "doctrinal orthodoxy",
+    "scriptural authority",
+    "creation theology",
+    "rigorous scholarship"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Fielding_Smith"
+}

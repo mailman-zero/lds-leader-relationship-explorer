@@ -1,0 +1,45 @@
+{
+  "person_id": "charles-w-penrose-1832",
+  "life_summary": "Charles W. Penrose was born February 4, 1832, in Camberwell, London, England, into a Protestant family that embraced the LDS faith in the 1840s. Raised in an environment of religious conviction and intellectual discourse, Penrose developed skills in composition, rhetoric, and theological reflection that would define his public ministry. Before his full-time church service, he worked as a printer and journalist in England, establishing himself as an able writer and editor. He emigrated to Utah in the 1860s, where he continued his dual pursuits of journalism and religious leadership, becoming deeply involved in Church educational and publishing endeavors.",
+  "church_summary": "Penrose served a seven-year English mission in his youth and later presided over the Church's Lancashire operations (1865–1868) and European missions (1906–1910). Ordained to the Quorum of the Twelve Apostles in 1904, he served until 1911, then became Second Counselor to Joseph F. Smith (1911–1918) and First Counselor to Heber J. Grant (1918–1925). As editor-in-chief of the Deseret News and theology professor at Brigham Young Academy, he shaped Mormon discourse on doctrine and literary expression. He also authored numerous LDS hymns, including 'Up, Awake, Ye Defenders of Zion,' embedding theological themes into the Church's musical tradition.",
+  "born": "1832-02-04",
+  "birth_place": "Camberwell, London, England",
+  "died": "1925-05-16",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": "Salt Lake City Cemetery",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Lucetta Stratford",
+      "marriage_date": "1855",
+      "marriage_end_date": null,
+      "marriage_end_reason": "death"
+    },
+    {
+      "name": "Louise Elizabeth Lusty",
+      "marriage_date": "1863",
+      "marriage_end_date": null,
+      "marriage_end_reason": "death"
+    },
+    {
+      "name": "Romania B. Pratt Penrose",
+      "marriage_date": "1886",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "England, then Europe",
+    "years": "1850–1857, 1865–1868, 1906–1910"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Reconciling faith with intellectual inquiry",
+    "Hymn writing as doctrinal expression",
+    "Journalism and public relations for the Church",
+    "Theological education and training"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_W._Penrose"
+}

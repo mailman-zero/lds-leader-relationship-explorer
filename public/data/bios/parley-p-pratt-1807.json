@@ -1,0 +1,53 @@
+{
+  "person_id": "parley-p-pratt-1807",
+  "life_summary": "Parley Parker Pratt was born on April 12, 1807, in Burlington, New York. He grew up in rural New York during the early nineteenth century and received modest education before his conversion to the LDS faith. Pratt worked as a laborer and tradesman before dedicating himself fully to religious work. He became one of the most prolific writers and missionaries in early LDS history, authoring 31 published works including the theological treatise 'A Voice of Warning,' published in 1837, which became influential in LDS missionary work. Pratt married his first wife, Thankful Halsey, on September 9, 1827, and subsequently married Mary Ann Frost Stearns on May 14, 1837, and ultimately married a total of twelve women throughout his lifetime. He traveled extensively throughout North America and internationally, establishing himself as a prominent voice for LDS theology and doctrine.",
+  "church_summary": "Parley P. Pratt was one of the original members of the Quorum of Twelve Apostles, called in 1835. He served numerous missions throughout his apostolic career, including work in New York, New England, and eastern Canada in 1835; Upper Canada and Toronto in 1836; New York City from 1837 to 1838; the Southern United States, England, and Pacific islands; and Chile in Valparaíso where he conducted missionary work until 1852. He served as presiding officer of the Pacific Mission in 1854 and undertook missionary work in Great Britain from 1839 to 1841. Pratt returned to the Eastern United States in 1856. He also served as editor of the Millennial Star, an important LDS publication, from 1839. Pratt's scholarly theological writings helped establish doctrinal foundations for the growing church.",
+  "born": "1807-04-12",
+  "birth_place": "Burlington, New York",
+  "died": "1857-05-13",
+  "death_place": "near Van Buren, Arkansas",
+  "burial_place": "near Alma, Arkansas",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Thankful Halsey",
+      "marriage_date": "1827-09-09",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Mary Ann Frost Stearns",
+      "marriage_date": "1837-05-14",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Keziah Downes",
+      "marriage_date": "1853-12-27",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Eleanor Jane McComb",
+      "marriage_date": "1855-11-14",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "New York and New England",
+    "years": "1835"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "LDS theological doctrine and exposition",
+    "Missionary work and conversion",
+    "Divine restoration of truth",
+    "Scriptural interpretation",
+    "Church organization and authority",
+    "Plural marriage as doctrinal principle"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Parley_P._Pratt"
+}

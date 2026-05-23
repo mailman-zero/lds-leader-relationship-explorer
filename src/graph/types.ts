@@ -1,3 +1,29 @@
+export interface BiographySpouse {
+  name: string;
+  marriage_date: string | null;
+  marriage_end_date: string | null;
+  marriage_end_reason: "death" | "divorce" | null;
+}
+
+export interface Biography {
+  person_id: string;
+  life_summary: string;
+  church_summary: string;
+  born: string | null;
+  birth_place: string | null;
+  died: string | null;
+  death_place: string | null;
+  burial_place: string | null;
+  find_a_grave_url: string | null;
+  spouses: BiographySpouse[];
+  mission: { location: string; years: string } | null;
+  notable_companions: string[];
+  temples_dedicated: string[];
+  teaching_emphasis: string[];
+  generated_at: string;
+  wikipedia_url: string | null;
+}
+
 export interface Source {
   url: string;
   accessed: string;

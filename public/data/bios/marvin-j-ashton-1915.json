@@ -1,0 +1,33 @@
+{
+  "person_id": "marvin-j-ashton-1915",
+  "life_summary": "Marvin Judson Ashton was born on May 6, 1915, in Salt Lake City, Utah, to a prominent local family. He grew up in the community and pursued education and early professional development during the Great Depression and World War II era. Ashton married Norma Berntson on August 22, 1940, in the Salt Lake Temple, and the couple had four children together. Beyond his church responsibilities, Ashton established himself as a respected family man and community member, maintaining strong ties to his native Utah throughout his life.",
+  "church_summary": "Ashton served as a missionary in Great Britain from 1937 to 1939, where he distinguished himself by editing the Millennial Star under mission president Hugh B. Brown. He ascended to prominence within the church hierarchy, being ordained as an apostle on December 2, 1971, a position he held until his death on February 25, 1994. During his apostolic tenure, Ashton focused on spiritual guidance and moral leadership, publishing works such as 'What Is Your Destination?' and 'Be of Good Cheer' that became widely read in church circles.",
+  "born": "1915-05-06",
+  "birth_place": "Salt Lake City, Utah, USA",
+  "died": "1994-02-25",
+  "death_place": "Salt Lake City, Utah, USA",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Norma Berntson",
+      "marriage_date": "1940-08-22",
+      "marriage_end_date": "1994-02-25",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Great Britain",
+    "years": "1937–1939"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "spiritual direction and moral guidance",
+    "personal destination and life purpose",
+    "encouragement and positive messaging",
+    "family values and community strength"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marvin_J._Ashton"
+}

@@ -1,0 +1,33 @@
+{
+  "person_id": "david-b-haight-1906",
+  "life_summary": "David Bruce Haight was born on September 2, 1906, in Oakley, Idaho, a rural community in the northern part of the state. He married Ruby M. Olson, and the couple spent much of their married life in California, where Haight established himself as a respected civic leader and businessman. He served as mayor of Palo Alto, California, a position of considerable prominence in the San Francisco Bay Area's development during the mid-twentieth century. Haight's commitment to his community was so strong that he initially resisted accepting higher church responsibilities that would require him to relinquish his mayoral post.",
+  "church_summary": "Haight served as president of the LDS Church's mission in Scotland, an appointment that required him to resign from his position as mayor of Palo Alto despite objections from the city council. He was ordained an apostle on January 8, 1976, becoming a member of the church's Quorum of the Twelve Apostles. Haight achieved the distinction of becoming the oldest apostle in church history until being surpassed by Russell M. Nelson in 2022. He died on July 31, 2004, at an advanced age, having served faithfully in his apostolic role for nearly three decades.",
+  "born": "1906-09-02",
+  "birth_place": "Oakley, Idaho, USA",
+  "died": "2004-07-31",
+  "death_place": "Salt Lake City, Utah, USA",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Ruby M. Olson",
+      "marriage_date": null,
+      "marriage_end_date": "2004-07-31",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Scotland",
+    "years": null
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "civic responsibility and service",
+    "community leadership and public stewardship",
+    "faith and secular commitment",
+    "apostolic witness and institutional stability"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_B._Haight"
+}

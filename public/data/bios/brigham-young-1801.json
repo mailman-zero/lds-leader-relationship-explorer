@@ -1,0 +1,46 @@
+{
+  "person_id": "brigham-young-1801",
+  "life_summary": "Brigham Young was born on June 1, 1801, in Whitingham, Vermont, to a farming family in rural New England. He received limited formal education but developed practical skills in carpentry and various trades. Young worked as a carpenter and craftsman before his conversion to the LDS faith. He lived and worked in upstate New York before joining the growing Mormon community. Young eventually became a master organizer and builder, overseeing major construction projects and settlement efforts. His leadership abilities extended beyond religious matters into civic administration, economic development, and territorial governance. Young led the westward migration of the Mormon community along the Mormon Trail from 1846 to 1847, establishing Salt Lake Valley as the new center for the LDS faith.",
+  "church_summary": "Brigham Young served multiple missionary tours to the eastern United States beginning in 1835, and undertook a significant one-year mission to the United Kingdom where he organized church publishing efforts. He was a key lieutenant to Joseph Smith and played instrumental roles in the development of the Kirtland and Nauvoo temples. After Joseph Smith's death, Young emerged as the primary leader of the LDS Church and directed the westward migration to Utah in 1846–1847. He designated the location of the Salt Lake Temple just four days after arriving in Salt Lake Valley and oversaw construction of the Salt Lake Tabernacle and announced plans for the St. George, Manti, and Logan temples. Young served as President of the LDS Church from 1847 until his death in 1877.",
+  "born": "1801-06-01",
+  "birth_place": "Whitingham, Vermont",
+  "died": "1877-08-29",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": "Mormon Pioneer Memorial Monument grounds, Salt Lake City",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Miriam Angeline Works",
+      "marriage_date": "1824-10",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Mary Ann Angell",
+      "marriage_date": "1834-02",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Lucy Ann Decker",
+      "marriage_date": "1842-06",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "United Kingdom",
+    "years": "1835–1837"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Plural marriage as divine principle",
+    "Education and self-sufficiency",
+    "Theocratic governance",
+    "Economic independence",
+    "Community organization and development"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brigham_Young"
+}

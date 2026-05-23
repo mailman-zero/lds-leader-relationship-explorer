@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "validate": "node --experimental-strip-types scripts/validate-data.ts"
+    "validate": "node --experimental-strip-types scripts/validate-data.ts",
+    "generate-bios": "node --experimental-strip-types scripts/generate-bios.ts"
   },
   "dependencies": {
     "react": "^19.2.6",
@@ -16,6 +17,7 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
+    "@anthropic-ai/sdk": "^0.98.0",
     "@eslint/js": "^10.0.1",
     "@types/node": "^24.12.3",
     "@types/react": "^19.2.14",

@@ -1,0 +1,40 @@
+{
+  "person_id": "l-tom-perry-1922",
+  "life_summary": "Lowell Tom Perry was born August 5, 1922, in Logan, Utah, to a family with strong agricultural and business ties. He attended Utah State Agricultural College (now Utah State University), earning a bachelor's degree in finance in 1949. Perry worked in textile manufacturing and business management throughout much of his career, developing a reputation as a practical administrator with strong ethical standards. He was married twice: first to Virginia C. Lee in 1947, with whom he had multiple children, and after her death in 1974, he married Barbara Dayton in 1976. Perry maintained significant ties to his hometown of Logan throughout his life and was deeply involved in community and civic affairs.",
+  "church_summary": "Perry served as an LDS missionary in the Northern States Mission from 1942 to 1944, working in the Marion, Ohio, and Cedar Rapids, Iowa areas. He became an Assistant to the Quorum of the Twelve Apostles in 1972 and was ordained as an apostle on April 11, 1974. Perry served as the Europe Central Area President from 2004 to 2015, based in Frankfurt, Germany, providing oversight for church operations across multiple European nations. His ministry focused on strengthening families and personal growth, and he was recognized for delivering compassionate talks emphasizing scripture study, service, and dedication to covenant principles.",
+  "born": "1922-08-05",
+  "birth_place": "Logan, Utah",
+  "died": "2015-05-30",
+  "death_place": null,
+  "burial_place": "Salt Lake City Cemetery, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Virginia C. Lee",
+      "marriage_date": "1947-07-18",
+      "marriage_end_date": "1974-12",
+      "marriage_end_reason": "death"
+    },
+    {
+      "name": "Barbara Dayton",
+      "marriage_date": "1976",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Northern States Mission",
+    "years": "1942–1944"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Strengthening family bonds",
+    "Personal scripture study",
+    "Service to others",
+    "Covenant commitment",
+    "Compassionate discipleship"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/L._Tom_Perry"
+}

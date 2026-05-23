@@ -1,0 +1,34 @@
+{
+  "person_id": "legrand-richards-1886",
+  "life_summary": "LeGrand Richards was born in Farmington, Utah Territory, in 1886 to George F. Richards and Alice Almira Robinson. He survived several dangerous childhood accidents, including being struck by an axe and having wagon wheels roll over his head, before reaching adulthood. He attended the 1893 Salt Lake Temple dedication as a youth. In 1909, he married Ina Jane Ashton, and they had eight children together. Richards combined his Church service with intellectual pursuits, authoring A Marvelous Work and a Wonder (1950), a comprehensive teaching outline widely used in missionary work, and Israel! Do You Know? (1955), which explored connections between Jewish and Mormon traditions. Spencer W. Kimball described him as one of the greatest missionaries of his time.",
+  "church_summary": "Richards began his Church service with a proselytizing mission to the Netherlands from 1905 to 1908. He held various leadership positions including branch president in Portland (1909), presiding elder in the Netherlands (1914–1916), and bishop of a Salt Lake City ward (1920–1925). He served as president of the Hollywood Stake (1931–1933) and the Southern States Mission (1934–1937). From 1938 to 1952, Richards served as the seventh presiding bishop of the Church. He was then called to the Quorum of the Twelve Apostles and remained an active member until his death at age 96 in 1983. He was the longest-lived LDS apostle until David B. Haight, and both his father and grandfather served as President of the Quorum of the Twelve Apostles.",
+  "born": "1886",
+  "birth_place": "Farmington, Utah Territory, United States",
+  "died": "1983",
+  "death_place": null,
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Ina Jane Ashton",
+      "marriage_date": "1909",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Netherlands",
+    "years": "1905–1908"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "missionary work and conversion",
+    "Jewish-Mormon connections",
+    "teaching outlines for missionaries",
+    "presiding bishop responsibilities",
+    "international Church expansion"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/LeGrand_Richards"
+}

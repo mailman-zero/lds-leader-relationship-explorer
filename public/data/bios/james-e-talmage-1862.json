@@ -1,0 +1,33 @@
+{
+  "person_id": "james-e-talmage-1862",
+  "life_summary": "James Edward Talmage was born September 21, 1862, in Hungerford, Berkshire, England, to a cultivated family that valued both spiritual conviction and scientific knowledge. He emigrated to Utah as a boy and distinguished himself in advanced studies, earning credentials in geology, chemistry, and mining engineering. Talmage worked as a mining consultant and university educator, establishing himself as an expert in applied chemistry and geological science. His academic career included presidencies of Brigham Young Academy and the University of Utah (1893–1897), where he pioneered the integration of rigorous scientific training with religious education. He possessed an uncommon ability to navigate the tension between evolutionary thinking and revealed doctrine, advocating for harmonization rather than conflict.",
+  "church_summary": "Talmage served as president of the Church's European Mission from 1924 to 1928 and was ordained to the Quorum of the Twelve Apostles in 1911, serving until his death in 1933. He authored two foundational theological works—Jesus the Christ and Articles of Faith—which became standard references for LDS doctrine and biblical interpretation. His teaching emphasized the compatibility of scientific discovery with religious truth, famously stating that the Gospel contains room for all true knowledge. He lectured extensively on Church history, doctrine, and the evidence for Latter-day Saint claims, becoming the Church's preeminent voice for intellectual and spiritual reconciliation.",
+  "born": "1862-09-21",
+  "birth_place": "Hungerford, Berkshire, England",
+  "died": "1933-07-27",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": "Salt Lake City Cemetery",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Merry May Booth",
+      "marriage_date": "1888-06-14",
+      "marriage_end_date": null,
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Europe",
+    "years": "1924–1928"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Science and faith reconciliation",
+    "Geological evidence for divine truth",
+    "Biblical scholarship and textual analysis",
+    "Doctrinal systematization and apologetics"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/James_E._Talmage"
+}

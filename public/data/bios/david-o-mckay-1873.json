@@ -1,0 +1,33 @@
+{
+  "person_id": "david-o-mckay-1873",
+  "life_summary": "David Oman McKay was born September 8, 1873, on a farm in Huntsville, Utah Territory, to Scottish and Welsh immigrant parents who brought Old World culture and values to frontier Utah. His father, a Scottish emigrant from Caithness, and his mother, a Welsh immigrant from Merthyr Tydfil, created a household valuing education, music, and intellectual refinement. McKay attended Brigham Young Academy and later the University of Utah, becoming well-educated for his generation. He served as a teacher and educator before his ecclesiastical service, and traveled extensively throughout his life, developing a cosmopolitan perspective. McKay's personal charisma, distinguished appearance with his white hair, and thoughtful demeanor made him a recognizable public figure.",
+  "church_summary": "McKay served missions to Great Britain (1897–1899), presiding over the Scottish district, and conducted a worldwide tour (1920–1921) covering Hawaii, Samoa, Tonga, New Zealand, and Palestine. He served as European Mission president (1923–1925) from London. Ordained an apostle in 1906, he became counselor to church presidents and president in 1951, leading until his death in 1970. McKay popularized 'every member a missionary,' emphasizing home-centered faith. His famous teaching 'no other success can compensate for failure in the home' shaped generations of Mormon family values. He stressed education, combated communism, and implemented priesthood correlation programs.",
+  "born": "1873-09-08",
+  "birth_place": "Huntsville, Utah Territory",
+  "died": "1970-01-18",
+  "death_place": null,
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Emma Ray Riggs",
+      "marriage_date": "1901-01-02",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Great Britain",
+    "years": "1897–1899"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Every member a missionary",
+    "Family-centered faith",
+    "Home as foundation for success",
+    "Educational advancement"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_O._McKay"
+}

@@ -1,0 +1,34 @@
+{
+  "person_id": "alvin-r-dyer-1903",
+  "life_summary": "Alvin Ray Dyer was born on January 1, 1903, in Salt Lake City, Utah, during the early decades of twentieth-century Mormonism. He married May Elizabeth Jackson in the Salt Lake Temple in 1926, establishing a partnership that would sustain him throughout his church service career. Dyer grew up in the post-pioneering era of the church, coming of age during the consolidation of the LDS institution in the American West. He devoted much of his life to church administrative work and missionary oversight, building a career focused on expansion and institutional efficiency rather than theological innovation or literary contribution.",
+  "church_summary": "Dyer served as a missionary in the Eastern States Mission from 1922 to 1924, and later rose to more prominent leadership positions. He became Central States Mission president beginning in 1954, and subsequently served as European Mission president from 1960 to 1962. Dyer became known for his emphasis on missionary efficiency, promoting rapid conversion instruction and famously stating that all essential truths could be taught in less than three minutes. In 1961, he articulated controversial racial doctrine regarding Black church members, attributing priesthood restrictions to descent from Cain. Dyer also supported the Baseball Baptism Program to accelerate youth baptisms. He died on March 6, 1977, in Salt Lake City, having spent over half a century in missionary and ecclesiastical administration.",
+  "born": "1903-01-01",
+  "birth_place": "Salt Lake City, Utah, USA",
+  "died": "1977-03-06",
+  "death_place": "Salt Lake City, Utah, USA",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "May Elizabeth Jackson",
+      "marriage_date": "1926",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Eastern States, Central States, and Europe",
+    "years": "1922–1924, 1954–, 1960–1962"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "missionary efficiency and rapid instruction",
+    "conversion acceleration methods",
+    "institutional expansion and growth",
+    "youth engagement through sports programs",
+    "priesthood doctrine and racial interpretation"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alvin_R._Dyer"
+}

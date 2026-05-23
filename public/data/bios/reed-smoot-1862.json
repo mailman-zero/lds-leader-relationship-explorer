@@ -1,0 +1,29 @@
+{
+  "person_id": "reed-smoot-1862",
+  "life_summary": "Reed Smoot was born on January 10, 1862, in Salt Lake City, Utah Territory. He attended Brigham Young Academy (the precursor to Brigham Young University) and served a missionary mission in England after graduating in 1879. Upon his return, Smoot established himself as a man of keen intellect and political acumen. He brought to his public service a unique combination of deep religious conviction and sophisticated understanding of national politics and economics. His marriage to Alpha M. Eldredge on September 17, 1884, produced six children. Throughout his life, Smoot demonstrated exceptional skill in navigating the complex intersection of religious belief and secular governance during a transformative period in American history.",
+  "church_summary": "Reed Smoot was ordained as an apostle and member of the Quorum of the Twelve Apostles on April 8, 1900. Simultaneously, he pursued a prominent political career, being elected as a Republican U.S. Senator from Utah in 1902 and serving from 1903 to 1933. He faced intense scrutiny during the four-year Reed Smoot Hearings (1904-1907) before the Senate Committee on Privileges and Elections regarding his eligibility to serve based on his Church membership. As chairman of the Senate Finance Committee from 1923 to 1933, he co-sponsored the 1930 Smoot-Hawley Tariff Act. He also supported National Park Service legislation in 1916. At his death on February 9, 1941, in St. Petersburg, Florida, he held the third position in the Church succession line, a testament to his esteem within the organization.",
+  "born": "1862-01-10",
+  "birth_place": "Salt Lake City, Utah Territory, United States",
+  "died": "1941-02-09",
+  "death_place": "St. Petersburg, Florida, United States",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {"name": "Alpha M. Eldredge", "marriage_date": "1884-09-17", "marriage_end_date": "1928", "marriage_end_reason": "death"}
+  ],
+  "mission": {
+    "location": "England",
+    "years": "1879–1881"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "political engagement",
+    "economic stewardship",
+    "bridge building",
+    "institutional loyalty",
+    "public service"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Reed_Smoot"
+}

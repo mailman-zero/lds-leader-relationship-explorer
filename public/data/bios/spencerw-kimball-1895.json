@@ -1,0 +1,35 @@
+{
+  "person_id": "spencerw-kimball-1895",
+  "life_summary": "Spencer Woolley Kimball was born on March 28, 1895, in Salt Lake City, Utah Territory, into the prominent Kimball family with deep roots in LDS Church history and leadership. He grew up in Salt Lake City and received his education in Utah schools during the early twentieth century. Kimball married Camilla Eyring on November 16, 1917, in a civil ceremony, and the couple was sealed in the temple on June 7, 1918. They raised four children together: Spencer L., Olive Beth, Andrew E., and Edward L. Camilla was born in 1894 and outlived her husband by two years, passing away in 1987. Kimball developed a career in church service while maintaining his commitment to family life, becoming widely respected for his compassion, integrity, and spiritual sensitivity throughout the Utah community.",
+  "church_summary": "Spencer W. Kimball was called to serve in the Swiss-German Mission in June 1914, but due to World War I circumstances, was reassigned to the Central States Mission in Missouri, where he served until 1916. He advanced through the ranks of church leadership, eventually being called to the Quorum of the Twelve Apostles and ultimately serving as President of the LDS Church. As president, Kimball announced the construction of 27 temples and personally dedicated four of them. He served until his death in 1985, living to the age of 90 and passing away in November after a lengthy funeral service held on November 9, 1985. His ministry emphasized missionary service for able-bodied young men, repentance and forgiveness, sexual morality standards, Native American welfare and education, and spoke against racism and prejudice within church membership.",
+  "born": "1895-03-28",
+  "birth_place": "Salt Lake City, Utah Territory",
+  "died": "1985-11-05",
+  "death_place": null,
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Camilla Eyring",
+      "marriage_date": "1917-11-16",
+      "marriage_end_date": "1987",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Central States (Missouri)",
+    "years": "1914–1916"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Missionary service for young men",
+    "Repentance and forgiveness",
+    "Sexual morality and chastity",
+    "Native American welfare and education",
+    "Eradication of racism and prejudice",
+    "Divine guidance and spiritual assurance"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Spencer_W._Kimball"
+}

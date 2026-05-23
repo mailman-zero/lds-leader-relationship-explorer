@@ -1,0 +1,39 @@
+{
+  "person_id": "orson-f-whitney-1855",
+  "life_summary": "Orson Fisher Whitney was born July 1, 1855, in Salt Lake City, the son of Orson Spencer and Catherine Curtis. He grew up in the heart of the LDS community and inherited a tradition of intellectual and literary achievement from his father, a prominent theologian and educator. Whitney developed early talents in poetry and historical narrative while contributing to Church periodicals and teaching at educational institutions. His civic service in Salt Lake City as city treasurer (1884–1890) and state senator (1898, 1901) demonstrated his integration into Utah's emerging political establishment. He balanced secular responsibilities with ecclesiastical duties, establishing himself as an intellectual voice in Mormon intellectual circles.",
+  "church_summary": "Whitney served missions to Pennsylvania, Ohio, and Europe (1881–1883), where he edited the Millennial Star, a major Church publication. He taught English and theology at Brigham Young College and served as Assistant Church Historian before his ordination as an apostle on April 8, 1906. As a poet and publicist, he became known for composing hymn texts and authoring historical and biographical works that articulated Mormon identity. He maintained the position of apostle until his death in 1931, serving over 25 years in the Quorum of the Twelve and contributing to the Church's scholarly and artistic dimension.",
+  "born": "1855-07-01",
+  "birth_place": "Salt Lake City, Utah Territory",
+  "died": "1931-05-16",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": "Salt Lake City Cemetery",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "First spouse",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": "death"
+    },
+    {
+      "name": "Second spouse",
+      "marriage_date": "1888",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Pennsylvania, Ohio, and Europe",
+    "years": "1881–1883"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Mormon history and narrative",
+    "Poetry and artistic expression of faith",
+    "Journalism as a vehicle for doctrine",
+    "Intellectual defense of Mormon claims"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Orson_F._Whitney"
+}

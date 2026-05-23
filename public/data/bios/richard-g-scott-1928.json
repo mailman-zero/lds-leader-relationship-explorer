@@ -1,0 +1,34 @@
+{
+  "person_id": "richard-g-scott-1928",
+  "life_summary": "Richard Garn Scott was born November 7, 1928, in Pocatello, Idaho. He grew up in a devoted Latter-day Saint family with connections to the Pacific Northwest. Scott pursued engineering and technical education, which became foundational to his professional career in various technical and administrative roles. He married Jeanene Watkins on July 16, 1953, in the Manti Temple, and they built a strong partnership centered on church service and family. Jeanene passed away in 1995 after battling cancer, a loss that deepened Scott's compassion and spiritual insight. Throughout his secular career, Scott maintained a balance between professional responsibility and church service, developing a reputation for both competence and spiritual integrity.",
+  "church_summary": "Scott served as a missionary in the Uruguay Montevideo Mission from 1950 to 1953 and later became the Argentina North Mission President from 1965 to 1968. He became a general authority and member of the First Quorum of the Seventy in 1977, advancing to the Presidency of the Seventy in 1983. He was ordained to the Quorum of the Twelve Apostles in 1988 and served in that capacity until his death in 2015. Throughout his ministry, Scott was known for delivering compassionate talks that emphasized repentance, Jesus Christ's forgiveness, the healing power of the atonement, and the importance of truth in personal decision-making. His teachings frequently addressed helping those who had experienced abuse or trauma.",
+  "born": "1928-11-07",
+  "birth_place": "Pocatello, Idaho",
+  "died": "2015-09-22",
+  "death_place": null,
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Jeanene Watkins",
+      "marriage_date": "1953-07-16",
+      "marriage_end_date": "1995-05-15",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Uruguay Montevideo Mission",
+    "years": "1950–1953"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Repentance and personal improvement",
+    "Jesus Christ's compassion and forgiveness",
+    "Healing power of the atonement",
+    "Truth as foundation for decision-making",
+    "Support for abuse survivors"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_G._Scott"
+}

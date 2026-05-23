@@ -1,0 +1,40 @@
+{
+  "person_id": "albert-e-bowen-1875",
+  "life_summary": "Albert Edward Bowen was born on October 31, 1875, in Henderson Creek, Idaho Territory, during the frontier period of LDS settlement. He grew up in the rapidly developing Utah communities and received his education in the Salt Lake Valley. Before his church prominence, Bowen worked in business and established himself as a community leader. He was married twice: first to Aletha Reeder in 1902, who died in 1906, and then to Emma Lucy Gates in 1916, with whom he remained until her death in 1951. His life spanned from the territorial era through the mid-twentieth century, witnessing dramatic transformations in the Church and American society.",
+  "church_summary": "Bowen served as a missionary in Switzerland and Germany from 1902 to 1904. He was ordained to the Quorum of the Twelve Apostles in 1921 and served in that capacity until his death in 1953. Throughout his ecclesiastical career, Bowen was deeply committed to the welfare of the poor and infirm, advocating that the Church maintain robust charitable traditions even as members became more prosperous. He also became known for defending the historical reputation of Joseph Smith against what he called poisonous slander in secular biographical scholarship. His thirty-two years as an apostle shaped Church welfare policies and historical scholarship.",
+  "born": "1875-10-31",
+  "birth_place": "Henderson Creek, Idaho Territory",
+  "died": "1953-07-15",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": "Salt Lake City Cemetery, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Aletha Reeder",
+      "marriage_date": "1902",
+      "marriage_end_date": "1906",
+      "marriage_end_reason": "death"
+    },
+    {
+      "name": "Emma Lucy Gates",
+      "marriage_date": "1916",
+      "marriage_end_date": "1951",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Switzerland and Germany",
+    "years": "1902–1904"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Church welfare and charitable giving",
+    "Care for the poor and infirm",
+    "Economic prosperity balanced with charitable duty",
+    "Defense of Joseph Smith's historical legacy",
+    "Opposition to secular slander against the Founder"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Albert_E._Bowen"
+}

@@ -1,0 +1,29 @@
+{
+  "person_id": "john-w-taylor-1858",
+  "life_summary": "John Wentworth Taylor was born on May 15, 1858, in Provo, Utah Territory, the son of John Taylor, the third president of the Latter-day Saint Church. Growing up in a prominent Church family gave him unique access to leadership circles and theological instruction. John W. Taylor received his early education at Deseret University and later worked in various civic and journalistic capacities in Idaho. As a young man, he served as county clerk and newspaper editor in Cassia County, Idaho, combining his family's intellectual legacy with practical community service. He married multiple times in accordance with Church doctrine of his era, eventually having six wives and fathering thirty-six children.",
+  "church_summary": "John W. Taylor was ordained a deacon circa 1872 and a teacher in 1874. He was ordained an apostle on April 9, 1884, at age 26, becoming one of the youngest apostles in Church history. Serving in the Quorum of the Twelve Apostles, he conducted missionary work in the United States, Canada, and England. However, his adherence to plural marriage after the 1890 Manifesto created tension with Church leadership. He resigned from the Quorum on October 28, 1905, and was excommunicated on March 28, 1911. He was posthumously rebaptized and reinstated on May 21, 1965. He died on October 10, 1916, from stomach cancer.",
+  "born": "1858-05-15",
+  "birth_place": "Provo, Utah Territory, United States",
+  "died": "1916-10-10",
+  "death_place": "Forest Dale, Salt Lake County, Utah, United States",
+  "burial_place": "Salt Lake City Cemetery, Salt Lake City, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {"name": "May Leona Rich", "marriage_date": "1882-10-19", "marriage_end_date": null, "marriage_end_reason": null},
+    {"name": "Nellie Todd", "marriage_date": null, "marriage_end_date": null, "marriage_end_reason": null},
+    {"name": "Janet Maria Wooley", "marriage_date": null, "marriage_end_date": null, "marriage_end_reason": null},
+    {"name": "Eliza Roxie Welling", "marriage_date": null, "marriage_end_date": null, "marriage_end_reason": null},
+    {"name": "Rhoda Welling", "marriage_date": null, "marriage_end_date": null, "marriage_end_reason": null},
+    {"name": "Ellen Georgina Sandberg", "marriage_date": null, "marriage_end_date": null, "marriage_end_reason": null}
+  ],
+  "mission": null,
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "faithful adherence to doctrine",
+    "family continuation",
+    "prophetic authority"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_W._Taylor_(Mormon)"
+}

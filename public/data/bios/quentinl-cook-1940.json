@@ -1,0 +1,35 @@
+{
+  "person_id": "quentinl-cook-1940",
+  "life_summary": "Quentin Larson Cook was born on September 8, 1940, in Logan, Utah. He grew up in northern Utah and received his education in Logan schools before attending Brigham Young University. Cook married Mary Gaddie on November 30, 1962, in the Logan Utah Temple, and the couple raised three children together. Cook developed a career in law and business before his increasing involvement in church leadership roles. He became known for his intellectual rigor, legal expertise, and thoughtful approach to complex ecclesiastical and administrative matters. Cook maintained his professional credentials while simultaneously advancing through church positions, demonstrating his ability to balance secular and religious responsibilities.",
+  "church_summary": "Quentin L. Cook served as an LDS Church missionary in England from 1960 to 1962, where he served alongside Jeffrey R. Holland as companions, with Marion D. Hanks serving as mission president. He was called to the Quorum of the Twelve Apostles on October 6, 2007, and holds the fifth most senior apostle position in church leadership. As an apostle, Cook is sustained by church members as a prophet, seer, and revelator. His published works demonstrate his emphasis on interfaith collaboration and cooperation with individuals of other faiths, as evidenced by his publication of 'Partnering with Our Friends from Other Faiths' in 2010. Cook has focused on building bridges between the LDS Church and other religious traditions.",
+  "born": "1940-09-08",
+  "birth_place": "Logan, Utah",
+  "died": null,
+  "death_place": null,
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Mary Gaddie",
+      "marriage_date": "1962-11-30",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "England",
+    "years": "1960–1962"
+  },
+  "notable_companions": [
+    "Jeffrey R. Holland"
+  ],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Interfaith collaboration and cooperation",
+    "Building bridges between religions",
+    "Legal and intellectual rigor in spiritual matters",
+    "Apostolic leadership and governance"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Quentin_L._Cook"
+}

@@ -1,0 +1,33 @@
+{
+  "person_id": "ezra-taft-benson-1899",
+  "life_summary": "Ezra Taft Benson was born August 4, 1899, in Whitney, Idaho, to a farming family in rural southeastern Idaho. He attended Brigham Young University, where he studied agricultural economics and developed expertise in farm management and rural development. Before his ecclesiastical career, Benson served as an agricultural economist and advisor, bringing practical knowledge of farming practices and rural life to his sphere of influence. He authored several publications on agricultural topics and maintained lifelong interest in farming and land stewardship. Benson was deeply engaged in secular economics and agricultural policy, serving the federal government as Secretary of Agriculture under President Eisenhower from 1953 to 1961, a position of national prominence.",
+  "church_summary": "Benson served as an LDS missionary in Britain from 1921 to 1923, where he was appointed president of the Newcastle Conference by David O. McKay. Ordained an apostle in 1943, he gained prominence as a Cold War voice in the church, emphasizing constitutional principles and individual liberty. He served as Secretary of Agriculture from 1953 to 1961 while maintaining apostolic duties. Upon becoming church president in 1985, Benson emphasized the Book of Mormon as central to LDS theology, launching a movement to read and study it intensively. His sermon on pride, drawing from C.S. Lewis's writings, became influential. He championed family, marriage, and personal moral agency as foundational gospel principles.",
+  "born": "1899-08-04",
+  "birth_place": "Whitney, Idaho",
+  "died": "1994-05-30",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": "Whitney City Cemetery, Whitney, Idaho",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Flora Smith Amussen",
+      "marriage_date": "1926",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Britain",
+    "years": "1921–1923"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Book of Mormon as centerpiece",
+    "Overcoming pride",
+    "Constitutional principles",
+    "Marriage and family sanctity"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ezra_Taft_Benson"
+}

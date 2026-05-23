@@ -1,0 +1,40 @@
+{
+  "person_id": "heber-c-kimball-1801",
+  "life_summary": "Heber Chase Kimball was born on June 14, 1801, in Sheldon, Franklin County, Vermont. He grew up in rural New England during the early nineteenth century and developed practical skills in farming and craftsmanship. Before joining the LDS Church, Kimball was involved in various occupations and trades. He married his first wife, Vilate Murray, in November 1822, and the couple established a family together. Following his conversion to the LDS faith, Kimball became a devoted adherent and eventually one of the church's most prominent leaders. Throughout his life, Kimball married a total of 43 women and fathered 66 children by 17 of his wives, reflecting his complete commitment to the church's doctrine of plural marriage. His polygamist family became one of the largest and most prominent in early LDS history.",
+  "church_summary": "Heber C. Kimball served eight missions between 1832 and 1840, with his most significant missionary work occurring in England from 1837 to 1838, when he led a missionary group that established the church's first English proselyting effort in Preston, Lancashire. His first mission resulted in approximately 1,500 baptisms before his departure for the United States in 1838. He served a second England mission from 1839 to 1841, working in Preston and London. Kimball was ordained an apostle and became a key counselor to church leadership. He served as First Counselor in the Presidency under Brigham Young and was deeply involved in the development of early Utah communities. His ministry emphasized obedience to divine instruction and the building of economically independent communities.",
+  "born": "1801-06-14",
+  "birth_place": "Sheldon, Franklin County, Vermont",
+  "died": "1868-06-22",
+  "death_place": "Salt Lake City, Utah Territory",
+  "burial_place": "Kimball-Whitney Cemetery (Heber's Bench), Capitol Hill",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Vilate Murray",
+      "marriage_date": "1822-11",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Sarah Noon",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "England",
+    "years": "1837–1838"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Plural marriage as divine principle",
+    "Obedience to church leadership",
+    "Economic independence and self-sufficiency",
+    "English missionary work and conversion",
+    "Community development in Utah Territory"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Heber_C._Kimball"
+}

@@ -1,0 +1,35 @@
+{
+  "person_id": "hugh-b-brown-1883",
+  "life_summary": "Hugh Bennion Brown was born on October 24, 1883, in Granger, Utah Territory. He grew up in the rural communities of early Utah and received his foundational education in territorial schools. Brown married Zina Young Card in 1908, and together they had eight children, building a substantial family. Before his prominence in Church leadership, Brown pursued professional and civic responsibilities, including work in Canada where he established significant business and community interests. He was known for his intellectual curiosity, sense of humor, and willingness to engage with new ideas. His life reflected a commitment to personal growth and intellectual vigor alongside steadfast religious conviction.",
+  "church_summary": "Brown served as a missionary in England from 1904 to 1906 under the direction of Heber J. Grant. He became president of the Lethbridge, Alberta Stake in 1921 and served as president of the British Mission in two separate periods (1937–1940 and 1944–1946). During World War II, he served as LDS Servicemen's Coordinator (1941–1945), providing pastoral care to Church members in military service. He was called as an Assistant to the Quorum of the Twelve Apostles in 1953 and ordained as a member of the Quorum of the Twelve Apostles in 1958. From 1961 to 1970, he served as First Counselor in the First Presidency, providing leadership alongside Church president David O. McKay.",
+  "born": "1883-10-24",
+  "birth_place": "Granger, Utah Territory",
+  "died": "1975-12-02",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": "Salt Lake City Cemetery, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Zina Young Card",
+      "marriage_date": "1908",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "England",
+    "years": "1904–1906"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Freedom of thought and expression",
+    "Intellectual inquiry",
+    "Courage to embrace new ideas",
+    "Humor and optimism",
+    "Good humor as spiritual sustenance",
+    "Integration of faith and reason"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hugh_B._Brown"
+}

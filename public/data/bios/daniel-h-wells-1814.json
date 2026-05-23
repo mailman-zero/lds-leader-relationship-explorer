@@ -1,0 +1,79 @@
+{
+  "person_id": "daniel-h-wells-1814",
+  "life_summary": "Daniel Hanmer Wells was born on October 27, 1814, in Trenton, New York. He entered matrimony multiple times over his lifetime, marrying seven women between 1837 and 1871, including Eliza Rebecca Robison, Louisa Free, Martha Givens Harris, Lydia Ann Alley, Susan Hannah Alley, Hannah Corilla Free, Emmeline Blanche Woodward, and Hannah Tupper. This pattern of marriage was not unusual among prominent nineteenth-century church leaders engaged in plural marriage. Wells established himself as a major figure in the development of Salt Lake City and the Latter-day Saint community, serving in both ecclesiastical and civic capacities that shaped the nascent Utah Territory.",
+  "church_summary": "Wells served as president of the European Mission of the LDS Church on two separate occasions: from 1864 to 1865 and again from 1884 to 1887, establishing himself as a trusted leader in international church administration. He dedicated the St. George Temple on April 6, 1877, and served as the first president of the Manti Utah Temple from 1888 to 1891. Beyond his religious roles, Wells superintended public works for the church from 1848 to 1863, overseeing construction of the Salt Lake Temple and Salt Lake Tabernacle—monumental projects that defined Salt Lake City's development. He served as the third mayor of Salt Lake City, exercising significant civic authority. Wells died on March 24, 1891, having spent more than four decades in positions of ecclesiastical and civil leadership.",
+  "born": "1814-10-27",
+  "birth_place": "Trenton, New York, USA",
+  "died": "1891-03-24",
+  "death_place": "Salt Lake City, Utah, USA",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Eliza Rebecca Robison",
+      "marriage_date": "1837",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Louisa Free",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Martha Givens Harris",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Lydia Ann Alley",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Susan Hannah Alley",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Hannah Corilla Free",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Emmeline Blanche Woodward",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Hannah Tupper",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Europe",
+    "years": "1864–1865, 1884–1887"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [
+    "St. George Temple (1877)",
+    "Manti Utah Temple (1888–1891)"
+  ],
+  "teaching_emphasis": [
+    "ecclesiastical administration and oversight",
+    "public works and infrastructure development",
+    "civic governance and community building",
+    "temple construction and dedication",
+    "international mission leadership"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_H._Wells"
+}

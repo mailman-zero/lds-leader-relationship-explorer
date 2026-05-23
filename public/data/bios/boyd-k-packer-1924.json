@@ -1,0 +1,38 @@
+{
+  "person_id": "boyd-k-packer-1924",
+  "life_summary": "Boyd Kimball Packer was born September 10, 1924, in Brigham City, Utah, to a farming family with deep LDS Church roots. He served as a missionary in the New England States before studying at Brigham Young University. After college, Packer worked as an educator, becoming a high school principal and later a faculty member at BYU. His professional background in education and administration shaped his approach to church leadership. He married Donna Smith in 1947, and together they raised ten children, including his son Allan F. Packer, who also became a general authority. Packer remained active in educational reform and church growth initiatives throughout his adult life.",
+  "church_summary": "Packer served as a general authority from 1961 until his death in 2015, advancing to the Quorum of the Twelve Apostles in 1970. He became Acting President of the Quorum in 1994 and President in 2008, serving in that capacity longer than any previous holder. He dedicated the Ukraine for gospel preaching in 1991 and oversaw the dedications of the San Diego California, Regina Saskatchewan, and Brigham City Utah temples. Packer's ministry emphasized the spiritual power of hymn-centered worship, the principle of 'rule before exception,' and the importance of personal spiritual promptings in moral development and church leadership.",
+  "born": "1924-09-10",
+  "birth_place": "Brigham City, Utah",
+  "died": "2015-07-03",
+  "death_place": "Brigham City, Utah",
+  "burial_place": "Brigham City, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Donna Smith",
+      "marriage_date": "1947",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "New England States",
+    "years": null
+  },
+  "notable_companions": [],
+  "temples_dedicated": [
+    "San Diego California Temple (1993)",
+    "Regina Saskatchewan Temple (1999)",
+    "Brigham City Utah Temple (2012)"
+  ],
+  "teaching_emphasis": [
+    "Hymn-centered spiritual worship",
+    "Rule before exception principle",
+    "Personal spiritual promptings",
+    "Moral development through faith",
+    "Historical instruction grounded in doctrine"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Boyd_K._Packer"
+}

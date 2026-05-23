@@ -1,0 +1,36 @@
+{
+  "person_id": "george-albert-smith-1870",
+  "life_summary": "George Albert Smith was born on April 4, 1870, in Salt Lake City, Utah Territory, into a prominent LDS family as the son of John Henry Smith, an apostle, and Sarah Farr. He received his education in Salt Lake City schools and developed deep roots in the Utah community. Smith worked in various church-related endeavors while establishing himself as a devoted family man. He married Lucy Emily Woodruff, granddaughter of Church President Wilford Woodruff, on May 25, 1892, at the Manti Temple. The couple raised three children together until Lucy's death in 1937, after which Smith remained widowed for the remainder of his life. Known for his tireless dedication to church service, Smith traveled approximately a million miles throughout his ecclesiastical career.",
+  "church_summary": "George Albert Smith served a two-year Southern States Mission from 1892 to 1894, where he worked alongside J. Golden Kimball and served as mission secretary and acting mission president. He later presided over the British and European Mission from 1920 to 1921, preaching across the United Kingdom, Ireland, France, Netherlands, Switzerland, and Germany. Smith advanced through various church positions before becoming the eighth President of the LDS Church in 1945, serving until his death in 1951. He dedicated the Idaho Falls Temple on September 23, 1945. His ministry emphasized gospel authenticity, missionary revitalization, historical preservation, patriotic values, and youth development through church programs.",
+  "born": "1870-04-04",
+  "birth_place": "Salt Lake City, Utah Territory",
+  "died": "1951-04-04",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": "Salt Lake City Cemetery",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Lucy Emily Woodruff",
+      "marriage_date": "1892-05-25",
+      "marriage_end_date": "1937",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Southern States",
+    "years": "1892–1894"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [
+    "Idaho Falls Temple (1945)"
+  ],
+  "teaching_emphasis": [
+    "Gospel authenticity and personal spiritual conviction",
+    "Missionary work revitalization",
+    "Historical preservation of Church heritage",
+    "Community service and patriotic values",
+    "Youth development through MIA and Scout programs"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/George_Albert_Smith"
+}

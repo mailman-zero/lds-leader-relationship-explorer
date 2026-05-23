@@ -1,0 +1,35 @@
+{
+  "person_id": "orson-hyde-1805",
+  "life_summary": "Orson Hyde was born on January 8, 1805, in Oxford, Connecticut, where he spent his childhood in the religious ferment of New England. He came of age during the Second Great Awakening, a period of intense spiritual seeking and revival that characterized early 19th-century America. In 1834, he married Marinda Nancy Johnson in Kirtland, Ohio, beginning a family that would eventually encompass eight wives and thirty-two children, as he embraced the practice of plural marriage that would become central to later Latter-day Saint doctrine. Hyde developed a reputation as a devoted and courageous missionary, willing to travel to distant lands in service of his faith.",
+  "church_summary": "Hyde was ordained an apostle on February 15, 1835, and became a prominent figure in church leadership, serving as president of the Quorum of the Twelve Apostles from December 27, 1847, until June 1875. He undertook remarkable missionary journeys: in 1831–1832 he proselytized throughout the eastern United States; in 1837–1838 he led a mission to Great Britain that resulted in approximately 1,500 converts; and most famously, from 1840–1842 he traveled to Jerusalem, where he performed a dedicatory prayer on the Mount of Olives on October 24, 1841. He served as president of a British mission from 1846–1847 and led important settlement expeditions to Carson Valley, Nevada, and the Sanpete-Sevier District. As an associate judge for Utah Territory from 1852 onwards, he wielded civic authority. Hyde oversaw completion of the Nauvoo Temple, which was dedicated in 1846. An Orson Hyde Memorial Garden was dedicated to his memory in Jerusalem in 1979.",
+  "born": "1805-01-08",
+  "birth_place": "Oxford, Connecticut, United States",
+  "died": "1878-11-28",
+  "death_place": "Spring City, Utah Territory, United States",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Marinda Nancy Johnson",
+      "marriage_date": "1834-09-04",
+      "marriage_end_date": "1870",
+      "marriage_end_reason": "divorce"
+    }
+  ],
+  "mission": {
+    "location": "Eastern United States, Great Britain, and Jerusalem",
+    "years": "1831–1842"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [
+    "Nauvoo Temple (1846)"
+  ],
+  "teaching_emphasis": [
+    "missionary work in foreign lands",
+    "dedication and consecration",
+    "settlement and colonization",
+    "priesthood authority"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Orson_Hyde"
+}

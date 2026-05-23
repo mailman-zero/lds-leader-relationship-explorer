@@ -1,0 +1,49 @@
+{
+  "person_id": "heber-j-grant-1856",
+  "life_summary": "Heber J. Grant was born November 22, 1856, in Salt Lake City, Utah Territory, to wealthy, prominent church leaders. His father, Jedediah M. Grant, died when Heber was an infant, leaving him raised by his mother in relative affluence. Grant received education at the University of Deseret and developed business acumen, becoming a skilled investor and entrepreneur. He engaged in banking, mining, and ranching ventures, achieving considerable wealth and business reputation in Utah Territory. Grant also pursued musical interests and served in military capacities during territorial conflicts. His secular success demonstrated that religious devotion and commercial enterprise could flourish together.",
+  "church_summary": "Grant served missions to Native Americans (1883–1884), to the Yaqui in Mexico, and as mission president to Japan (1901–1903) and Britain and Europe (1903–1906). Ordained an apostle in 1882, he became counselor to church presidents and eventually church president in 1918, leading until his death in 1945. Grant championed seminary and institute education, emphasized Word of Wisdom adherence, and established the welfare program emphasizing self-sufficiency and dignity. He dedicated the Arizona and Hawaii temples and oversaw temple expansion. His presidency stressed institutional efficiency, education, and social responsibility.",
+  "born": "1856-11-22",
+  "birth_place": "Salt Lake City, Utah Territory",
+  "died": "1945-05-14",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": "Salt Lake City Cemetery, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Lucy Stringham",
+      "marriage_date": "1877-11-01",
+      "marriage_end_date": "1893",
+      "marriage_end_reason": "death"
+    },
+    {
+      "name": "Hulda Augusta Winters",
+      "marriage_date": "1884-05-26",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Emily Harris Wells",
+      "marriage_date": "1884-05-27",
+      "marriage_end_date": "1908",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Japan",
+    "years": "1901–1903"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [
+    "Arizona Temple",
+    "Hawaii Temple",
+    "Alberta Temple"
+  ],
+  "teaching_emphasis": [
+    "Sacrament meeting attendance",
+    "Word of Wisdom principles",
+    "Welfare and self-sufficiency",
+    "Religious education"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Heber_J._Grant"
+}

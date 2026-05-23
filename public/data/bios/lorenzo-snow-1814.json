@@ -1,0 +1,83 @@
+{
+  "person_id": "lorenzo-snow-1814",
+  "life_summary": "Lorenzo Snow was born April 3, 1814, in Mantua, Ohio, in a well-educated Quaker family. His father was an artist and educator, providing Snow with intellectual formation and refinement unusual among his generation. He attended Oberlin College, one of the few higher education institutions open to young men of limited means, where he studied classical languages and philosophy. Snow became fluent in multiple languages and earned respect as a disciplined, philosophical thinker. Before his 1836 conversion to Mormonism, he had established himself as a schoolteacher and intellectual leader in his Ohio community, bringing both learning and social refinement to his faith.",
+  "church_summary": "Snow served missions to England (1840–1843), Hawaii (1864), and the Holy Land (1871). Ordained an apostle in 1849, he became known for intellectual rigor and theological sophistication. As church president from 1898 to 1901, Snow articulated the doctrine of eternal progression through his famous couplet, framing the human potential to become divine. He served as Salt Lake Temple president (1893–1898), championing tithing as fundamental to religious membership. His ministry stressed financial commitment, education, and the elevation of Mormon theology through systematic doctrine. He led the church through financial recovery and institutional consolidation.",
+  "born": "1814-04-03",
+  "birth_place": "Mantua, Ohio",
+  "died": "1901-10-10",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Mary Adaline Goddard",
+      "marriage_date": "1845",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Sarah Ann Pritchard",
+      "marriage_date": "1845-04-21",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Charlotte Merrill Squires",
+      "marriage_date": "1846-01-17",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Harriet Amelia Squires",
+      "marriage_date": "1846-01-17",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Eleanor Houtz",
+      "marriage_date": "1848-06-01",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Mary Elizabeth Houtz",
+      "marriage_date": "1857",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Caroline Horton",
+      "marriage_date": "1853-10-09",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Phoebe Amelia Woodruff",
+      "marriage_date": "1859-04-04",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Sarah Minnie Ephramina Jensen",
+      "marriage_date": "1871-06-12",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "England",
+    "years": "1840–1843"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [
+    "Salt Lake Temple"
+  ],
+  "teaching_emphasis": [
+    "Tithing and financial commitment",
+    "Eternal progression doctrine",
+    "Temple worship",
+    "Intellectual theology"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lorenzo_Snow"
+}

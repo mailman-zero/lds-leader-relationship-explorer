@@ -1,0 +1,29 @@
+{
+  "person_id": "joseph-smith-sr-1771",
+  "life_summary": "Joseph Smith Sr. was born July 12, 1771, in Topsfield, Massachusetts, to Asael Smith and Mary Duty, with ancestry tracing to Robert Smith of Lincolnshire, England. In his early years, he was a Universalist, founding a Universalist society in Topsfield in 1797. He practiced folk religion including dream interpretation, divining rods, and treasure seeking, and struggled with depression managed through alcohol and visionary dreams. He married Lucy Mack on January 26, 1796, in Tunbridge, Vermont, and had eleven children together. Smith worked various occupations—farmer, teacher, and shopkeeper—with limited success. The death of his eldest son Alvin in 1823 disrupted his farming plans in Palmyra, New York. Despite financial struggles and personal hardship, he became a foundational figure in his son Joseph's religious movement.",
+  "church_summary": "Joseph Smith Sr. was baptized when the Church of Christ formally organized on April 6, 1830, becoming one of the church's first members. He was ordained the church's first Presiding Patriarch on December 18, 1833, and later served as Assistant Counselor in the First Presidency beginning September 3, 1837. He signed the Testimony of the Eight Witnesses in June 1829, attesting to the Book of Mormon plates. Smith relocated with his family to Far West, Missouri, in 1838 and later to Nauvoo, Illinois, in 1839, where he administered patriarchal blessings before his death. He died in Nauvoo on September 14, 1840, and was succeeded as Presiding Patriarch by his eldest surviving son, Hyrum.",
+  "born": "1771-07-12",
+  "birth_place": "Topsfield, Massachusetts, United States",
+  "died": "1840-09-14",
+  "death_place": "Nauvoo, Illinois, United States",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Lucy Mack Smith",
+      "marriage_date": "1796-01-26",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": null,
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "patriarchal authority",
+    "family blessings",
+    "revelation through family line"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Smith_Sr."
+}

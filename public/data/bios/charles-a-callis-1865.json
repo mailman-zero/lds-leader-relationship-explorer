@@ -1,0 +1,33 @@
+{
+  "person_id": "charles-a-callis-1865",
+  "life_summary": "Charles Albert Callis was born May 4, 1865, in Dublin, Ireland, to a family that converted to Mormonism during the great Irish missionary movement of the nineteenth century. At age 16, he entered coal mining, enduring eleven years of hazardous labor in Utah mines before pivoting toward legal and civic pursuits. His experiences as a laborer and a man of the frontier gave him deep empathy for working-class communities and an understanding of their struggles. He eventually earned admission to the Florida bar and developed an extensive legal practice defending Church interests, particularly protecting LDS missionaries in hostile environments of the American South. His trajectory from miner to attorney reflected personal determination and the Church's capacity to develop leadership from humble origins.",
+  "church_summary": "Callis served missions to Wyoming, the British Isles (1892–1895), Iowa, and Florida, eventually becoming Southern States Mission President (1908–1933), overseeing 250 missionaries across ten states. He was ordained an apostle on October 12, 1933, joining the Quorum of the Twelve in his final years. Through legal advocacy and missionary administration, he expanded Church presence in difficult territory and protected the religious freedom of Latter-day Saints in the segregated South. His published work, Fundamentals of Religion, compiled radio lectures on LDS doctrine. He excelled at both administrative detail and public oratory, earning respect for his integrity and his unwavering commitment to conscience and righteousness.",
+  "born": "1865-05-04",
+  "birth_place": "Dublin, Ireland",
+  "died": "1947-01-21",
+  "death_place": "Jacksonville, Florida",
+  "burial_place": "Salt Lake City Cemetery",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Grace Elizabeth Pack",
+      "marriage_date": "1902",
+      "marriage_end_date": "1946-10",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Southern United States and British Isles",
+    "years": "1892–1895, 1905–1933"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Religious liberty and legal defense",
+    "Southern expansion of the Church",
+    "Conscience and moral development",
+    "Working-class and immigrant concerns"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_A._Callis"
+}

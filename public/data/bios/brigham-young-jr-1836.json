@@ -1,0 +1,48 @@
+{
+  "person_id": "brigham-young-jr-1836",
+  "life_summary": "Brigham Young Jr. was born on December 18, 1836, in Kirtland, Ohio, as the eldest son of Brigham Young. He grew up during the formative years of the LDS Church, experiencing the communities of Kirtland, Nauvoo, and finally Salt Lake City. Young Jr. received his education through church schools and practical training in leadership and administration under his father's guidance. He married Catherine Curtis Spencer on November 15, 1855, and subsequently married Jane Carrington in 1857 and Abigail Stevens in an undated ceremony. Young Jr. established himself as a church leader in his own right, taking responsibility for important institutional development projects. He was instrumental in founding the Deseret Sunday School Union in 1867 and overseeing western colonization efforts across Utah, Wyoming, and Arizona.",
+  "church_summary": "Brigham Young Jr. served as a missionary in England from 1862 to 1863, where he worked in London and accompanied Joseph F. Smith to Paris. He returned to Europe as assistant to mission president Daniel H. Wells from 1864 to 1867, then succeeded Wells as European Mission president in 1865. Young Jr. served a second tenure as European Mission president from 1890 to 1893, headquartered in Liverpool. In 1877, he joined Erastus Snow and Wilford Woodruff in dedicating portions of the St. George Temple. His ecclesiastical roles centered on centralized missionary coordination, regional church administration, and institutional development. Young Jr. edited the Deseret News from 1877 to 1880 and established settlements in Cache Valley, Star Valley (Wyoming), and Arizona.",
+  "born": "1836-12-18",
+  "birth_place": "Kirtland, Ohio",
+  "died": "1903-04-11",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": "Salt Lake City Cemetery",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Catherine Curtis Spencer",
+      "marriage_date": "1855-11-15",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Jane Carrington",
+      "marriage_date": "1857",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Abigail Stevens",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "England",
+    "years": "1862–1863"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [
+    "St. George Temple (1877)"
+  ],
+  "teaching_emphasis": [
+    "Institutional development and organization",
+    "Missionary coordination and expansion",
+    "Regional church administration",
+    "Colonization and settlement of western territories",
+    "Sunday School education and youth development"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brigham_Young_Jr."
+}

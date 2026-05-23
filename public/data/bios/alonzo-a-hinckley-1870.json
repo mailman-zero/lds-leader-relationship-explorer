@@ -1,0 +1,33 @@
+{
+  "person_id": "alonzo-a-hinckley-1870",
+  "life_summary": "Alonzo Arza Hinckley was born April 23, 1870, in Cove Fort, Utah Territory, in the heart of Mormon country. He grew up in a frontier community and developed practical skills in agriculture, husbandry, and community management. Before his ecclesiastical prominence, Hinckley established himself as a reliable leader in his local community, managing property and participating in the cooperative institutions that characterized Mormon economic life. He demonstrated the steady temperament and administrative competence required for leadership in the Church's stake system. His rise to prominence reflected the Church's practice of promoting from within, identifying capable leaders from among the faithful laity who had proven themselves through decades of faithful service.",
+  "church_summary": "Hinckley served a mission to the Netherlands and subsequently became president of the Deseret Stake in 1912, overseeing a region in western Millard County, Utah. On October 11, 1934, he was ordained an apostle to fill a vacancy created by David O. McKay's elevation to the First Presidency. Though his tenure in the Quorum of the Twelve was brief—he died December 22, 1936, from stomach cancer—he represented the Church's commitment to maintaining succession and developed the leadership of younger apostles. His service demonstrated that the Church valued steady, proven administrators who had earned trust through long years of faithful community leadership.",
+  "born": "1870-04-23",
+  "birth_place": "Cove Fort, Utah Territory",
+  "died": "1936-12-22",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": "Salt Lake City Cemetery",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Rose May Robison",
+      "marriage_date": "1892",
+      "marriage_end_date": null,
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Netherlands",
+    "years": null
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Community administration and local leadership",
+    "Cooperative economic principles",
+    "Faithful stewardship of resources",
+    "Succession and leadership development"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alonzo_A._Hinckley"
+}

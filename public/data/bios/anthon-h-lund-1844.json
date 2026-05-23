@@ -1,0 +1,31 @@
+{
+  "person_id": "anthon-h-lund-1844",
+  "life_summary": "Anthon Henrik Lund was born on May 15, 1844, in Aalborg, Denmark. He immigrated to the United States in 1862 with his grandmother, settling in Sanpete County, Utah Territory. Growing up in Scandinavia and then pioneering in Utah, Lund developed a multilingual fluency and cultural sophistication that distinguished him among Church leaders. He married Sarah Ann Peterson in 1870 and raised a family while advancing rapidly in ecclesiastical responsibility. Lund became known as the first apostle since the early days of the Church to eschew plural marriage, a significant distinction during his era. His intellectual abilities and linguistic skills made him invaluable to Church administration during a formative period.",
+  "church_summary": "Anthon H. Lund was ordained to the Quorum of the Twelve Apostles on October 7, 1889, becoming the first apostle whose native language was not English. He served as president of Manti Temple beginning in 1891 and later as president of Salt Lake Temple from 1911 to 1921. He was appointed Second Counselor in the First Presidency on October 17, 1901, serving until April 7, 1910, when he was promoted to First Counselor, a position he held until his death on March 2, 1921. He also served as President of the Quorum of the Twelve from 1918 to 1921. Additionally, he served as Church Historian from 1900 to 1921, directing crucial historical and archival work. He organized the Turkish Mission in 1897 and served as president of the Scandinavian Mission (1884-1885) and European Mission (1893-1896).",
+  "born": "1844-05-15",
+  "birth_place": "Aalborg, Denmark",
+  "died": "1921-03-02",
+  "death_place": "Salt Lake City, Utah, United States",
+  "burial_place": "Salt Lake City Cemetery, Salt Lake City, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {"name": "Sarah Ann Peterson", "marriage_date": "1870", "marriage_end_date": null, "marriage_end_reason": null}
+  ],
+  "mission": {
+    "location": "Scandinavia and Europe",
+    "years": "1884–1896"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [
+    "Manti Temple (1891)",
+    "Salt Lake Temple (1911)"
+  ],
+  "teaching_emphasis": [
+    "international outreach",
+    "historical preservation",
+    "temple ordinances",
+    "monogamous family"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anthon_H._Lund"
+}

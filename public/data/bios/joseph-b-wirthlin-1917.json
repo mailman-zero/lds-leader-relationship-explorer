@@ -1,0 +1,34 @@
+{
+  "person_id": "joseph-b-wirthlin-1917",
+  "life_summary": "Joseph Bitner Wirthlin was born on June 11, 1917, in Salt Lake City, Utah, to a family with long-standing prominence in the LDS Church. He married Elisa Young Rogers on May 26, 1941, in the Salt Lake Temple, and they had eight children together. Elisa died in August 2006 of causes incident to age, after more than sixty-five years of marriage. Wirthlin established himself as a thoughtful leader with a distinctive approach to spiritual teaching, notably using sports analogies and examples to explain matters of faith. His tenure in leadership extended into the late twentieth century, making him a bridge figure between different eras of church administration.",
+  "church_summary": "Wirthlin served as a missionary in Germany, Austria, and Switzerland from 1936 to 1939, during the turbulent pre-World War II period in Europe. He was ordained an apostle in 1986 and served in the Quorum of the Twelve Apostles until his death on December 1, 2008. Before his apostolic appointment, Wirthlin served as president of the Europe Area from 1984, bringing his experience and stability to a region experiencing significant church growth. At the time of his death, he was the oldest apostle among the ranks of the church. Wirthlin's distinctive teaching style, which employed sports to explain faith and spiritual principles, made his messages particularly accessible and memorable to diverse audiences.",
+  "born": "1917-06-11",
+  "birth_place": "Salt Lake City, Utah, USA",
+  "died": "2008-12-01",
+  "death_place": "Salt Lake City, Utah, USA",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Elisa Young Rogers",
+      "marriage_date": "1941-05-26",
+      "marriage_end_date": "2006-08",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Germany, Austria, and Switzerland",
+    "years": "1936–1939"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "spiritual teachings through sports analogies",
+    "accessible gospel explanations",
+    "faith and practical application",
+    "steadfast leadership and stability",
+    "intergenerational bridge-building"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_B._Wirthlin"
+}
