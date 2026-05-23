@@ -61,11 +61,16 @@ export function MainView({ snapshot, graph, onSelect }: MainViewProps) {
       <section className="section">
         <header className="section-head">
           <h2>Quorum of the Twelve Apostles</h2>
-          <div className="sub">In order of seniority · {q12.length} of 12 seated</div>
+          <div className="sub">
+            In order of seniority
+            {snapshot.president
+              ? <> · {q12.length} of 12 seated</>
+              : <> · First Presidency reorganizing · {q12.length} seated</>}
+          </div>
         </header>
 
         <div className="q12-grid">
-          {Array.from({ length: 12 }).map((_, i) => {
+          {Array.from({ length: Math.max(12, q12.length) }).map((_, i) => {
             const pos = q12[i];
             if (!pos) return <Card key={`q12-${i}`} vacancy role="Apostle" />;
             const person = graph.people.get(pos.person_id);

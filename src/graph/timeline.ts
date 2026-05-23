@@ -62,16 +62,29 @@ export function getSnapshot(graph: Graph, date: string): Snapshot {
         a.seniority_tiebreak - b.seniority_tiebreak
     );
 
-  const q12 = active
-    .filter(
-      (p) =>
-        p.position_code === "q12-member" || p.position_code === "q12-president"
-    )
-    .sort(
-      (a, b) =>
-        a.seniority_date.localeCompare(b.seniority_date) ||
-        a.seniority_tiebreak - b.seniority_tiebreak
-    );
+  const fpPersonIds = new Set<string>();
+  for (const slot of [president, firstCounselor, secondCounselor, ...additionalCounselors]) {
+    if (slot) fpPersonIds.add(slot.person_id);
+  }
+
+  // A person can have both q12-member and q12-president active (the latter
+  // overlays the former). Pick the highest-priority active role per person.
+  const Q12_PRIORITY: Record<string, number> = { "q12-president": 2, "q12-member": 1 };
+  const bestByPerson = new Map<string, LeadershipPosition>();
+  for (const p of active) {
+    if (p.position_code !== "q12-member" && p.position_code !== "q12-president") continue;
+    if (fpPersonIds.has(p.person_id)) continue;
+    const existing = bestByPerson.get(p.person_id);
+    if (!existing || Q12_PRIORITY[p.position_code] > Q12_PRIORITY[existing.position_code]) {
+      bestByPerson.set(p.person_id, p);
+    }
+  }
+
+  const q12 = Array.from(bestByPerson.values()).sort(
+    (a, b) =>
+      a.seniority_date.localeCompare(b.seniority_date) ||
+      a.seniority_tiebreak - b.seniority_tiebreak
+  );
 
   return {
     date,

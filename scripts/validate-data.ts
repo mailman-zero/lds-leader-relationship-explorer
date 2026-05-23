@@ -127,10 +127,23 @@ for (const [personId, posList] of byPerson) {
       }
     }
   }
-  for (let i = 0; i < q12Positions.length; i++) {
-    for (let j = i + 1; j < q12Positions.length; j++) {
-      if (overlaps(q12Positions[i], q12Positions[j])) {
-        error(`Person ${personId}: overlapping Q12 positions: ${q12Positions[i].id} and ${q12Positions[j].id}`);
+  // q12-member is a continuous lifetime span; q12-president overlays on top.
+  // Allow q12-member ↔ q12-president overlap for the same person, but flag
+  // duplicates within the same code.
+  const q12MemberRecords = q12Positions.filter((p) => p.position_code === "q12-member");
+  const q12PresidentRecords = q12Positions.filter((p) => p.position_code === "q12-president");
+  for (let i = 0; i < q12MemberRecords.length; i++) {
+    for (let j = i + 1; j < q12MemberRecords.length; j++) {
+      if (overlaps(q12MemberRecords[i], q12MemberRecords[j])) {
+        error(`Person ${personId}: overlapping q12-member positions: ${q12MemberRecords[i].id} and ${q12MemberRecords[j].id}`);
+        overlapErrors++;
+      }
+    }
+  }
+  for (let i = 0; i < q12PresidentRecords.length; i++) {
+    for (let j = i + 1; j < q12PresidentRecords.length; j++) {
+      if (overlaps(q12PresidentRecords[i], q12PresidentRecords[j])) {
+        error(`Person ${personId}: overlapping q12-president positions: ${q12PresidentRecords[i].id} and ${q12PresidentRecords[j].id}`);
         overlapErrors++;
       }
     }

@@ -2,6 +2,7 @@ import type { Graph, LeadershipPosition, PositionCode, Snapshot } from "../graph
 import { getSnapshot } from "../graph/timeline";
 import { EVENT_NOTES } from "../data/eventNotes";
 import type { EventNote } from "../data/eventNotes";
+import { formatTenure } from "./tenure";
 
 function name(graph: Graph, personId: string | undefined): string {
   if (!personId) return "Unknown";
@@ -63,6 +64,18 @@ function endingPosition(
   );
 }
 
+// Earliest q12-member ordination date for a person — used to compute total
+// time served in the Quorum of the Twelve.
+function earliestQ12Date(graph: Graph, personId: string): string | null {
+  let earliest: string | null = null;
+  for (const p of graph.positions) {
+    if (p.person_id !== personId) continue;
+    if (p.position_code !== "q12-member" && p.position_code !== "q12-president") continue;
+    if (earliest === null || p.ordination_date < earliest) earliest = p.ordination_date;
+  }
+  return earliest;
+}
+
 export function describeEvent(
   graph: Graph,
   date: string,
@@ -93,16 +106,80 @@ export function describeEvent(
   const added = [...currIds].filter(k => !prevIds.has(k));
   const removed = [...prevIds].filter(k => !currIds.has(k));
 
-  const lines: string[] = [];
+  // Index added/removed by person_id so we can detect FP↔Q12 transitions
+  // (same person on both sides).
+  const addedByPid = new Map<string, string>();
   for (const entry of added) {
+    const [pid, code] = entry.split(":");
+    addedByPid.set(pid, code);
+  }
+  const removedByPid = new Map<string, string>();
+  for (const entry of removed) {
+    const [pid, code] = entry.split(":");
+    removedByPid.set(pid, code);
+  }
+
+  const lines: string[] = [];
+  const consumedAdded = new Set<string>();
+  const consumedRemoved = new Set<string>();
+  // Track president-death for title priority.
+  let presidentDeath: { pid: string; code: string } | null = null;
+
+  // Pre-pass: pair transitions where the same person appears in both added and removed.
+  for (const [pid, oldCode] of removedByPid) {
+    const newCode = addedByPid.get(pid);
+    if (!newCode) continue;
+
+    consumedRemoved.add(`${pid}:${oldCode}`);
+    consumedAdded.add(`${pid}:${newCode}`);
+
+    const oldIsFP = isFirstPresidencyCode(oldCode);
+    const newIsFP = isFirstPresidencyCode(newCode);
+    const newIsQ12 = isQ12Code(newCode);
+    const oldIsQ12 = isQ12Code(oldCode);
+
+    if (oldIsFP && newIsQ12) {
+      // Counselor returning to the Twelve after FP dissolution. Never called.
+      lines.push(`${titledName(graph, pid, oldCode)} returned to his place in the Quorum of the Twelve Apostles.`);
+    } else if (oldIsQ12 && newIsFP) {
+      lines.push(`${titledName(graph, pid, newCode)} called as ${posLabel(newCode)}.`);
+    } else if (oldIsFP && newIsFP) {
+      lines.push(`${titledName(graph, pid, newCode)} called as ${posLabel(newCode)}.`);
+    } else if (oldIsQ12 && newIsQ12) {
+      // e.g. q12-member promoted to q12-president
+      lines.push(`${titledName(graph, pid, newCode)} sustained as ${posLabel(newCode)}.`);
+    }
+  }
+
+  // Remaining "added" — pure callings.
+  for (const entry of added) {
+    if (consumedAdded.has(entry)) continue;
     const [pid, code] = entry.split(":");
     lines.push(`${titledName(graph, pid, code)} called as ${posLabel(code)}.`);
   }
+
+  // Remaining "removed" — deaths, releases, etc.
   for (const entry of removed) {
+    if (consumedRemoved.has(entry)) continue;
     const [pid, code] = entry.split(":");
     const ending = endingPosition(graph, pid, code, date);
     if (ending?.end_reason === "death") {
       lines.push(`${titledName(graph, pid, code)} passed away.`);
+      if (code === "church-president") presidentDeath = { pid, code };
+
+      // Tenure as President of the Church (months if <1 year).
+      if (code === "church-president" && ending.ordination_date) {
+        lines.push(
+          `He had served as President of the Church for ${formatTenure(ending.ordination_date, date)}.`
+        );
+      }
+      // Tenure since first apostolic ordination.
+      const q12Start = earliestQ12Date(graph, pid);
+      if (q12Start && q12Start < date) {
+        lines.push(
+          `He had served in the Quorum of the Twelve Apostles for ${formatTenure(q12Start, date)}.`
+        );
+      }
     } else if (!isQ12Code(code)) {
       lines.push(`${titledName(graph, pid, code)} released as ${posLabel(code)}.`);
     }
@@ -110,9 +187,18 @@ export function describeEvent(
 
   const note = lines.length ? lines.join(" ") : "Change in the First Presidency or Quorum of the Twelve.";
 
-  // Auto-generate title
+  // Title — president-death takes precedence so coincident events don't overshadow it.
+  // Then a newly-sustained President of the Church (FP reorganization) takes precedence
+  // over the other coincident transitions.
   let title: string;
-  if (added.length === 1) {
+  const newPresident = added
+    .map(e => e.split(":"))
+    .find(([_pid, code]) => code === "church-president");
+  if (presidentDeath) {
+    title = `${titledLastName(graph, presidentDeath.pid, presidentDeath.code)} passed away`;
+  } else if (newPresident) {
+    title = `President ${lastName(name(graph, newPresident[0]))} sustained`;
+  } else if (added.length === 1 && removed.length === 0) {
     const [pid, code] = added[0].split(":");
     const n = name(graph, pid);
     if (code === "church-president") title = `President ${lastName(n)} sustained`;
@@ -120,11 +206,11 @@ export function describeEvent(
     else if (code === "q12-president") title = `President ${lastName(n)} called`;
     else if (code === "q12-member") title = `Elder ${lastName(n)} called`;
     else title = n;
-  } else if (added.length > 1) {
+  } else if (added.length > 1 && removed.length === 0) {
     const names = added.map(e => lastName(name(graph, e.split(":")[0])));
     if (names.length <= 3) title = `${names.slice(0, -1).join(", ")} & ${names.at(-1)} called`;
     else title = `${names.length} new callings`;
-  } else if (removed.length === 1) {
+  } else if (removed.length === 1 && added.length === 0) {
     const [pid, code] = removed[0].split(":");
     const ending = endingPosition(graph, pid, code, date);
     if (ending?.end_reason === "death") {
@@ -134,10 +220,15 @@ export function describeEvent(
     } else {
       title = `${titledLastName(graph, pid, code)} released`;
     }
-  } else if (removed.length > 1) {
-    title = `${removed.length} changes`;
+  } else if (added.length === 1 && removed.length === 1) {
+    // Reorganization: most often a counselor promoted, or a new president sustained
+    // alongside a counselor returning to the Twelve.
+    const [aPid, aCode] = added[0].split(":");
+    if (aCode === "church-president") title = `President ${lastName(name(graph, aPid))} sustained`;
+    else if (aCode.startsWith("fp-")) title = `President ${lastName(name(graph, aPid))} called to First Presidency`;
+    else title = `Change — ${date}`;
   } else {
-    title = `Change — ${date}`;
+    title = `${added.length + removed.length} changes`;
   }
 
   return { title, note };
