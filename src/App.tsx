@@ -5,12 +5,19 @@ import { describeEvent } from "./utils/describeEvent";
 import { TimelinePicker } from "./components/TimelinePicker";
 import { MainView } from "./components/MainView";
 import { Detail } from "./components/Detail";
+import { RelationshipVisualizer } from "./components/RelationshipVisualizer";
 
-function parseHash(hash: string): { date?: string; personId?: string } {
+type ParsedHash =
+  | { view: "leaders"; date?: string; personId?: string }
+  | { view: "visualizer"; personId?: string };
+
+function parseHash(hash: string): ParsedHash {
   const path = hash.replace(/^#/, "");
-  const m = path.match(/^\/fp\/([^/]+)(?:\/person\/([^/]+))?$/);
-  if (m) return { date: m[1], personId: m[2] };
-  return {};
+  const viz = path.match(/^\/visualizer(?:\/person\/([^/]+))?$/);
+  if (viz) return { view: "visualizer", personId: viz[1] };
+  const leaders = path.match(/^\/fp\/([^/]+)(?:\/person\/([^/]+))?$/);
+  if (leaders) return { view: "leaders", date: leaders[1], personId: leaders[2] };
+  return { view: "leaders" };
 }
 
 function useHashParams() {
@@ -28,18 +35,21 @@ function navigate(path: string) {
 }
 
 export default function App() {
-  const { date, personId } = useHashParams();
+  const parsed = useHashParams();
   const { graph, loading, error } = useGraph();
 
   const dates = useMemo(() => (graph ? getChangeDates(graph) : []), [graph]);
 
   useEffect(() => {
-    if (dates.length > 0 && !date) {
+    if (parsed.view !== "leaders") return;
+    if (dates.length > 0 && !parsed.date) {
       navigate("/fp/" + dates[dates.length - 1]);
     }
-  }, [dates, date]);
+  }, [dates, parsed]);
 
-  const resolvedDate = date ?? (dates.length ? dates[dates.length - 1] : null);
+  const latestDate = dates.length ? dates[dates.length - 1] : null;
+  const resolvedDate =
+    parsed.view === "leaders" ? parsed.date ?? latestDate : latestDate;
 
   const snapshot = useMemo(
     () => (graph && resolvedDate ? getSnapshot(graph, resolvedDate) : null),
@@ -70,34 +80,88 @@ export default function App() {
     );
   }
 
+  const isVisualizer = parsed.view === "visualizer";
+
   return (
     <>
       <div className="topbar">
         <div className="brand">
           <div className="eyebrow">The Church of Jesus Christ of Latter-day Saints</div>
-          <h1>First Presidency <em>&amp;</em> Quorum of the Twelve Apostles</h1>
+          <h1>
+            {isVisualizer ? (
+              <>Relationship <em>Visualizer</em></>
+            ) : (
+              <>First Presidency <em>&amp;</em> Quorum of the Twelve Apostles</>
+            )}
+          </h1>
         </div>
-        <TimelinePicker
-          dates={dates}
-          currentDate={resolvedDate}
-          getNoteFor={getNoteFor}
-          onSelect={(d) => navigate("/fp/" + d)}
-        />
+        {isVisualizer ? (
+          <div className="viz-topbar-slot">
+            <button
+              type="button"
+              className="viz-close"
+              aria-label="Close visualizer"
+              onClick={() => navigate("/fp/" + resolvedDate)}
+            >
+              ×
+            </button>
+          </div>
+        ) : (
+          <div className="leaders-topbar-slot">
+            <TimelinePicker
+              dates={dates}
+              currentDate={resolvedDate}
+              getNoteFor={getNoteFor}
+              onSelect={(d) => navigate("/fp/" + d)}
+            />
+            <button
+              type="button"
+              className="viz-pill"
+              onClick={() => navigate("/visualizer")}
+            >
+              <span className="viz-pill__icon" aria-hidden="true">
+                <svg viewBox="0 0 16 16" width="12" height="12">
+                  <circle cx="8" cy="8" r="6" fill="none" stroke="currentColor" strokeWidth="1.2" />
+                  <circle cx="8" cy="2.5" r="1.3" fill="currentColor" />
+                  <circle cx="13" cy="8" r="1.3" fill="currentColor" />
+                  <circle cx="8" cy="13.5" r="1.3" fill="currentColor" />
+                  <circle cx="3" cy="8" r="1.3" fill="currentColor" />
+                </svg>
+              </span>
+              Relationship Visualizer
+            </button>
+          </div>
+        )}
       </div>
 
-      <MainView
-        snapshot={snapshot}
-        graph={graph}
-        onSelect={(id) => navigate("/fp/" + resolvedDate + "/person/" + id)}
-      />
+      {isVisualizer ? (
+        <RelationshipVisualizer
+          graph={graph}
+          onSelect={(id) => navigate("/visualizer/person/" + id)}
+        />
+      ) : (
+        <MainView
+          snapshot={snapshot}
+          graph={graph}
+          onSelect={(id) => navigate("/fp/" + resolvedDate + "/person/" + id)}
+        />
+      )}
 
-      {personId && (
+      {parsed.personId && (
         <Detail
-          personId={personId}
+          personId={parsed.personId}
           graph={graph}
           snapshot={snapshot}
-          onClose={() => navigate("/fp/" + resolvedDate)}
-          onSwitch={(id) => navigate("/fp/" + resolvedDate + "/person/" + id)}
+          onClose={() =>
+            navigate(isVisualizer ? "/visualizer" : "/fp/" + resolvedDate)
+          }
+          onSwitch={(id) =>
+            navigate(
+              isVisualizer
+                ? "/visualizer/person/" + id
+                : "/fp/" + resolvedDate + "/person/" + id
+            )
+          }
         />
       )}
     </>
