@@ -1,0 +1,29 @@
+{
+  "person_id": "abraham-o-woodruff-1872",
+  "life_summary": "Abraham Owen Woodruff was born on November 23, 1872, near Salt Lake City, Utah Territory, into the prominent Woodruff family, son of the Church president. Growing up with direct access to the highest levels of Church leadership shaped his worldview and instilled in him a sense of responsibility. As a young man, he demonstrated exceptional entrepreneurial abilities and vision for community development. In 1900, he spearheaded the establishment of a significant Mormon colony at Bighorn Basin, Wyoming, orchestrating the purchase of 18,000 acres under the Carey Act and serving as president of the Big Horn Basin Colonization Company. Through his efforts, over 500 Latter-day Saints were settled in the region, demonstrating his organizational prowess and commitment to Church expansion.",
+  "church_summary": "Abraham O. Woodruff served a mission in the Swiss-German Mission from 1893 to 1896, during which he faced persecution and conducted secret preaching in Frankfurt, Dresden (where he served as branch president), and Berlin. At age 24, he was ordained an apostle on October 7, 1897, becoming the youngest member of the Quorum of the Twelve Apostles at that time. He married Helen May Winters on June 30, 1896, and later entered into a plural marriage with Eliza Avery Clark in 1901, keeping the second marriage secret. His apostolic career was tragically cut short when he died on June 20, 1904, at age 31, from smallpox contracted in El Paso, Texas. Helen died just thirteen days earlier on June 7, fulfilling a prophecy that they would not be separated in death by more than two weeks.",
+  "born": "1872-11-23",
+  "birth_place": "near Salt Lake City, Utah Territory, United States",
+  "died": "1904-06-20",
+  "death_place": "El Paso, Texas, United States",
+  "burial_place": "Salt Lake City Cemetery, Salt Lake City, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {"name": "Helen May Winters", "marriage_date": "1896-06-30", "marriage_end_date": "1904-06-07", "marriage_end_reason": "death"},
+    {"name": "Eliza Avery Clark", "marriage_date": "1901", "marriage_end_date": null, "marriage_end_reason": null}
+  ],
+  "mission": {
+    "location": "Swiss-German Mission",
+    "years": "1893–1896"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "colonization and expansion",
+    "persecution endurance",
+    "community building",
+    "divine direction"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_O._Woodruff"
+}

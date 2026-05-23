@@ -1,0 +1,33 @@
+{
+  "person_id": "orson-pratt-1811",
+  "life_summary": "Orson Pratt Sr. was born in Hartford, New York, and became one of the Church's most intellectually prominent leaders. A gifted mathematician and astronomer, he authored sixteen theological pamphlets and two mathematics books, earning renown as a scholar within the LDS movement. Pratt was educated in the rapidly developing American frontier context and channeled his analytical mind toward theological argumentation. He fathered approximately forty-five children across multiple marriages and remained a prolific writer throughout his life, defending polygamy as a central tenet of Latter-day Saint doctrine.",
+  "church_summary": "Pratt was baptized in 1830 and ordained an Elder that same year, serving numerous short-term missions across the northeastern United States. In 1835, Joseph Smith called him to the Quorum of the Twelve Apostles. He served a British mission from 1839 to 1841 and faced a major crisis when excommunicated on August 20, 1842, following accusations involving Smith and his wife, though he was reinstated in January 1843. Under Brigham Young's leadership, Pratt was frequently sent on missions to minimize his ecclesiastical influence. He served as Church Historian and Speaker of the Utah House, earning the title \"apostle of polygamy\" for his vocal theological defense of that practice.",
+  "born": "1811",
+  "birth_place": "Hartford, New York, United States",
+  "died": "1881",
+  "death_place": null,
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Sarah",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "British Isles",
+    "years": "1839–1841"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "polygamy and celestial marriage",
+    "theological mathematics and astronomy",
+    "atonement doctrine",
+    "restoration of priesthood authority"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Orson_Pratt"
+}

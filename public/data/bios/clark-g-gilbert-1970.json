@@ -1,0 +1,34 @@
+{
+  "person_id": "clark-g-gilbert-1970",
+  "life_summary": "Clark G. Gilbert was born on June 18, 1970, in Oakland, California, and grew up in the San Francisco Bay Area. He received his education and developed expertise in organizational leadership and academic administration. After completing his undergraduate studies, Gilbert served as a full-time missionary for the Latter-day Saint Church in Kobe, Japan, from 1989 to 1991, where he gained cross-cultural experience and deepened his commitment to church principles. Upon returning home, he married Christine Gilbert in 1994 at the Salt Lake Temple, and they established a family with eight children. His professional expertise in higher education and organizational development positioned him for leadership roles within church institutions.",
+  "church_summary": "Gilbert served as Church Commissioner of Education, where he championed the cause of maintaining religious distinction in Latter-day Saint universities. His tenure focused on preserving what he termed 'the distinctive light of religious universities' and resisting pressures from the wider American academy to conform to secular ideals. Drawing on the work of scholars like James Tunstead Burtchaell, Gilbert emphasized alignment between academic institutions and church doctrinal teachings on marriage, family, and gender—ensuring that religious colleges remained authentic expressions of faith-centered education.",
+  "born": "1970-06-18",
+  "birth_place": "Oakland, California, United States",
+  "died": null,
+  "death_place": null,
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Christine Gilbert",
+      "marriage_date": "1994",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Kobe, Japan",
+    "years": "1989–1991"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "religious higher education",
+    "institutional religious identity",
+    "resistance to secular pressures",
+    "alignment with church doctrine",
+    "marriage and family"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Clark_G._Gilbert"
+}

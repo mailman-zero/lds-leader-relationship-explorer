@@ -1,0 +1,32 @@
+{
+  "person_id": "hyrum-mack-smith-1872",
+  "life_summary": "Hyrum Mack Smith was born March 21, 1872, in Salt Lake City, Utah Territory, to Joseph F. Smith and Edna Lambson. He was the eldest son in his family and inherited a legacy of church leadership through his father, who would become church president. His paternal grandfather was Hyrum Smith, the brother of LDS founder Joseph Smith, connecting him directly to the founding generation. Smith graduated from Latter-day Saint College in 1894. On November 15, 1895, he married Ida Elizabeth Bowman and subsequently served a two-year mission in Great Britain, presiding over the Newcastle Conference from 1896 to 1898. He and Ida had five children together, though family life was marked by tragedy.",
+  "church_summary": "Hyrum Mack Smith was ordained as an apostle on October 24, 1901, at age twenty-nine by his father, Joseph F. Smith. In 1909, he became one of two original priesthood advisors to the Primary Association, helping shape the religious education of the Church's children. From 1913 to 1916, he served as president of the European Mission until World War I suspended activities. He died January 23, 1918, at age forty-five from a ruptured appendix. His wife Ida died from childbirth complications in September 1918 while pregnant with their fifth child. His descendants continued to serve prominently in the Church, including his son Joseph Fielding Smith, who became presiding patriarch.",
+  "born": "1872-03-21",
+  "birth_place": "Salt Lake City, Utah Territory, United States",
+  "died": "1918-01-23",
+  "death_place": "Salt Lake City, Utah, United States",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Ida Elizabeth Bowman",
+      "marriage_date": "1895-11-15",
+      "marriage_end_date": "1918-09",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Great Britain",
+    "years": "1896–1898"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "primary education",
+    "youth instruction",
+    "european missions"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hyrum_Mack_Smith"
+}

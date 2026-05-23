@@ -1,0 +1,33 @@
+{
+  "person_id": "oliver-cowdery-1806",
+  "life_summary": "Oliver Hypram Cowdery was born on October 3, 1806, in Wells, Vermont, during the early years of American independence. He grew up in the rural northeastern United States and received education befitting his era and social station. Cowdery married Elizabeth Ann Whitmer on December 18, 1832, in a union that produced six children, though only one daughter survived to adulthood—a tragically common pattern in nineteenth-century frontier America. Despite his central role in the founding of the Latter Day Saint movement, Cowdery's later life was marked by apostasy and exile, before he sought reconciliation with the church in his final years.",
+  "church_summary": "Oliver Cowdery served as the principal scribe for the Book of Mormon and was the first person baptized into the restored church, serving as one of the Three Witnesses to the golden plates. He was ordained as a founding apostle and held membership in the First Presidency in Kirtland. Cowdery played key roles as a missionary during the formative period of the movement in the 1820s and 1830s, helping to establish foundational practices and doctrine. However, he became estranged from the church due to conflicts with Joseph Smith and others, leading to excommunication. He died on March 3, 1850, at David Whitmer's home in Richmond, Missouri, having sought renewed fellowship with the church before his death.",
+  "born": "1806-10-03",
+  "birth_place": "Wells, Vermont, USA",
+  "died": "1850-03-03",
+  "death_place": "Richmond, Missouri, USA",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Elizabeth Ann Whitmer",
+      "marriage_date": "1832-12-18",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Early missions during formative period",
+    "years": "1820s–1830s"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "foundational scriptural witness",
+    "early Latter Day Saint doctrine",
+    "administrative and scribal service",
+    "apostolic witness and church establishment"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Oliver_Cowdery"
+}

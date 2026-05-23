@@ -1,0 +1,34 @@
+{
+  "person_id": "neal-a-maxwell-1926",
+  "life_summary": "Neal Ash Maxwell was born on July 6, 1926, in Salt Lake City, Utah, into a family deeply rooted in the Latter-day Saint community. He served his country during World War II before undertaking a two-year mission to Canada. Maxwell married Colleen Hinckley on November 22, 1950; she was the daughter of church leader Gordon B. Hinckley. Together they had four children and twenty-four grandchildren. Maxwell's intellectual prowess and eloquent speaking style set him apart from his peers, earning him recognition as one of the most gifted communicators in the twentieth-century church. He authored approximately thirty books on gospel-related subjects, establishing himself as a prolific religious scholar.",
+  "church_summary": "Maxwell served as an LDS Church missionary in Canada for two years following his World War II military service. He became renowned for his eloquent and highly alliterative approach to religious instruction, employing such linguistic complexity that church conference translators ranked his presentations at the highest difficulty level. His works focused on religious scholarship and brought vivid imagery to gospel teachings. Church President Gordon B. Hinckley remarked that each of Maxwell's talks was a masterpiece and each book a work of art. Despite being diagnosed with leukemia in 1996, Maxwell continued his apostolic duties until his death on July 21, 2004, leaving behind a legacy of literary and spiritual eloquence.",
+  "born": "1926-07-06",
+  "birth_place": "Salt Lake City, Utah, USA",
+  "died": "2004-07-21",
+  "death_place": "Salt Lake City, Utah, USA",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Colleen Hinckley",
+      "marriage_date": "1950-11-22",
+      "marriage_end_date": "2004-07-21",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Canada",
+    "years": null
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "eloquent religious instruction and oratory",
+    "alliterative and vivid gospel imagery",
+    "scholarly religious thought and interpretation",
+    "literary approach to spiritual teaching",
+    "spiritual complexity and intellectual depth"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Neal_A._Maxwell"
+}

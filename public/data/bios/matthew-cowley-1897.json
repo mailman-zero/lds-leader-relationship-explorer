@@ -1,0 +1,35 @@
+{
+  "person_id": "matthew-cowley-1897",
+  "life_summary": "Matthew Cowley was born on August 2, 1897, in Preston, Idaho, in the northern part of the state. From an early age, he showed a calling toward missionary work and linguistic study. At age seventeen, he was called to serve in New Zealand, where he spent five years learning the Māori language and culture with remarkable proficiency. Cowley married Elva Eleanor Taylor on July 13, 1922, at the Salt Lake Temple, and they had one daughter, Jewell. After his initial mission, he pursued professional responsibilities while maintaining Church leadership. His life was marked by compassion, eloquence, and a distinctive ability to communicate across cultural boundaries, talents he would employ throughout his ecclesiastical career.",
+  "church_summary": "Cowley served as a missionary in New Zealand from 1914 to 1919, where he translated the Book of Mormon into Māori (published 1917) and the Doctrine and Covenants and Pearl of Great Price (published 1919). He later served as New Zealand Mission President from 1938 to 1945, providing leadership during critical war years. He was ordained as an apostle on October 11, 1945, and in 1946 was assigned president of the Pacific Missions, overseeing Hawaiian, Samoan, Tongan, Australian, and other regional missions. Cowley became known for his emphasis on compassion and his call to openly welcome sinners rather than ostracize them. His sermons were compiled posthumously in Matthew Cowley Speaks (1954).",
+  "born": "1897-08-02",
+  "birth_place": "Preston, Idaho",
+  "died": "1953-12-13",
+  "death_place": "Los Angeles, California",
+  "burial_place": "Salt Lake City Cemetery, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Elva Eleanor Taylor",
+      "marriage_date": "1922-07-13",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "New Zealand",
+    "years": "1914–1919"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Compassion toward sinners",
+    "Inclusivity in the Church community",
+    "Māori language and culture",
+    "Pacific island missionary work",
+    "Eloquent communication",
+    "Redemptive love"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Matthew_Cowley"
+}

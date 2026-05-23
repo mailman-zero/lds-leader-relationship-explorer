@@ -1,0 +1,38 @@
+{
+  "person_id": "william-e-mclellin-1806",
+  "life_summary": "William Earl McLellin was born on January 18, 1806, in Smith County, Tennessee, growing up in the frontier society of the American South. He developed intellectual interests in education and writing, becoming a teacher of penmanship. In 1829, he married Cynthia Ann, though she died two years later in 1831. He then married Emeline Miller in 1832 in Portage County, Ohio, and with her fathered six children: four sons and two daughters. His life spanned most of the 19th century, a period marked by American territorial expansion, political turbulence, and the development of new religious movements.",
+  "church_summary": "McLellin was baptized on August 20, 1831, by Hyrum Smith in Paris, Illinois, and was ordained as an elder in the Church of Christ. He served multiple missions throughout the eastern United States, Missouri, and Illinois, including a mission with Joseph Smith himself to Tennessee. Called to the Quorum of the Twelve Apostles on February 15, 1835, McLellin also served as a teacher of penmanship at the Kirtland School for Temporal Education in 1834 and as an assistant teacher at the School of the Prophets. He held membership on the high council in Clay County, Missouri, and briefly served as a captain in the Missouri State Militia in 1837. However, his apostolic tenure was brief; he was excommunicated on May 11, 1838, during a period of severe church-state conflict in Missouri.",
+  "born": "1806-01-18",
+  "birth_place": "Smith County, Tennessee, United States",
+  "died": "1883-04-24",
+  "death_place": "Independence, Missouri, United States",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Cynthia Ann",
+      "marriage_date": "1829",
+      "marriage_end_date": "1831",
+      "marriage_end_reason": "death"
+    },
+    {
+      "name": "Emeline Miller",
+      "marriage_date": "1832",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Eastern United States, Missouri, and Illinois",
+    "years": "1831–1838"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "penmanship and education",
+    "priesthood ordination",
+    "organizational development"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_E._McLellin"
+}

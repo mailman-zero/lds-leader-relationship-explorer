@@ -1,0 +1,38 @@
+{
+  "person_id": "luke-johnson-1807",
+  "life_summary": "Luke Johnson was born on November 3, 1807, in Pomfret, Vermont, during the early period of American independence and religious ferment. He grew up in Vermont during the wave of revivals and spiritual seeking that characterized the early 19th century. Johnson was an educated man who became an educator and physician, positioning himself to serve his community beyond purely ministerial roles. On November 1, 1833, he married Susan H. Poteet, and their union produced six children: Elisa Mary, Fanny, Eliza, Vashtia, James, and Solomon. When Susan died on September 20, 1846, Johnson eventually remarried on March 3, 1847, to America Morgan Clark in Council Bluffs, Iowa, with whom he fathered seven more children.",
+  "church_summary": "Johnson was baptized early in the church's history and immediately engaged in missionary service. Beginning in 1831, he undertook missions to southern Ohio with Robert Rathburn and preached throughout Pennsylvania and Ohio with Sidney Rigdon. He was ordained to the Quorum of the Twelve Apostles on February 15, 1835, serving until December 31, 1837. Following his departure from the apostleship, Johnson left the church for a period but was later rebaptized on March 8, 1846. After the church's migration to Utah, he participated in the Mormon Pioneer journey to Salt Lake Valley in July 1847 and subsequently served as Bishop of St. John in Tooele County, Utah. His life exemplified the 19th-century Latter-day Saint pattern of pioneering, family building, and service in various ecclesiastical and civic capacities.",
+  "born": "1807-11-03",
+  "birth_place": "Pomfret, Vermont, United States",
+  "died": "1861-12-09",
+  "death_place": "Salt Lake City, Utah Territory, United States",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Susan H. Poteet",
+      "marriage_date": "1833-11-01",
+      "marriage_end_date": "1846-09-20",
+      "marriage_end_reason": "death"
+    },
+    {
+      "name": "America Morgan Clark",
+      "marriage_date": "1847-03-03",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Southern Ohio, Pennsylvania, and Eastern United States",
+    "years": "1831–1837"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "missionary service",
+    "educational work",
+    "medical healing"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luke_Johnson_(Mormon)"
+}

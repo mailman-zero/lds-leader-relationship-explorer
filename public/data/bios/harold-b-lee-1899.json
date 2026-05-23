@@ -1,0 +1,39 @@
+{
+  "person_id": "harold-b-lee-1899",
+  "life_summary": "Harold Bingham Lee was born March 28, 1899, in Clifton, Idaho, to farming and railroad families in rural southeastern Idaho. He attended local schools and later brigham Young Academy, where he excelled in his studies and demonstrated early leadership ability. Lee worked as a teacher before his church service, developing skills in communication and instruction. He earned respect as a young educator in Idaho communities and brought practical experience in reaching and influencing youth. Lee's background in small-town Utah-Idaho culture and education shaped his later emphasis on youth development and personal spiritual responsibility. His upbringing in a tight-knit agricultural community fostered values of service and community orientation.",
+  "church_summary": "Lee served a western states mission with headquarters in Denver, Colorado, from 1920 to 1922. Called to the quorum of seventy and later ordained an apostle in 1941, he gained prominence for innovative work with youth organizations and seminary programs. He published influential books on spiritual living including 'Youth and the Church' and 'Stand Ye in Holy Places.' Lee became counselor to church presidents and was sustained as president in 1972, serving a brief tenure of nearly two years. His ministry stressed personal spiritual responsibility, priesthood correlation, and the spiritual foundations of individual and family life. He died December 26, 1973, from a pulmonary hemorrhage.",
+  "born": "1899-03-28",
+  "birth_place": "Clifton, Idaho",
+  "died": "1973-12-26",
+  "death_place": null,
+  "burial_place": "Salt Lake City Cemetery, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Fern Lucinda Tanner",
+      "marriage_date": "1923-11-14",
+      "marriage_end_date": "1962",
+      "marriage_end_reason": "death"
+    },
+    {
+      "name": "Freda Joan Jensen",
+      "marriage_date": "1963-06-17",
+      "marriage_end_date": "1981-07-01",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Western United States",
+    "years": "1920–1922"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Personal spiritual responsibility",
+    "Youth and life decisions",
+    "Priesthood correlation",
+    "Holy living and holiness"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Harold_B._Lee"
+}

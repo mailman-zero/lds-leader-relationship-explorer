@@ -1,0 +1,29 @@
+{
+  "person_id": "thomas-b-marsh-1800",
+  "life_summary": "Thomas Billings Marsh was born on November 1, 1800, in Acton, Massachusetts, during the early years of American independence. He grew up in New England during a period of significant religious ferment and social change. In 1820, he married Elizabeth Godkin in New York City, establishing his family roots in the northeastern United States. Marsh lived through the formative decades of the 19th century, witnessing America's westward expansion and the religious revivals that swept across the nation. He was drawn to spiritual seeking and became interested in new religious movements that promised restoration of ancient Christian practices and divine authority.",
+  "church_summary": "Marsh was baptized on September 3, 1830, by David Whitmer and quickly rose in church leadership. He was ordained a high priest in spring 1831 and called to the Quorum of the Twelve Apostles on February 14–15, 1835, becoming its president on April 25, 1835. He received Doctrine and Covenants section 31, which described him as a 'physician to the church.' However, following disagreements with church leadership in 1838, Marsh left the church on October 19, 1838, and was excommunicated on March 17, 1839. He was eventually rebaptized on July 16, 1857, in Florence, Nebraska, and spent his final years in Ogden, Utah Territory.",
+  "born": "1800-11-01",
+  "birth_place": "Acton, Massachusetts, United States",
+  "died": "1866-01",
+  "death_place": "Ogden, Utah Territory, United States",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Elizabeth Godkin",
+      "marriage_date": "1820-11-01",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": null,
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "organizational leadership",
+    "apostolic authority",
+    "pastoral care"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_B._Marsh"
+}

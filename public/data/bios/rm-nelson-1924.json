@@ -1,0 +1,37 @@
+{
+  "person_id": "rm-nelson-1924",
+  "life_summary": "Russell Marion Nelson Sr. was born on September 9, 1924, and became one of the twentieth century's most accomplished cardiac surgeons before his religious leadership. He participated in the first human open-heart surgery using cardiopulmonary bypass in 1951 and performed the first open-heart surgery in the United States west of the Mississippi River. Over his surgical career, he completed nearly 7,000 operations and served as president of the Society for Vascular Surgery. Nelson married twice: first to Dantzel White in 1945, with whom he had ten children until her death in 2005, and then to Wendy L. Watson in 2006. He was renowned in both medical and religious circles for his dedication to rigorous scholarship and innovation.",
+  "church_summary": "Nelson served in various LDS Church positions before his 1984 appointment to the Quorum of the Twelve Apostles. He became quorum president in 2015 and was called as president of the Church in 2018, serving in that capacity until his death on September 27, 2025, at age 101. His presidency emphasized international expansion and temple construction, with the announcement of 200 new temples worldwide. He implemented significant organizational changes, including the 2019 reversal of a controversial 2015 policy regarding same-sex couples. Nelson visited dozens of countries throughout his tenure, addressing thousands of Church members and establishing the Church's global presence as a central focus of his administration.",
+  "born": "1924-09-09",
+  "birth_place": null,
+  "died": "2025-09-27",
+  "death_place": "Salt Lake City, Utah, United States",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Dantzel White",
+      "marriage_date": "1945",
+      "marriage_end_date": "2005",
+      "marriage_end_reason": "death"
+    },
+    {
+      "name": "Wendy L. Watson",
+      "marriage_date": "2006",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": null,
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "cardiac surgery and medical innovation",
+    "vascular surgery advancement",
+    "temple expansion and construction",
+    "global Church growth",
+    "healing and spiritual restoration"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Russell_M._Nelson"
+}

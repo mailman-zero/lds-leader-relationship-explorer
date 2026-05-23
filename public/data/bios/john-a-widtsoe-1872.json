@@ -1,0 +1,33 @@
+{
+  "person_id": "john-a-widtsoe-1872",
+  "life_summary": "John Andreas Widtsoe was born January 31, 1872, on Frøya Island in Sør-Trøndelag, Norway, to parents who embraced Mormonism before emigrating to Utah. Raised in a frontier community but exposed to European intellectual traditions through his parents, Widtsoe developed a passion for scientific inquiry and religious understanding. He distinguished himself through agricultural studies and research at Utah State Agricultural College, where he eventually became president (1907–1916). His academic career demonstrated the value of applying scientific method to solving agricultural problems affecting Utah farmers. Before his ecclesiastical service, he had established himself as a university president and educational innovator, bridging agricultural science and rural Mormon communities.",
+  "church_summary": "Widtsoe was ordained to the Quorum of the Twelve Apostles in 1921 and served until his death in 1952. He also served as Commissioner of Church Education (1921–1924, 1934–1936) and as European Mission President (1926–1932), where he dedicated Czechoslovakia and other Eastern European nations for missionary work. His authored works, including Evidences and Reconciliations and A Rational Theology, addressed questions of faith and science while acknowledging diverse interpretations available to Latter-day Saints. He brought intellectual rigor to apologetics and established frameworks for Mormon thinkers to engage modern scholarship without abandoning their convictions.",
+  "born": "1872-01-31",
+  "birth_place": "Frøya Island, Sør-Trøndelag, Norway",
+  "died": "1952-11-29",
+  "death_place": "Salt Lake City, Utah",
+  "burial_place": "Salt Lake City Cemetery",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Leah Dunford",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Europe",
+    "years": "1926–1932"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Agricultural science and rural development",
+    "Science and religion integration",
+    "Rational theology and intellectual faith",
+    "Diverse scriptural interpretations within orthodoxy"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_A._Widtsoe"
+}

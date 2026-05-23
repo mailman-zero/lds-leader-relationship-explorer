@@ -1,0 +1,75 @@
+{
+  "person_id": "john-taylor-1808",
+  "life_summary": "John Taylor was born on November 1, 1808, in Milnthorpe, Westmorland, in the Lake District of England, a region of rural beauty and Methodist religious influence. He grew up in a time of significant social upheaval in Britain, witnessing the Industrial Revolution and its profound effects on English society. Taylor received education befitting a merchant-class family and developed intellectual and spiritual capacities that would later mark his leadership. On January 28, 1833, he married Leonora Cannon. As his life unfolded, Taylor would practice plural marriage, eventually taking eight wives—Leonora Cannon, Elizabeth Kaighin, Jane Ballantyne, Mary Ann Oakley, Sophia Whitaker, Harriet Whitaker, Margaret Young, and Josephine Elizabeth Roueche—and fathering thirty-four children across these unions.",
+  "church_summary": "Taylor served in multiple important missionary roles, beginning with the France Mission in 1849, where he became the first Latter-day Saint mission president in France and published the newspaper L'Etoile du Deseret (Star of Deseret). He also served on the Eastern States Mission, based in New York City, and on the Britain Mission in 1839, where he preached throughout Liverpool, Ireland, and the Isle of Man. Rising through church leadership, Taylor eventually became Church President and during his tenure canonized the Pearl of Great Price in October 1880 and oversaw significant expansion of church hierarchy and the establishment of Mormon colonies across multiple territories. His teaching and leadership centered on defending plural marriage against increasing government opposition and on coordinating economic development through institutions like Zion's Central Board of Trade, seeking to create a comprehensive Latter-day Saint community and civilization.",
+  "born": "1808-11-01",
+  "birth_place": "Milnthorpe, Westmorland, England",
+  "died": "1887-07-25",
+  "death_place": "Kaysville, Utah Territory, United States",
+  "burial_place": "Salt Lake City Cemetery, Salt Lake City, Utah, United States",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Leonora Cannon",
+      "marriage_date": "1833-01-28",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Elizabeth Kaighin",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Jane Ballantyne",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Mary Ann Oakley",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Sophia Whitaker",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Harriet Whitaker",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Margaret Young",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Josephine Elizabeth Roueche",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "France, Eastern States, and Britain",
+    "years": "1839–1849"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "plural marriage defense",
+    "economic development",
+    "priesthood authority",
+    "international expansion"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Taylor_(Latter-day_Saints)"
+}

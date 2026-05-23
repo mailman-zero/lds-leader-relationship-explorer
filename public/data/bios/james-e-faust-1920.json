@@ -1,0 +1,36 @@
+{
+  "person_id": "james-e-faust-1920",
+  "life_summary": "James Esdras Faust was born on July 31, 1920, in Delta, Utah, a small town in west-central Utah. He married Ruth Wright on April 21, 1943, and together they had five children: James Hamilton, Janna R. Coombs, Marcus G., Lisa A. Smith, and Robert P. Faust. Ruth was his steadfast companion throughout his life and ministry until her death on February 10, 2008, just months after his own. Faust developed a reputation as a bridge-builder within the church and served in various capacities that drew on his legal expertise and diplomatic sensibilities, earning him respect from both church members and civic leaders.",
+  "church_summary": "Faust served as a missionary in southern Brazil from 1939 to 1942, beginning his church service during the Depression era. He rose through the church hierarchy to become a member of the First Presidency alongside Gordon B. Hinckley and Thomas S. Monson, with whom he constituted the longest continuously serving First Presidency in LDS Church history. As area president in Brazil, Faust helped establish the São Paulo Brazil Temple. He was notably the first LDS apostle to travel to Nigeria in early 1979, where he baptized five men. Faust's ministry emphasized finding light in a dark world, spiritual gifts, personal narratives, and reaching upward for divine guidance. He died on August 10, 2007.",
+  "born": "1920-07-31",
+  "birth_place": "Delta, Utah, USA",
+  "died": "2007-08-10",
+  "death_place": "Salt Lake City, Utah, USA",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Ruth Wright",
+      "marriage_date": "1943-04-21",
+      "marriage_end_date": "2008-02-10",
+      "marriage_end_reason": "death"
+    }
+  ],
+  "mission": {
+    "location": "Southern Brazil",
+    "years": "1939–1942"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [
+    "São Paulo Brazil Temple"
+  ],
+  "teaching_emphasis": [
+    "finding light in darkness",
+    "spiritual gifts and personal revelation",
+    "life lessons and personal narratives",
+    "reaching upward for divine guidance",
+    "international church growth and inclusion"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/James_E._Faust"
+}

@@ -1,0 +1,38 @@
+{
+  "person_id": "john-f-boynton-1811",
+  "life_summary": "John F. Boynton was born on September 20, 1811, in Bradford, Massachusetts, in New England's heart. He grew up during a period of intense American religious revival and westward expansion. Boynton married Susan Lowell early in his life, though few details of this union are recorded. He was an active and itinerant minister during the 1830s, traveling extensively throughout the northeastern United States and Canada. Late in life, after his apostolic service had ended, he married Mary West Jenkins in 1865. Boynton lived a long life spanning nearly eighty years, witnessing the transformation of America from a young republic into an industrial nation.",
+  "church_summary": "Boynton was ordained an elder by Sidney Rigdon and quickly engaged in intensive missionary work. In 1832, he served in Erie County, Pennsylvania, with Zebedee Coltrin, and from December 1832 onwards labored in Maine, where he baptized approximately forty individuals and, in partnership with Elder Even M. Greene, brought approximately 130 converts into the church. He was called to the Quorum of the Twelve Apostles on February 15, 1835, and participated in a mission to the eastern United States and Upper Canada in June 1835. However, his apostolic career was brief; he was excommunicated on December 3, 1837. After leaving the church, Boynton relocated to New York, where he lived out his remaining years.",
+  "born": "1811-09-20",
+  "birth_place": "Bradford, Massachusetts, United States",
+  "died": "1890-10-20",
+  "death_place": "Syracuse, New York, United States",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Susan Lowell",
+      "marriage_date": null,
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Mary West Jenkins",
+      "marriage_date": "1865",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Pennsylvania, Maine, and Upper Canada",
+    "years": "1832–1835"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "missionary work",
+    "baptismal ordinances",
+    "pastoral leadership"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_F._Boynton"
+}

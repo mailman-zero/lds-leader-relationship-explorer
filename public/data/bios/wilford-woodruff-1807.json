@@ -1,0 +1,91 @@
+{
+  "person_id": "wilford-woodruff-1807",
+  "life_summary": "Wilford Woodruff was born March 1, 1807, in Connecticut to a farming family. He received limited formal education but developed skills as a mechanic and craftsman before his religious awakening. Converted to the LDS faith in 1836, Woodruff brought a methodical mind and entrepreneurial spirit to the emerging church. His secular accomplishments included developing farmland, establishing mills, and serving in civic capacities in Utah Territory during the early territorial years. He became known for meticulous record-keeping and documentation, traits that defined both his personal business practices and his later ecclesiastical roles.",
+  "church_summary": "Woodruff served missions to the United States, England (1839–1841), and eastern states, baptizing hundreds of converts. He was ordained an apostle in 1839 and participated in the exodus to Utah. As president of the Salt Lake Temple from 1877, he championed temple ordinances, genealogy, and ancestral sealing work. In 1887, he became church president, leading the denomination through the discontinuation of plural marriage in 1890. He dedicated or oversee completion of the St. George, Manti, and Salt Lake temples. His ministry emphasized genealogical research, temple theology, and economic self-sufficiency.",
+  "born": "1807-03-01",
+  "birth_place": null,
+  "died": "1898-09-02",
+  "death_place": "San Francisco, California",
+  "burial_place": "Salt Lake City Cemetery, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Phebe Whittemore Carter",
+      "marriage_date": "1837-04-13",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Mary Ann Jackson",
+      "marriage_date": "1846-04-15",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Sarah Elinor Brown",
+      "marriage_date": "1846-08-02",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Mary Caroline Barton",
+      "marriage_date": "1846-08-02",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Mary Meek Giles Webster",
+      "marriage_date": "1852-03-28",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Clarissa Henrietta Hardy",
+      "marriage_date": "1852-04-20",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Emma Smith",
+      "marriage_date": "1853-03-13",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Sarah Brown",
+      "marriage_date": "1853-03-13",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Sarah Delight Stocking",
+      "marriage_date": "1857-07-31",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Eudora Young Dunford",
+      "marriage_date": "1877-03-10",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "England",
+    "years": "1839–1841"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [
+    "St. George Temple",
+    "Manti Temple",
+    "Salt Lake Temple"
+  ],
+  "teaching_emphasis": [
+    "Temple ordinances and sealing",
+    "Genealogy and ancestral research",
+    "Economic self-sufficiency",
+    "Careful record-keeping"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wilford_Woodruff"
+}

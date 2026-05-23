@@ -1,0 +1,35 @@
+{
+  "person_id": "mark-e-petersen-1900",
+  "life_summary": "Mark Edward Petersen was born on November 7, 1900, in Salt Lake City, Utah. He grew up in a prominent LDS family and developed early interests in writing, journalism, and religious education. Petersen married Emma Marr McDonald in 1920, and together they built a life centered on religious scholarship and public communication. Before entering full-time Church service, Petersen worked as a journalist and editor, bringing his professional communication skills to bear on religious topics. His prolific literary output—over forty published books—reflected a lifetime of intellectual engagement with scripture, doctrine, and moral instruction. He passed away on January 11, 1984, leaving behind a substantial legacy of published works.",
+  "church_summary": "Petersen served as a missionary in Nova Scotia during his youth. He was ordained to the Quorum of the Twelve Apostles in 1944 and served in that capacity for four decades. Throughout his apostolic career, Petersen directed the Church's public information programs and authored extensively on topics including chastity, marriage, family life, and scriptural interpretation. He served as president of the West European Mission for six years and sat on numerous Church committees including those responsible for military relations, Indian affairs, and music. His prolific teaching ministry and extensive publications made him one of the twentieth century's most visible LDS theological voices.",
+  "born": "1900-11-07",
+  "birth_place": "Salt Lake City, Utah",
+  "died": "1984-01-11",
+  "death_place": "Murray, Utah",
+  "burial_place": "Salt Lake City Cemetery, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Emma Marr McDonald",
+      "marriage_date": "1920",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Nova Scotia",
+    "years": null
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Chastity and moral instruction",
+    "Family life and marriage",
+    "Scriptural interpretation",
+    "Public information and communication",
+    "Religious education",
+    "Doctrinal clarity"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_E._Petersen"
+}

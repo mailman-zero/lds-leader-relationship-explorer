@@ -1,0 +1,34 @@
+{
+  "person_id": "bruce-r-mcconkie-1915",
+  "life_summary": "Bruce Redd McConkie was born on July 29, 1915, in Ann Arbor, Michigan, into a family that would shape his theological legacy. He married Amelia Smith on October 13, 1937, at the Salt Lake Temple; Amelia was the daughter of Joseph Fielding Smith, who would later serve as president of the LDS Church. This significant family connection positioned McConkie within the church's highest ecclesiastical circles from the outset of his marriage. McConkie developed into one of the most prolific and influential theological voices in twentieth-century Mormonism, known for his systematic approach to scriptural interpretation and doctrinal formulation.",
+  "church_summary": "McConkie served in two significant missionary capacities: the Eastern States Mission from September 1934 to 1937, serving in Pennsylvania and New York including at Hill Cumorah, and the Southern Australian Mission from February 1961 to 1964 as mission president. He rose to apostolic prominence and became known for his authoritative doctrinal teaching, famously stating 'it is my province to teach to the church what the doctrine is.' McConkie emphasized scriptural interpretation, the nature of Christ and messianic theology, and encouraged leaders to listen for the whisperings of the Holy Ghost. He died on April 19, 1985, at age 69, ending a tenure marked by doctrinal precision and spiritual authority.",
+  "born": "1915-07-29",
+  "birth_place": "Ann Arbor, Michigan, USA",
+  "died": "1985-04-19",
+  "death_place": "Salt Lake City, Utah, USA",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Amelia Smith",
+      "marriage_date": "1937-10-13",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Eastern States Mission and Southern Australia",
+    "years": "1934–1937, 1961–1964"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "doctrinal authority and scriptural interpretation",
+    "systematic theology and Christ's nature",
+    "scriptural precision and gospel principles",
+    "spiritual humility and Holy Ghost guidance",
+    "messianic doctrine and Christology"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bruce_R._McConkie"
+}

@@ -4,11 +4,18 @@ import { getAllPaths } from "../graph/traversal";
 import { deriveLabel, formatPath } from "../graph/labeler";
 import { Card } from "./Card";
 import { Portrait } from "./Portrait";
+import { useBiography } from "../hooks/useBiography";
 
 function formatDate(iso: string): string {
   const [y, m, d] = iso.split("-").map(Number);
   const months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
   return `${months[m - 1]} ${d}, ${y}`;
+}
+
+function formatFlexDate(s: string | null | undefined): string | null {
+  if (!s) return null;
+  if (/^\d{4}-\d{2}-\d{2}$/.test(s)) return formatDate(s);
+  return s;
 }
 
 function positionLabel(code: string): string {
@@ -21,7 +28,6 @@ function positionLabel(code: string): string {
   return code;
 }
 
-
 interface DetailProps {
   personId: string;
   graph: Graph;
@@ -32,8 +38,8 @@ interface DetailProps {
 
 export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailProps) {
   const person = graph.people.get(personId);
+  const bio = useBiography(personId);
 
-  // Determine this person's current role
   const allActive = [
     snapshot.president,
     snapshot.first_presidency.first_counselor,
@@ -50,12 +56,10 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailP
     : null;
   const mainRole = myPosition ? positionLabel(myPosition.position_code) : null;
 
-  // Build set of all current leader IDs
   const currentLeaderIds = new Set(
     allActive.filter(Boolean).map(p => p!.person_id)
   );
 
-  // Find all family paths from this person to every leader
   const familyPaths = useMemo(() => {
     const allPaths = getAllPaths(graph, personId, { maxDepth: 20, leadersOnly: true });
     const result: { personId: string; label: string; pathText: string }[] = [];
@@ -65,7 +69,6 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailP
       const pathText = formatPath(pathResult.hops, graph);
       result.push({ personId: targetId, label, pathText });
     }
-    // Sort by path length, then alphabetically
     result.sort((a, b) => {
       const aLen = allPaths.get(a.personId)?.path_length ?? 99;
       const bLen = allPaths.get(b.personId)?.path_length ?? 99;
@@ -74,7 +77,6 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailP
     return result;
   }, [personId, graph]);
 
-  // Separate: related current leaders vs all other related leaders
   const currentRelated = familyPaths.filter(r => currentLeaderIds.has(r.personId));
   const historicalRelated = familyPaths.filter(r => !currentLeaderIds.has(r.personId) && graph.people.get(r.personId)?.is_leader);
 
@@ -92,6 +94,17 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailP
 
   const hasRelations = currentRelated.length > 0 || historicalRelated.length > 0;
 
+  // Use bio stats if available, fall back to people.json fields
+  const displayBorn = formatFlexDate(bio?.born ?? person?.birth_date);
+  const displayBornPlace = bio?.birth_place ?? person?.birth_place ?? null;
+  const displayDied = formatFlexDate(bio?.died ?? person?.death_date);
+  const displayDiedPlace = bio?.death_place ?? person?.death_place ?? null;
+
+  // Split life_summary on double-newline so multi-paragraph prose renders properly
+  const lifeParagraphs = bio?.life_summary
+    ? bio.life_summary.split(/\n\n+/).filter(Boolean)
+    : [];
+
   return (
     <div className="detail-veil" role="dialog" aria-modal="true">
       <button className="back" onClick={onClose} aria-label="Return to chart" type="button">
@@ -102,20 +115,106 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailP
       </button>
 
       <div className="detail">
-        <div className="hero-card" key={personId}>
-          <Portrait name={person?.display_name} photo={person?.photo} />
-          {mainGroup && <div className="hero-eyebrow">{mainGroup}</div>}
-          <h1 className="hero-name">{person?.display_name}</h1>
-          {mainRole && (
-            <span className="pill">
-              <b>{mainRole}</b>
-              {mainGroup && <><span style={{ opacity: 0.55 }}>·</span>{mainGroup}</>}
-              <span style={{ opacity: 0.55 }}>·</span>
-              {formatDate(snapshot.date)}
-            </span>
-          )}
+
+        {/* ── Hero: portrait left, bio info right ── */}
+        <div className="hero-split" key={personId}>
+
+          <div className="hero-portrait">
+            <Portrait name={person?.display_name} photo={person?.photo} />
+          </div>
+
+          <div className="hero-info">
+            {mainGroup && <div className="hero-eyebrow">{mainGroup}</div>}
+            <h1 className="hero-name">{person?.display_name}</h1>
+            {mainRole && (
+              <span className="pill">
+                <b>{mainRole}</b>
+                {mainGroup && <><span style={{ opacity: 0.55 }}>·</span>{mainGroup}</>}
+                <span style={{ opacity: 0.55 }}>·</span>
+                {formatDate(snapshot.date)}
+              </span>
+            )}
+
+            {/* Stats */}
+            <dl className="bio-stats">
+              {displayBorn && (
+                <div className="bio-stat">
+                  <dt>Born</dt>
+                  <dd>{displayBorn}{displayBornPlace && <> · {displayBornPlace}</>}</dd>
+                </div>
+              )}
+              {displayDied && (
+                <div className="bio-stat">
+                  <dt>Died</dt>
+                  <dd>{displayDied}{displayDiedPlace && <> · {displayDiedPlace}</>}</dd>
+                </div>
+              )}
+              {bio?.burial_place && (
+                <div className="bio-stat">
+                  <dt>Burial</dt>
+                  <dd>
+                    {bio.find_a_grave_url
+                      ? <a href={bio.find_a_grave_url} target="_blank" rel="noopener noreferrer">{bio.burial_place}</a>
+                      : bio.burial_place}
+                  </dd>
+                </div>
+              )}
+              {bio?.spouses && bio.spouses.length > 0 && bio.spouses.map((s, i) => (
+                <div className="bio-stat" key={i}>
+                  <dt>{i === 0 ? (bio.spouses.length === 1 ? "Spouse" : "Spouses") : ""}</dt>
+                  <dd>
+                    {s.name}
+                    {s.marriage_date && <> (m. {s.marriage_date})</>}
+                    {s.marriage_end_date && <>, d. {s.marriage_end_date}</>}
+                  </dd>
+                </div>
+              ))}
+              {bio?.mission && (
+                <div className="bio-stat">
+                  <dt>Mission</dt>
+                  <dd>{bio.mission.location} · {bio.mission.years}</dd>
+                </div>
+              )}
+            </dl>
+
+            {/* Life outside the Church */}
+            {lifeParagraphs.length > 0 && (
+              <div className="bio-prose">
+                <div className="bio-prose-label">Life</div>
+                {lifeParagraphs.map((p, i) => <p key={i}>{p}</p>)}
+              </div>
+            )}
+
+            {/* Church service */}
+            {bio?.church_summary && (
+              <div className="bio-prose">
+                <div className="bio-prose-label">Church Service</div>
+                <p>{bio.church_summary}</p>
+              </div>
+            )}
+
+            {/* Teaching emphasis chips */}
+            {bio?.teaching_emphasis && bio.teaching_emphasis.length > 0 && (
+              <div className="bio-chips">
+                {bio.teaching_emphasis.map((t, i) => (
+                  <span className="bio-chip" key={i}>{t}</span>
+                ))}
+              </div>
+            )}
+
+            {/* Temples dedicated */}
+            {bio?.temples_dedicated && bio.temples_dedicated.length > 0 && (
+              <div className="bio-prose">
+                <div className="bio-prose-label">Temples Dedicated</div>
+                <ul className="bio-temple-list">
+                  {bio.temples_dedicated.map((t, i) => <li key={i}>{t}</li>)}
+                </ul>
+              </div>
+            )}
+          </div>
         </div>
 
+        {/* ── Family relationships ── */}
         <div className="relation-intro">
           <span className="rule" />
           <span className="label">Family relationships</span>
@@ -137,17 +236,13 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailP
             <div className="relation-grid">
               {currentRelated.map(r => {
                 const rel = graph.people.get(r.personId);
-                const tip = {
-                  label: r.label,
-                  text: r.pathText,
-                };
                 return (
                   <Card
                     key={r.personId}
                     name={rel?.display_name}
                     photo={rel?.photo}
                     role={r.label}
-                    tooltip={tip}
+                    tooltip={{ label: r.label, text: r.pathText }}
                     onClick={() => onSwitch(r.personId)}
                   />
                 );
@@ -165,17 +260,13 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailP
             <div className="relation-grid">
               {historicalRelated.map(r => {
                 const rel = graph.people.get(r.personId);
-                const tip = {
-                  label: r.label,
-                  text: r.pathText,
-                };
                 return (
                   <Card
                     key={r.personId}
                     name={rel?.display_name}
                     photo={rel?.photo}
                     role={r.label}
-                    tooltip={tip}
+                    tooltip={{ label: r.label, text: r.pathText }}
                     onClick={() => onSwitch(r.personId)}
                   />
                 );

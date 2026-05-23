@@ -1,0 +1,28 @@
+{
+  "person_id": "abraham-h-cannon-1859",
+  "life_summary": "Abraham Hoagland Cannon was born on March 12, 1859, in Salt Lake City, Utah Territory, to George Q. Cannon, a prominent Latter-day Saint apostle, and Elizabeth Hoagland. Growing up in an elite Church family gave him advantages and expectations. He demonstrated early aptitude in architectural studies under Obed Taylor at Deseret University, combining aesthetic sensibility with technical knowledge. Cannon also showed entrepreneurial acumen and literary interest, advancing rapidly in positions of responsibility. His education and family connections positioned him for significant influence in Church affairs. However, his life was marked by legal challenges stemming from his practice of plural marriage at a time when the Church was under intense federal scrutiny.",
+  "church_summary": "Abraham H. Cannon became a member of the First Seven Presidents of the Seventy on October 9, 1882, at age 23. He assumed control of the Juvenile Instructor that same year, serving as editor and publisher. In October 1892, he took control of the Deseret News with his brother John Q. Cannon, and also served as editor and publisher of The Contributor. He was ordained to the Quorum of the Twelve Apostles on October 7, 1889, by Joseph F. Smith. On March 17, 1886, he was convicted under the Edmunds Act for unlawful cohabitation, receiving a six-month sentence and $300 fine, but was pardoned by President Grover Cleveland in 1894. He died on July 19, 1896, at age 37, from an ear infection that developed after exposure to ocean water during a California visit.",
+  "born": "1859-03-12",
+  "birth_place": "Salt Lake City, Utah Territory, United States",
+  "died": "1896-07-19",
+  "death_place": "Salt Lake City, Utah, United States",
+  "burial_place": "Salt Lake City Cemetery, Salt Lake City, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {"name": "Sarah A. Jenkins", "marriage_date": "1878-10-16", "marriage_end_date": null, "marriage_end_reason": null},
+    {"name": "Wilhelmina Mousley", "marriage_date": "1879-10-15", "marriage_end_date": null, "marriage_end_reason": null},
+    {"name": "Mary E. C. Young", "marriage_date": "1887-01-11", "marriage_end_date": null, "marriage_end_reason": null},
+    {"name": "Lilian Hamlin", "marriage_date": "1896-06-17", "marriage_end_date": null, "marriage_end_reason": null}
+  ],
+  "mission": null,
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "youth education",
+    "Church publishing",
+    "institutional development",
+    "legal resilience"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_H._Cannon"
+}

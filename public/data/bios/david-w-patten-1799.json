@@ -1,0 +1,32 @@
+{
+  "person_id": "david-w-patten-1799",
+  "life_summary": "David Wight Patten was born on November 14, 1799, in Vermont, growing up during the early federal period in New England. Little is recorded of his family background or early life, but he demonstrated a spiritual inclination that drew him toward religious exploration. In 1828, he married Phoebe Ann Babcock, and together they established their household. Patten lived through significant periods of American westward expansion and religious awakening, the very currents that would define his spiritual journey and ministerial calling.",
+  "church_summary": "Patten was baptized early in the church's history and quickly became one of its most active missionaries. He served twelve short missions during 1832–1833 and again in Tennessee in 1834, and was numbered among the first missionaries to visit the southern United States. His evangelical efforts were remarkably successful: he converted approximately eighty people in Henderson, New York, and baptized roughly 130 total throughout his service. Patten was ordained an apostle on February 15, 1835, by Oliver Cowdery, David Whitmer, and Martin Harris. He was known for emphasizing faith healing and miracles, laying hands on the sick in Christ-like ministry. He served as an apostle until his death on October 25, 1838, in Ray County, Missouri, making him one of the earliest casualties in the church's troubled Missouri period.",
+  "born": "1799-11-14",
+  "birth_place": "Vermont, United States",
+  "died": "1838-10-25",
+  "death_place": "Ray County, Missouri, United States",
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Phoebe Ann Babcock",
+      "marriage_date": "1828",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Eastern United States and Tennessee",
+    "years": "1832–1838"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "faith healing",
+    "missionary work",
+    "divine healing through faith"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_W._Patten"
+}

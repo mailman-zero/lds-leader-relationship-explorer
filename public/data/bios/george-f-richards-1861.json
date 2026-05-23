@@ -1,0 +1,33 @@
+{
+  "person_id": "george-f-richards-1861",
+  "life_summary": "George Franklin Richards was born in Farmington, Utah Territory, in 1861 to Franklin D. Richards, himself an apostle. He came of age in a family tradition of Church leadership and followed his father into prominent ecclesiastical positions. Richards married Alice Robinson in 1882, with whom he had fifteen children. He was raised in the context of pioneer Utah and participated in the Church's institutional development throughout the late nineteenth and early twentieth centuries. His family became one of only three families in Church history with three consecutive generations serving in the Quorum of the Twelve Apostles—his father Franklin, himself George, and his son LeGrand.",
+  "church_summary": "Richards was appointed to the Quorum of the Twelve Apostles on April 9, 1906, and served until his death in 1950. He held unique and significant leadership positions: he served as president of the Salt Lake Temple from 1921 to 1938, was Acting Presiding Patriarch of the Church from 1937 to 1942, and became President of the Quorum of the Twelve from May 25, 1945, until his death. Remarkably, he remains the only person in Church history to have held both the offices of Presiding Patriarch and President of the Quorum of the Twelve. He also served as president of the European Mission beginning in 1916 and held a seat in the Utah House of Representatives.",
+  "born": "1861",
+  "birth_place": "Farmington, Utah Territory, United States",
+  "died": "1950",
+  "death_place": null,
+  "burial_place": null,
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Alice Robinson",
+      "marriage_date": "1882",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "Europe",
+    "years": "1916–1920"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "temple administration and worship",
+    "patriarchal blessings",
+    "quorum leadership and unity",
+    "international missionary work"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/George_F._Richards"
+}

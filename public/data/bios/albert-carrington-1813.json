@@ -1,0 +1,40 @@
+{
+  "person_id": "albert-carrington-1813",
+  "life_summary": "Albert Carrington was born January 8, 1813, in Royalton, Vermont, and received an excellent education for his era, graduating from Dartmouth College in 1833. Before joining the LDS Church, he worked as a schoolteacher and studied law in Pennsylvania, demonstrating both intellectual ambition and professional capability. Carrington was baptized into the Latter-day Saint movement on July 18, 1841, in Wiota, Wisconsin, at age twenty-eight, after the main body of the church had already established itself in Missouri and Illinois. He married Rhoda Maria Woods in 1839 and later took Mary Rock as a plural wife in January 1846. Carrington brought his education and professional training into church service, becoming one of the church's earliest intellectual and administrative leaders.",
+  "church_summary": "Carrington served as editor of the Deseret News during two separate periods (1854–1856 and 1862–1867) and was a member of the Utah Territorial Legislative Council. He was appointed the tenth Church Historian in 1871 and served until 1874, working to document and preserve early church records. He became a member of the Quorum of the Twelve in 1870 and served multiple times as President of the European Mission (1871–1873, 1875–1877, 1880–1882). He was also called as a Counselor in the First Presidency from 1873 to 1877. However, Carrington's later years were marked by controversy; he was excommunicated on November 6, 1885, for what the church termed adultery and lewd conduct. He was rebaptized on November 1, 1887, but was not reinstated to apostolic office.",
+  "born": "1813-01-08",
+  "birth_place": "Royalton, Vermont",
+  "died": "1889-09-19",
+  "death_place": "Salt Lake City, Utah Territory",
+  "burial_place": "Salt Lake City Cemetery, Utah",
+  "find_a_grave_url": null,
+  "spouses": [
+    {
+      "name": "Rhoda Maria Woods",
+      "marriage_date": "1839",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    },
+    {
+      "name": "Mary Rock",
+      "marriage_date": "1846-01",
+      "marriage_end_date": null,
+      "marriage_end_reason": null
+    }
+  ],
+  "mission": {
+    "location": "European Mission",
+    "years": "1871–1882"
+  },
+  "notable_companions": [],
+  "temples_dedicated": [],
+  "teaching_emphasis": [
+    "Church history and record preservation",
+    "Doctrinal writing and journalism",
+    "Educational advancement",
+    "European missionary work",
+    "Administrative governance"
+  ],
+  "generated_at": "2026-05-22T00:00:00.000Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Albert_Carrington"
+}
