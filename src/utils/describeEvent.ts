@@ -53,14 +53,20 @@ function endingPosition(
   graph: Graph,
   personId: string | undefined,
   code: string,
-  date: string
+  date: string,
+  prevDate?: string | null
 ): LeadershipPosition | undefined {
   if (!personId) return undefined;
+  // A person may have left between two snapshot dates (e.g. died Sep 2 but
+  // the next snapshot is Oct 1). Match any release that fell within the
+  // window (prevDate, date] so deaths and releases aren't silently dropped.
   return graph.positions.find(
     (p) =>
       p.person_id === personId &&
       p.position_code === (code as PositionCode) &&
-      p.release_date === date
+      !!p.release_date &&
+      p.release_date <= date &&
+      (!prevDate || p.release_date > prevDate)
   );
 }
 
@@ -162,7 +168,7 @@ export function describeEvent(
   for (const entry of removed) {
     if (consumedRemoved.has(entry)) continue;
     const [pid, code] = entry.split(":");
-    const ending = endingPosition(graph, pid, code, date);
+    const ending = endingPosition(graph, pid, code, date, prevDate);
     if (ending?.end_reason === "death") {
       lines.push(`${titledName(graph, pid, code)} passed away.`);
       if (code === "church-president") presidentDeath = { pid, code };
@@ -212,7 +218,7 @@ export function describeEvent(
     else title = `${names.length} new callings`;
   } else if (removed.length === 1 && added.length === 0) {
     const [pid, code] = removed[0].split(":");
-    const ending = endingPosition(graph, pid, code, date);
+    const ending = endingPosition(graph, pid, code, date, prevDate);
     if (ending?.end_reason === "death") {
       title = `${titledLastName(graph, pid, code)} passed away`;
     } else if (isQ12Code(code)) {
