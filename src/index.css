@@ -861,10 +861,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  padding: 16px clamp(8px, 2vw, 24px) 48px;
+  padding: 8px clamp(8px, 2vw, 24px) 24px;
 }
 .visualizer-frame {
-  width: min(96vw, calc(100vh - 120px));
+  width: min(96vw, calc(100vh - 110px));
   aspect-ratio: 1 / 1;
 }
 .visualizer-svg {
@@ -874,83 +874,58 @@ body {
   overflow: visible;
 }
 
-.viz-lines path {
-  transition: opacity 180ms ease, stroke 180ms ease;
+.viz-node { cursor: pointer; }
+.viz-hit { fill: transparent; }
+
+.viz-node-inner {
+  transition: transform 180ms ease;
+  transform-box: fill-box;
+  transform-origin: center center;
+  will-change: transform;
+}
+.viz-node--hovered .viz-node-inner {
+  transform: scale(3);
 }
 
-.viz-node {
-  overflow: visible;
+.viz-portrait-frame {
+  fill: var(--card);
+  stroke: var(--line-soft);
+  stroke-width: 0.2;
 }
-.circle-portrait-wrap {
-  position: relative;
-  width: 36px;
-  height: 48px;
-  cursor: pointer;
-  transform-origin: center top;
-  transition: transform 180ms ease, z-index 0s linear 180ms;
-  will-change: transform;
-  z-index: 1;
+.viz-portrait-initial-bg {
+  fill: var(--card-deep);
+  stroke: var(--line);
+  stroke-width: 0.2;
 }
-.circle-portrait {
-  width: 36px;
-  height: 48px;
-  border-radius: 6px;
-  overflow: hidden;
-  box-shadow: var(--shadow-sm);
-  background: var(--card);
-}
-.circle-portrait .portrait {
-  width: 100%;
-  height: 100%;
-  border-radius: 6px;
-}
-.circle-portrait .portrait-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center top;
-}
-.viz-node--hovered .circle-portrait-wrap {
-  transform: scale(3);
-  z-index: 10;
-  transition: transform 180ms ease, z-index 0s linear 0s;
-}
-.circle-label {
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  transform: translate(-50%, 4px);
-  margin-top: 2px;
-  white-space: nowrap;
-  text-align: center;
-  background: var(--card);
-  border: 1px solid var(--line-soft);
-  border-radius: 6px;
-  padding: 4px 8px 5px;
-  box-shadow: var(--shadow-sm);
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 180ms ease;
-  font-size: 5px;
-  line-height: 1.2;
-}
-.viz-node--hovered .circle-label {
-  opacity: 1;
-}
-.circle-label__name {
+.viz-portrait-initial-text {
+  fill: var(--ink-soft);
   font-family: var(--serif);
-  color: var(--ink);
   font-weight: 500;
-  font-size: 5.4px;
-  letter-spacing: -0.005em;
 }
-.circle-label__office {
-  font-family: var(--mono);
-  text-transform: uppercase;
-  letter-spacing: 0.16em;
-  color: var(--accent);
+
+.viz-label {
+  opacity: 0;
+  transition: opacity 180ms ease;
+  pointer-events: none;
+}
+.viz-node--hovered .viz-label { opacity: 1; }
+
+.viz-label-bg {
+  fill: var(--card);
+  stroke: var(--line-soft);
+  stroke-width: 0.15;
+}
+.viz-label-name {
+  font-family: var(--serif);
+  font-weight: 500;
+  fill: var(--ink);
   font-size: 3.4px;
-  margin-top: 1px;
+}
+.viz-label-office {
+  font-family: var(--mono);
+  letter-spacing: 0.18em;
+  fill: var(--accent);
+  font-size: 2px;
 }
 
 @media (max-width: 640px) {
