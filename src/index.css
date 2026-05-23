@@ -950,10 +950,31 @@ body {
   .viz-pill:active {
     transform: scale(0.97);
   }
+  /* Slider: stay fixed but centre below the topbar; push the circle down
+     explicitly so it never overlaps. */
+  .viz-slider-card {
+    top: 58px;   /* just below the ~54px mobile topbar */
+    right: auto;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(320px, 88vw);
+  }
+  .visualizer-page {
+    padding-top: 110px;  /* topbar(~54px) + slider(~70px) + gap */
+  }
+  /* Constrain the circle so it fits below the slider in the remaining height */
+  .visualizer-frame {
+    width: min(96vw, calc(100vh - 220px));
+  }
 }
 
 /* ===== Relatedness slider ===== */
+/* Fixed overlay — sits below the × button; does not affect circle centering. */
 .viz-slider-card {
+  position: fixed;
+  top: 66px;   /* below .viz-close (top:14 + height:36 + 16px gap) */
+  right: 24px;
+  z-index: 40;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -963,8 +984,7 @@ body {
   border: 1px solid var(--line);
   border-radius: 12px;
   box-shadow: var(--shadow-sm);
-  margin-top: 8px;
-  width: min(280px, 80vw);
+  width: 220px;
 }
 .viz-slider-label {
   display: flex;
