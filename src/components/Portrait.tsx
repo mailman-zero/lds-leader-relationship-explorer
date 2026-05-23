@@ -32,9 +32,12 @@ export function Portrait({ name, photo, vacancy }: PortraitProps) {
     );
   }
   if (photo) {
+    const src = photo.startsWith("/")
+      ? import.meta.env.BASE_URL + photo.slice(1)
+      : photo;
     return (
       <div className="portrait portrait--photo" aria-hidden="true">
-        <img src={photo} alt={name} className="portrait-img" />
+        <img src={src} alt={name} className="portrait-img" />
       </div>
     );
   }
