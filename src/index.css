@@ -457,6 +457,13 @@ body {
 .fp-trio .card.center .name { font-size: 14px; max-width: 124px; }
 .fp-trio .card.center .glyph { font-size: 32px; }
 
+@media (max-width: 460px) {
+  .fp-trio {
+    grid-template-columns: 1fr;
+  }
+  .fp-trio .card.center { order: -1; }
+}
+
 /* Q12 grid: compact 2x6 on laptop/desktop */
 .q12-grid {
   display: grid;
