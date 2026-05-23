@@ -3,7 +3,7 @@ import type { Graph, Person } from "../graph/types";
 import {
   collectLeaders,
   computeAngles,
-  computeThicknessTiers,
+  computeHopCounts,
   type LeaderEntry,
   type CirclePoint,
   type ThicknessTier,
@@ -150,6 +150,7 @@ function VizNode({ leader, person, point, hovered, onHover, onSelect }: NodeProp
 
 export function RelationshipVisualizer({ graph, onSelect }: RelationshipVisualizerProps) {
   const [hoveredId, setHoveredId] = useState<string | null>(null);
+  const [maxHops, setMaxHops] = useState(5);
 
   const leaders = useMemo(() => collectLeaders(graph), [graph]);
   const leaderIds = useMemo(() => leaders.map((l) => l.personId), [leaders]);
@@ -159,21 +160,25 @@ export function RelationshipVisualizer({ graph, onSelect }: RelationshipVisualiz
     [leaderIds]
   );
 
-  const tiers = useMemo(
-    () => computeThicknessTiers(graph, leaderIds),
+  // Raw hop counts — computed once; slider does NOT invalidate this.
+  const hopCounts = useMemo(
+    () => computeHopCounts(graph, leaderIds),
     [graph, leaderIds]
   );
 
   type Edge = { a: string; b: string; tier: ThicknessTier; key: string };
   const edges: Edge[] = useMemo(() => {
     const out: Edge[] = [];
-    for (const [key, tier] of tiers) {
+    for (const [key, hops] of hopCounts) {
+      if (hops > maxHops) continue; // slider filter
       const [a, b] = key.split("|");
+      const tier: ThicknessTier =
+        hops <= 1 ? 1 : hops === 2 ? 2 : hops === 3 ? 3 : hops === 4 ? 4 : 5;
       out.push({ a, b, tier, key });
     }
     out.sort((x, y) => y.tier - x.tier);
     return out;
-  }, [tiers]);
+  }, [hopCounts, maxHops]);
 
   // Base path layer is memoized once; hover does NOT re-render it.
   const basePaths = useMemo(() => {
@@ -284,6 +289,22 @@ export function RelationshipVisualizer({ graph, onSelect }: RelationshipVisualiz
             })}
           </g>
         </svg>
+      </div>
+
+      <div className="viz-slider-card">
+        <label className="viz-slider-label" htmlFor="viz-relatedness">
+          Relatedness
+          <span className="viz-slider-value">{maxHops}</span>
+        </label>
+        <input
+          id="viz-relatedness"
+          type="range"
+          min={1}
+          max={30}
+          value={maxHops}
+          onChange={(e) => setMaxHops(Number(e.target.value))}
+          className="viz-slider"
+        />
       </div>
     </div>
   );
