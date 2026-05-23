@@ -125,12 +125,16 @@ export function pairKey(a: string, b: string): string {
   return a < b ? a + "|" + b : b + "|" + a;
 }
 
-export function computeThicknessTiers(
+/** Returns raw shortest-path hop counts for every connected leader pair.
+ *  Key = sorted "id1|id2", value = path_length (1–30).
+ *  Tier bucketing is left to the consumer so it can be combined with
+ *  slider filtering without a second pass. */
+export function computeHopCounts(
   graph: Graph,
   leaderIds: string[]
-): Map<string, ThicknessTier> {
+): Map<string, number> {
   const leaderSet = new Set(leaderIds);
-  const out = new Map<string, ThicknessTier>();
+  const out = new Map<string, number>();
 
   for (const id of leaderIds) {
     const paths = getAllPaths(graph, id, { leadersOnly: true, maxDepth: 30 });
@@ -138,10 +142,7 @@ export function computeThicknessTiers(
       if (!leaderSet.has(otherId)) continue;
       const key = pairKey(id, otherId);
       if (out.has(key)) continue;
-      const hops = result.path_length;
-      const tier: ThicknessTier =
-        hops <= 1 ? 1 : hops === 2 ? 2 : hops === 3 ? 3 : hops === 4 ? 4 : 5;
-      out.set(key, tier);
+      out.set(key, result.path_length);
     }
   }
 

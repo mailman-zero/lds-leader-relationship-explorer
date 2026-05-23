@@ -118,26 +118,6 @@ export default function App() {
         )}
       </div>
 
-      {/* Pill lives outside .topbar so backdrop-filter can't trap position:fixed */}
-      {!isVisualizer && (
-        <button
-          type="button"
-          className="viz-pill"
-          onClick={() => navigate("/visualizer")}
-        >
-          <span className="viz-pill__icon" aria-hidden="true">
-            <svg viewBox="0 0 16 16" width="12" height="12">
-              <circle cx="8" cy="8" r="6" fill="none" stroke="currentColor" strokeWidth="1.2" />
-              <circle cx="8" cy="2.5" r="1.3" fill="currentColor" />
-              <circle cx="13" cy="8" r="1.3" fill="currentColor" />
-              <circle cx="8" cy="13.5" r="1.3" fill="currentColor" />
-              <circle cx="3" cy="8" r="1.3" fill="currentColor" />
-            </svg>
-          </span>
-          Relationship Visualizer
-        </button>
-      )}
-
       {isVisualizer ? (
         <RelationshipVisualizer
           graph={graph}
@@ -167,6 +147,28 @@ export default function App() {
             )
           }
         />
+      )}
+
+      {/* Pill outside .topbar (backdrop-filter traps position:fixed descendants).
+          On desktop it floats fixed top-right; on mobile it sits in document
+          flow at the very bottom of the page so it doesn't cover content. */}
+      {!isVisualizer && (
+        <button
+          type="button"
+          className="viz-pill"
+          onClick={() => navigate("/visualizer")}
+        >
+          <span className="viz-pill__icon" aria-hidden="true">
+            <svg viewBox="0 0 16 16" width="12" height="12">
+              <circle cx="8" cy="8" r="6" fill="none" stroke="currentColor" strokeWidth="1.2" />
+              <circle cx="8" cy="2.5" r="1.3" fill="currentColor" />
+              <circle cx="13" cy="8" r="1.3" fill="currentColor" />
+              <circle cx="8" cy="13.5" r="1.3" fill="currentColor" />
+              <circle cx="3" cy="8" r="1.3" fill="currentColor" />
+            </svg>
+          </span>
+          Relationship Visualizer
+        </button>
       )}
     </>
   );
