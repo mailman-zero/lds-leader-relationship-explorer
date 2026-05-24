@@ -1,0 +1,370 @@
+{
+  "rm-nelson-1924": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "3G + spouse 2G (Wikipedia level)",
+    "pedigree_summary": "Scandinavian great-grandparents settled in Ephraim, Sanpete County UT. Father Marion C. Nelson. No apostle surnames in pedigree.",
+    "leads_explored": [
+      {
+        "hypothesis": "First wife Dantzel White's Clark line connects to J. Reuben Clark.",
+        "result": "Different Clark family — confirmed unrelated."
+      }
+    ],
+    "remaining_uncertainty": "Second wife Wendy Watson's Idaho line not traced past grandparents. 4G+ pedigree not exhausted via FamilySearch."
+  },
+  "dieter-f-uchtdorf-1940": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born Ostrava, Czechoslovakia; family fled to Zwickau, then West Germany. German Lutheran ancestry — very low prior probability of LDS-pioneer kinship.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Frontier pedigree not built; spouse Harriet Reich's line not traced. Likely dead-end, but not formally confirmed."
+  },
+  "david-a-bednar-1952": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Father Anthony George Bednar (Slovak-American Catholic convert). Mother Lavina Whitney; Whitney is a known pioneer surname.",
+    "leads_explored": [
+      {
+        "hypothesis": "Mother's Whitney line may connect to Newel K. Whitney family (Whitney is a connector surname in early Q12 cluster).",
+        "result": "Untested — needs frontier extraction."
+      }
+    ],
+    "remaining_uncertainty": "Whitney lead is highest-priority follow-up for Bednar."
+  },
+  "d-todd-christofferson-1945": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "3G both sides + spouse 1G",
+    "pedigree_summary": "Father Paul V. Christofferson; paternal grandparents Alexander DeWitt + Louise Vickery Christofferson; maternal grandparents Helge + Adena Swenson. Scandinavian immigrants on both sides.",
+    "leads_explored": [],
+    "remaining_uncertainty": "4G+ depth not exhausted; spouse Katherine Jacob's full pedigree not traced."
+  },
+  "neil-l-andersen-1951": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "3G paternal + 2G maternal",
+    "pedigree_summary": "Father Lyle Peter Andersen (1923–1996), born Teton, Fremont County, Idaho. Paternal grandparents Harold Robert Andersen + Reeta Loy Stocks. Scandinavian/Idaho lineage.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Maternal Stocks line not traced past grandparents; spouse Kathy Williams's pedigree not built."
+  },
+  "gary-e-stevenson-1955": {
+    "status": "promising",
+    "checked_at": "2026-05-24",
+    "depth_checked": "ancestor name only",
+    "pedigree_summary": "Ancestor 'Marie Stalle' (Italian, first handcart company) settled in Cache Valley UT. Cache Valley = high-density pioneer kinship region.",
+    "leads_explored": [
+      {
+        "hypothesis": "Marie Stalle's descendants or fellow handcart company members intermarried with Cache Valley apostle families (Merrill, Cardon, Cowley, Maeser).",
+        "result": "Pending — needs frontier extraction + matcher run."
+      }
+    ],
+    "remaining_uncertainty": "Stalle line not yet traced; spouse Lesa Higham's pedigree not built."
+  },
+  "dale-g-renlund-1952": {
+    "status": "promising",
+    "checked_at": "2026-05-24",
+    "depth_checked": "wife's father Merlin Lybbert already in DB",
+    "pedigree_summary": "Wife Ruth Lybbert is daughter of Merlin R. Lybbert (already a connector node). Merlin's parents: Charles Lester Lybbert + Delvia Reed Lybbert (Cardston, Alberta). Merlin's wife: Nola Cahoon — parents Jay A. Cahoon (1905–1987) + Ada Layne Brown Cahoon.",
+    "leads_explored": [
+      {
+        "hypothesis": "Jay A. Cahoon descends from Reynolds Cahoon line via William Farrington Cahoon → James Cordon Casson Cahoon → Leslie Casson Cahoon. Reynolds Cahoon is in the early cluster.",
+        "result": "Unverified — Jay A. Cahoon's exact parentage needs FamilySearch confirmation."
+      }
+    ],
+    "remaining_uncertainty": "Single FS lookup on Jay A. Cahoon's parents resolves this. Highest-yield lead in the set."
+  },
+  "gerrit-w-gong-1953": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Father Walter Gong (Chinese-American convert). Mother Jean Char. Both Chinese-immigrant ancestry — very low prior probability of LDS-pioneer kinship.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Spouse Susan Lindsay's pedigree not built — Lindsay is a UK surname, untested."
+  },
+  "ulisses-soares-1958": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born São Paulo, Brazil. Brazilian-Portuguese ancestry, family converted in São Paulo. Very low prior probability of pre-existing kinship.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Spouse Rosana Fernandes's pedigree not built; almost certainly dead-end."
+  },
+  "patrick-kearon-1961": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born Carlisle, England; Saudi-raised. British/Irish ancestry. No US-pioneer connections expected.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Spouse Jennifer Hulme's pedigree not built."
+  },
+  "gerald-causse-1963": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born Bordeaux, France. French ancestry. No pioneer connections expected.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Spouse Valérie Babin's pedigree not built."
+  },
+  "clark-g-gilbert-1970": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "American; details not yet captured.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Full pedigree not yet built — modern Utah/Idaho ancestry deserves a frontier run."
+  },
+  "thomas-b-marsh-1800": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born Acton, Massachusetts. New England Marsh family. Excommunicated 1839; readmitted later; died 1866.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Acton/Concord MA kinship overlaps with several early Q12 Massachusetts lines (Pratt, Boynton). Worth a focused 1830s-dissenter pass."
+  },
+  "david-w-patten-1799": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born Theresa, NY. Killed at Crooked River 1838. Patten family in upstate NY.",
+    "leads_explored": [
+      {
+        "hypothesis": "Wife Phoebe Ann Babcock's line — Babcock is a Vermont/NY pioneer surname.",
+        "result": "Untested."
+      }
+    ],
+    "remaining_uncertainty": "Phoebe Babcock pedigree not built."
+  },
+  "william-e-mclellin-1806": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born Smith County, Tennessee. Excommunicated 1838. Tennessee/Kentucky ancestry — disjoint from main New England-rooted apostolic kinship pool.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Wife Emeline Miller — Miller is too common to match without explicit pedigree."
+  },
+  "john-f-boynton-1811": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born Bradford, Essex County, MA. Excommunicated 1837. New England Boynton family.",
+    "leads_explored": [
+      {
+        "hypothesis": "Bradford MA overlaps with the Smith/Mack/Lyman ancestral region — possible distant cousin link to Joseph Smith Sr.'s line.",
+        "result": "Untested."
+      }
+    ],
+    "remaining_uncertainty": "Boynton pedigree not built."
+  },
+  "howard-w-hunter-1907": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "3G maternal",
+    "pedigree_summary": "Mother Nellie Rasmussen Marie was daughter of Scandinavian immigrants in Mt. Pleasant UT (Rasmussen/Christensen line). Father John William Hunter — Scottish/English ancestry.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Paternal Hunter line not deeply traced; spouse Clara May 'Claire' Jeffs pedigree not built. Adis Maelene Beatty (2nd wife)'s pedigree also not built."
+  },
+  "thomas-s-monson-1927": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "3G both sides",
+    "pedigree_summary": "Father George Spencer Monson (Scottish ancestry). Mother Gladys Condie (Scandinavian/Scottish). Wife Frances Beverly Johnson — father Franz Johnson, Swedish immigrant.",
+    "leads_explored": [],
+    "remaining_uncertainty": "All four ancestral lines are recent immigrants — very low probability of pioneer kinship."
+  },
+  "boyd-k-packer-1924": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "3G + grandmother's Wight line traced",
+    "pedigree_summary": "Grandmother Sarah Adeline Wight (1861–1934) is daughter of Lyman Wight (1829–1896), son of Lewis Wight (1806–1882). This is NOT the apostle Lyman Wight (1796–1858) — different Wight family. Other grandparents: standard early-Utah pioneer names with no apostle overlap found.",
+    "leads_explored": [
+      {
+        "hypothesis": "Sarah Adeline Wight is descendant of apostle Lyman Wight.",
+        "result": "Confirmed false — different family with same surname."
+      }
+    ],
+    "remaining_uncertainty": "Spouse Donna Edith Smith's pedigree not built; 'Smith' too common to match without explicit names."
+  },
+  "l-tom-perry-1922": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "3G + uncle's leadership confirmed",
+    "pedigree_summary": "Perry family founded Perry, UT. Uncle Alma Sonne was a General Authority (Assistant to Q12) but NOT an apostle. No apostle connections in Perry, Sonne, or maternal lines.",
+    "leads_explored": [
+      {
+        "hypothesis": "Uncle Alma Sonne provides an in-law bridge to another apostle's family.",
+        "result": "Alma Sonne is not in the apostle pool; his marriage doesn't bridge to any apostle's family."
+      }
+    ],
+    "remaining_uncertainty": "Both spouses' pedigrees (Virginia Lee, Barbara Dayton) not built."
+  },
+  "robert-d-hales-1932": {
+    "status": "promising",
+    "checked_at": "2026-05-24",
+    "depth_checked": "mother's surname noted",
+    "pedigree_summary": "Mother Vera Holbrook from Rexburg, Idaho. Holbrook is a known Mormon-pioneer surname.",
+    "leads_explored": [
+      {
+        "hypothesis": "Vera Holbrook's line connects to one of the Holbrook pioneer families that intermarried with early apostolic families.",
+        "result": "Pending — needs frontier extraction and matcher run against existing Holbrook nodes (if any) in graph."
+      }
+    ],
+    "remaining_uncertainty": "Holbrook ancestry not yet traced; wife Mary Crandall's pedigree not built."
+  },
+  "john-e-page-1799": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born Trenton, NY. Excommunicated 1846. Page family — likely NY/PA roots.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Pedigree not built."
+  },
+  "lyman-wight-1796": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born Fairfield, NY. Led splinter group to Texas. Wight family — Henrietta Corning Wight is his wife.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Wight pedigree not built. Note: Lyman Wight ≠ the Lyman Wight in Boyd K. Packer's line (different family — confirmed)."
+  },
+  "george-teasdale-1831": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "children's marriages checked",
+    "pedigree_summary": "Born London, England. Surviving children: George Ezra Teasdale (m. Evalina Lavina Babbitt Cornell), Frank (b. 1860), Alice (b. 1866). No apostle connections in any of these marriages.",
+    "leads_explored": [
+      {
+        "hypothesis": "Children's spouses connect to apostle families.",
+        "result": "No apostle connections found in surveyed marriages."
+      }
+    ],
+    "remaining_uncertainty": "British ancestry pre-emigration not traced; wives Emily Emma Brown / Marian Brown's pedigrees not built."
+  },
+  "anthon-h-lund-1844": {
+    "status": "promising",
+    "checked_at": "2026-05-24",
+    "depth_checked": "1 child's spouse checked (Anthony C. Lund m. Cornelia Sorenson — no link)",
+    "pedigree_summary": "Born Aalborg, Denmark. 9 children. Son Anthony C. Lund married Cornelia Sorenson — no apostle connections in that marriage. The other 8 children's spouses NOT yet enumerated.",
+    "leads_explored": [
+      {
+        "hypothesis": "One of Lund's other 8 children married into an apostle family.",
+        "result": "8 of 9 unchecked — needs Wikipedia/FamilySearch enumeration."
+      }
+    ],
+    "remaining_uncertainty": "Highest yield: enumerate all 9 children + spouses + grandchildren's spouses."
+  },
+  "james-e-talmage-1862": {
+    "status": "promising",
+    "checked_at": "2026-05-24",
+    "depth_checked": "2 of 4+ children's spouses checked",
+    "pedigree_summary": "Born Hungerford, Berkshire, England. Daughter Elsie married Harold C. Brandley (no link). Son John Russell married Mary Merrell Jones / Virginia Graves Noehren (no link). Other children: Karl, Lucile, Helen, Sterling (m. Nelle Mabel Allen).",
+    "leads_explored": [
+      {
+        "hypothesis": "Son Sterling's wife Nelle Mabel Allen connects to an apostle Allen line.",
+        "result": "Untested — Allen is a connector surname in the graph."
+      }
+    ],
+    "remaining_uncertainty": "Karl/Lucile/Helen spouses unchecked. Sterling's Allen lead is highest priority."
+  },
+  "charles-a-callis-1865": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "wife's 3G traced; alternative-family hypothesis ruled out",
+    "pedigree_summary": "Born Dublin, Ireland. Wife Grace Pack — John Pack → Ward Eaton Pack → Grace Pack. Grace's mother Mary Jane Walker Pack's parents were James Walker + Jane Shepherd (Cornwall/Jersey Island).",
+    "leads_explored": [
+      {
+        "hypothesis": "Grace Pack's Walker grandmother connects to Ann Agatha Walker Pratt (Parley P. Pratt's wife).",
+        "result": "Confirmed false — Ann Agatha's parents were William Gibson Walker + Mary Godwin (different Walker family)."
+      }
+    ],
+    "remaining_uncertainty": "Callis's own Irish ancestry not traced — but very low probability of pioneer-era link."
+  },
+  "henry-d-moyle-1889": {
+    "status": "promising",
+    "checked_at": "2026-05-24",
+    "depth_checked": "mother's family name noted",
+    "pedigree_summary": "Mother Alice Dinwoodey, daughter of Henry Dinwoodey (prominent early Utah pioneer/furniture magnate).",
+    "leads_explored": [
+      {
+        "hypothesis": "Henry Dinwoodey's family intermarried with another apostle's family in Salt Lake City social circles.",
+        "result": "Pending — Dinwoodey ancestry and descendants not traced."
+      }
+    ],
+    "remaining_uncertainty": "Highest yield: trace Henry Dinwoodey's other children and their marriages."
+  },
+  "mark-e-petersen-1900": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "parents identified as Danish immigrants",
+    "pedigree_summary": "Both parents Danish immigrants. Very low probability of pre-existing pioneer kinship.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Wife Emma Marr McDonald's pedigree not built — McDonald is a possible connector surname."
+  },
+  "delbert-l-stapley-1896": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "wife + mother surnames checked",
+    "pedigree_summary": "Wife Ethel Burdette Davis. Mother Polly Hunsaker. No apostle connections in either line.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Arizona Mormon-colony pedigrees not deeply traced — Mesa AZ overlaps slightly with some Arizona apostle families but no direct hit found."
+  },
+  "david-b-haight-1906": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "great-granduncle + grandmother surname checked",
+    "pedigree_summary": "Great-granduncle was Isaac C. Haight (early Utah pioneer, not in apostle DB). Paternal grandmother Louisa Leavitt — no apostle connections found.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Isaac C. Haight's descendants/in-laws not traced; spouse Ruby Olive Mildred Olson's pedigree not built."
+  },
+  "alvin-r-dyer-1903": {
+    "status": "dead_end",
+    "checked_at": "2026-05-24",
+    "depth_checked": "wife's identity corrected",
+    "pedigree_summary": "Wife was May Elizabeth Jackson (NOT 'May Walker' as earlier mis-recorded). No apostle connections found in Dyer or Jackson lines.",
+    "leads_explored": [
+      {
+        "hypothesis": "Wife was May Walker connecting to Walker pioneer line.",
+        "result": "Confirmed false — wife is May Elizabeth Jackson."
+      }
+    ],
+    "remaining_uncertainty": "Jackson is a common surname; pedigree not built deeply."
+  },
+  "jesse-gause-1785": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born East Marlborough, Chester County, PA. Quaker convert. Served briefly as JS Jr's counselor 1832. Excommunicated 1832.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Gause/Beverly pedigree (Pennsylvania Quaker) untested. Very disjoint from main cluster but not formally checked."
+  },
+  "sidney-rigdon-1793": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born St. Clair Township, PA. Rigdon family, PA/OH. Several children; daughter Nancy m. Robert Wilson Cunningham; daughter Athalia m. George W. Robinson; others.",
+    "leads_explored": [
+      {
+        "hypothesis": "Daughter Athalia's marriage to George W. Robinson (signed John C. Bennett's affidavit) provides a Nauvoo-era link to other dissenter families.",
+        "result": "Untested — dissenter intermarriages don't usually bridge to mainstream cluster, but worth confirming."
+      }
+    ],
+    "remaining_uncertainty": "Children's marriages not enumerated."
+  },
+  "john-c-bennett-1804": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born Fairhaven, MA. Excommunicated 1842. Briefly counselor to JS Jr; later anti-Mormon polemicist.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Wife Mary Barker; pedigree not traced. Very disjoint."
+  },
+  "william-law-1809": {
+    "status": "unresearched",
+    "checked_at": null,
+    "depth_checked": null,
+    "pedigree_summary": "Born Tyrone, Ireland. Counselor in First Presidency 1841–1844; excommunicated. Published the Nauvoo Expositor. Wife Jane Silverthorn.",
+    "leads_explored": [],
+    "remaining_uncertainty": "Irish ancestry; very low probability of US-pioneer kinship link, but spouse Silverthorn line untested."
+  }
+}

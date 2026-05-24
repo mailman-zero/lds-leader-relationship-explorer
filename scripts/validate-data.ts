@@ -219,6 +219,73 @@ for (const t of temples) {
 }
 if (templeErrors === 0) pass(`${temples.length} temple records valid`);
 
+// --- Check 10: Singleton research log ---
+console.log("\n[10] Singleton research log");
+const researchPath = join(dataDir, "singleton-research.json");
+if (!existsSync(researchPath)) {
+  warn("singleton-research.json not present — skipping research-log integrity checks");
+} else {
+  const research: Record<string, { status: string }> = JSON.parse(
+    readFileSync(researchPath, "utf-8")
+  );
+
+  // Union-find clusters to identify which leaders are singletons right now
+  const ufParent = new Map<string, string>();
+  function ufFind(x: string): string {
+    if (!ufParent.has(x)) ufParent.set(x, x);
+    let r = x;
+    while (ufParent.get(r)! !== r) r = ufParent.get(r)!;
+    return r;
+  }
+  function ufUnion(a: string, b: string) {
+    const ra = ufFind(a), rb = ufFind(b);
+    if (ra !== rb) ufParent.set(rb, ra);
+  }
+  for (const r of relationships) {
+    if (r.type === "parent-child") ufUnion(r.parent_id, r.child_id);
+    else ufUnion(r.person_a_id, r.person_b_id);
+  }
+  const leaderClusters = new Map<string, string[]>();
+  for (const p of people.filter((p) => p.is_leader)) {
+    const root = ufFind(p.id);
+    if (!leaderClusters.has(root)) leaderClusters.set(root, []);
+    leaderClusters.get(root)!.push(p.id);
+  }
+  const sortedClusters = [...leaderClusters.values()].sort((a, b) => b.length - a.length);
+  const mainClusterIds = new Set(sortedClusters[0] ?? []);
+  const unconnectedLeaders = people
+    .filter((p) => p.is_leader && !mainClusterIds.has(p.id))
+    .map((p) => p.id);
+
+  let researchErrors = 0;
+  // Every unconnected leader should have a log entry
+  for (const id of unconnectedLeaders) {
+    if (!(id in research)) {
+      warn(`Unconnected leader ${id} has no entry in singleton-research.json`);
+      researchErrors++;
+    }
+  }
+  // Every "connected" entry should correspond to a leader actually in main cluster
+  for (const [id, rec] of Object.entries(research)) {
+    if (rec.status === "connected" && !mainClusterIds.has(id)) {
+      error(`singleton-research entry ${id}: status="connected" but leader is still isolated`);
+      researchErrors++;
+    }
+    // Every entry should refer to a real leader
+    const person = people.find((p) => p.id === id);
+    if (!person) {
+      error(`singleton-research entry ${id}: unknown person id`);
+      researchErrors++;
+    } else if (!person.is_leader) {
+      warn(`singleton-research entry ${id}: person is not a leader`);
+      researchErrors++;
+    }
+  }
+  if (researchErrors === 0) {
+    pass(`singleton-research.json: ${Object.keys(research).length} entries, all consistent`);
+  }
+}
+
 // --- Summary ---
 console.log("\n--- Summary ---");
 console.log(`  People:        ${people.length}`);
