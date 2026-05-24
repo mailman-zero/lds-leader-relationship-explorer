@@ -1,4 +1,5 @@
 import { Portrait } from "./Portrait";
+import type { PhotoCredit } from "../graph/types.ts";
 
 interface TooltipData {
   label: string;
@@ -7,7 +8,7 @@ interface TooltipData {
 
 interface CardProps {
   name?: string;
-  photo?: string | null;
+  photo?: PhotoCredit | null;
   role?: string;
   vacancy?: boolean;
   onClick?: () => void;

@@ -1,6 +1,8 @@
+import type { PhotoCredit } from "../graph/types.ts";
+
 interface PortraitProps {
   name?: string;
-  photo?: string | null;
+  photo?: PhotoCredit | null;
   vacancy?: boolean;
 }
 
@@ -32,9 +34,10 @@ export function Portrait({ name, photo, vacancy }: PortraitProps) {
     );
   }
   if (photo) {
-    const src = photo.startsWith("/")
-      ? import.meta.env.BASE_URL + photo.slice(1)
-      : photo;
+    const raw = photo.src;
+    const src = raw.startsWith("/")
+      ? import.meta.env.BASE_URL + raw.slice(1)
+      : raw;
     return (
       <div className="portrait portrait--photo" aria-hidden="true">
         <img src={src} alt={name} className="portrait-img" />

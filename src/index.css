@@ -1132,3 +1132,129 @@ button.pill:hover {
   accent-color: var(--accent);
   cursor: pointer;
 }
+
+/* ===== Credits link in topbar / floating ===== */
+.credits-link {
+  position: fixed;
+  bottom: 14px;
+  right: 24px;
+  z-index: 35;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow-sm);
+}
+.credits-link:hover { color: var(--ink); background: #fff; }
+
+/* ===== Credits page ===== */
+.credits-page {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 32px 24px 96px;
+  color: var(--ink);
+}
+.credits-head { margin-bottom: 32px; }
+.credits-head p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+  margin: 0 0 10px;
+}
+.credits-head em { font-style: italic; color: var(--ink); }
+
+.credits-section {
+  margin: 32px 0;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+}
+.credits-section-head {
+  font-size: 15px;
+  letter-spacing: 0.04em;
+  margin: 0 0 4px;
+  font-weight: 600;
+}
+.credits-section-head .count {
+  color: var(--muted);
+  font-weight: 400;
+  font-size: 13px;
+  margin-left: 6px;
+}
+.credits-section-head.license-public-domain { color: #2a7a3a; }
+.credits-section-head.license-cc-zero { color: #2a7a3a; }
+.credits-section-head.license-cc-by { color: #2a6aa8; }
+.credits-section-head.license-cc-by-sa { color: #2a6aa8; }
+.credits-section-head.license-permission-granted { color: #6a4ea8; }
+.credits-section-head.license-fair-use { color: #b07a1c; }
+.credits-section-head.license-unknown { color: #a85a1c; }
+.credits-section-head.license-non-free { color: #a82a2a; }
+.credits-section-desc {
+  font-size: 12.5px;
+  color: var(--muted);
+  margin: 0 0 16px;
+  line-height: 1.5;
+}
+.credits-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 14px;
+}
+.credits-row {
+  display: grid;
+  grid-template-columns: 64px 1fr;
+  gap: 14px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+}
+.credits-row:last-child { border-bottom: none; }
+.credits-thumb img {
+  width: 56px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 3px;
+  border: 1px solid var(--line);
+}
+.credits-meta { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.credits-name { font-size: 14px; font-weight: 600; }
+.credits-name a { color: var(--ink); text-decoration: none; }
+.credits-name a:hover { text-decoration: underline; }
+.credits-years { color: var(--muted); font-weight: 400; font-size: 12px; }
+.credits-credit { font-size: 12.5px; color: var(--ink); }
+.credits-holder { font-size: 12px; color: var(--muted); }
+.credits-notes { font-size: 12px; color: var(--muted); font-style: italic; }
+.credits-links {
+  font-size: 12px;
+  color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 2px;
+}
+.credits-links a { color: var(--accent); text-decoration: none; }
+.credits-links a:hover { text-decoration: underline; }
+.credits-accessed { font-family: var(--mono); }
+
+/* Caption beneath the Detail hero portrait */
+.hero-portrait-caption {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-top: 6px;
+  text-align: center;
+}
+.hero-portrait-caption a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted var(--muted);
+}
+.hero-portrait-caption a:hover { color: var(--ink); border-bottom-color: var(--ink); }

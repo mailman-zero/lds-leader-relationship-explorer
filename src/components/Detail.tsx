@@ -169,6 +169,19 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch, onNavigat
 
           <div className="hero-portrait">
             <Portrait name={person?.display_name} photo={person?.photo} />
+            {person?.photo && (
+              <div className="hero-portrait-caption">
+                <a href={`#/credits#${personId}`}>
+                  {person.photo.license === "unknown"
+                    ? "Source pending"
+                    : person.photo.license === "public-domain"
+                    ? "Public domain"
+                    : person.photo.license === "non-free"
+                    ? "Non-free"
+                    : person.photo.license.toUpperCase()}
+                </a>
+              </div>
+            )}
           </div>
 
           <div className="hero-info">

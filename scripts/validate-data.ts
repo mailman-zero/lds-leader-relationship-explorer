@@ -286,6 +286,66 @@ if (!existsSync(researchPath)) {
   }
 }
 
+// --- Check 11: Photo credits ---
+console.log("\n[11] Photo credits");
+let photoErrors = 0;
+const photosDir = join(__dirname, "..", "public", "photos");
+const photosOnDisk = existsSync(photosDir)
+  ? new Set(
+      (await import("fs")).readdirSync(photosDir).filter((f) =>
+        /\.(jpg|jpeg|png|gif|webp)$/i.test(f)
+      )
+    )
+  : new Set<string>();
+const referencedFiles = new Set<string>();
+const KNOWN_LICENSES = new Set([
+  "public-domain", "cc-by", "cc-by-sa", "cc-zero",
+  "fair-use", "permission-granted", "unknown", "non-free",
+]);
+let unknownCount = 0;
+let nonFreeCount = 0;
+for (const p of people) {
+  if (!p.photo) continue;
+  const photo = p.photo;
+  if (typeof photo !== "object") {
+    error(`Person ${p.id}: photo is not an object`);
+    photoErrors++;
+    continue;
+  }
+  if (!photo.src) { error(`Person ${p.id}: photo.src missing`); photoErrors++; continue; }
+  if (!photo.license || !KNOWN_LICENSES.has(photo.license)) {
+    error(`Person ${p.id}: photo.license missing or invalid ('${photo.license}')`);
+    photoErrors++;
+  }
+  if (!photo.accessed) { error(`Person ${p.id}: photo.accessed missing`); photoErrors++; }
+  // file must exist on disk
+  const fname = photo.src.split("/").pop();
+  if (fname && photosOnDisk.size > 0) {
+    referencedFiles.add(fname);
+    if (!photosOnDisk.has(fname)) {
+      error(`Person ${p.id}: photo file '${fname}' not found in public/photos/`);
+      photoErrors++;
+    }
+  }
+  // license-specific checks: warn if known license but no source_url
+  if (photo.license !== "unknown" && photo.license !== "non-free" && !photo.source_url) {
+    warn(`Person ${p.id}: photo.license='${photo.license}' but no source_url`);
+  }
+  if (photo.license === "unknown") unknownCount++;
+  if (photo.license === "non-free") nonFreeCount++;
+}
+// orphan files
+if (photosOnDisk.size > 0) {
+  for (const f of photosOnDisk) {
+    if (!referencedFiles.has(f)) {
+      warn(`Orphan photo file: ${f} (not referenced by any person)`);
+    }
+  }
+}
+if (unknownCount > 0) warn(`${unknownCount} photo(s) still have license='unknown' — pending audit`);
+if (nonFreeCount > 0) warn(`${nonFreeCount} photo(s) flagged 'non-free' — should be removed`);
+if (photoErrors === 0) pass(`Photo credit structure valid (${photosOnDisk.size} files on disk, ${referencedFiles.size} referenced)`);
+
 // --- Summary ---
 console.log("\n--- Summary ---");
 console.log(`  People:        ${people.length}`);
