@@ -146,6 +146,7 @@ export default function App() {
                 : "/fp/" + resolvedDate + "/person/" + id
             )
           }
+          onNavigateToDate={(d) => navigate("/fp/" + d)}
         />
       )}
 

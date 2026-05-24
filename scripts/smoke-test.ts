@@ -16,7 +16,7 @@ function load(file: string) {
 const people = load("people.json") as Person[];
 const relationships = load("relationships.json") as Relationship[];
 const positions = load("leadership_positions.json") as LeadershipPosition[];
-const graph = buildGraph(people, relationships, positions);
+const graph = buildGraph(people, relationships, positions, []);
 
 console.log(`Graph loaded: ${graph.people.size} people, ${graph.nodes.size} nodes\n`);
 

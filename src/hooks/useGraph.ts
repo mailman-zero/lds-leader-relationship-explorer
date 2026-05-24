@@ -9,8 +9,8 @@ let loadPromise: Promise<Graph> | null = null;
 async function loadGraph(): Promise<Graph> {
   if (cachedGraph) return cachedGraph;
   if (!loadPromise) {
-    loadPromise = loadRawData().then(({ people, relationships, positions }) => {
-      cachedGraph = buildGraph(people, relationships, positions);
+    loadPromise = loadRawData().then(({ people, relationships, positions, temples }) => {
+      cachedGraph = buildGraph(people, relationships, positions, temples);
       return cachedGraph;
     });
   }

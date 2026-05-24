@@ -1,4 +1,4 @@
-import { readFileSync } from "fs";
+import { readFileSync, existsSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
@@ -12,6 +12,7 @@ function load(file: string) {
 const people: any[] = load("people.json");
 const relationships: any[] = load("relationships.json");
 const positions: any[] = load("leadership_positions.json");
+const temples: any[] = existsSync(join(dataDir, "temples.json")) ? load("temples.json") : [];
 
 let errors = 0;
 let warnings = 0;
@@ -194,11 +195,36 @@ for (const pos of positions) {
 }
 if (dateErrors === 0) pass("All dates are valid ISO 8601");
 
+// --- Check 9: Temples ---
+console.log("\n[9] Temples");
+let templeErrors = 0;
+const templeIds = new Set<string>();
+for (const t of temples) {
+  if (templeIds.has(t.id)) { error(`Duplicate temple ID: ${t.id}`); templeErrors++; }
+  else templeIds.add(t.id);
+
+  if (!t.name) { error(`Temple ${t.id}: missing name`); templeErrors++; }
+  if (!t.dedication_date || !ISO_PATTERN.test(t.dedication_date)) {
+    error(`Temple ${t.id}: invalid dedication_date '${t.dedication_date}'`);
+    templeErrors++;
+  }
+  if (t.dedicated_by !== null && !personIds.has(t.dedicated_by)) {
+    error(`Temple ${t.id}: unknown dedicated_by '${t.dedicated_by}'`);
+    templeErrors++;
+  }
+  if (t.type !== "dedication" && t.type !== "rededication") {
+    error(`Temple ${t.id}: invalid type '${t.type}'`);
+    templeErrors++;
+  }
+}
+if (templeErrors === 0) pass(`${temples.length} temple records valid`);
+
 // --- Summary ---
 console.log("\n--- Summary ---");
 console.log(`  People:        ${people.length}`);
 console.log(`  Relationships: ${relationships.length}`);
 console.log(`  Positions:     ${positions.length}`);
+console.log(`  Temples:       ${temples.length}`);
 console.log(`  Errors:        ${errors}`);
 console.log(`  Warnings:      ${warnings}`);
 

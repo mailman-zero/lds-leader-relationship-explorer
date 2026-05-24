@@ -132,11 +132,22 @@ export interface GraphNode {
   edges: GraphEdge[];
 }
 
+export interface Temple {
+  id: string;
+  name: string;
+  location: string | null;
+  dedication_date: string;
+  dedicated_by: string | null;
+  type: "dedication" | "rededication";
+  sources?: Source[];
+}
+
 export interface Graph {
   nodes: Map<string, GraphNode>;
   people: Map<string, Person>;
   relationships: Relationship[];
   positions: LeadershipPosition[];
+  temples: Temple[];
 }
 
 export interface Hop {
@@ -160,6 +171,23 @@ export interface TimelineEvent {
   type: EndReason | "called";
   person_id: string;
   position_code: PositionCode;
+}
+
+export type PersonTimelineEventType =
+  | "called"
+  | "promoted"
+  | "called-to-fp"
+  | "returned-to-q12"
+  | "released"
+  | "death";
+
+export interface PersonTimelineEvent {
+  date: string;
+  type: PersonTimelineEventType;
+  position_code?: PositionCode;
+  label: string;
+  navigate_date: string;
+  hypothetical?: boolean;
 }
 
 export interface Snapshot {

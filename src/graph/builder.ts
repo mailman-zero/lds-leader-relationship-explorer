@@ -4,12 +4,14 @@ import type {
   Person,
   Relationship,
   LeadershipPosition,
+  Temple,
 } from "./types.ts";
 
 export function buildGraph(
   people: Person[],
   relationships: Relationship[],
-  positions: LeadershipPosition[]
+  positions: LeadershipPosition[],
+  temples: Temple[]
 ): Graph {
   const nodes = new Map<string, GraphNode>();
   const peopleMap = new Map<string, Person>();
@@ -44,5 +46,5 @@ export function buildGraph(
     }
   }
 
-  return { nodes, people: peopleMap, relationships, positions };
+  return { nodes, people: peopleMap, relationships, positions, temples };
 }
