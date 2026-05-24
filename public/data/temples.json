@@ -1,0 +1,3068 @@
+[
+  {
+    "id": "kirtland-1836",
+    "name": "Kirtland Temple",
+    "location": null,
+    "dedication_date": "1836-03-27",
+    "dedicated_by": "joseph-f-smith-1838",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "nauvoo-1846",
+    "name": "Nauvoo Temple",
+    "location": null,
+    "dedication_date": "1846-05-01",
+    "dedicated_by": "orson-hyde-1805",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "st-george-utah-1877",
+    "name": "St. George Utah Temple",
+    "location": null,
+    "dedication_date": "1877-04-06",
+    "dedicated_by": "daniel-h-wells-1814",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "logan-utah-1884",
+    "name": "Logan Utah Temple",
+    "location": null,
+    "dedication_date": "1884-05-17",
+    "dedicated_by": "john-taylor-1808",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "manti-utah-1888",
+    "name": "Manti Utah Temple",
+    "location": null,
+    "dedication_date": "1888-05-21",
+    "dedicated_by": "lorenzo-snow-1814",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "salt-lake-1893",
+    "name": "Salt Lake Temple",
+    "location": null,
+    "dedication_date": "1893-04-06",
+    "dedicated_by": "wilford-woodruff-1807",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "laie-hawaii-1919",
+    "name": "Laie Hawaii Temple",
+    "location": null,
+    "dedication_date": "1919-11-27",
+    "dedicated_by": "heber-j-grant-1856",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "cardston-alberta-1923",
+    "name": "Cardston Alberta Temple",
+    "location": null,
+    "dedication_date": "1923-08-26",
+    "dedicated_by": "heber-j-grant-1856",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "mesa-arizona-1927",
+    "name": "Mesa Arizona Temple",
+    "location": null,
+    "dedication_date": "1927-10-23",
+    "dedicated_by": "heber-j-grant-1856",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "idaho-falls-idaho-1945",
+    "name": "Idaho Falls Idaho Temple",
+    "location": null,
+    "dedication_date": "1945-09-23",
+    "dedicated_by": "george-a-smith-1817",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "bern-switzerland-1955",
+    "name": "Bern Switzerland Temple",
+    "location": null,
+    "dedication_date": "1955-09-11",
+    "dedicated_by": "david-o-mckay-1873",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "los-angeles-california-1956",
+    "name": "Los Angeles California Temple",
+    "location": null,
+    "dedication_date": "1956-03-11",
+    "dedicated_by": "david-o-mckay-1873",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "hamilton-new-zealand-1958",
+    "name": "Hamilton New Zealand Temple",
+    "location": null,
+    "dedication_date": "1958-04-20",
+    "dedicated_by": "david-o-mckay-1873",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "london-england-1958",
+    "name": "London England Temple",
+    "location": null,
+    "dedication_date": "1958-09-07",
+    "dedicated_by": "david-o-mckay-1873",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "oakland-california-1964",
+    "name": "Oakland California Temple",
+    "location": null,
+    "dedication_date": "1964-11-17",
+    "dedicated_by": "david-o-mckay-1873",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "ogden-utah-1972",
+    "name": "Ogden Utah Temple",
+    "location": null,
+    "dedication_date": "1972-01-18",
+    "dedicated_by": "joseph-f-smith-1838",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "provo-utah-1972",
+    "name": "Provo Utah Temple",
+    "location": null,
+    "dedication_date": "1972-02-09",
+    "dedicated_by": "joseph-f-smith-1838",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "washington-dc-1974",
+    "name": "Washington D.C. Temple",
+    "location": null,
+    "dedication_date": "1974-11-19",
+    "dedicated_by": "spencerw-kimball-1895",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "s\u00e3o-paulo-brazil-1978",
+    "name": "S\u00e3o Paulo Brazil Temple",
+    "location": null,
+    "dedication_date": "1978-10-30",
+    "dedicated_by": "spencerw-kimball-1895",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "tokyo-japan-1980",
+    "name": "Tokyo Japan Temple",
+    "location": null,
+    "dedication_date": "1980-10-27",
+    "dedicated_by": "spencerw-kimball-1895",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "seattle-washington-1980",
+    "name": "Seattle Washington Temple",
+    "location": null,
+    "dedication_date": "1980-11-17",
+    "dedicated_by": "spencerw-kimball-1895",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "jordan-river-utah-1981",
+    "name": "Jordan River Utah Temple",
+    "location": null,
+    "dedication_date": "1981-11-16",
+    "dedicated_by": "marion-g-romney-1897",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "atlanta-georgia-1983",
+    "name": "Atlanta Georgia Temple",
+    "location": null,
+    "dedication_date": "1983-06-01",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "apia-samoa-original-1983",
+    "name": "Apia Samoa Temple (original)",
+    "location": null,
+    "dedication_date": "1983-08-05",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "apia-samoa-1983",
+    "name": "Apia Samoa Temple",
+    "location": null,
+    "dedication_date": "1983-08-05",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "nukualofa-tonga-1983",
+    "name": "Nuku'alofa Tonga Temple",
+    "location": null,
+    "dedication_date": "1983-08-09",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "santiago-chile-1983",
+    "name": "Santiago Chile Temple",
+    "location": null,
+    "dedication_date": "1983-09-15",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "papeete-tahiti-1983",
+    "name": "Papeete Tahiti Temple",
+    "location": null,
+    "dedication_date": "1983-10-27",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "mexico-city-mexico-1983",
+    "name": "Mexico City Mexico Temple",
+    "location": null,
+    "dedication_date": "1983-12-02",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "boise-idaho-1984",
+    "name": "Boise Idaho Temple",
+    "location": null,
+    "dedication_date": "1984-05-25",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "sydney-australia-1984",
+    "name": "Sydney Australia Temple",
+    "location": null,
+    "dedication_date": "1984-09-20",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "manila-philippines-1984",
+    "name": "Manila Philippines Temple",
+    "location": null,
+    "dedication_date": "1984-09-25",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "dallas-texas-1984",
+    "name": "Dallas Texas Temple",
+    "location": null,
+    "dedication_date": "1984-10-19",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "taipei-taiwan-1984",
+    "name": "Taipei Taiwan Temple",
+    "location": null,
+    "dedication_date": "1984-11-17",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "guatemala-city-guatemala-1984",
+    "name": "Guatemala City Guatemala Temple",
+    "location": null,
+    "dedication_date": "1984-12-14",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "freiberg-germany-1985",
+    "name": "Freiberg Germany Temple",
+    "location": null,
+    "dedication_date": "1985-06-29",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "stockholm-sweden-1985",
+    "name": "Stockholm Sweden Temple",
+    "location": null,
+    "dedication_date": "1985-07-02",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "chicago-illinois-1985",
+    "name": "Chicago Illinois Temple",
+    "location": null,
+    "dedication_date": "1985-08-09",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "johannesburg-south-africa-1985",
+    "name": "Johannesburg South Africa Temple",
+    "location": null,
+    "dedication_date": "1985-08-24",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "seoul-korea-1985",
+    "name": "Seoul Korea Temple",
+    "location": null,
+    "dedication_date": "1985-12-14",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "lima-peru-1986",
+    "name": "Lima Peru Temple",
+    "location": null,
+    "dedication_date": "1986-01-10",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "buenos-aires-argentina-1986",
+    "name": "Buenos Aires Argentina Temple",
+    "location": null,
+    "dedication_date": "1986-01-17",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "denver-colorado-1986",
+    "name": "Denver Colorado Temple",
+    "location": null,
+    "dedication_date": "1986-10-24",
+    "dedicated_by": "ezra-t-benson-1811",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "frankfurt-germany-1987",
+    "name": "Frankfurt Germany Temple",
+    "location": null,
+    "dedication_date": "1987-08-28",
+    "dedicated_by": "ezra-t-benson-1811",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "portland-oregon-1989",
+    "name": "Portland Oregon Temple",
+    "location": null,
+    "dedication_date": "1989-08-19",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "las-vegas-nevada-1989",
+    "name": "Las Vegas Nevada Temple",
+    "location": null,
+    "dedication_date": "1989-12-16",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "toronto-ontario-1990",
+    "name": "Toronto Ontario Temple",
+    "location": null,
+    "dedication_date": "1990-08-25",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "san-diego-california-1993",
+    "name": "San Diego California Temple",
+    "location": null,
+    "dedication_date": "1993-04-25",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "orlando-florida-1994",
+    "name": "Orlando Florida Temple",
+    "location": null,
+    "dedication_date": "1994-10-09",
+    "dedicated_by": "howard-w-hunter-1907",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "bountiful-utah-1995",
+    "name": "Bountiful Utah Temple",
+    "location": null,
+    "dedication_date": "1995-01-08",
+    "dedicated_by": "howard-w-hunter-1907",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "hong-kong-china-1996",
+    "name": "Hong Kong China Temple",
+    "location": null,
+    "dedication_date": "1996-05-26",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "mount-timpanogos-utah-1996",
+    "name": "Mount Timpanogos Utah Temple",
+    "location": null,
+    "dedication_date": "1996-10-13",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "st-louis-missouri-1997",
+    "name": "St. Louis Missouri Temple",
+    "location": null,
+    "dedication_date": "1997-06-01",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "vernal-utah-1997",
+    "name": "Vernal Utah Temple",
+    "location": null,
+    "dedication_date": "1997-11-02",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "preston-england-1998",
+    "name": "Preston England Temple",
+    "location": null,
+    "dedication_date": "1998-06-07",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "monticello-utah-1998",
+    "name": "Monticello Utah Temple",
+    "location": null,
+    "dedication_date": "1998-07-26",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "anchorage-alaska-1999",
+    "name": "Anchorage Alaska Temple",
+    "location": null,
+    "dedication_date": "1999-01-09",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "colonia-ju\u00e1rez-chihuahua-mexico-1999",
+    "name": "Colonia Ju\u00e1rez Chihuahua Mexico Temple",
+    "location": null,
+    "dedication_date": "1999-03-06",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "madrid-spain-1999",
+    "name": "Madrid Spain Temple",
+    "location": null,
+    "dedication_date": "1999-03-19",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "bogot\u00e1-colombia-1999",
+    "name": "Bogot\u00e1 Colombia Temple",
+    "location": null,
+    "dedication_date": "1999-04-24",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "guayaquil-ecuador-1999",
+    "name": "Guayaquil Ecuador Temple",
+    "location": null,
+    "dedication_date": "1999-08-01",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "spokane-washington-1999",
+    "name": "Spokane Washington Temple",
+    "location": null,
+    "dedication_date": "1999-08-21",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "columbus-ohio-1999",
+    "name": "Columbus Ohio Temple",
+    "location": null,
+    "dedication_date": "1999-09-04",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "bismarck-north-dakota-1999",
+    "name": "Bismarck North Dakota Temple",
+    "location": null,
+    "dedication_date": "1999-09-19",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "columbia-south-carolina-1999",
+    "name": "Columbia South Carolina Temple",
+    "location": null,
+    "dedication_date": "1999-10-16",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "detroit-michigan-1999",
+    "name": "Detroit Michigan Temple",
+    "location": null,
+    "dedication_date": "1999-10-23",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "halifax-nova-scotia-1999",
+    "name": "Halifax Nova Scotia Temple",
+    "location": null,
+    "dedication_date": "1999-11-14",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "regina-saskatchewan-1999",
+    "name": "Regina Saskatchewan Temple",
+    "location": null,
+    "dedication_date": "1999-11-14",
+    "dedicated_by": "boyd-k-packer-1924",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "billings-montana-1999",
+    "name": "Billings Montana Temple",
+    "location": null,
+    "dedication_date": "1999-11-20",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "edmonton-alberta-1999",
+    "name": "Edmonton Alberta Temple",
+    "location": null,
+    "dedication_date": "1999-12-11",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "raleigh-north-carolina-1999",
+    "name": "Raleigh North Carolina Temple",
+    "location": null,
+    "dedication_date": "1999-12-18",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "st-paul-minnesota-2000",
+    "name": "St. Paul Minnesota Temple",
+    "location": null,
+    "dedication_date": "2000-01-09",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "kona-hawaii-2000",
+    "name": "Kona Hawaii Temple",
+    "location": null,
+    "dedication_date": "2000-01-23",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "ciudad-ju\u00e1rez-mexico-2000",
+    "name": "Ciudad Ju\u00e1rez Mexico Temple",
+    "location": null,
+    "dedication_date": "2000-02-26",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "hermosillo-sonora-mexico-2000",
+    "name": "Hermosillo Sonora Mexico Temple",
+    "location": null,
+    "dedication_date": "2000-02-27",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "albuquerque-new-mexico-2000",
+    "name": "Albuquerque New Mexico Temple",
+    "location": null,
+    "dedication_date": "2000-03-05",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "oaxaca-mexico-2000",
+    "name": "Oaxaca Mexico Temple",
+    "location": null,
+    "dedication_date": "2000-03-11",
+    "dedicated_by": "james-e-faust-1920",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "tuxtla-guti\u00e9rrez-mexico-2000",
+    "name": "Tuxtla Guti\u00e9rrez Mexico Temple",
+    "location": null,
+    "dedication_date": "2000-03-12",
+    "dedicated_by": "james-e-faust-1920",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "louisville-kentucky-2000",
+    "name": "Louisville Kentucky Temple",
+    "location": null,
+    "dedication_date": "2000-03-19",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "palmyra-new-york-2000",
+    "name": "Palmyra New York Temple",
+    "location": null,
+    "dedication_date": "2000-04-06",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "fresno-california-2000",
+    "name": "Fresno California Temple",
+    "location": null,
+    "dedication_date": "2000-04-09",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "medford-oregon-2000",
+    "name": "Medford Oregon Temple",
+    "location": null,
+    "dedication_date": "2000-04-16",
+    "dedicated_by": "james-e-faust-1920",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "memphis-tennessee-2000",
+    "name": "Memphis Tennessee Temple",
+    "location": null,
+    "dedication_date": "2000-04-23",
+    "dedicated_by": "james-e-faust-1920",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "reno-nevada-2000",
+    "name": "Reno Nevada Temple",
+    "location": null,
+    "dedication_date": "2000-04-23",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "cochabamba-bolivia-2000",
+    "name": "Cochabamba Bolivia Temple",
+    "location": null,
+    "dedication_date": "2000-04-30",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "tampico-mexico-2000",
+    "name": "Tampico Mexico Temple",
+    "location": null,
+    "dedication_date": "2000-05-20",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "nashville-tennessee-2000",
+    "name": "Nashville Tennessee Temple",
+    "location": null,
+    "dedication_date": "2000-05-21",
+    "dedicated_by": "james-e-faust-1920",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "villahermosa-mexico-2000",
+    "name": "Villahermosa Mexico Temple",
+    "location": null,
+    "dedication_date": "2000-05-21",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "montreal-quebec-2000",
+    "name": "Montreal Quebec Temple",
+    "location": null,
+    "dedication_date": "2000-06-04",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "san-jos\u00e9-costa-rica-2000",
+    "name": "San Jos\u00e9 Costa Rica Temple",
+    "location": null,
+    "dedication_date": "2000-06-04",
+    "dedicated_by": "james-e-faust-1920",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "fukuoka-japan-2000",
+    "name": "Fukuoka Japan Temple",
+    "location": null,
+    "dedication_date": "2000-06-11",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "adelaide-australia-2000",
+    "name": "Adelaide Australia Temple",
+    "location": null,
+    "dedication_date": "2000-06-15",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "melbourne-australia-2000",
+    "name": "Melbourne Australia Temple",
+    "location": null,
+    "dedication_date": "2000-06-16",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "suva-fiji-2000",
+    "name": "Suva Fiji Temple",
+    "location": null,
+    "dedication_date": "2000-06-18",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "m\u00e9rida-mexico-2000",
+    "name": "M\u00e9rida Mexico Temple",
+    "location": null,
+    "dedication_date": "2000-07-08",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "veracruz-mexico-2000",
+    "name": "Veracruz Mexico Temple",
+    "location": null,
+    "dedication_date": "2000-07-09",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "baton-rouge-louisiana-2000",
+    "name": "Baton Rouge Louisiana Temple",
+    "location": null,
+    "dedication_date": "2000-07-16",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "oklahoma-city-oklahoma-2000",
+    "name": "Oklahoma City Oklahoma Temple",
+    "location": null,
+    "dedication_date": "2000-07-30",
+    "dedicated_by": "james-e-faust-1920",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "caracas-venezuela-2000",
+    "name": "Caracas Venezuela Temple",
+    "location": null,
+    "dedication_date": "2000-08-20",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "houston-texas-2000",
+    "name": "Houston Texas Temple",
+    "location": null,
+    "dedication_date": "2000-08-26",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "birmingham-alabama-2000",
+    "name": "Birmingham Alabama Temple",
+    "location": null,
+    "dedication_date": "2000-09-03",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "santo-domingo-dominican-republic-2000",
+    "name": "Santo Domingo Dominican Republic Temple",
+    "location": null,
+    "dedication_date": "2000-09-17",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "boston-massachusetts-2000",
+    "name": "Boston Massachusetts Temple",
+    "location": null,
+    "dedication_date": "2000-10-01",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "recife-brazil-2000",
+    "name": "Recife Brazil Temple",
+    "location": null,
+    "dedication_date": "2000-12-15",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "porto-alegre-brazil-2000",
+    "name": "Porto Alegre Brazil Temple",
+    "location": null,
+    "dedication_date": "2000-12-17",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "montevideo-uruguay-2001",
+    "name": "Montevideo Uruguay Temple",
+    "location": null,
+    "dedication_date": "2001-03-18",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "winter-quarters-nebraska-2001",
+    "name": "Winter Quarters Nebraska Temple",
+    "location": null,
+    "dedication_date": "2001-04-22",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "guadalajara-mexico-2001",
+    "name": "Guadalajara Mexico Temple",
+    "location": null,
+    "dedication_date": "2001-04-29",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "perth-australia-2001",
+    "name": "Perth Australia Temple",
+    "location": null,
+    "dedication_date": "2001-05-20",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "columbia-river-washington-2001",
+    "name": "Columbia River Washington Temple",
+    "location": null,
+    "dedication_date": "2001-11-18",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "snowflake-arizona-2002",
+    "name": "Snowflake Arizona Temple",
+    "location": null,
+    "dedication_date": "2002-03-03",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "lubbock-texas-2002",
+    "name": "Lubbock Texas Temple",
+    "location": null,
+    "dedication_date": "2002-04-21",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "monterrey-mexico-2002",
+    "name": "Monterrey Mexico Temple",
+    "location": null,
+    "dedication_date": "2002-04-28",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "campinas-brazil-2002",
+    "name": "Campinas Brazil Temple",
+    "location": null,
+    "dedication_date": "2002-05-17",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "asunci\u00f3n-paraguay-2002",
+    "name": "Asunci\u00f3n Paraguay Temple",
+    "location": null,
+    "dedication_date": "2002-05-19",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "nauvoo-illinois-2002",
+    "name": "Nauvoo Illinois Temple",
+    "location": null,
+    "dedication_date": "2002-06-27",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "the-hague-netherlands-2002",
+    "name": "The Hague Netherlands Temple",
+    "location": null,
+    "dedication_date": "2002-09-08",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "brisbane-australia-2003",
+    "name": "Brisbane Australia Temple",
+    "location": null,
+    "dedication_date": "2003-06-15",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "redlands-california-2003",
+    "name": "Redlands California Temple",
+    "location": null,
+    "dedication_date": "2003-09-14",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "accra-ghana-2004",
+    "name": "Accra Ghana Temple",
+    "location": null,
+    "dedication_date": "2004-01-11",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "copenhagen-denmark-2004",
+    "name": "Copenhagen Denmark Temple",
+    "location": null,
+    "dedication_date": "2004-05-23",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "manhattan-new-york-2004",
+    "name": "Manhattan New York Temple",
+    "location": null,
+    "dedication_date": "2004-06-13",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "san-antonio-texas-2005",
+    "name": "San Antonio Texas Temple",
+    "location": null,
+    "dedication_date": "2005-05-22",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "aba-nigeria-2005",
+    "name": "Aba Nigeria Temple",
+    "location": null,
+    "dedication_date": "2005-08-07",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "newport-beach-california-2005",
+    "name": "Newport Beach California Temple",
+    "location": null,
+    "dedication_date": "2005-08-28",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "sacramento-california-2006",
+    "name": "Sacramento California Temple",
+    "location": null,
+    "dedication_date": "2006-09-03",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "helsinki-finland-2006",
+    "name": "Helsinki Finland Temple",
+    "location": null,
+    "dedication_date": "2006-10-22",
+    "dedicated_by": "gordon-b-hinckley-1910",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "rexburg-idaho-2008",
+    "name": "Rexburg Idaho Temple",
+    "location": null,
+    "dedication_date": "2008-02-10",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "curitiba-brazil-2008",
+    "name": "Curitiba Brazil Temple",
+    "location": null,
+    "dedication_date": "2008-06-01",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "panama-city-panama-2008",
+    "name": "Panama City Panama Temple",
+    "location": null,
+    "dedication_date": "2008-08-10",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "twin-falls-idaho-2008",
+    "name": "Twin Falls Idaho Temple",
+    "location": null,
+    "dedication_date": "2008-08-24",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "draper-utah-2009",
+    "name": "Draper Utah Temple",
+    "location": null,
+    "dedication_date": "2009-03-20",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "oquirrh-mountain-utah-2009",
+    "name": "Oquirrh Mountain Utah Temple",
+    "location": null,
+    "dedication_date": "2009-08-21",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "vancouver-british-columbia-2010",
+    "name": "Vancouver British Columbia Temple",
+    "location": null,
+    "dedication_date": "2010-05-02",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "gila-valley-arizona-2010",
+    "name": "Gila Valley Arizona Temple",
+    "location": null,
+    "dedication_date": "2010-05-23",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "cebu-city-philippines-2010",
+    "name": "Cebu City Philippines Temple",
+    "location": null,
+    "dedication_date": "2010-06-13",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "kyiv-ukraine-2010",
+    "name": "Kyiv Ukraine Temple",
+    "location": null,
+    "dedication_date": "2010-08-29",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "san-salvador-el-salvador-2011",
+    "name": "San Salvador El Salvador Temple",
+    "location": null,
+    "dedication_date": "2011-08-21",
+    "dedicated_by": "hb-eyring-1933",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "quetzaltenango-guatemala-2011",
+    "name": "Quetzaltenango Guatemala Temple",
+    "location": null,
+    "dedication_date": "2011-12-11",
+    "dedicated_by": "dieter-f-uchtdorf-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "kansas-city-missouri-2012",
+    "name": "Kansas City Missouri Temple",
+    "location": null,
+    "dedication_date": "2012-05-06",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "manaus-brazil-2012",
+    "name": "Manaus Brazil Temple",
+    "location": null,
+    "dedication_date": "2012-06-10",
+    "dedicated_by": "dieter-f-uchtdorf-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "brigham-city-utah-2012",
+    "name": "Brigham City Utah Temple",
+    "location": null,
+    "dedication_date": "2012-09-23",
+    "dedicated_by": "boyd-k-packer-1924",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "calgary-alberta-2012",
+    "name": "Calgary Alberta Temple",
+    "location": null,
+    "dedication_date": "2012-10-28",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "tegucigalpa-honduras-2013",
+    "name": "Tegucigalpa Honduras Temple",
+    "location": null,
+    "dedication_date": "2013-03-17",
+    "dedicated_by": "dieter-f-uchtdorf-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "gilbert-arizona-2014",
+    "name": "Gilbert Arizona Temple",
+    "location": null,
+    "dedication_date": "2014-03-02",
+    "dedicated_by": "hb-eyring-1933",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "fort-lauderdale-florida-2014",
+    "name": "Fort Lauderdale Florida Temple",
+    "location": null,
+    "dedication_date": "2014-05-04",
+    "dedicated_by": "dieter-f-uchtdorf-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "phoenix-arizona-2014",
+    "name": "Phoenix Arizona Temple",
+    "location": null,
+    "dedication_date": "2014-11-16",
+    "dedicated_by": "thomas-s-monson-1927",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "c\u00f3rdoba-argentina-2015",
+    "name": "C\u00f3rdoba Argentina Temple",
+    "location": null,
+    "dedication_date": "2015-05-17",
+    "dedicated_by": "dieter-f-uchtdorf-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "payson-utah-2015",
+    "name": "Payson Utah Temple",
+    "location": null,
+    "dedication_date": "2015-06-07",
+    "dedicated_by": "hb-eyring-1933",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "trujillo-peru-2015",
+    "name": "Trujillo Peru Temple",
+    "location": null,
+    "dedication_date": "2015-06-21",
+    "dedicated_by": "dieter-f-uchtdorf-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "indianapolis-indiana-2015",
+    "name": "Indianapolis Indiana Temple",
+    "location": null,
+    "dedication_date": "2015-08-23",
+    "dedicated_by": "hb-eyring-1933",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "tijuana-mexico-2015",
+    "name": "Tijuana Mexico Temple",
+    "location": null,
+    "dedication_date": "2015-12-13",
+    "dedicated_by": "dieter-f-uchtdorf-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "provo-city-center-2016",
+    "name": "Provo City Center Temple",
+    "location": null,
+    "dedication_date": "2016-03-20",
+    "dedicated_by": "dallin-h-oaks-1932",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "sapporo-japan-2016",
+    "name": "Sapporo Japan Temple",
+    "location": null,
+    "dedication_date": "2016-08-21",
+    "dedicated_by": "rm-nelson-1924",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "philadelphia-pennsylvania-2016",
+    "name": "Philadelphia Pennsylvania Temple",
+    "location": null,
+    "dedication_date": "2016-09-18",
+    "dedicated_by": "hb-eyring-1933",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "fort-collins-colorado-2016",
+    "name": "Fort Collins Colorado Temple",
+    "location": null,
+    "dedication_date": "2016-10-16",
+    "dedicated_by": "dieter-f-uchtdorf-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "star-valley-wyoming-2016",
+    "name": "Star Valley Wyoming Temple",
+    "location": null,
+    "dedication_date": "2016-10-30",
+    "dedicated_by": "david-a-bednar-1952",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "hartford-connecticut-2016",
+    "name": "Hartford Connecticut Temple",
+    "location": null,
+    "dedication_date": "2016-11-20",
+    "dedicated_by": "hb-eyring-1933",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "paris-france-2017",
+    "name": "Paris France Temple",
+    "location": null,
+    "dedication_date": "2017-05-21",
+    "dedicated_by": "hb-eyring-1933",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "tucson-arizona-2017",
+    "name": "Tucson Arizona Temple",
+    "location": null,
+    "dedication_date": "2017-08-13",
+    "dedicated_by": "dieter-f-uchtdorf-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "meridian-idaho-2017",
+    "name": "Meridian Idaho Temple",
+    "location": null,
+    "dedication_date": "2017-11-19",
+    "dedicated_by": "dieter-f-uchtdorf-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "cedar-city-utah-2017",
+    "name": "Cedar City Utah Temple",
+    "location": null,
+    "dedication_date": "2017-12-10",
+    "dedicated_by": "hb-eyring-1933",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "concepci\u00f3n-chile-2018",
+    "name": "Concepci\u00f3n Chile Temple",
+    "location": null,
+    "dedication_date": "2018-10-28",
+    "dedicated_by": "rm-nelson-1924",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "barranquilla-colombia-2018",
+    "name": "Barranquilla Colombia Temple",
+    "location": null,
+    "dedication_date": "2018-12-09",
+    "dedicated_by": "dallin-h-oaks-1932",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "rome-italy-2019",
+    "name": "Rome Italy Temple",
+    "location": null,
+    "dedication_date": "2019-03-10",
+    "dedicated_by": "rm-nelson-1924",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "kinshasa-democratic-republic-of-the-congo-2019",
+    "name": "Kinshasa Democratic Republic of the Congo Temple",
+    "location": null,
+    "dedication_date": "2019-04-14",
+    "dedicated_by": "dale-g-renlund-1952",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "fortaleza-brazil-2019",
+    "name": "Fortaleza Brazil Temple",
+    "location": null,
+    "dedication_date": "2019-06-02",
+    "dedicated_by": "ulisses-soares-1958",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "port-au-prince-haiti-2019",
+    "name": "Port-au-Prince Haiti Temple",
+    "location": null,
+    "dedication_date": "2019-09-01",
+    "dedicated_by": "david-a-bednar-1952",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "lisbon-portugal-2019",
+    "name": "Lisbon Portugal Temple",
+    "location": null,
+    "dedication_date": "2019-09-15",
+    "dedicated_by": "neil-l-andersen-1951",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "arequipa-peru-2019",
+    "name": "Arequipa Peru Temple",
+    "location": null,
+    "dedication_date": "2019-12-15",
+    "dedicated_by": "ulisses-soares-1958",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "durban-south-africa-2020",
+    "name": "Durban South Africa Temple",
+    "location": null,
+    "dedication_date": "2020-02-16",
+    "dedicated_by": "ronald-a-rasband-1951",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "winnipeg-manitoba-2021",
+    "name": "Winnipeg Manitoba Temple",
+    "location": null,
+    "dedication_date": "2021-10-31",
+    "dedicated_by": "gerrit-w-gong-1953",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "pocatello-idaho-2021",
+    "name": "Pocatello Idaho Temple",
+    "location": null,
+    "dedication_date": "2021-11-07",
+    "dedicated_by": "m-russell-ballard-1928",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "rio-de-janeiro-brazil-2022",
+    "name": "Rio de Janeiro Brazil Temple",
+    "location": null,
+    "dedication_date": "2022-05-08",
+    "dedicated_by": "gary-e-stevenson-1955",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "yigo-guam-2022",
+    "name": "Yigo Guam Temple",
+    "location": null,
+    "dedication_date": "2022-05-22",
+    "dedicated_by": "david-a-bednar-1952",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "praia-cape-verde-2022",
+    "name": "Praia Cape Verde Temple",
+    "location": null,
+    "dedication_date": "2022-06-19",
+    "dedicated_by": "neil-l-andersen-1951",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "bel\u00e9m-brazil-2022",
+    "name": "Bel\u00e9m Brazil Temple",
+    "location": null,
+    "dedication_date": "2022-11-20",
+    "dedicated_by": "dale-g-renlund-1952",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "quito-ecuador-2022",
+    "name": "Quito Ecuador Temple",
+    "location": null,
+    "dedication_date": "2022-11-20",
+    "dedicated_by": "quentinl-cook-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "san-juan-puerto-rico-2023",
+    "name": "San Juan Puerto Rico Temple",
+    "location": null,
+    "dedication_date": "2023-01-15",
+    "dedicated_by": "d-todd-christofferson-1945",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "richmond-virginia-2023",
+    "name": "Richmond Virginia Temple",
+    "location": null,
+    "dedication_date": "2023-05-07",
+    "dedicated_by": "dallin-h-oaks-1932",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "helena-montana-2023",
+    "name": "Helena Montana Temple",
+    "location": null,
+    "dedication_date": "2023-06-18",
+    "dedicated_by": "gary-e-stevenson-1955",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "saratoga-springs-utah-2023",
+    "name": "Saratoga Springs Utah Temple",
+    "location": null,
+    "dedication_date": "2023-08-13",
+    "dedicated_by": "hb-eyring-1933",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "bras\u00edlia-brazil-2023",
+    "name": "Bras\u00edlia Brazil Temple",
+    "location": null,
+    "dedication_date": "2023-09-17",
+    "dedicated_by": "neil-l-andersen-1951",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "bentonville-arkansas-2023",
+    "name": "Bentonville Arkansas Temple",
+    "location": null,
+    "dedication_date": "2023-09-17",
+    "dedicated_by": "david-a-bednar-1952",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "moses-lake-washington-2023",
+    "name": "Moses Lake Washington Temple",
+    "location": null,
+    "dedication_date": "2023-09-17",
+    "dedicated_by": "quentinl-cook-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "mcallen-texas-2023",
+    "name": "McAllen Texas Temple",
+    "location": null,
+    "dedication_date": "2023-10-08",
+    "dedicated_by": "dieter-f-uchtdorf-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "feather-river-california-2023",
+    "name": "Feather River California Temple",
+    "location": null,
+    "dedication_date": "2023-10-08",
+    "dedicated_by": "ulisses-soares-1958",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "bangkok-thailand-2023",
+    "name": "Bangkok Thailand Temple",
+    "location": null,
+    "dedication_date": "2023-10-22",
+    "dedicated_by": "ronald-a-rasband-1951",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "okinawa-japan-2023",
+    "name": "Okinawa Japan Temple",
+    "location": null,
+    "dedication_date": "2023-11-12",
+    "dedicated_by": "gary-e-stevenson-1955",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "lima-peru-los-olivos-2024",
+    "name": "Lima Peru Los Olivos Temple",
+    "location": null,
+    "dedication_date": "2024-01-14",
+    "dedicated_by": "d-todd-christofferson-1945",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "orem-utah-2024",
+    "name": "Orem Utah Temple",
+    "location": null,
+    "dedication_date": "2024-01-21",
+    "dedicated_by": "d-todd-christofferson-1945",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "red-cliffs-utah-2024",
+    "name": "Red Cliffs Utah Temple",
+    "location": null,
+    "dedication_date": "2024-03-24",
+    "dedicated_by": "hb-eyring-1933",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "urdaneta-philippines-2024",
+    "name": "Urdaneta Philippines Temple",
+    "location": null,
+    "dedication_date": "2024-04-28",
+    "dedicated_by": "dallin-h-oaks-1932",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "puebla-mexico-2024",
+    "name": "Puebla Mexico Temple",
+    "location": null,
+    "dedication_date": "2024-05-19",
+    "dedicated_by": "gerrit-w-gong-1953",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "taylorsville-utah-2024",
+    "name": "Taylorsville Utah Temple",
+    "location": null,
+    "dedication_date": "2024-06-02",
+    "dedicated_by": "gerrit-w-gong-1953",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "cob\u00e1n-guatemala-2024",
+    "name": "Cob\u00e1n Guatemala Temple",
+    "location": null,
+    "dedication_date": "2024-06-09",
+    "dedicated_by": "dale-g-renlund-1952",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "salta-argentina-2024",
+    "name": "Salta Argentina Temple",
+    "location": null,
+    "dedication_date": "2024-06-16",
+    "dedicated_by": "d-todd-christofferson-1945",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "layton-utah-2024",
+    "name": "Layton Utah Temple",
+    "location": null,
+    "dedication_date": "2024-06-16",
+    "dedicated_by": "david-a-bednar-1952",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "pittsburgh-pennsylvania-2024",
+    "name": "Pittsburgh Pennsylvania Temple",
+    "location": null,
+    "dedication_date": "2024-09-15",
+    "dedicated_by": "dieter-f-uchtdorf-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "mendoza-argentina-2024",
+    "name": "Mendoza Argentina Temple",
+    "location": null,
+    "dedication_date": "2024-09-22",
+    "dedicated_by": "ronald-a-rasband-1951",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "san-pedro-sula-honduras-2024",
+    "name": "San Pedro Sula Honduras Temple",
+    "location": null,
+    "dedication_date": "2024-10-13",
+    "dedicated_by": "dale-g-renlund-1952",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "salvador-brazil-2024",
+    "name": "Salvador Brazil Temple",
+    "location": null,
+    "dedication_date": "2024-10-20",
+    "dedicated_by": "neil-l-andersen-1951",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "deseret-peak-utah-2024",
+    "name": "Deseret Peak Utah Temple",
+    "location": null,
+    "dedication_date": "2024-11-10",
+    "dedicated_by": "rm-nelson-1924",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "casper-wyoming-2024",
+    "name": "Casper Wyoming Temple",
+    "location": null,
+    "dedication_date": "2024-11-24",
+    "dedicated_by": "quentinl-cook-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "tallahassee-florida-2024",
+    "name": "Tallahassee Florida Temple",
+    "location": null,
+    "dedication_date": "2024-12-08",
+    "dedicated_by": "patrick-kearon-1961",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "auckland-new-zealand-2025",
+    "name": "Auckland New Zealand Temple",
+    "location": null,
+    "dedication_date": "2025-04-13",
+    "dedicated_by": "patrick-kearon-1961",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "nairobi-kenya-2025",
+    "name": "Nairobi Kenya Temple",
+    "location": null,
+    "dedication_date": "2025-05-18",
+    "dedicated_by": "ulisses-soares-1958",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "abidjan-ivory-coast-2025",
+    "name": "Abidjan Ivory Coast Temple",
+    "location": null,
+    "dedication_date": "2025-05-25",
+    "dedicated_by": "ronald-a-rasband-1951",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "syracuse-utah-2025",
+    "name": "Syracuse Utah Temple",
+    "location": null,
+    "dedication_date": "2025-06-08",
+    "dedicated_by": "rm-nelson-1924",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "antofagasta-chile-2025",
+    "name": "Antofagasta Chile Temple",
+    "location": null,
+    "dedication_date": "2025-06-15",
+    "dedicated_by": "gary-e-stevenson-1955",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "farmington-new-mexico-2025",
+    "name": "Farmington New Mexico Temple",
+    "location": null,
+    "dedication_date": "2025-08-17",
+    "dedicated_by": "neil-l-andersen-1951",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "elko-nevada-2025",
+    "name": "Elko Nevada Temple",
+    "location": null,
+    "dedication_date": "2025-10-12",
+    "dedicated_by": "gary-e-stevenson-1955",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "grand-junction-colorado-2025",
+    "name": "Grand Junction Colorado Temple",
+    "location": null,
+    "dedication_date": "2025-10-19",
+    "dedicated_by": "jeffrey-r-holland-1940",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "bah\u00eda-blanca-argentina-2025",
+    "name": "Bah\u00eda Blanca Argentina Temple",
+    "location": null,
+    "dedication_date": "2025-11-23",
+    "dedicated_by": "ulisses-soares-1958",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "burley-idaho-2026",
+    "name": "Burley Idaho Temple",
+    "location": null,
+    "dedication_date": "2026-01-11",
+    "dedicated_by": "dallin-h-oaks-1932",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "alabang-philippines-2026",
+    "name": "Alabang Philippines Temple",
+    "location": null,
+    "dedication_date": "2026-01-18",
+    "dedicated_by": "david-a-bednar-1952",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "harare-zimbabwe-2026",
+    "name": "Harare Zimbabwe Temple",
+    "location": null,
+    "dedication_date": "2026-03-01",
+    "dedicated_by": "gerrit-w-gong-1953",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "davao-philippines-2026",
+    "name": "Davao Philippines Temple",
+    "location": null,
+    "dedication_date": "2026-05-03",
+    "dedicated_by": "dale-g-renlund-1952",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  },
+  {
+    "id": "lindon-utah-2026",
+    "name": "Lindon Utah Temple",
+    "location": null,
+    "dedication_date": "2026-05-03",
+    "dedicated_by": "hb-eyring-1933",
+    "type": "dedication",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_temples_(LDS_Church)",
+        "accessed": "2026-05-23"
+      }
+    ]
+  }
+]

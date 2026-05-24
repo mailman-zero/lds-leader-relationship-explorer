@@ -1,7 +1,8 @@
-import { useEffect, useMemo } from "react";
+import { useEffect, useMemo, useState } from "react";
 import type { Graph, Snapshot } from "../graph/types";
 import { getAllPaths } from "../graph/traversal";
 import { deriveLabel, formatPath } from "../graph/labeler";
+import { getPersonTimeline } from "../graph/timeline";
 import { Card } from "./Card";
 import { Portrait } from "./Portrait";
 import { useBiography } from "../hooks/useBiography";
@@ -16,6 +17,12 @@ function formatFlexDate(s: string | null | undefined): string | null {
   if (!s) return null;
   if (/^\d{4}-\d{2}-\d{2}$/.test(s)) return formatDate(s);
   return s;
+}
+
+function shortDate(iso: string): string {
+  const [y, m] = iso.split("-").map(Number);
+  const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  return `${months[m - 1]} ${y}`;
 }
 
 function positionLabel(code: string): string {
@@ -34,11 +41,25 @@ interface DetailProps {
   snapshot: Snapshot;
   onClose: () => void;
   onSwitch: (id: string) => void;
+  onNavigateToDate: (date: string) => void;
 }
 
-export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailProps) {
+export function Detail({ personId, graph, snapshot, onClose, onSwitch, onNavigateToDate }: DetailProps) {
   const person = graph.people.get(personId);
   const bio = useBiography(personId);
+  const [timelineOpen, setTimelineOpen] = useState(false);
+
+  // Close the timeline whenever the user switches to a different person.
+  useEffect(() => { setTimelineOpen(false); }, [personId]);
+
+  const personEvents = useMemo(() => getPersonTimeline(graph, personId), [graph, personId]);
+  const personTemples = useMemo(
+    () =>
+      graph.temples
+        .filter((t) => t.dedicated_by === personId)
+        .sort((a, b) => a.dedication_date.localeCompare(b.dedication_date)),
+    [graph, personId]
+  );
 
   const allActive = [
     snapshot.president,
@@ -49,12 +70,39 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailP
   ].filter(Boolean);
 
   const myPosition = allActive.find(p => p?.person_id === personId);
-  const mainGroup = myPosition?.position_code.startsWith("fp") || myPosition?.position_code === "church-president"
+
+  // For deceased/historical leaders the snapshot has no current position. Fall
+  // back to their highest-ranking historical position so the pill still shows
+  // and can toggle the per-person timeline.
+  const POSITION_RANK: Record<string, number> = {
+    "church-president": 6,
+    "fp-first-counselor": 5,
+    "fp-second-counselor": 4,
+    "fp-counselor": 3,
+    "q12-president": 2,
+    "q12-member": 1,
+  };
+  const historicalBest = useMemo(() => {
+    if (myPosition) return null;
+    let best: { position_code: string; ordination_date: string } | null = null;
+    for (const p of graph.positions) {
+      if (p.person_id !== personId) continue;
+      const rank = POSITION_RANK[p.position_code] ?? 0;
+      if (!best || rank > (POSITION_RANK[best.position_code] ?? 0)) {
+        best = { position_code: p.position_code, ordination_date: p.ordination_date };
+      }
+    }
+    return best;
+  }, [graph, personId, myPosition]);
+
+  const displayedRoleCode = myPosition?.position_code ?? historicalBest?.position_code ?? null;
+  const mainGroup = displayedRoleCode?.startsWith("fp") || displayedRoleCode === "church-president"
     ? "First Presidency"
-    : myPosition?.position_code.startsWith("q12")
+    : displayedRoleCode?.startsWith("q12")
     ? "Quorum of the Twelve Apostles"
     : null;
-  const mainRole = myPosition ? positionLabel(myPosition.position_code) : null;
+  const mainRole = displayedRoleCode ? positionLabel(displayedRoleCode) : null;
+  const pillDateLabel = myPosition ? formatDate(snapshot.date) : "Historical";
 
   const currentLeaderIds = new Set(
     allActive.filter(Boolean).map(p => p!.person_id)
@@ -126,14 +174,76 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailP
           <div className="hero-info">
             {mainGroup && <div className="hero-eyebrow">{mainGroup}</div>}
             <h1 className="hero-name">{person?.display_name}</h1>
-            {mainRole && (
+            {mainRole && personEvents.length > 0 && (
+              <button
+                type="button"
+                className={`pill pill-toggle ${timelineOpen ? "open" : ""}`}
+                aria-expanded={timelineOpen}
+                aria-controls="person-timeline"
+                onClick={() => setTimelineOpen((o) => !o)}
+              >
+                <b>{mainRole}</b>
+                {mainGroup && <><span style={{ opacity: 0.55 }}>·</span>{mainGroup}</>}
+                <span style={{ opacity: 0.55 }}>·</span>
+                {pillDateLabel}
+                <span className="caret" aria-hidden="true">
+                  <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <polyline points="6 9 12 15 18 9" />
+                  </svg>
+                </span>
+              </button>
+            )}
+            {mainRole && personEvents.length === 0 && (
               <span className="pill">
                 <b>{mainRole}</b>
                 {mainGroup && <><span style={{ opacity: 0.55 }}>·</span>{mainGroup}</>}
                 <span style={{ opacity: 0.55 }}>·</span>
-                {formatDate(snapshot.date)}
+                {pillDateLabel}
               </span>
             )}
+
+            {timelineOpen && personEvents.length > 0 && (() => {
+              const first = new Date(personEvents[0].date).getTime();
+              const last = new Date(personEvents[personEvents.length - 1].date).getTime();
+              const span = Math.max(1, last - first);
+              return (
+                <div id="person-timeline" className="person-timeline" role="region" aria-label="Events for this person">
+                  <div className="pt-meta">
+                    <span className="lbl">Leadership events</span>
+                    <span className="count">{personEvents.length} {personEvents.length === 1 ? "event" : "events"}</span>
+                  </div>
+                  <div className="pt-rule">
+                    {personEvents.flatMap((ev) => {
+                      const pct = personEvents.length === 1
+                        ? 50
+                        : ((new Date(ev.date).getTime() - first) / span) * 100;
+                      return [
+                        <button
+                          key={`dot-${ev.date}-${ev.type}`}
+                          type="button"
+                          className={`tl-dot ${ev.hypothetical ? "hypothetical" : ""} ${ev.type === "death" ? "death" : ""}`}
+                          style={{ left: `${pct}%` }}
+                          onClick={() => onNavigateToDate(ev.navigate_date)}
+                          aria-label={`${formatDate(ev.date)}: ${ev.label}`}
+                        />,
+                        <div
+                          key={`tip-${ev.date}-${ev.type}`}
+                          className="tl-tooltip"
+                          style={{ left: `${pct}%` }}
+                        >
+                          <span className="d">{formatDate(ev.date)}</span>
+                          {ev.label}
+                        </div>,
+                      ];
+                    })}
+                  </div>
+                  <div className="tl-axis">
+                    <span>{shortDate(personEvents[0].date)}</span>
+                    {personEvents.length > 1 && <span>{shortDate(personEvents[personEvents.length - 1].date)}</span>}
+                  </div>
+                </div>
+              );
+            })()}
 
             {/* Stats */}
             <dl className="bio-stats">
@@ -203,12 +313,23 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch }: DetailP
             )}
 
             {/* Temples dedicated */}
-            {bio?.temples_dedicated && bio.temples_dedicated.length > 0 && (
+            {personTemples.length > 0 && (
               <div className="bio-prose">
-                <div className="bio-prose-label">Temples Dedicated</div>
-                <ul className="bio-temple-list">
-                  {bio.temples_dedicated.map((t, i) => <li key={i}>{t}</li>)}
-                </ul>
+                <div className="bio-prose-label">
+                  Temples Dedicated
+                  <span className="bio-prose-count">{personTemples.length}</span>
+                </div>
+                <div className="temple-grid">
+                  {personTemples.map((t) => (
+                    <div className="temple-card" key={t.id}>
+                      <div className="name">{t.name}</div>
+                      <div className="date">
+                        {formatFlexDate(t.dedication_date)}
+                        {t.type === "rededication" && <span className="tag">Rededication</span>}
+                      </div>
+                    </div>
+                  ))}
+                </div>
               </div>
             )}
           </div>

@@ -1,5 +1,5 @@
 import { z } from "zod";
-import type { Person, Relationship, LeadershipPosition } from "./types.ts";
+import type { Person, Relationship, LeadershipPosition, Temple } from "./types.ts";
 
 const SourceSchema = z.object({
   url: z.string(),
@@ -96,15 +96,27 @@ const PositionSchema = z.object({
   sources: z.array(SourceSchema),
 });
 
+const TempleSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  location: z.string().nullable().optional(),
+  dedication_date: z.string(),
+  dedicated_by: z.string().nullable(),
+  type: z.enum(["dedication", "rededication"]),
+  sources: z.array(SourceSchema).optional(),
+});
+
 export async function loadRawData(): Promise<{
   people: Person[];
   relationships: Relationship[];
   positions: LeadershipPosition[];
+  temples: Temple[];
 }> {
-  const [peopleRes, relsRes, positionsRes] = await Promise.all([
+  const [peopleRes, relsRes, positionsRes, templesRes] = await Promise.all([
     fetch(import.meta.env.BASE_URL + "data/people.json"),
     fetch(import.meta.env.BASE_URL + "data/relationships.json"),
     fetch(import.meta.env.BASE_URL + "data/leadership_positions.json"),
+    fetch(import.meta.env.BASE_URL + "data/temples.json"),
   ]);
 
   const [rawPeople, rawRels, rawPositions] = await Promise.all([
@@ -112,10 +124,13 @@ export async function loadRawData(): Promise<{
     relsRes.json(),
     positionsRes.json(),
   ]);
+  // temples.json may not yet exist in older deployments — degrade to empty array.
+  const rawTemples = templesRes.ok ? await templesRes.json() : [];
 
   const people = z.array(PersonSchema).parse(rawPeople) as Person[];
   const relationships = z.array(RelationshipSchema).parse(rawRels) as Relationship[];
   const positions = z.array(PositionSchema).parse(rawPositions) as LeadershipPosition[];
+  const temples = z.array(TempleSchema).parse(rawTemples) as Temple[];
 
-  return { people, relationships, positions };
+  return { people, relationships, positions, temples };
 }
