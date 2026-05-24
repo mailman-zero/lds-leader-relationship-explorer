@@ -1,0 +1,30 @@
+{
+  "person_id": "john-f-boynton-1811",
+  "display_name": "John F. Boynton",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_F._Boynton",
+  "pedigree": {
+    "grandparents": [
+      { "name": "Eliphalet Boynton", "birth_year": null, "birth_place": "Essex County, Massachusetts, USA", "death_year": null },
+      { "name": "Susan Nichols Boynton", "birth_year": null, "birth_place": null, "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Susan Lowell Boynton",
+      "marriage_year": null,
+      "grandparents": []
+    },
+    {
+      "name": "Mary West Jenkins Boynton",
+      "marriage_year": 1865,
+      "grandparents": []
+    }
+  ],
+  "siblings": [
+    { "name": "Olive Boynton Hale", "spouse": null }
+  ],
+  "notes": "Born Bradford, Essex County, MA, 1811. Father Eliphalet Boynton; mother Susan Nichols. Sister Olive Boynton Hale (nephew Alma Helaman Hale of Grantsville, UT). First wife Susan Lowell. Excommunicated 1837. Bradford MA is Essex County - overlaps geographically with some early New England Mormon families. Sister's marriage into Hale family worth noting but no direct apostle link found. No connections to main cluster."
+}

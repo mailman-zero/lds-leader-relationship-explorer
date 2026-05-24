@@ -1,0 +1,23 @@
+{
+  "person_id": "robert-d-hales-1932",
+  "display_name": "Robert D. Hales",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_D._Hales",
+  "pedigree": {
+    "grandparents": [
+      { "name": "John Rulon Hales", "birth_year": null, "birth_place": null, "death_year": null },
+      { "name": "Vera Marie Holbrook Hales", "birth_year": null, "birth_place": "Rexburg, Idaho, USA", "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Mary Crandall Hales",
+      "marriage_year": 1953,
+      "grandparents": []
+    }
+  ],
+  "siblings": [],
+  "notes": "Mother Vera Marie Holbrook from Rexburg, Idaho. Holbrook is a Mormon pioneer surname — Rexburg is in Madison County, a strong pioneer settlement area. Wikipedia provides no further pedigree. Mary Crandall from California (met in New York); Crandall is a New England surname. No connections found via Wikipedia."
+}

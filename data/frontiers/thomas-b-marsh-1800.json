@@ -1,0 +1,23 @@
+{
+  "person_id": "thomas-b-marsh-1800",
+  "display_name": "Thomas B. Marsh",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_B._Marsh",
+  "pedigree": {
+    "grandparents": [
+      { "name": "James Marsh", "birth_year": null, "birth_place": "Massachusetts, USA", "death_year": null },
+      { "name": "Molly Law Marsh", "birth_year": null, "birth_place": null, "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Elizabeth Godkin Marsh",
+      "marriage_year": 1820,
+      "grandparents": []
+    }
+  ],
+  "siblings": [],
+  "notes": "Born Acton, Massachusetts, November 1, 1800. Father James Marsh; mother Molly Law. Married Elizabeth Godkin Nov 1, 1820 in NYC. No children or siblings listed in Wikipedia. No connections to apostle families found. Excommunicated 1839, readmitted, died 1866. Acton MA overlaps geographically with some early Q12 families but no family links found."
+}

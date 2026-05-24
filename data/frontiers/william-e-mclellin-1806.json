@@ -1,0 +1,28 @@
+{
+  "person_id": "william-e-mclellin-1806",
+  "display_name": "William E. McLellin",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_E._McLellin",
+  "pedigree": {
+    "grandparents": [
+      { "name": "Charles McLellin", "birth_year": null, "birth_place": "Tennessee, USA", "death_year": null },
+      { "name": "Sarah McLellin", "birth_year": null, "birth_place": null, "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Cynthia Ann McLellin",
+      "marriage_year": 1829,
+      "grandparents": []
+    },
+    {
+      "name": "Emeline Miller McLellin",
+      "marriage_year": 1832,
+      "grandparents": []
+    }
+  ],
+  "siblings": [],
+  "notes": "Born Smith County, Tennessee 1806. Father Charles McLellin; mother Sarah (of Cherokee descent). First wife Cynthia Ann died 1831. Second wife Emeline Miller (married 1832 Portage County, Ohio). 6 children with Emeline. Excommunicated 1838. Tennessee ancestry - disjoint from main New England-rooted apostolic kinship pool. No connections found."
+}

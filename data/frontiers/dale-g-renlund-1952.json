@@ -1,0 +1,28 @@
+{
+  "person_id": "dale-g-renlund-1952",
+  "display_name": "Dale G. Renlund",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dale_G._Renlund",
+  "pedigree": {
+    "grandparents": [
+      { "name": "Mats Åke Renlund", "birth_year": null, "birth_place": "Finland", "death_year": null },
+      { "name": "Mariana Andersson", "birth_year": null, "birth_place": "Sweden", "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Ruth Lybbert Renlund",
+      "marriage_year": 1977,
+      "grandparents": [
+        { "name": "Charles Lester Lybbert", "birth_year": null, "birth_place": "Alberta, Canada", "death_year": null },
+        { "name": "Delvia Reed Lybbert", "birth_year": null, "birth_place": "Alberta, Canada", "death_year": null },
+        { "name": "Jay A. Cahoon", "birth_year": 1905, "birth_place": null, "death_year": 1987 },
+        { "name": "Ada Layne Brown Cahoon", "birth_year": null, "birth_place": null, "death_year": null }
+      ]
+    }
+  ],
+  "siblings": [],
+  "notes": "Dale's parents are Finnish/Swedish immigrants. Ruth Lybbert's father Merlin R. Lybbert is already in graph. Merlin's wife Nola Cahoon (parents Jay A. Cahoon + Ada Layne Brown Cahoon) is the key lead - Jay A. Cahoon may descend from Reynolds Cahoon (early LDS leader). Wikipedia does not confirm this; FamilySearch lookup needed."
+}

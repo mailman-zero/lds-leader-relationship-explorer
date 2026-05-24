@@ -1,0 +1,30 @@
+{
+  "person_id": "henry-d-moyle-1889",
+  "display_name": "Henry D. Moyle",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_D._Moyle",
+  "pedigree": {
+    "grandparents": [
+      { "name": "James Henry Moyle", "birth_year": 1858, "birth_place": "Utah, USA", "death_year": 1946 },
+      { "name": "Alice Dinwoodey Moyle", "birth_year": null, "birth_place": "Utah, USA", "death_year": null },
+      { "name": "Henry Dinwoodey", "birth_year": null, "birth_place": null, "death_year": null }
+    ],
+    "great_grandparents": [
+      { "name": "John Rowe Moyle", "birth_year": null, "birth_place": "Wendron, Cornwall, England", "death_year": null },
+      { "name": "Phillippa Beer Moyle", "birth_year": null, "birth_place": "Devonshire, England", "death_year": null }
+    ],
+    "great_great_grandparents": [
+      { "name": "James Rowe Moyle", "birth_year": null, "birth_place": "Cornwall, England", "death_year": null },
+      { "name": "Elizabeth Rowe Moyle", "birth_year": null, "birth_place": "Cornwall, England", "death_year": null }
+    ]
+  },
+  "spouses": [
+    {
+      "name": "Clara Alberta Wright Moyle",
+      "marriage_year": 1920,
+      "grandparents": []
+    }
+  ],
+  "siblings": [],
+  "notes": "Father James H. Moyle was a prominent Utah politician; grandfather John Rowe Moyle was pioneer stonemason for Salt Lake Temple. Mother Alice Dinwoodey was daughter of Henry Dinwoodey (prominent pioneer furniture magnate). No apostle connections found via Wikipedia; Henry Dinwoodey's other children's marriages untested. Cornish pioneer background, no overlapping surnames with main cluster."
+}

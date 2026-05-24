@@ -3032,7 +3032,7 @@
       {
         "url": "https://rsc.byu.edu/prophets-apostles-last-dispensation/joseph-bitner-wirthlin",
         "accessed": "2026-05-21",
-        "notes": "BYU RSC: Joseph Bitner Wirthlin — middle name Bitner honors mother's family"
+        "notes": "BYU RSC: Joseph Bitner Wirthlin \u2014 middle name Bitner honors mother's family"
       }
     ]
   },
@@ -3041,7 +3041,7 @@
     "type": "parent-child",
     "parent_id": "john-young-1763",
     "child_id": "joseph-young-1797",
-    "notes": "Joseph Young is a son of John Young (1763) and Abigail Nabby Howe — same parents as Brigham Young, making Joseph and Brigham brothers.",
+    "notes": "Joseph Young is a son of John Young (1763) and Abigail Nabby Howe \u2014 same parents as Brigham Young, making Joseph and Brigham brothers.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Joseph_Young",
@@ -3074,7 +3074,7 @@
       {
         "url": "https://newsroom.churchofjesuschrist.org/article/elisa-young-rogers-wirthlin-passes-away",
         "accessed": "2026-05-21",
-        "notes": "Elisa's obituary identifies Bernice Young as her mother and granddaughter of Joseph Young — placing Bernice as Seymour Sr.'s daughter"
+        "notes": "Elisa's obituary identifies Bernice Young as her mother and granddaughter of Joseph Young \u2014 placing Bernice as Seymour Sr.'s daughter"
       }
     ]
   },
@@ -3155,7 +3155,7 @@
     "type": "parent-child",
     "parent_id": "terressa-artemesia-redd-romney-1874",
     "child_id": "marion-g-romney-1897",
-    "notes": "Marion G. Romney's mother was Terressa Artemesia Redd. She married George S. Romney in 1894 in Colonia Juárez.",
+    "notes": "Marion G. Romney's mother was Terressa Artemesia Redd. She married George S. Romney in 1894 in Colonia Ju\u00e1rez.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Marion_G._Romney",
@@ -3745,7 +3745,7 @@
       {
         "url": "https://history.churchofjesuschrist.org/chd/individual/serge-louis-ballif-1821?lang=eng",
         "accessed": "2026-05-22",
-        "notes": "CHD 1854 Robert L. Campbell Company records list Serge Louis Ballif traveling with Elise Marie LeCoultre (age 29), Louisa Alexandrine Ballif (age 4), and Marie Jeanne Ballif (age 2) — both are daughters of Serge Louis Ballif and thus full sisters"
+        "notes": "CHD 1854 Robert L. Campbell Company records list Serge Louis Ballif traveling with Elise Marie LeCoultre (age 29), Louisa Alexandrine Ballif (age 4), and Marie Jeanne Ballif (age 2) \u2014 both are daughters of Serge Louis Ballif and thus full sisters"
       }
     ]
   },
@@ -3859,6 +3859,71 @@
         "url": "https://en.wikipedia.org/wiki/Richard_G._Scott",
         "accessed": "2026-05-22",
         "notes": "Richard G. Scott married Jeanene Watkins on July 16, 1953 in the Manti Temple"
+      }
+    ]
+  },
+  {
+    "id": "rel-henry-m-dinwoodey-1825--alice-dinwoodey-moyle-1865--parent-child",
+    "type": "parent-child",
+    "parent_id": "henry-m-dinwoodey-1825",
+    "child_id": "alice-dinwoodey-moyle-1865",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.geni.com/search?names=Alice+Dinwoodey+Moyle&people=1&birth_year=1860",
+        "accessed": "2026-05-24",
+        "notes": "Geni.com: Alice Evelyn Moyle listed as daughter of Henry M Dinwoodey and Sarah Emily Dinwoodey"
+      }
+    ]
+  },
+  {
+    "id": "rel-henry-m-dinwoodey-1825--florence-dinwoodey-clawson-1864--parent-child",
+    "type": "parent-child",
+    "parent_id": "henry-m-dinwoodey-1825",
+    "child_id": "florence-dinwoodey-clawson-1864",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://www.geni.com/search?names=Florence+Dinwoodey+Clawson&people=1&birth_year=1864",
+        "accessed": "2026-05-24",
+        "notes": "Geni.com: Florence Ann Dinwoody listed as daughter of Henry M Dinwoodey and Ann Dinwoodey"
+      }
+    ]
+  },
+  {
+    "id": "rel-alice-dinwoodey-moyle-1865--henry-d-moyle-1889--parent-child",
+    "type": "parent-child",
+    "parent_id": "alice-dinwoodey-moyle-1865",
+    "child_id": "henry-d-moyle-1889",
+    "subtype": "biological",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_D._Moyle",
+        "accessed": "2026-05-24",
+        "notes": "Henry D. Moyle born 1889 in Salt Lake City to James Moyle and Alice Dinwoodey"
+      },
+      {
+        "url": "https://www.geni.com/search?names=Henry+D+Moyle+apostle&people=1&birth_year=1889",
+        "accessed": "2026-05-24",
+        "notes": "Geni.com: Henry D. Moyle listed as son of James Henry Moyle and Alice Evelyn Moyle (n\u00e9e Dinwoodey)"
+      }
+    ]
+  },
+  {
+    "id": "rel-rudger-clawson-1857--florence-dinwoodey-clawson-1864--spouse",
+    "type": "spouse",
+    "person_a_id": "rudger-clawson-1857",
+    "person_b_id": "florence-dinwoodey-clawson-1864",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rudger_Clawson",
+        "accessed": "2026-05-24",
+        "notes": "Wikipedia: Florence Ann Dinwoody listed as first wife of Rudger Clawson in infobox"
+      },
+      {
+        "url": "https://www.geni.com/search?names=Florence+Dinwoodey+Clawson&people=1&birth_year=1864",
+        "accessed": "2026-05-24",
+        "notes": "Geni.com: Florence Ann Dinwoody married Rudger Clawson; confirmed marriage"
       }
     ]
   }

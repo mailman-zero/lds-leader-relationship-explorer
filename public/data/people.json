@@ -4463,7 +4463,7 @@
     "gender": "M",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "Son of Apostle Orson Hyde. Husband of Annie Taylor Hyde (daughter of President John Taylor). Father of Annie Laura Hyde (wife of Apostle Joseph F. Merrill). Approximate birth year — needs FamilySearch verification.",
+    "notes": "Son of Apostle Orson Hyde. Husband of Annie Taylor Hyde (daughter of President John Taylor). Father of Annie Laura Hyde (wife of Apostle Joseph F. Merrill). Approximate birth year \u2014 needs FamilySearch verification.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Annie_Taylor_Hyde",
@@ -4734,7 +4734,7 @@
     "birth_date": "1836-07-31",
     "birth_place": "Sneads Ferry, Onslow County, North Carolina, USA",
     "death_date": "1910-06-09",
-    "death_place": "Colonia Juárez, Chihuahua, Mexico",
+    "death_place": "Colonia Ju\u00e1rez, Chihuahua, Mexico",
     "gender": "M",
     "is_leader": false,
     "familysearch_id": "KW8Z-7GX",
@@ -4783,7 +4783,7 @@
     "gender": "F",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "Daughter of Lemuel Hardison Redd Jr. and Sariah Louisa Chamberlain. Married George S. Romney on December 5, 1894 in Colonia Juárez. Mother of Apostle/Counselor Marion G. Romney (1897-1988). First cousin of Margaret Vivian Redd McConkie (mother of Apostle Bruce R. McConkie).",
+    "notes": "Daughter of Lemuel Hardison Redd Jr. and Sariah Louisa Chamberlain. Married George S. Romney on December 5, 1894 in Colonia Ju\u00e1rez. Mother of Apostle/Counselor Marion G. Romney (1897-1988). First cousin of Margaret Vivian Redd McConkie (mother of Apostle Bruce R. McConkie).",
     "sources": [
       {
         "url": "https://familypedia.fandom.com/wiki/Marion_George_Romney_(1897-1988)",
@@ -4828,7 +4828,7 @@
     "gender": "F",
     "is_leader": false,
     "familysearch_id": "KWC6-RFJ",
-    "notes": "Daughter of James Monroe Redd and Lucinda Alvira Pace. Married Oscar Walter McConkie. Mother of Apostle Bruce R. McConkie (1915-1985). First cousin of Terressa Artemesia Redd Romney (mother of Marion G. Romney). Her surname 'Redd' was honored in her son's middle name — Bruce Redd McConkie.",
+    "notes": "Daughter of James Monroe Redd and Lucinda Alvira Pace. Married Oscar Walter McConkie. Mother of Apostle Bruce R. McConkie (1915-1985). First cousin of Terressa Artemesia Redd Romney (mother of Marion G. Romney). Her surname 'Redd' was honored in her son's middle name \u2014 Bruce Redd McConkie.",
     "sources": [
       {
         "url": "https://www.wikitree.com/wiki/Redd-386",
@@ -5446,7 +5446,7 @@
     "gender": "M",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "U.S. Senator from Utah (1947–1959), born February 1, 1886 in Midway, Wasatch County, Utah. Son of Arthur Watkins and Emily Adkins. Served as presiding judge of the Senate subcommittee that censured Senator Joseph McCarthy in 1954. Married Andrea Rich (daughter of Ben E. Rich, son of Apostle Charles C. Rich) on June 18, 1913. Their daughter Jeanene Watkins (born June 30, 1929) married Apostle Richard G. Scott on July 16, 1953 in the Manti Temple. Died September 1, 1973 in Orem, Utah.",
+    "notes": "U.S. Senator from Utah (1947\u20131959), born February 1, 1886 in Midway, Wasatch County, Utah. Son of Arthur Watkins and Emily Adkins. Served as presiding judge of the Senate subcommittee that censured Senator Joseph McCarthy in 1954. Married Andrea Rich (daughter of Ben E. Rich, son of Apostle Charles C. Rich) on June 18, 1913. Their daughter Jeanene Watkins (born June 30, 1929) married Apostle Richard G. Scott on July 16, 1953 in the Manti Temple. Died September 1, 1973 in Orem, Utah.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Arthur_V._Watkins",
@@ -5475,6 +5475,81 @@
         "url": "https://www.churchofjesuschrist.org/study/general-conference/1996/04/the-sustaining-power-of-faith-in-times-of-uncertainty-and-testing?lang=eng",
         "accessed": "2026-05-22",
         "notes": "Elder Scott's April 1996 general conference address honoring Jeanene's life and faith"
+      }
+    ]
+  },
+  {
+    "id": "henry-m-dinwoodey-1825",
+    "display_name": "Henry Dinwoodey",
+    "full_name": "Henry M. Dinwoodey",
+    "birth_date": "1825-01-01",
+    "birth_place": "England",
+    "death_date": "1905-01-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "M",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Pioneer Utah furniture merchant and prominent early Salt Lake City businessman. Father (by different wives) of Alice Evelyn Dinwoodey (who married James Henry Moyle, becoming the mother of apostle Henry D. Moyle) and Florence Ann Dinwoodey (who married apostle Rudger Clawson). Born in England; emigrated to Utah territory. Died 1905.",
+    "sources": [
+      {
+        "url": "https://www.geni.com/search?names=Henry+Dinwoodey&people=1&birth_year=1835",
+        "accessed": "2026-05-24",
+        "notes": "Geni.com search result: Henry M Dinwoodey (1825-1905) of Salt Lake City, Utah; father of Alice Evelyn Moyle and Florence Ann Dinwoody (half-siblings)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rudger_Clawson",
+        "accessed": "2026-05-24",
+        "notes": "Rudger Clawson married Florence Ann Dinwoody; Wikipedia confirms the marriage"
+      }
+    ]
+  },
+  {
+    "id": "alice-dinwoodey-moyle-1865",
+    "display_name": "Alice Dinwoodey Moyle",
+    "full_name": "Alice Evelyn Dinwoodey Moyle",
+    "birth_date": "1865-01-01",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1950-01-01",
+    "death_place": "Salt Lake City, Utah, USA",
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Henry M. Dinwoodey and Sarah Emily Dinwoodey. Half-sister of Florence Ann Dinwoodey (who married apostle Rudger Clawson). Married James Henry Moyle (Utah politician). Mother of apostle Henry D. Moyle. Her family connection to Dinwoodey is confirmed by sibling Gilbert Dinwoodey Moyle (named after maternal family).",
+    "sources": [
+      {
+        "url": "https://www.geni.com/search?names=Alice+Dinwoodey+Moyle&people=1&birth_year=1860",
+        "accessed": "2026-05-24",
+        "notes": "Geni.com: Alice Evelyn Moyle, born 1865, daughter of Henry M Dinwoodey and Sarah Emily Dinwoodey; half-sister of Florence Ann Dinwoody; mother of Henry D. Moyle (apostle)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_D._Moyle",
+        "accessed": "2026-05-24",
+        "notes": "Henry D. Moyle was born April 22, 1889 in Salt Lake City to James Moyle and Alice Dinwoodey; sibling Gilbert Dinwoodey Moyle confirms maternal Dinwoodey line"
+      }
+    ]
+  },
+  {
+    "id": "florence-dinwoodey-clawson-1864",
+    "display_name": "Florence Dinwoodey Clawson",
+    "full_name": "Florence Ann Dinwoodey Clawson",
+    "birth_date": "1864-01-01",
+    "birth_place": "Salt Lake City, Utah, USA",
+    "death_date": "1947-01-01",
+    "death_place": null,
+    "gender": "F",
+    "is_leader": false,
+    "familysearch_id": null,
+    "notes": "Daughter of Henry M. Dinwoodey and Ann Dinwoodey. Half-sister of Alice Evelyn Dinwoodey Moyle (mother of apostle Henry D. Moyle). Married apostle Rudger Clawson (1857-1943) as his first wife. Her marriage to Clawson and her half-sister's status as mother of Henry D. Moyle creates the family bridge between these two apostles.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rudger_Clawson",
+        "accessed": "2026-05-24",
+        "notes": "Wikipedia lists Florence Ann Dinwoody as first wife of apostle Rudger Clawson"
+      },
+      {
+        "url": "https://www.geni.com/search?names=Florence+Dinwoodey+Clawson&people=1&birth_year=1864",
+        "accessed": "2026-05-24",
+        "notes": "Geni.com: Florence Ann Dinwoody (1864-1947), daughter of Henry M Dinwoodey and Ann Dinwoodey; half-sister of Alice Evelyn Moyle; married Rudger Clawson"
       }
     ]
   }

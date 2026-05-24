@@ -1,0 +1,25 @@
+{
+  "person_id": "william-law-1809",
+  "display_name": "William Law",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_Law_(Latter_Day_Saints)",
+  "pedigree": {
+    "grandparents": [
+      { "name": "Richard Law", "birth_year": null, "birth_place": "County Tyrone, Ireland", "death_year": null },
+      { "name": "Ann Hunter Law", "birth_year": null, "birth_place": null, "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Jane Silverthorn Law",
+      "marriage_year": null,
+      "grandparents": []
+    }
+  ],
+  "siblings": [
+    { "name": "Wilson Law", "spouse": null }
+  ],
+  "notes": "Born September 8, 1809, County Tyrone, Ireland. Father Richard Law; mother Ann Hunter. Youngest of 5 children; brother Wilson Law. Family immigrated to US c. 1820. Married Jane Silverthorn in Churchville, Upper Canada. 8 children (2 daughters, 6 sons). Counselor in First Presidency 1841-1844; excommunicated. Published Nauvoo Expositor. Died January 19, 1892, Shullsburg, Wisconsin. Irish background - very low probability of pioneer kinship link. No connections found."
+}

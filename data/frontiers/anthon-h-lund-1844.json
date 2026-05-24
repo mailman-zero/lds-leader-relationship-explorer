@@ -1,0 +1,25 @@
+{
+  "person_id": "anthon-h-lund-1844",
+  "display_name": "Anthon H. Lund",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anthon_H._Lund",
+  "pedigree": {
+    "grandparents": [
+      { "name": "Anthon H. Lund's father", "birth_year": null, "birth_place": "Denmark", "death_year": null },
+      { "name": "Anthon H. Lund's mother", "birth_year": null, "birth_place": "Denmark", "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Sarah Ann Peterson Lund",
+      "marriage_year": 1870,
+      "grandparents": []
+    }
+  ],
+  "siblings": [
+    { "name": "Anthony C. Lund", "spouse": "Cornelia Sorenson" }
+  ],
+  "notes": "Born Aalborg, Denmark. Mother died before age 4; raised by maternal grandmother. 9 children. Only Anthony C. Lund (b. Feb 25, 1871, Ephraim, Utah Territory - musician/choir director) is named in Wikipedia. Anthony married Cornelia Sorenson in 1902 - no apostle link. Danish immigrant ancestry - very low probability of pioneer kinship bridging. Wikipedia gives no pedigree beyond basic facts."
+}
