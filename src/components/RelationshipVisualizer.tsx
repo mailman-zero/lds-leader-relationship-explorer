@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import type { Graph, Person } from "../graph/types";
+import type { Graph, Person, PhotoCredit } from "../graph/types";
 import {
   collectLeaders,
   computeAngles,
@@ -34,11 +34,12 @@ function initialsOf(name: string): string {
   return ((parts[0]?.[0] || "") + (parts[parts.length - 1]?.[0] || "")).toUpperCase();
 }
 
-function resolvePhoto(photo: string | null | undefined): string | null {
+function resolvePhoto(photo: PhotoCredit | null | undefined): string | null {
   if (!photo) return null;
-  return photo.startsWith("/")
-    ? import.meta.env.BASE_URL + photo.slice(1)
-    : photo;
+  const raw = photo.src;
+  return raw.startsWith("/")
+    ? import.meta.env.BASE_URL + raw.slice(1)
+    : raw;
 }
 
 interface NodeProps {

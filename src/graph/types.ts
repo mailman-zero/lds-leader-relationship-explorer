@@ -30,6 +30,27 @@ export interface Source {
   notes?: string;
 }
 
+export type PhotoLicense =
+  | "public-domain"
+  | "cc-by"
+  | "cc-by-sa"
+  | "cc-zero"
+  | "fair-use"
+  | "permission-granted"
+  | "unknown"
+  | "non-free";
+
+export interface PhotoCredit {
+  src: string;
+  license: PhotoLicense;
+  license_url?: string;
+  credit?: string;
+  rights_holder?: string;
+  source_url?: string;
+  accessed: string;
+  notes?: string;
+}
+
 export interface Person {
   id: string;
   display_name: string;
@@ -41,7 +62,7 @@ export interface Person {
   gender: "M" | "F" | "X";
   is_leader: boolean;
   familysearch_id?: string | null;
-  photo?: string | null;
+  photo?: PhotoCredit | null;
   notes?: string;
   sources: Source[];
 }

@@ -7,6 +7,26 @@ const SourceSchema = z.object({
   notes: z.string().optional(),
 });
 
+const PhotoCreditSchema = z.object({
+  src: z.string(),
+  license: z.enum([
+    "public-domain",
+    "cc-by",
+    "cc-by-sa",
+    "cc-zero",
+    "fair-use",
+    "permission-granted",
+    "unknown",
+    "non-free",
+  ]),
+  license_url: z.string().optional(),
+  credit: z.string().optional(),
+  rights_holder: z.string().optional(),
+  source_url: z.string().optional(),
+  accessed: z.string(),
+  notes: z.string().optional(),
+});
+
 const PersonSchema = z.object({
   id: z.string(),
   display_name: z.string(),
@@ -18,7 +38,7 @@ const PersonSchema = z.object({
   gender: z.enum(["M", "F", "X"]),
   is_leader: z.boolean(),
   familysearch_id: z.string().nullable().optional(),
-  photo: z.string().nullable().optional(),
+  photo: PhotoCreditSchema.nullable().optional(),
   notes: z.string().optional(),
   sources: z.array(SourceSchema),
 });

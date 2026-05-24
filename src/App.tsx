@@ -6,13 +6,17 @@ import { TimelinePicker } from "./components/TimelinePicker";
 import { MainView } from "./components/MainView";
 import { Detail } from "./components/Detail";
 import { RelationshipVisualizer } from "./components/RelationshipVisualizer";
+import { Credits } from "./components/Credits";
 
 type ParsedHash =
   | { view: "leaders"; date?: string; personId?: string }
-  | { view: "visualizer"; personId?: string };
+  | { view: "visualizer"; personId?: string }
+  | { view: "credits"; anchor?: string };
 
 function parseHash(hash: string): ParsedHash {
   const path = hash.replace(/^#/, "");
+  const credits = path.match(/^\/credits(?:#(.+))?$/);
+  if (credits) return { view: "credits", anchor: credits[1] };
   const viz = path.match(/^\/visualizer(?:\/person\/([^/]+))?$/);
   if (viz) return { view: "visualizer", personId: viz[1] };
   const leaders = path.match(/^\/fp\/([^/]+)(?:\/person\/([^/]+))?$/);
@@ -49,7 +53,11 @@ export default function App() {
 
   const latestDate = dates.length ? dates[dates.length - 1] : null;
   const resolvedDate =
-    parsed.view === "leaders" ? parsed.date ?? latestDate : latestDate;
+    parsed.view === "leaders"
+      ? parsed.date ?? latestDate
+      : parsed.view === "visualizer"
+      ? latestDate
+      : latestDate;
 
   const snapshot = useMemo(
     () => (graph && resolvedDate ? getSnapshot(graph, resolvedDate) : null),
@@ -81,6 +89,7 @@ export default function App() {
   }
 
   const isVisualizer = parsed.view === "visualizer";
+  const isCredits = parsed.view === "credits";
 
   return (
     <>
@@ -90,6 +99,8 @@ export default function App() {
           <h1>
             {isVisualizer ? (
               <>Relationship <em>Visualizer</em></>
+            ) : isCredits ? (
+              <>Photo <em>Credits</em></>
             ) : (
               <>First Presidency <em>&amp;</em> Quorum of the Twelve Apostles</>
             )}
@@ -101,6 +112,17 @@ export default function App() {
               type="button"
               className="viz-close"
               aria-label="Close visualizer"
+              onClick={() => navigate("/fp/" + resolvedDate)}
+            >
+              ×
+            </button>
+          </div>
+        ) : isCredits ? (
+          <div className="viz-topbar-slot">
+            <button
+              type="button"
+              className="viz-close"
+              aria-label="Close credits"
               onClick={() => navigate("/fp/" + resolvedDate)}
             >
               ×
@@ -123,6 +145,8 @@ export default function App() {
           graph={graph}
           onSelect={(id) => navigate("/visualizer/person/" + id)}
         />
+      ) : isCredits ? (
+        <Credits graph={graph} anchor={parsed.view === "credits" ? parsed.anchor : undefined} />
       ) : (
         <MainView
           snapshot={snapshot}
@@ -131,7 +155,7 @@ export default function App() {
         />
       )}
 
-      {parsed.personId && (
+      {!isCredits && (parsed.view === "leaders" || parsed.view === "visualizer") && parsed.personId && (
         <Detail
           personId={parsed.personId}
           graph={graph}
@@ -153,7 +177,7 @@ export default function App() {
       {/* Pill outside .topbar (backdrop-filter traps position:fixed descendants).
           On desktop it floats fixed top-right; on mobile it sits in document
           flow at the very bottom of the page so it doesn't cover content. */}
-      {!isVisualizer && (
+      {!isVisualizer && !isCredits && (
         <button
           type="button"
           className="viz-pill"
@@ -170,6 +194,10 @@ export default function App() {
           </span>
           Relationship Visualizer
         </button>
+      )}
+
+      {!isCredits && (
+        <a className="credits-link" href="#/credits">Photo credits</a>
       )}
     </>
   );

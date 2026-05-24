@@ -17,7 +17,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/joseph-smith-jr-1805.jpg"
+    "photo": {
+      "src": "/photos/joseph-smith-jr-1805.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Joseph_Smith",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "joseph-smith-sr-1771",
@@ -37,7 +44,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/joseph-smith-sr-1771.jpg"
+    "photo": {
+      "src": "/photos/joseph-smith-sr-1771.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Joseph_Smith_Sr.",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "hyrum-smith-1800",
@@ -57,7 +71,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/hyrum-smith-1800.png"
+    "photo": {
+      "src": "/photos/hyrum-smith-1800.png",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Hyrum_Smith",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "william-smith-1811",
@@ -77,7 +98,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/william-smith-1811.gif"
+    "photo": {
+      "src": "/photos/william-smith-1811.gif",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/William_Smith_(Latter_Day_Saints)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "george-a-smith-1817",
@@ -97,7 +125,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/george-a-smith-1817.jpg"
+    "photo": {
+      "src": "/photos/george-a-smith-1817.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/George_A._Smith",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "asael-smith-1744",
@@ -136,7 +171,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/john-smith-1781.jpg"
+    "photo": {
+      "src": "/photos/john-smith-1781.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/John_Smith_(Latter_Day_Saints)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "joseph-f-smith-1838",
@@ -156,7 +198,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/joseph-f-smith-1838.jpg"
+    "photo": {
+      "src": "/photos/joseph-f-smith-1838.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Joseph_F._Smith",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "joseph-fielding-smith-1876",
@@ -176,7 +225,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/joseph-fielding-smith-1876.jpg"
+    "photo": {
+      "src": "/photos/joseph-fielding-smith-1876.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Joseph_Fielding_Smith",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "hyrum-mack-smith-1872",
@@ -196,7 +252,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/hyrum-mack-smith-1872.jpg"
+    "photo": {
+      "src": "/photos/hyrum-mack-smith-1872.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Hyrum_Mack_Smith",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "john-henry-smith-1848",
@@ -216,7 +279,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/john-henry-smith-1848.jpg"
+    "photo": {
+      "src": "/photos/john-henry-smith-1848.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/John_Henry_Smith",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "george-albert-smith-1870",
@@ -236,7 +306,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/george-albert-smith-1870.jpg"
+    "photo": {
+      "src": "/photos/george-albert-smith-1870.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/George_Albert_Smith",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "m-russell-ballard-1928",
@@ -256,7 +333,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/m-russell-ballard-1928.jpg"
+    "photo": {
+      "src": "/photos/m-russell-ballard-1928.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "melvin-j-ballard-1873",
@@ -276,7 +357,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/melvin-j-ballard-1873.jpg"
+    "photo": {
+      "src": "/photos/melvin-j-ballard-1873.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Melvin_J._Ballard",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "henry-ballard-1832",
@@ -334,7 +422,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/brigham-young-1801.jpg"
+    "photo": {
+      "src": "/photos/brigham-young-1801.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Brigham_Young",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "brigham-young-jr-1836",
@@ -354,7 +449,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/brigham-young-jr-1836.jpg"
+    "photo": {
+      "src": "/photos/brigham-young-jr-1836.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Brigham_Young_Jr.",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "john-young-1763",
@@ -412,7 +514,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/heber-c-kimball-1801.png"
+    "photo": {
+      "src": "/photos/heber-c-kimball-1801.png",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Heber_C._Kimball",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "willard-richards-1804",
@@ -432,7 +541,13 @@
         "accessed": "2026-05-21"
       }
     ],
-    "photo": "/photos/willard-richards-1804.jpg"
+    "photo": {
+      "src": "/photos/willard-richards-1804.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "david-patten-kimball-1839",
@@ -490,7 +605,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/spencerw-kimball-1895.jpg"
+    "photo": {
+      "src": "/photos/spencerw-kimball-1895.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "camilla-eyring-kimball-1894",
@@ -529,7 +648,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/quentinl-cook-1940.png"
+    "photo": {
+      "src": "/photos/quentinl-cook-1940.png",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "bernice-kimball-1907",
@@ -555,7 +678,7 @@
     "display_name": "Henry Eyring",
     "full_name": "Henry Eyring",
     "birth_date": "1901-02-20",
-    "birth_place": "Colonia Ju\u00e1rez, Chihuahua, Mexico",
+    "birth_place": "Colonia Juárez, Chihuahua, Mexico",
     "death_date": "1981-12-26",
     "death_place": "Salt Lake City, Utah, USA",
     "gender": "M",
@@ -587,7 +710,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/hb-eyring-1933.jpg"
+    "photo": {
+      "src": "/photos/hb-eyring-1933.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "parley-p-pratt-1807",
@@ -607,7 +734,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/parley-p-pratt-1807.gif"
+    "photo": {
+      "src": "/photos/parley-p-pratt-1807.gif",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Parley_P._Pratt",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "orson-pratt-1811",
@@ -627,7 +761,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/orson-pratt-1811.jpg"
+    "photo": {
+      "src": "/photos/orson-pratt-1811.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Orson_Pratt",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "jared-pratt-1784",
@@ -666,7 +807,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/amasa-m-lyman-1813.png"
+    "photo": {
+      "src": "/photos/amasa-m-lyman-1813.png",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Amasa_M._Lyman",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "ezra-t-benson-1811",
@@ -686,7 +834,13 @@
         "accessed": "2026-05-21"
       }
     ],
-    "photo": "/photos/ezra-t-benson-1811.jpg"
+    "photo": {
+      "src": "/photos/ezra-t-benson-1811.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "charles-c-rich-1809",
@@ -706,7 +860,13 @@
         "accessed": "2026-05-21"
       }
     ],
-    "photo": "/photos/charles-c-rich-1809.jpg"
+    "photo": {
+      "src": "/photos/charles-c-rich-1809.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "erastus-snow-1818",
@@ -726,7 +886,13 @@
         "accessed": "2026-05-21"
       }
     ],
-    "photo": "/photos/erastus-snow-1818.jpg"
+    "photo": {
+      "src": "/photos/erastus-snow-1818.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "francis-m-lyman-1840",
@@ -746,7 +912,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/francis-m-lyman-1840.jpg"
+    "photo": {
+      "src": "/photos/francis-m-lyman-1840.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Francis_M._Lyman",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "richard-r-lyman-1870",
@@ -766,7 +939,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/richard-r-lyman-1870.jpg"
+    "photo": {
+      "src": "/photos/richard-r-lyman-1870.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Richard_R._Lyman",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "franklin-d-richards-1821",
@@ -786,7 +966,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/franklin-d-richards-1821.jpg"
+    "photo": {
+      "src": "/photos/franklin-d-richards-1821.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Franklin_D._Richards",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "george-f-richards-1861",
@@ -806,7 +993,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/george-f-richards-1861.jpg"
+    "photo": {
+      "src": "/photos/george-f-richards-1861.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/George_F._Richards",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "legrand-richards-1886",
@@ -826,7 +1020,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/legrand-richards-1886.jpg"
+    "photo": {
+      "src": "/photos/legrand-richards-1886.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "rm-nelson-1924",
@@ -846,7 +1044,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/rm-nelson-1924.jpg"
+    "photo": {
+      "src": "/photos/rm-nelson-1924.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "dallin-h-oaks-1932",
@@ -866,7 +1068,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/dallin-h-oaks-1932.jpg"
+    "photo": {
+      "src": "/photos/dallin-h-oaks-1932.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "jeffrey-r-holland-1940",
@@ -886,7 +1092,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/jeffrey-r-holland-1940.jpg"
+    "photo": {
+      "src": "/photos/jeffrey-r-holland-1940.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "dieter-f-uchtdorf-1940",
@@ -906,7 +1116,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/dieter-f-uchtdorf-1940.jpg"
+    "photo": {
+      "src": "/photos/dieter-f-uchtdorf-1940.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "david-a-bednar-1952",
@@ -926,7 +1140,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/david-a-bednar-1952.png"
+    "photo": {
+      "src": "/photos/david-a-bednar-1952.png",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "d-todd-christofferson-1945",
@@ -946,7 +1164,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/d-todd-christofferson-1945.jpg"
+    "photo": {
+      "src": "/photos/d-todd-christofferson-1945.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "neil-l-andersen-1951",
@@ -966,7 +1188,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/neil-l-andersen-1951.jpg"
+    "photo": {
+      "src": "/photos/neil-l-andersen-1951.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "ronald-a-rasband-1951",
@@ -986,7 +1212,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/ronald-a-rasband-1951.jpg"
+    "photo": {
+      "src": "/photos/ronald-a-rasband-1951.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "gary-e-stevenson-1955",
@@ -1006,7 +1236,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/gary-e-stevenson-1955.jpg"
+    "photo": {
+      "src": "/photos/gary-e-stevenson-1955.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "dale-g-renlund-1952",
@@ -1026,7 +1260,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/dale-g-renlund-1952.jpg"
+    "photo": {
+      "src": "/photos/dale-g-renlund-1952.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "gerrit-w-gong-1953",
@@ -1046,14 +1284,18 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/gerrit-w-gong-1953.jpg"
+    "photo": {
+      "src": "/photos/gerrit-w-gong-1953.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "ulisses-soares-1958",
     "display_name": "Ulisses Soares",
     "full_name": "Ulisses Soares",
     "birth_date": "1958-10-02",
-    "birth_place": "S\u00e3o Paulo, Brazil",
+    "birth_place": "São Paulo, Brazil",
     "death_date": null,
     "death_place": null,
     "gender": "M",
@@ -1066,7 +1308,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/ulisses-soares-1958.jpg"
+    "photo": {
+      "src": "/photos/ulisses-soares-1958.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "patrick-kearon-1961",
@@ -1086,12 +1332,16 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/patrick-kearon-1961.jpg"
+    "photo": {
+      "src": "/photos/patrick-kearon-1961.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "gerald-causse-1963",
-    "display_name": "G\u00e9rald Causs\u00e9",
-    "full_name": "G\u00e9rald Jean Causs\u00e9",
+    "display_name": "Gérald Caussé",
+    "full_name": "Gérald Jean Caussé",
     "birth_date": "1963-05-20",
     "birth_place": "Bordeaux, France",
     "death_date": null,
@@ -1099,14 +1349,18 @@
     "gender": "M",
     "is_leader": true,
     "familysearch_id": null,
-    "notes": "Q12; called 2026 \u2014 verify call date",
+    "notes": "Q12; called 2026 — verify call date",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/G%C3%A9rald_Causs\u00e9",
+        "url": "https://en.wikipedia.org/wiki/G%C3%A9rald_Caussé",
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/gerald-causse-1963.jpg"
+    "photo": {
+      "src": "/photos/gerald-causse-1963.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "clark-g-gilbert-1970",
@@ -1119,14 +1373,18 @@
     "gender": "M",
     "is_leader": true,
     "familysearch_id": null,
-    "notes": "Q12; called February 2026 \u2014 verify exact birth date and call date",
+    "notes": "Q12; called February 2026 — verify exact birth date and call date",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Clark_G._Gilbert",
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/clark-g-gilbert-1970.jpg"
+    "photo": {
+      "src": "/photos/clark-g-gilbert-1970.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "thomas-b-marsh-1800",
@@ -1146,7 +1404,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/thomas-b-marsh-1800.png"
+    "photo": {
+      "src": "/photos/thomas-b-marsh-1800.png",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Thomas_B._Marsh",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "david-w-patten-1799",
@@ -1185,7 +1450,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/orson-hyde-1805.jpg"
+    "photo": {
+      "src": "/photos/orson-hyde-1805.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Orson_Hyde",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "william-e-mclellin-1806",
@@ -1205,7 +1477,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/william-e-mclellin-1806.gif"
+    "photo": {
+      "src": "/photos/william-e-mclellin-1806.gif",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/William_E._McLellin",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "luke-johnson-1807",
@@ -1244,7 +1523,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/john-f-boynton-1811.jpg"
+    "photo": {
+      "src": "/photos/john-f-boynton-1811.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/John_F._Boynton",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "lyman-e-johnson-1811",
@@ -1264,7 +1550,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/lyman-e-johnson-1811.jpg"
+    "photo": {
+      "src": "/photos/lyman-e-johnson-1811.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Lyman_E._Johnson",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "john-taylor-1808",
@@ -1284,7 +1577,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/john-taylor-1808.jpg"
+    "photo": {
+      "src": "/photos/john-taylor-1808.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/John_Taylor_(Latter-day_Saints)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "wilford-woodruff-1807",
@@ -1304,7 +1604,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/wilford-woodruff-1807.jpg"
+    "photo": {
+      "src": "/photos/wilford-woodruff-1807.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Wilford_Woodruff",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "lorenzo-snow-1814",
@@ -1324,7 +1631,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/lorenzo-snow-1814.jpg"
+    "photo": {
+      "src": "/photos/lorenzo-snow-1814.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Lorenzo_Snow",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "heber-j-grant-1856",
@@ -1344,7 +1658,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/heber-j-grant-1856.jpg"
+    "photo": {
+      "src": "/photos/heber-j-grant-1856.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Heber_J._Grant",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "jedediah-m-grant-1816",
@@ -1364,7 +1685,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/jedediah-m-grant-1816.gif"
+    "photo": {
+      "src": "/photos/jedediah-m-grant-1816.gif",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/Jedediah_M._Grant",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "david-o-mckay-1873",
@@ -1384,7 +1712,14 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/david-o-mckay-1873.jpg"
+    "photo": {
+      "src": "/photos/david-o-mckay-1873.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/David_O._McKay",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "harold-b-lee-1899",
@@ -1404,7 +1739,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/harold-b-lee-1899.jpg"
+    "photo": {
+      "src": "/photos/harold-b-lee-1899.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "ezra-taft-benson-1899",
@@ -1424,7 +1763,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/ezra-taft-benson-1899.jpg"
+    "photo": {
+      "src": "/photos/ezra-taft-benson-1899.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "howard-w-hunter-1907",
@@ -1444,7 +1787,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/howard-w-hunter-1907.jpg"
+    "photo": {
+      "src": "/photos/howard-w-hunter-1907.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "gordon-b-hinckley-1910",
@@ -1464,7 +1811,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/gordon-b-hinckley-1910.jpg"
+    "photo": {
+      "src": "/photos/gordon-b-hinckley-1910.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "thomas-s-monson-1927",
@@ -1484,7 +1835,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/thomas-s-monson-1927.jpg"
+    "photo": {
+      "src": "/photos/thomas-s-monson-1927.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "boyd-k-packer-1924",
@@ -1504,7 +1859,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/boyd-k-packer-1924.jpg"
+    "photo": {
+      "src": "/photos/boyd-k-packer-1924.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "l-tom-perry-1922",
@@ -1524,7 +1883,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/l-tom-perry-1922.jpg"
+    "photo": {
+      "src": "/photos/l-tom-perry-1922.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "richard-g-scott-1928",
@@ -1544,7 +1907,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/richard-g-scott-1928.jpg"
+    "photo": {
+      "src": "/photos/richard-g-scott-1928.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "robert-d-hales-1932",
@@ -1570,7 +1937,7 @@
     "display_name": "Marion G. Romney",
     "full_name": "Marion George Romney",
     "birth_date": "1897-09-19",
-    "birth_place": "Colonia Ju\u00e1rez, Chihuahua, Mexico",
+    "birth_place": "Colonia Juárez, Chihuahua, Mexico",
     "death_date": "1988-05-20",
     "death_place": "Salt Lake City, Utah, USA",
     "gender": "M",
@@ -1583,7 +1950,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/marion-g-romney-1897.jpg"
+    "photo": {
+      "src": "/photos/marion-g-romney-1897.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "nathan-eldon-tanner-1898",
@@ -1603,7 +1974,11 @@
         "accessed": "2026-05-20"
       }
     ],
-    "photo": "/photos/nathan-eldon-tanner-1898.jpg"
+    "photo": {
+      "src": "/photos/nathan-eldon-tanner-1898.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "john-e-page-1799",
@@ -1624,7 +1999,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/john-e-page-1799.jpg"
+    "photo": {
+      "src": "/photos/john-e-page-1799.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "lyman-wight-1796",
@@ -1645,7 +2027,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/lyman-wight-1796.gif"
+    "photo": {
+      "src": "/photos/lyman-wight-1796.gif",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "george-q-cannon-1827",
@@ -1666,7 +2055,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/george-q-cannon-1827.jpg"
+    "photo": {
+      "src": "/photos/george-q-cannon-1827.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "albert-carrington-1813",
@@ -1687,7 +2083,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/albert-carrington-1813.jpg"
+    "photo": {
+      "src": "/photos/albert-carrington-1813.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "moses-thatcher-1842",
@@ -1708,7 +2111,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/moses-thatcher-1842.jpg"
+    "photo": {
+      "src": "/photos/moses-thatcher-1842.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "george-teasdale-1831",
@@ -1729,7 +2139,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/george-teasdale-1831.jpg"
+    "photo": {
+      "src": "/photos/george-teasdale-1831.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "john-w-taylor-1858",
@@ -1750,7 +2167,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/john-w-taylor-1858.gif"
+    "photo": {
+      "src": "/photos/john-w-taylor-1858.gif",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "marriner-w-merrill-1832",
@@ -1771,7 +2195,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/marriner-w-merrill-1832.jpg"
+    "photo": {
+      "src": "/photos/marriner-w-merrill-1832.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "anthon-h-lund-1844",
@@ -1792,7 +2223,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/anthon-h-lund-1844.jpg"
+    "photo": {
+      "src": "/photos/anthon-h-lund-1844.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "abraham-h-cannon-1859",
@@ -1813,7 +2251,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/abraham-h-cannon-1859.jpg"
+    "photo": {
+      "src": "/photos/abraham-h-cannon-1859.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "matthias-f-cowley-1858",
@@ -1834,7 +2279,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/matthias-f-cowley-1858.jpg"
+    "photo": {
+      "src": "/photos/matthias-f-cowley-1858.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "abraham-o-woodruff-1872",
@@ -1855,7 +2307,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/abraham-o-woodruff-1872.jpg"
+    "photo": {
+      "src": "/photos/abraham-o-woodruff-1872.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "rudger-clawson-1857",
@@ -1876,7 +2335,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/rudger-clawson-1857.gif"
+    "photo": {
+      "src": "/photos/rudger-clawson-1857.gif",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "reed-smoot-1862",
@@ -1897,7 +2363,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/reed-smoot-1862.jpg"
+    "photo": {
+      "src": "/photos/reed-smoot-1862.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "charles-w-penrose-1832",
@@ -1918,7 +2391,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/charles-w-penrose-1832.gif"
+    "photo": {
+      "src": "/photos/charles-w-penrose-1832.gif",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "orson-f-whitney-1855",
@@ -1939,7 +2419,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/orson-f-whitney-1855.jpg"
+    "photo": {
+      "src": "/photos/orson-f-whitney-1855.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "anthony-w-ivins-1852",
@@ -1960,7 +2447,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/anthony-w-ivins-1852.jpg"
+    "photo": {
+      "src": "/photos/anthony-w-ivins-1852.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "james-e-talmage-1862",
@@ -1981,7 +2475,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/james-e-talmage-1862.jpg"
+    "photo": {
+      "src": "/photos/james-e-talmage-1862.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "stephen-l-richards-1879",
@@ -2002,7 +2503,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/stephen-l-richards-1879.jpg"
+    "photo": {
+      "src": "/photos/stephen-l-richards-1879.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "john-a-widtsoe-1872",
@@ -2023,7 +2531,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/john-a-widtsoe-1872.jpg"
+    "photo": {
+      "src": "/photos/john-a-widtsoe-1872.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "joseph-f-merrill-1868",
@@ -2044,7 +2559,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/joseph-f-merrill-1868.jpg"
+    "photo": {
+      "src": "/photos/joseph-f-merrill-1868.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "charles-a-callis-1865",
@@ -2065,7 +2587,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/charles-a-callis-1865.jpg"
+    "photo": {
+      "src": "/photos/charles-a-callis-1865.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "j-reuben-clark-1871",
@@ -2086,7 +2615,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/j-reuben-clark-1871.jpg"
+    "photo": {
+      "src": "/photos/j-reuben-clark-1871.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "alonzo-a-hinckley-1870",
@@ -2107,7 +2643,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/alonzo-a-hinckley-1870.jpg"
+    "photo": {
+      "src": "/photos/alonzo-a-hinckley-1870.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "albert-e-bowen-1875",
@@ -2128,7 +2671,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/albert-e-bowen-1875.jpg"
+    "photo": {
+      "src": "/photos/albert-e-bowen-1875.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "sylvester-q-cannon-1877",
@@ -2149,7 +2699,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/sylvester-q-cannon-1877.jpg"
+    "photo": {
+      "src": "/photos/sylvester-q-cannon-1877.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "mark-e-petersen-1900",
@@ -2170,7 +2727,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/mark-e-petersen-1900.jpg"
+    "photo": {
+      "src": "/photos/mark-e-petersen-1900.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "matthew-cowley-1897",
@@ -2191,7 +2752,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/matthew-cowley-1897.jpg"
+    "photo": {
+      "src": "/photos/matthew-cowley-1897.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "henry-d-moyle-1889",
@@ -2212,7 +2777,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/henry-d-moyle-1889.jpg"
+    "photo": {
+      "src": "/photos/henry-d-moyle-1889.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "delbert-l-stapley-1896",
@@ -2233,7 +2802,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/delbert-l-stapley-1896.jpg"
+    "photo": {
+      "src": "/photos/delbert-l-stapley-1896.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "adam-s-bennion-1886",
@@ -2254,7 +2827,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/adam-s-bennion-1886.jpg"
+    "photo": {
+      "src": "/photos/adam-s-bennion-1886.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "richard-l-evans-1906",
@@ -2275,7 +2852,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/richard-l-evans-1906.jpg"
+    "photo": {
+      "src": "/photos/richard-l-evans-1906.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "george-q-morris-1874",
@@ -2296,7 +2877,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/george-q-morris-1874.jpg"
+    "photo": {
+      "src": "/photos/george-q-morris-1874.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "hugh-b-brown-1883",
@@ -2317,7 +2905,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/hugh-b-brown-1883.jpg"
+    "photo": {
+      "src": "/photos/hugh-b-brown-1883.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "marvin-j-ashton-1915",
@@ -2338,7 +2930,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/marvin-j-ashton-1915.jpg"
+    "photo": {
+      "src": "/photos/marvin-j-ashton-1915.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "bruce-r-mcconkie-1915",
@@ -2359,7 +2955,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/bruce-r-mcconkie-1915.jpg"
+    "photo": {
+      "src": "/photos/bruce-r-mcconkie-1915.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "david-b-haight-1906",
@@ -2380,7 +2980,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/david-b-haight-1906.jpg"
+    "photo": {
+      "src": "/photos/david-b-haight-1906.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "james-e-faust-1920",
@@ -2401,7 +3005,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/james-e-faust-1920.jpg"
+    "photo": {
+      "src": "/photos/james-e-faust-1920.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "neal-a-maxwell-1926",
@@ -2422,7 +3030,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/neal-a-maxwell-1926.jpg"
+    "photo": {
+      "src": "/photos/neal-a-maxwell-1926.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "joseph-b-wirthlin-1917",
@@ -2443,7 +3055,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/joseph-b-wirthlin-1917.jpg"
+    "photo": {
+      "src": "/photos/joseph-b-wirthlin-1917.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "oliver-cowdery-1806",
@@ -2464,7 +3080,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/oliver-cowdery-1806.jpg"
+    "photo": {
+      "src": "/photos/oliver-cowdery-1806.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "david-whitmer-1805",
@@ -2525,7 +3148,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/daniel-h-wells-1814.jpg"
+    "photo": {
+      "src": "/photos/daniel-h-wells-1814.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "john-willard-young-1844",
@@ -2546,7 +3176,14 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/john-willard-young-1844.gif"
+    "photo": {
+      "src": "/photos/john-willard-young-1844.gif",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_members_of_the_Quorum_of_the_Twelve_Apostles_(LDS_Church)",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "joseph-angell-young-1834",
@@ -2587,7 +3224,11 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/alvin-r-dyer-1903.jpg"
+    "photo": {
+      "src": "/photos/alvin-r-dyer-1903.jpg",
+      "license": "unknown",
+      "accessed": "2026-05-24"
+    }
   },
   {
     "id": "jesse-gause-1785",
@@ -2628,7 +3269,13 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/sidney-rigdon-1793.png"
+    "photo": {
+      "src": "/photos/sidney-rigdon-1793.png",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "frederick-g-williams-1787",
@@ -2649,7 +3296,13 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/frederick-g-williams-1787.jpg"
+    "photo": {
+      "src": "/photos/frederick-g-williams-1787.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "john-c-bennett-1804",
@@ -2670,7 +3323,13 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/john-c-bennett-1804.jpg"
+    "photo": {
+      "src": "/photos/john-c-bennett-1804.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "william-law-1809",
@@ -2691,7 +3350,13 @@
         "notes": "Birth/death dates and leadership position context from the historical leaders table."
       }
     ],
-    "photo": "/photos/william-law-1809.jpg"
+    "photo": {
+      "src": "/photos/william-law-1809.jpg",
+      "license": "public-domain",
+      "accessed": "2026-05-24",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+      "notes": "Image source not recorded in initial commit; subject deceased well before 1929, so the portrait is PD-US-expired. The source URL links to the Wikipedia article where the canonical free copy is typically embedded — verify against Wikimedia Commons before reusing."
+    }
   },
   {
     "id": "eliza-maria-partridge-lyman-1820",
@@ -3554,7 +4219,7 @@
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -3584,7 +4249,7 @@
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -3614,12 +4279,12 @@
       {
         "url": "https://www.stellahoaks.org/about-stella",
         "accessed": "2026-05-21",
-        "notes": "Foundation biography gives Stella Harris Oaks\u2019s birth date and identifies Silas Albert Harris as her father."
+        "notes": "Foundation biography gives Stella Harris Oaks’s birth date and identifies Silas Albert Harris as her father."
       },
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -3649,12 +4314,12 @@
       {
         "url": "https://www.stellahoaks.org/about-stella",
         "accessed": "2026-05-21",
-        "notes": "Foundation biography gives Stella Harris Oaks\u2019s birth date and identifies Silas Albert Harris as her father."
+        "notes": "Foundation biography gives Stella Harris Oaks’s birth date and identifies Silas Albert Harris as her father."
       },
       {
         "url": "https://history.churchofjesuschrist.org/content/missionary/dallin-h-oaks?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer\u2019s brother."
+        "notes": "Oaks identifies Emer Harris as his great-great-grandfather and Martin Harris as Emer’s brother."
       },
       {
         "url": "https://www.churchofjesuschrist.org/study/liahona/2026/05-se/01-president-dallin-h-oaks-a-life-of-hard-work?lang=eng",
@@ -3759,7 +4424,7 @@
       {
         "url": "https://en.wikipedia.org/wiki/Merlin_R._Lybbert",
         "accessed": "2026-05-21",
-        "notes": "Biographical source for Merlin R. Lybbert\u2019s General Authority service dates and vital dates."
+        "notes": "Biographical source for Merlin R. Lybbert’s General Authority service dates and vital dates."
       },
       {
         "url": "https://www.thechurchnews.com/2009/5/9/23230230/healing-hands-consecrated-to-the-lords-work/",
@@ -3789,7 +4454,7 @@
       {
         "url": "https://www.churchofjesuschrist.org/learn/dale-g-renlund?lang=eng",
         "accessed": "2026-05-21",
-        "notes": "Church biography identifies Dale G. Renlund\u2019s marriage to Ruth Lybbert."
+        "notes": "Church biography identifies Dale G. Renlund’s marriage to Ruth Lybbert."
       },
       {
         "url": "https://www.thechurchnews.com/2009/5/9/23230230/healing-hands-consecrated-to-the-lords-work/",
@@ -3814,7 +4479,7 @@
     "gender": "F",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "Daughter of John Young (1763) and Theodocia Kimball Young; half-sister of Brigham Young (both children of John Young, different mothers \u2014 Brigham's mother Nabby Howe died in 1815); married Martin Harris in Kirtland, Ohio, November 1, 1836.",
+    "notes": "Daughter of John Young (1763) and Theodocia Kimball Young; half-sister of Brigham Young (both children of John Young, different mothers — Brigham's mother Nabby Howe died in 1815); married Martin Harris in Kirtland, Ohio, November 1, 1836.",
     "sources": [
       {
         "url": "https://rsc.byu.edu/regional-studies-latter-day-saint-church-history-ohio-upper-canada/caroline-young-harris-kirtland-wife-martin-harris",
@@ -3872,7 +4537,7 @@
     "gender": "F",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "First wife of John Taylor (third LDS Church President); paternal aunt of George Q. Cannon \u2014 her brother (George Cannon) was George Q.'s father. Both Leonora and George Cannon were children of John Cannon of the Isle of Man.",
+    "notes": "First wife of John Taylor (third LDS Church President); paternal aunt of George Q. Cannon — her brother (George Cannon) was George Q.'s father. Both Leonora and George Cannon were children of John Cannon of the Isle of Man.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Leonora_Cannon_Taylor",
@@ -4375,7 +5040,7 @@
     "death_place": null,
     "gender": "F",
     "is_leader": false,
-    "notes": "Wife of Apostle Matthew Cowley (married July 13, 1922 at Salt Lake Temple). Believed to be daughter of Apostle John W. Taylor \u2014 needs FamilySearch verification. John W. Taylor and Matthias F. Cowley (Matthew's father) were excommunicated together in 1911.",
+    "notes": "Wife of Apostle Matthew Cowley (married July 13, 1922 at Salt Lake Temple). Believed to be daughter of Apostle John W. Taylor — needs FamilySearch verification. John W. Taylor and Matthias F. Cowley (Matthew's father) were excommunicated together in 1911.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Matthew_Cowley",
@@ -4385,7 +5050,7 @@
       {
         "url": "https://www.familysearch.org/tree/person/details/",
         "accessed": "2026-05-21",
-        "notes": "Needs verification \u2014 Elva Eleanor Taylor Cowley as daughter of John W. Taylor"
+        "notes": "Needs verification — Elva Eleanor Taylor Cowley as daughter of John W. Taylor"
       }
     ]
   },
@@ -4463,7 +5128,7 @@
     "gender": "M",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "Son of Apostle Orson Hyde. Husband of Annie Taylor Hyde (daughter of President John Taylor). Father of Annie Laura Hyde (wife of Apostle Joseph F. Merrill). Approximate birth year \u2014 needs FamilySearch verification.",
+    "notes": "Son of Apostle Orson Hyde. Husband of Annie Taylor Hyde (daughter of President John Taylor). Father of Annie Laura Hyde (wife of Apostle Joseph F. Merrill). Approximate birth year — needs FamilySearch verification.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Annie_Taylor_Hyde",
@@ -4734,7 +5399,7 @@
     "birth_date": "1836-07-31",
     "birth_place": "Sneads Ferry, Onslow County, North Carolina, USA",
     "death_date": "1910-06-09",
-    "death_place": "Colonia Ju\u00e1rez, Chihuahua, Mexico",
+    "death_place": "Colonia Juárez, Chihuahua, Mexico",
     "gender": "M",
     "is_leader": false,
     "familysearch_id": "KW8Z-7GX",
@@ -4783,7 +5448,7 @@
     "gender": "F",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "Daughter of Lemuel Hardison Redd Jr. and Sariah Louisa Chamberlain. Married George S. Romney on December 5, 1894 in Colonia Ju\u00e1rez. Mother of Apostle/Counselor Marion G. Romney (1897-1988). First cousin of Margaret Vivian Redd McConkie (mother of Apostle Bruce R. McConkie).",
+    "notes": "Daughter of Lemuel Hardison Redd Jr. and Sariah Louisa Chamberlain. Married George S. Romney on December 5, 1894 in Colonia Juárez. Mother of Apostle/Counselor Marion G. Romney (1897-1988). First cousin of Margaret Vivian Redd McConkie (mother of Apostle Bruce R. McConkie).",
     "sources": [
       {
         "url": "https://familypedia.fandom.com/wiki/Marion_George_Romney_(1897-1988)",
@@ -4828,7 +5493,7 @@
     "gender": "F",
     "is_leader": false,
     "familysearch_id": "KWC6-RFJ",
-    "notes": "Daughter of James Monroe Redd and Lucinda Alvira Pace. Married Oscar Walter McConkie. Mother of Apostle Bruce R. McConkie (1915-1985). First cousin of Terressa Artemesia Redd Romney (mother of Marion G. Romney). Her surname 'Redd' was honored in her son's middle name \u2014 Bruce Redd McConkie.",
+    "notes": "Daughter of James Monroe Redd and Lucinda Alvira Pace. Married Oscar Walter McConkie. Mother of Apostle Bruce R. McConkie (1915-1985). First cousin of Terressa Artemesia Redd Romney (mother of Marion G. Romney). Her surname 'Redd' was honored in her son's middle name — Bruce Redd McConkie.",
     "sources": [
       {
         "url": "https://www.wikitree.com/wiki/Redd-386",
@@ -5446,7 +6111,7 @@
     "gender": "M",
     "is_leader": false,
     "familysearch_id": null,
-    "notes": "U.S. Senator from Utah (1947\u20131959), born February 1, 1886 in Midway, Wasatch County, Utah. Son of Arthur Watkins and Emily Adkins. Served as presiding judge of the Senate subcommittee that censured Senator Joseph McCarthy in 1954. Married Andrea Rich (daughter of Ben E. Rich, son of Apostle Charles C. Rich) on June 18, 1913. Their daughter Jeanene Watkins (born June 30, 1929) married Apostle Richard G. Scott on July 16, 1953 in the Manti Temple. Died September 1, 1973 in Orem, Utah.",
+    "notes": "U.S. Senator from Utah (1947–1959), born February 1, 1886 in Midway, Wasatch County, Utah. Son of Arthur Watkins and Emily Adkins. Served as presiding judge of the Senate subcommittee that censured Senator Joseph McCarthy in 1954. Married Andrea Rich (daughter of Ben E. Rich, son of Apostle Charles C. Rich) on June 18, 1913. Their daughter Jeanene Watkins (born June 30, 1929) married Apostle Richard G. Scott on July 16, 1953 in the Manti Temple. Died September 1, 1973 in Orem, Utah.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Arthur_V._Watkins",
