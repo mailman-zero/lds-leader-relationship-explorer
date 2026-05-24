@@ -1,0 +1,28 @@
+{
+  "person_id": "john-c-bennett-1804",
+  "display_name": "John C. Bennett",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_C._Bennett",
+  "pedigree": {
+    "grandparents": [
+      { "name": "John Bennett", "birth_year": null, "birth_place": "Massachusetts, USA", "death_year": null },
+      { "name": "Abigail Cook Bennett", "birth_year": null, "birth_place": null, "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Mary A. Barker Bennett",
+      "marriage_year": 1826,
+      "grandparents": []
+    },
+    {
+      "name": "Sarah Rider Bennett",
+      "marriage_year": 1843,
+      "grandparents": []
+    }
+  ],
+  "siblings": [],
+  "notes": "Born August 4, 1804, Fairhaven, MA. Father John Bennett; mother Abigail Cook. Married Mary A. Barker 1826 (divorced 1842); 3 children. Briefly counselor to JS Jr; excommunicated 1842. Massachusetts background. No apostle family connections found."
+}

@@ -1,0 +1,28 @@
+{
+  "person_id": "jesse-gause-1785",
+  "display_name": "Jesse Gause",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jesse_Gause",
+  "pedigree": {
+    "grandparents": [
+      { "name": "William Gause", "birth_year": null, "birth_place": "Chester County, Pennsylvania, USA", "death_year": null },
+      { "name": "Mary Beverly Gause", "birth_year": null, "birth_place": null, "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Martha Johnson Gause",
+      "marriage_year": 1815,
+      "grandparents": []
+    },
+    {
+      "name": "Minerva Eliza Byram Gause",
+      "marriage_year": 1830,
+      "grandparents": []
+    }
+  ],
+  "siblings": [],
+  "notes": "Born 1785, East Marlborough, Chester County, PA. Quaker convert. Father William Gause; mother Mary Beverly. First wife Martha Johnson (died 1828); second wife Minerva Eliza Byram (married 1830; refused Mormonism). Served briefly as JS Jr's counselor 1832, excommunicated 1832. Died c. 1836. Pennsylvania Quaker background - very disjoint from main cluster. Note: first wife Martha Johnson's connection to the Johnson family (apostle Luke Johnson) is unconfirmed and highly speculative."
+}

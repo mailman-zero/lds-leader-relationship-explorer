@@ -1,0 +1,25 @@
+{
+  "person_id": "james-e-talmage-1862",
+  "display_name": "James E. Talmage",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/James_E._Talmage",
+  "pedigree": {
+    "grandparents": [
+      { "name": "James Joyce Talmage", "birth_year": null, "birth_place": "Hungerford, Berkshire, England", "death_year": null },
+      { "name": "Susannah Preater Talmage", "birth_year": null, "birth_place": "England", "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Merry May Booth Talmage",
+      "marriage_year": 1888,
+      "grandparents": []
+    }
+  ],
+  "siblings": [
+    { "name": "Sterling B. Talmage", "spouse": "Nelle Mabel Allen" }
+  ],
+  "notes": "Born Hungerford, Berkshire England. Wife Merry May Booth is native of Alpine, Utah; daughter of Lancashire immigrants. 8 children: John Russell Talmage (1911-2001) and Sterling B. Talmage (1889-1956) named. Sterling married Nelle Mabel Allen - Allen is a connector surname worth checking. Sterling was a geologist/curator. Karl, Lucile, Helen are other children - spouses unknown. Wikipedia gives very limited pedigree for English-born leader. John Russell married Mary Merrell Jones (no link) and Virginia Graves Noehren (no link)."
+}

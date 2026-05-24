@@ -1,0 +1,29 @@
+{
+  "person_id": "david-w-patten-1799",
+  "display_name": "David W. Patten",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_W._Patten",
+  "pedigree": {
+    "grandparents": [
+      { "name": "Benoni Patten", "birth_year": null, "birth_place": "Vermont, USA", "death_year": null },
+      { "name": "Edith Cole Patten", "birth_year": null, "birth_place": null, "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Phoebe Ann Babcock Patten",
+      "marriage_year": 1828,
+      "grandparents": []
+    }
+  ],
+  "siblings": [
+    { "name": "John Patten", "spouse": null },
+    { "name": "Archibald Patten", "spouse": null },
+    { "name": "Ira Patten", "spouse": null },
+    { "name": "Polly Patten", "spouse": null },
+    { "name": "Betsy Patten", "spouse": null }
+  ],
+  "notes": "Born November 14, 1799 in Vermont; moved to Theresa NY, then Dundee MI. Father Benoni Patten; mother Edith Cole. 11th of 13 children. Married Phoebe Ann Babcock 1828. Couple had one stillborn; no children survived. Killed at Battle of Crooked River 1838. No connections to apostle families found. Babcock is a VT/NY pioneer surname worth checking against graph."
+}

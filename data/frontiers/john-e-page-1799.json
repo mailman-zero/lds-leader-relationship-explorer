@@ -1,0 +1,28 @@
+{
+  "person_id": "john-e-page-1799",
+  "display_name": "John E. Page",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_E._Page",
+  "pedigree": {
+    "grandparents": [
+      { "name": "Ebenezer Page", "birth_year": null, "birth_place": "New York, USA", "death_year": null },
+      { "name": "Rachel Page", "birth_year": null, "birth_place": null, "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Lorain Stevens Page",
+      "marriage_year": 1833,
+      "grandparents": []
+    },
+    {
+      "name": "Mary Judd Page",
+      "marriage_year": 1839,
+      "grandparents": []
+    }
+  ],
+  "siblings": [],
+  "notes": "Born February 25, 1799, Trenton, New York. Father Ebenezer Page; mother Rachel Page. First wife Lorain Stevens (died with 2 children). Second wife Mary Judd (3 sons). Excommunicated 1846. NY/PA roots. No connections to apostle families found."
+}

@@ -1,0 +1,23 @@
+{
+  "person_id": "sidney-rigdon-1793",
+  "display_name": "Sidney Rigdon",
+  "generated_at": "2026-05-24",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sidney_Rigdon",
+  "pedigree": {
+    "grandparents": [
+      { "name": "William Rigdon", "birth_year": null, "birth_place": "Harford County, Maryland, USA", "death_year": 1810 },
+      { "name": "Nancy Rigdon", "birth_year": null, "birth_place": null, "death_year": null }
+    ],
+    "great_grandparents": [],
+    "great_great_grandparents": []
+  },
+  "spouses": [
+    {
+      "name": "Phebe Brooks Rigdon",
+      "marriage_year": 1820,
+      "grandparents": []
+    }
+  ],
+  "siblings": [],
+  "notes": "Born February 19, 1793, St. Clair Township, Allegheny County, PA. Father William Rigdon (from Harford County, MD); youngest of 4 children. Phebe Brooks married June 1820; her sister was wife of Adamson Bentley. 11 children including Nancy Rigdon and John M. Rigdon. Excommunicated, led own church. Died July 14, 1876, Friendship, NY. PA/OH background. No apostle family connections found."
+}

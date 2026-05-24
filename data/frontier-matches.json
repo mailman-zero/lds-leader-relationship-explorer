@@ -1,0 +1,156 @@
+[
+  {
+    "person_id": "dale-g-renlund-1952",
+    "display_name": "Dale G. Renlund",
+    "candidate_count": 1,
+    "top_candidates": [
+      {
+        "frontier_name": "Ruth Lybbert Renlund",
+        "frontier_year": 1952,
+        "frontier_place": null,
+        "match_person_id": "ruth-lybbert-renlund-1940",
+        "match_display_name": "Ruth Lybbert Renlund",
+        "match_birth": "1940-01-01",
+        "match_place": "Unknown",
+        "score": 5,
+        "reasons": [
+          "surname=renlund",
+          "given+2(2)"
+        ],
+        "jsj_spouse": false
+      }
+    ]
+  },
+  {
+    "person_id": "anthon-h-lund-1844",
+    "display_name": "Anthon H. Lund",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "clark-g-gilbert-1970",
+    "display_name": "Clark G. Gilbert",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "david-a-bednar-1952",
+    "display_name": "David A. Bednar",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "david-w-patten-1799",
+    "display_name": "David W. Patten",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "dieter-f-uchtdorf-1940",
+    "display_name": "Dieter F. Uchtdorf",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "gary-e-stevenson-1955",
+    "display_name": "Gary E. Stevenson",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "gerald-causse-1963",
+    "display_name": "Gérald Caussé",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "gerrit-w-gong-1953",
+    "display_name": "Gerrit W. Gong",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "henry-d-moyle-1889",
+    "display_name": "Henry D. Moyle",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "james-e-talmage-1862",
+    "display_name": "James E. Talmage",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "jesse-gause-1785",
+    "display_name": "Jesse Gause",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "john-c-bennett-1804",
+    "display_name": "John C. Bennett",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "john-e-page-1799",
+    "display_name": "John E. Page",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "john-f-boynton-1811",
+    "display_name": "John F. Boynton",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "lyman-wight-1796",
+    "display_name": "Lyman Wight",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "patrick-kearon-1961",
+    "display_name": "Patrick Kearon",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "robert-d-hales-1932",
+    "display_name": "Robert D. Hales",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "sidney-rigdon-1793",
+    "display_name": "Sidney Rigdon",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "thomas-b-marsh-1800",
+    "display_name": "Thomas B. Marsh",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "ulisses-soares-1958",
+    "display_name": "Ulisses Soares",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "william-e-mclellin-1806",
+    "display_name": "William E. McLellin",
+    "candidate_count": 0,
+    "top_candidates": []
+  },
+  {
+    "person_id": "william-law-1809",
+    "display_name": "William Law",
+    "candidate_count": 0,
+    "top_candidates": []
+  }
+]
