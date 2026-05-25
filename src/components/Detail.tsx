@@ -363,7 +363,7 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch, onNavigat
 
         {currentRelated.length > 0 && (
           <div className="relation-section">
-            <h3>Current leaders</h3>
+            <h3>Current Leaders</h3>
             <div className="rs-asof">as of {formatDate(snapshot.date)}</div>
             <div className="rs-sub">
               {currentRelated.length} {currentRelated.length === 1 ? "connection" : "connections"} · hover to see the path
@@ -388,7 +388,7 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch, onNavigat
 
         {historicalRelated.length > 0 && (
           <div className="relation-section">
-            <h3>Historical leaders</h3>
+            <h3>Historical Leaders</h3>
             <div className="rs-sub">
               {historicalRelated.length} {historicalRelated.length === 1 ? "connection" : "connections"} · hover to see the path
             </div>
