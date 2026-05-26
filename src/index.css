@@ -1030,55 +1030,27 @@ button.pill:hover {
 .viz-node { cursor: pointer; }
 .viz-hit { fill: transparent; }
 
-.viz-node-inner {
-  transition: transform 180ms ease;
-  transform-box: fill-box;
-  transform-origin: center center;
-  will-change: transform;
-}
-.viz-node--hovered .viz-node-inner {
-  transform: scale(3);
-}
-
 .viz-portrait-frame {
   fill: var(--card);
   stroke: var(--line-soft);
   stroke-width: 0.2;
+  transition: stroke 180ms ease, stroke-width 180ms ease;
 }
 .viz-portrait-initial-bg {
   fill: var(--card-deep);
   stroke: var(--line);
   stroke-width: 0.2;
+  transition: stroke 180ms ease, stroke-width 180ms ease;
 }
 .viz-portrait-initial-text {
   fill: var(--ink-soft);
   font-family: var(--serif);
   font-weight: 500;
 }
-
-.viz-label {
-  opacity: 0;
-  transition: opacity 180ms ease;
-  pointer-events: none;
-}
-.viz-node--hovered .viz-label { opacity: 1; }
-
-.viz-label-bg {
-  fill: var(--card);
-  stroke: var(--line-soft);
-  stroke-width: 0.15;
-}
-.viz-label-name {
-  font-family: var(--serif);
-  font-weight: 500;
-  fill: var(--ink);
-  font-size: 3.4px;
-}
-.viz-label-office {
-  font-family: var(--mono);
-  letter-spacing: 0.18em;
-  fill: var(--accent);
-  font-size: 2px;
+.viz-node--hovered .viz-portrait-frame,
+.viz-node--hovered .viz-portrait-initial-bg {
+  stroke: var(--accent);
+  stroke-width: 0.7;
 }
 
 @media (max-width: 640px) {
@@ -1160,6 +1132,82 @@ button.pill:hover {
   width: 100%;
   accent-color: var(--accent);
   cursor: pointer;
+}
+
+/* ===== Hover detail card (upper-left, mirror of the slider) ===== */
+.viz-detail-card {
+  position: fixed;
+  top: 66px;
+  left: 24px;
+  z-index: 40;
+  width: 200px;
+  padding: 14px 14px 16px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+}
+.viz-detail-card .portrait {
+  width: 140px;
+  box-shadow: var(--shadow-md);
+}
+.viz-detail-card .portrait .glyph { font-size: 40px; }
+.viz-detail-name {
+  font-family: var(--serif);
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--ink);
+  line-height: 1.15;
+  text-wrap: balance;
+  margin-top: 2px;
+}
+.viz-detail-disambiguator {
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-top: -4px;
+}
+.viz-detail-office {
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-top: 2px;
+  text-wrap: balance;
+  line-height: 1.4;
+}
+.viz-detail-placeholder {
+  width: 140px;
+  aspect-ratio: 3 / 4;
+  border: 1px dashed var(--line);
+  border-radius: 4px;
+  background: var(--card-deep);
+}
+.viz-detail-hint {
+  font-family: var(--mono);
+  font-size: 9.5px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-top: 4px;
+  text-wrap: balance;
+  line-height: 1.4;
+}
+
+/* Mobile: the hover detail card has nothing to show on touch devices
+   (no hover) — hide it and give the full viewport to the circle and the
+   relatedness slider. Tapping a portrait still navigates to its detail
+   page, which is the more useful affordance on touch. */
+@media (max-width: 640px) {
+  .viz-detail-card { display: none; }
 }
 
 /* ===== Credits link in topbar / floating ===== */
