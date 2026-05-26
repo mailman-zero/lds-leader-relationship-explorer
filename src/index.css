@@ -571,7 +571,7 @@ body {
 }
 .hero-portrait .portrait .glyph { font-size: 60px; }
 @media (max-width: 640px) {
-  .hero-portrait { display: flex; justify-content: center; }
+  .hero-portrait { display: flex; flex-direction: column; align-items: center; }
   .hero-portrait .portrait { width: 150px; }
 }
 
