@@ -29,6 +29,16 @@ function grandchildLabel(g: "M" | "F" | "X") {
   return g === "M" ? "grandson" : g === "F" ? "granddaughter" : "grandchild";
 }
 
+function ordinal(n: number): string {
+  const mod100 = n % 100;
+  if (mod100 >= 11 && mod100 <= 13) return `${n}th`;
+  const mod10 = n % 10;
+  if (mod10 === 1) return `${n}st`;
+  if (mod10 === 2) return `${n}nd`;
+  if (mod10 === 3) return `${n}rd`;
+  return `${n}th`;
+}
+
 export function deriveLabel(hops: Hop[], graph: Graph): string {
   if (hops.length === 0) return "same person";
 
@@ -73,13 +83,13 @@ export function deriveLabel(hops: Hop[], graph: Graph): string {
     if (d0 === "parent" && d1 === "spouse" && d2 === "sibling") return `${nieceNephewLabel(fromGender)} by marriage of`;
     if (d0 === "child" && d1 === "sibling" && d2 === "spouse") return `${auntUncleLabel(toGender)} by marriage of`;
     if (d0 === "child" && d1 === "child" && d2 === "spouse") return `${grandchildLabel(fromGender)}-in-law of`;
-    if (d0 === "parent" && d1 === "child" && d2 === "parent") return "first cousin of";
+    if (d0 === "parent" && d1 === "child" && d2 === "parent") return "1st cousin of";
   }
 
   if (hops.length === 4) {
     const [d0, d1, d2, d3] = dirs;
     if (d0 === "parent" && d1 === "parent" && d2 === "child" && d3 === "child") {
-      return "first cousin of";
+      return "1st cousin of";
     }
     if (d0 === "parent" && d1 === "parent" && d2 === "parent" && d3 === "child") {
       return `great-${auntUncleLabel(toGender)} of`;
@@ -104,7 +114,7 @@ export function deriveLabel(hops: Hop[], graph: Graph): string {
       return `${prefix}${grandparentLabel(toGender)} of`;
     }
     if (upCount === downCount && upCount >= 2) {
-      return `${upCount - 1}th cousin of`;
+      return `${ordinal(upCount - 1)} cousin of`;
     }
   }
 
