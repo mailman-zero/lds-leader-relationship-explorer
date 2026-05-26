@@ -27,8 +27,22 @@ function isQ12Code(code: string): boolean {
   return code === "q12-member" || code === "q12-president";
 }
 
+const NAME_SUFFIXES = new Set(["Jr.", "Jr", "Sr.", "Sr", "II", "III", "IV"]);
+
 function lastName(fullName: string): string {
-  return fullName.split(" ").pop() ?? fullName;
+  // Tokenize, then strip trailing generational suffixes (Jr./Sr./II/III/IV)
+  // and any defensive parenthetical disambiguators before taking the last
+  // remaining token.
+  const cleaned = fullName.replace(/,\s*(Jr\.?|Sr\.?|II|III|IV)\b/g, " $1");
+  const tokens = cleaned.split(/\s+/).filter(Boolean);
+  while (
+    tokens.length > 1 &&
+    (NAME_SUFFIXES.has(tokens[tokens.length - 1]) ||
+      tokens[tokens.length - 1].startsWith("("))
+  ) {
+    tokens.pop();
+  }
+  return tokens.pop() ?? fullName;
 }
 
 function honorificFor(code: string): "President" | "Elder" | null {
@@ -188,6 +202,10 @@ export function describeEvent(
       }
     } else if (!isQ12Code(code)) {
       lines.push(`${titledName(graph, pid, code)} released as ${posLabel(code)}.`);
+    } else if (ending?.end_reason === "excommunicated") {
+      lines.push(`${titledName(graph, pid, code)} excommunicated.`);
+    } else {
+      lines.push(`${titledName(graph, pid, code)} released from the Quorum of the Twelve.`);
     }
   }
 
@@ -221,8 +239,10 @@ export function describeEvent(
     const ending = endingPosition(graph, pid, code, date, prevDate);
     if (ending?.end_reason === "death") {
       title = `${titledLastName(graph, pid, code)} passed away`;
+    } else if (ending?.end_reason === "excommunicated") {
+      title = `${titledLastName(graph, pid, code)} excommunicated`;
     } else if (isQ12Code(code)) {
-      title = `Change — ${date}`;
+      title = `${titledLastName(graph, pid, code)} released from the Twelve`;
     } else {
       title = `${titledLastName(graph, pid, code)} released`;
     }
@@ -232,6 +252,8 @@ export function describeEvent(
     const [aPid, aCode] = added[0].split(":");
     if (aCode === "church-president") title = `President ${lastName(name(graph, aPid))} sustained`;
     else if (aCode.startsWith("fp-")) title = `President ${lastName(name(graph, aPid))} called to First Presidency`;
+    else if (aCode === "q12-president") title = `President ${lastName(name(graph, aPid))} sustained as President of the Twelve`;
+    else if (aCode === "q12-member") title = `Elder ${lastName(name(graph, aPid))} called`;
     else title = `Change — ${date}`;
   } else {
     title = `${added.length + removed.length} changes`;

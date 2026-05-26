@@ -10,6 +10,7 @@ interface TooltipData {
 
 interface CardProps {
   name?: string;
+  disambiguator?: string;
   photo?: PhotoCredit | null;
   role?: string;
   vacancy?: boolean;
@@ -20,7 +21,7 @@ interface CardProps {
 
 type Placement = "right" | "left" | "above" | "below";
 
-export function Card({ name, photo, role, vacancy, onClick, tooltip, className = "" }: CardProps) {
+export function Card({ name, disambiguator, photo, role, vacancy, onClick, tooltip, className = "" }: CardProps) {
   const hostRef = useRef<HTMLButtonElement>(null);
   const tooltipRef = useRef<HTMLDivElement>(null);
   const [visible, setVisible] = useState(false);
@@ -100,6 +101,7 @@ export function Card({ name, photo, role, vacancy, onClick, tooltip, className =
         <Portrait name={name} photo={photo} />
         {role && <div className="role">{role}</div>}
         <div className="name">{name}</div>
+        {disambiguator && <div className="card-disambiguator">{disambiguator}</div>}
       </button>
       {tooltip && visible && createPortal(
         <div

@@ -54,6 +54,7 @@ export interface PhotoCredit {
 export interface Person {
   id: string;
   display_name: string;
+  disambiguator?: string;
   full_name: string;
   birth_date: string;
   birth_place?: string;

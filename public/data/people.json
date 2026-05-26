@@ -155,7 +155,8 @@
   },
   {
     "id": "john-smith-1781",
-    "display_name": "John Smith (uncle)",
+    "display_name": "John Smith",
+    "disambiguator": "uncle of Joseph Smith",
     "full_name": "John Smith",
     "birth_date": "1781-07-16",
     "birth_place": "Derryfield, New Hampshire, USA",
@@ -479,7 +480,8 @@
   },
   {
     "id": "john-young-1739",
-    "display_name": "John Young (grandfather of Brigham)",
+    "display_name": "John Young",
+    "disambiguator": "grandfather of Brigham Young",
     "full_name": "John Young",
     "birth_date": "1739-01-01",
     "birth_place": "Massachusetts, USA",
@@ -2486,8 +2488,8 @@
   },
   {
     "id": "stephen-l-richards-1879",
-    "display_name": "Stephen L Richards",
-    "full_name": "Stephen L Richards",
+    "display_name": "Stephen L. Richards",
+    "full_name": "Stephen L. Richards",
     "birth_date": "1879-06-18",
     "birth_place": "Unknown",
     "death_date": "1959-05-19",
@@ -4120,8 +4122,9 @@
   },
   {
     "id": "martha-lydia-roper-lyman-1853",
-    "display_name": "Martha Lydia Roper (Lyman)",
-    "full_name": "Martha Lydia Roper (Lyman)",
+    "display_name": "Martha Lydia Lyman",
+    "disambiguator": "née Roper",
+    "full_name": "Martha Lydia Roper Lyman",
     "birth_date": "1853-04-01",
     "birth_place": "Unknown",
     "death_date": "1922-04-29",

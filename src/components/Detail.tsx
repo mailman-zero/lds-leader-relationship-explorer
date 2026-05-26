@@ -187,6 +187,9 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch, onNavigat
           <div className="hero-info">
             {mainGroup && <div className="hero-eyebrow">{mainGroup}</div>}
             <h1 className="hero-name">{person?.display_name}</h1>
+            {person?.disambiguator && (
+              <div className="hero-disambiguator">{person.disambiguator}</div>
+            )}
             {mainRole && personEvents.length > 0 && (
               <button
                 type="button"
@@ -375,6 +378,7 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch, onNavigat
                   <Card
                     key={r.personId}
                     name={rel?.display_name}
+                    disambiguator={rel?.disambiguator}
                     photo={rel?.photo}
                     role={r.label}
                     tooltip={{ label: r.label, text: r.pathText }}
@@ -399,6 +403,7 @@ export function Detail({ personId, graph, snapshot, onClose, onSwitch, onNavigat
                   <Card
                     key={r.personId}
                     name={rel?.display_name}
+                    disambiguator={rel?.disambiguator}
                     photo={rel?.photo}
                     role={r.label}
                     tooltip={{ label: r.label, text: r.pathText }}
