@@ -30,6 +30,7 @@ const PhotoCreditSchema = z.object({
 const PersonSchema = z.object({
   id: z.string(),
   display_name: z.string(),
+  disambiguator: z.string().optional(),
   full_name: z.string(),
   birth_date: z.string(),
   birth_place: z.string().nullable().optional(),

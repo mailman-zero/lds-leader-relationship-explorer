@@ -362,6 +362,16 @@ body {
   font-weight: 500;
   max-width: 104px;
 }
+.card .card-disambiguator {
+  font-family: var(--mono);
+  font-size: 8.5px;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  margin-top: 2px;
+  max-width: 104px;
+  text-wrap: balance;
+  font-style: italic;
+}
 
 .portrait {
   width: 74px;
@@ -593,6 +603,14 @@ body {
   margin: 0 0 10px;
   color: var(--ink);
   line-height: 1.05;
+}
+.hero-disambiguator {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: -4px 0 12px;
 }
 .pill {
   display: inline-flex;
