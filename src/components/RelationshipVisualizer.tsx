@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import type { Graph, Person, PhotoCredit } from "../graph/types";
+import { Portrait } from "./Portrait";
 import {
   collectLeaders,
   computeAngles,
@@ -54,7 +55,6 @@ interface NodeProps {
 function VizNode({ leader, person, point, hovered, onHover, onSelect }: NodeProps) {
   const photoSrc = resolvePhoto(person.photo);
   const initials = initialsOf(person.display_name);
-  const officeUpper = leader.highestOffice.toUpperCase();
 
   return (
     <g
@@ -115,35 +115,6 @@ function VizNode({ leader, person, point, hovered, onHover, onSelect }: NodeProp
             </text>
           </>
         )}
-
-        <g className="viz-label" transform={`translate(0 ${PORTRAIT_H / 2 + 3})`}>
-          <rect
-            className="viz-label-bg"
-            x={-32}
-            y={0}
-            width={64}
-            height={11}
-            rx={1.2}
-          />
-          <text
-            className="viz-label-name"
-            x={0}
-            y={4.5}
-            textAnchor="middle"
-            dominantBaseline="central"
-          >
-            {person.display_name}
-          </text>
-          <text
-            className="viz-label-office"
-            x={0}
-            y={8.7}
-            textAnchor="middle"
-            dominantBaseline="central"
-          >
-            {officeUpper}
-          </text>
-        </g>
       </g>
     </g>
   );
@@ -227,16 +198,8 @@ export function RelationshipVisualizer({ graph, onSelect }: RelationshipVisualiz
     });
   }, [edges, points, hoveredId]);
 
-  // SVG paint order is document order. Move the hovered node to the end so it renders on top.
-  const orderedLeaders = useMemo(() => {
-    if (!hoveredId) return leaders;
-    const idx = leaders.findIndex((l) => l.personId === hoveredId);
-    if (idx < 0) return leaders;
-    const copy = leaders.slice();
-    const [removed] = copy.splice(idx, 1);
-    copy.push(removed);
-    return copy;
-  }, [leaders, hoveredId]);
+  const hoveredLeader = hoveredId ? leaders.find((l) => l.personId === hoveredId) ?? null : null;
+  const hoveredPerson = hoveredId ? graph.people.get(hoveredId) ?? null : null;
 
   return (
     <>
@@ -255,6 +218,24 @@ export function RelationshipVisualizer({ graph, onSelect }: RelationshipVisualiz
         onChange={(e) => setMaxHops(Number(e.target.value))}
         className="viz-slider"
       />
+    </div>
+
+    <div className={"viz-detail-card" + (hoveredPerson ? "" : " is-empty")} aria-live="polite">
+      {hoveredPerson && hoveredLeader ? (
+        <>
+          <Portrait name={hoveredPerson.display_name} photo={hoveredPerson.photo} />
+          <div className="viz-detail-name">{hoveredPerson.display_name}</div>
+          {hoveredPerson.disambiguator && (
+            <div className="viz-detail-disambiguator">{hoveredPerson.disambiguator}</div>
+          )}
+          <div className="viz-detail-office">{hoveredLeader.highestOffice}</div>
+        </>
+      ) : (
+        <>
+          <div className="viz-detail-placeholder" aria-hidden="true" />
+          <div className="viz-detail-hint">Hover a portrait to see details</div>
+        </>
+      )}
     </div>
 
     <div className="visualizer-page">
@@ -289,7 +270,7 @@ export function RelationshipVisualizer({ graph, onSelect }: RelationshipVisualiz
           <g className="viz-lines viz-lines--hover">{hoverPaths}</g>
 
           <g className="viz-portraits">
-            {orderedLeaders.map((leader) => {
+            {leaders.map((leader) => {
               const p = points.get(leader.personId);
               if (!p) return null;
               const person = graph.people.get(leader.personId);
